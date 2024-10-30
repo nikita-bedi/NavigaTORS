@@ -4,12 +4,15 @@ from llama_index.core.retrievers import VectorIndexRetriever
 from llama_index.core.query_engine import RetrieverQueryEngine
 from main import setup_service_context, setup_document_index  # Import your functions
 
+"TOGETHER_API_KEY"=st.secret["TOGETHER_API_KEY"]
+"OPENAI_API_KEY"=st.secret["OPENAI_API_KEY"]
 # Initialize index and service context if not already in session_state
 if "index" not in st.session_state or "service_context" not in st.session_state:
     try:
         index, service_context = setup_document_index()
         st.session_state.index = index
         st.session_state.service_context = service_context
+        
     except Exception as e:
         st.error(f"Failed to initialize the document index or service context: {e}")
         st.stop()
