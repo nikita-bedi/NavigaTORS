@@ -1,0 +1,1035 @@
+NCCN: Continuing Education
+Target Audience : This activity is designed to meet the educational
+needs of oncologists, nurses, pharmacists, and other healthcareprofessionals who manage patients with cancer.
+Accreditation Statements
+In support of improving patient care, National Comprehensive Cancer
+Network (NCCN) is jointly accredited by the Accreditation Council for
+Continuing Medical Education (ACCME), the Accreditation Council forPharmacy Education (ACPE), and the American Nurses Credentialing
+Center (ANCC), to provide continuing education for the healthcare team.
+Physicians: NCCN designates this journal-based CME activity for a
+maximum of 1.0 AMA PRA Category 1 Credit
+TM. Physicians should
+claim only the credit commensurate with the extent of their par-ticipation in the activity.
+Nurses: NCCN designates this educational activity for a maximum
+of 1.0 contact hour.
+Pharmacists: NCCN designates this knowledge-based continuing
+education activity for 1.0 contact hour (0.1 CEUs) of con-tinuing education credit. UAN: JA4008196-0000-22-003-H01-P
+Physician Assistants: NCCN has been authorized by the American
+Academy of PAs (AAPA) to award AAPA Category 1 CME credit for
+activities planned in accordance with AAPA CME Criteria. This activity
+is designated for 1.0 AAPA Category 1 CME credit. Approval is validuntil March 10, 2023. PAs should only claim credit commensu-
+rate with the extent of their participation.
+All clinicians completing this activity will be issued a certificate of
+participation. To participate in this journal CE activity: (1) review the
+educational content; (2) take the posttest with a 66% minimumpassing score and complete the evaluation at https://education.
+nccn.org/node/91074 ;a n d( 3 )v i e w / p r i n tc e r t i f i c a t e .
+Pharmacists: You must complete the posttest and evaluation within
+30 days of the activity. Continuing pharmacy education credit isreported to the CPE Monitor once you have completed the posttestand evaluation and claimed your credits. Before completing these
+requirements, be sure your NCCN profile has been updated with
+your NAPB e-profile ID and date of birth. Your credit cannot bereported without this information. If you have any questions, please
+e-mail education@nccn.org.
+Release date: March 10, 2022; Expiration date: March 10, 2023
+Learning Objectives:
+Upon completion of this activity, participants will be able to:
+/C15Integrate into professional practice the updates to the
+NCCN Guidelines for Head and Neck Cancers
+/C15Describe the rationale behind the decision-making process for
+developing the NCCN Guidelines for Head and Neck Cancers
+Disclosure of Relevant Financial Relationships
+None of the planners for this educational activity have relevant financial relationship(s) to disclose with ineligible companies whose primary bus iness is
+producing, marketing, selling, reselling, or distributing healthcare products used by or on patients.
+Individuals Who Provided Content Development and/or Authorship Assistance:
+The faculty listed below have no relevant financial relationship(s) with ineligible companies to disclose.Sharon Spencer, MD, Panel Vice Chair
+Ellie Maghami, MD, Panel Member
+Jennifer L. Burns, BS, Manager, Guidelines Support, NCCN
+Susan D. Darlow, PhD, Oncology Scientist/Senior Medical Writer, NCCN
+The faculty listed below have the following relevant financial relationship(s) with ineligible companies to disclose. All of the relevant financia l relationships
+listed for these individuals have been mitigated.
+David Pfister, MD, Panel Chair, grant/research support from Bristol-Myers Squibb Company, Genentech, Inc., Cue Biopharma, Hookipa Pharma Inc., Kura Oncology, Inc.,
+Merck & Co., Inc., and Novartis Pharmaceuticals Corporation; and data safety monitoring committee member for Boehringer-Ingelheim, GmbH.Douglas Adkins, MD, Panel Member, grant/research support from AstraZeneca Pharmaceuticals LP, BeiGene, Blueprint Medicines, Boehringer Ingelheim GmbH, Bristol-
+Myers Squibb Company, Eisai Inc., Eli Lilly and Company, Exelixis Inc., Gilead Sciences, Inc., Hookipa Pharma Inc., Kura Oncology, Inc., Merck & Co., Inc., Adlai-Nortye, CUE
+Biosciences, Debio, Epizme, Isa Therapeutics, Oncolys, Rubius, Vaccinex, Pfizer Inc., and Roche Laboratories, Inc.; and consulting fees from Blue print Medicines, Boehringer
+Ingelheim GmbH, Eisai Inc., Exelixis Inc., Kura Oncology, Inc., Merck & Co., Inc., Coherus Biosciences, CUE Biosciences, Immunitas, Targimmune, Va ccinex, and Xilio.
+David M. Brizel, MD, Panel Member, royalty income from UpToDate.
+Jimmy J. Caudell, MD, PhD, Panel Member, grant/research support from Varian Medical Systems, Inc.; and scientific advisor for Galera.
+A. Dimitrios Colevas, MD, Panel Member, grant/research support from AbbVie, Inc., Atara Biotherapeutics, BioNTech, Cue, Cullinan Oncology, Exelixis, Inc., Gilead
+Sciences, Inc., Innate Pharma, Replimune Group, and Tessa Therapeutics; consulting fees from Grand Rounds and PDS Biotech; and scientific advisor f or Gilead Sciences, Inc.
+Maura L. Gillison, MD, PhD, Panel Member, grant/research support from Bristol-Myers Squibb Company, Gilead Sciences, Inc., and Kura Oncology, Inc.; and consulting
+fees from Bayer HealthCare, Bristol-Myers Squibb Company, Eisai Inc., EMD Serono, Ipsen, Merck & Co., Inc., Nektar Therapeutics, and Roche Laborato ries, Inc.
+Cristina P. Rodriguez, MD, Panel Member, grant/research support from AstraZeneca Pharmaceuticals LP, Bristol-Myers Squibb Company, Kura Oncology,
+Inc., Merck & Co., Inc., Ayala, and Cue; and scientific advisor for Coherus and Cue.David Sher, MD, MPH, Panel Member, grant/research support from Varian Medical Systems, Inc.
+Gregory Weinstein, MD, Panel Member, royalty income from Olympus Corporation.
+Francis Worden, MD, Panel Member, honoraria from Bayer HealthCare; and scientific advisor for Eisai Inc., Exelixis Inc., Merck & Co., Inc.
+To view all of the conflicts of interest for the NCCN Guidelines panel, go to NCCN.org/disclosures/guidelinepanellisting.aspx.
+This activity is supported by educational grants from AstraZeneca; BeiGene; Exact Sciences; Gilead Sciences, Inc.; GlaxoSmithKline; Lantheus Med ical Imaging Inc.;
+Novartis; Pharmacyclics LLC, an AbbVie Company and Janssen Biotech, Inc., administered by Janssen Scientific Affairs, LLC; and Taiho Oncology, Inc . This activity is
+supported by an independent educational grant from Astellas. This activity is supported by an education grant from Astellas and Seagen Inc. This acti vity is supported
+by a medical education grant from Karyopharm
+®Therapeutics. This activity is supported through an Independent Medical Education grant from Merck & Co., Inc.CE NCCN GUIDELINES®INSIGHTS Head and Neck Cancers, Version 1.2022
+224 © JNCCN —Journal of the National Comprehensive Cancer Network |Volume 20 Issue 3 |March 2022 Head and Neck Cancers, Version 1.2022
+Featured Updates to the NCCN Guidelines
+Jimmy J. Caudell, MD, PhD1,*; Maura L. Gillison, MD, PhD2,*; Ellie Maghami, MD3,*; Sharon Spencer, MD4,*;
+David G. Pfister, MD5,*; Douglas Adkins, MD6,*; Andrew C. Birkeland, MD7; David M. Brizel, MD8,*;
+Paul M. Busse, MD, PhD9; Anthony J. Cmelak, MD10; A. Dimitrios Colevas, MD11,*; David W. Eisele, MD12;
+Thomas Galloway, MD13; Jessica L. Geiger, MD14; Robert I. Haddad, MD15; Wesley L. Hicks Jr, MD16;
+Ying J. Hitchcock, MD17; Antonio Jimeno, MD, PhD18; Debra Leizman, MD14; Loren K. Mell, MD19; Bharat B. Mittal, MD20;
+Harlan A. Pinto, MD11; James W. Rocco, MD, PhD21; Cristina P. Rodriguez, MD22,*; Panayiotis S. Savvides, MD, PhD23;
+David Schwartz, MD24; Jatin P. Shah, MD, PhD5; David Sher, MD, MPH25,*; Maie St. John, MD, PhD26;
+Randal S. Weber, MD2; Gregory Weinstein, MD27,*; Frank Worden, MD28,*; Justine Yang Bruce, MD29;
+Sue S. Yom, MD, PhD30; Weining Zhen, MD31; Jennifer L. Burns, BS32,*; and Susan D. Darlow, PhD32,*
+ABSTRACT
+The NCCN Guidelines for Head and Neck Cancers address tumors
+arising in the oral cavity (including mucosal lip), pharynx, larynx, andparanasal sinuses. Occult primary cancer, salivary gland cancer, andmucosal melanoma (MM) are also addressed. The speci ﬁcs i t eo fd i s -
+ease, stage, and pathologic ﬁndings guide treatment (eg, the appro-
+priate surgical procedure, radiation targets, dose and fractionation ofradiation, indications for systemic therapy). The NCCN Head andNeck Cancers Panel meets at least annually to review comments
+from reviewers within their institutions, examine relevant new data
+from publications and abstracts, and reevaluate and update their rec-ommendations. These NCCN Guidelines Insights summarize the pan-
+el’s most recent recommendations regarding management of HPV-
+positive oropharynx cancer and ongoing research in this area.
+J Natl Compr Canc Netw 2022;20(3):224 –234
+doi: 10.6004/jnccn.2022.0016NCCN CATEGORIES OF EVIDENCE AND CONSENSUS
+Category 1 : Based upon high-level evidence, there is uniform
+NCCN consensus that the intervention is appropriate.
+Category 2A : Based upon lower-level evidence, there is uniform
+NCCN consensus that the intervention is appropriate.
+Category 2B : Based upon lower-level evidence, there is NCCN
+consensus that the intervention is appropriate.
+Category 3 : Based upon any level of evidence, there is major
+NCCN disagreement that the intervention is appropriate.
+All recommendations are category 2A unless otherwise
+noted.
+Clinical trials: NCCN believes that the best management of
+any patient with cancer is in a clinical trial. Participation inclinical trials is especially encouraged.
+PLEASE NOTE
+The NCCN Clinical Practice Guidelines in Oncology
+(NCCN Guidelines
+®) are a statement of evidence and consen-
+sus of the authors regarding their views of currently acceptedapproaches to treatment. The NCCN Guidelines Insights
+highlight important changes in the NCCN Guidelines
+recommendations from previous versions. Coloredmarkings in the algorithm show changes and thediscussion aims to further the understanding of thesechanges by summarizing salient portions of the panel ’s
+discussion, including the literature reviewed.
+The NCCN Guidelines Insights do not represent the full
+NCCN Guidelines; further, the National ComprehensiveCancer Network
+®(NCCN®) makes no representations
+or warranties of any kind regarding their content, use, or
+application of the NCCN Guidelines and NCCN GuidelinesInsights and disclaims any responsibility for their applicationo ru s ei na n yw a y .
+The complete and most recent version of these
+NCCN Guidelines is available free of charge at NCCN.org.
+© National Comprehensive Cancer Network, Inc. 2022.
+All rights reserved. The NCCN Guidelines and the illustra-tions herein may not be reproduced in any form without the
+express written permission of NCCN.1Mofﬁtt Cancer Center;2The University of Texas MD Anderson Cancer Center;
+3City of Hope National Medical Center;4O'Neal Comprehensive Cancer
+Center at UAB;5Memorial Sloan Kettering Cancer Center;6Siteman Cancer
+Center at Barnes-Jewish Hospital and Washington University School ofMedicine;
+7UC Davis Comprehensive Cancer Center;8Duke Cancer Institute;
+9Massachusetts General Hospital Cancer Center;10Vanderbilt-Ingram Cancer
+Center;11Stanford Cancer Institute;12The Sidney Kimmel Comprehensive
+Cancer Center at Johns Hopkins;13Fox Chase Cancer Center;14Case
+Comprehensive Cancer Center/University Hospitals Seidman Cancer Centerand Cleveland Clinic Taussig Cancer Institute;
+15Dana-Farber/Brigham and
+Women ’s Cancer Center;16Roswell Park Comprehensive Cancer Center;
+17Huntsman Cancer Institute at the University of Utah;18University of Colorado
+Cancer Center;19UC San Diego Moores Cancer Center;20Robert H. Lurie
+Comprehensive Cancer Center of Northwestern University;21The Ohio State
+University Comprehensive Cancer Center –James Cancer Hospital and Solove
+Research Institute;22Fred Hutchinson Cancer Research Center/Seattle Cancer
+Care Alliance;23Mayo Clinic Cancer Center;24St. Jude Children ’s Research
+Hospital/The University of Tennessee Health Science Center;25UT
+Southwestern Simmons Comprehensive Cancer Center;26UCLA Jonsson
+Comprehensive Cancer Center;27Abramson Cancer Center at the University
+of Pennsylvania;28University of Michigan Rogel Cancer Center;29University of
+Wisconsin Carbone Cancer Center;30UCSF Helen Diller Family
+Comprehensive Cancer Center;31Fred & Pamela Buffett Cancer Center; and
+32National Comprehensive Cancer Network.
+*Provided content development and/or authorship assistance.
+JNCCN.org |Volume 20 Issue 3 |March 2022 225CE NCCN GUIDELINES®INSIGHTS Overview
+The overall incidence of HPV-positive oropharynx can-
+cers is increasing in the United States, whereas the inci-dence of HPV-negative (primarily tobacco- and alcohol-related) cancer is decreasing.
+1The attributable fraction
+for HPV in newly diagnosed oropharyngeal cancer is esti-mated to be 60% to 70% in the United States and parts ofthe European Union.
+1–5Patients with HPV-positive can-
+cer have tended to be younger6,7;h o w e v e r ,H P V - p o s i t i v e
+oropharynx cancer rates are increasing among olderadults as the exposed cohorts age.
+8,9Oral HPV16 infec-
+tion increases the risk of oropharynx cancer,10–13and a
+strong causal relationship has been established.10,11
+HPV16 accounts for approximately 90% of cases, and
+HPV18, 33, and 35 are responsible for the vast majority of
+the small remaining fraction.6The prevalence of HPV16
+is higher in oropharyngeal cancer than in cervical cancer(/C2450%), in which HPV18 is also highly prevalent.
+2,14–16
+Expression of the HPV E6 and E7 oncogenes inactivates
+the tumor suppressor proteins p53 and pRb, respectively,which are frequently mutated in tobacco-related mucosalsquamous cell carcinomas. Inactivation of p53 and pRbpromotes genomic instability and the development ofcancer, and is responsible for the upregulation of p16protein expression, a reliable surrogate marker of the
+presence of HPV DNA in these tumors. Genetic pro ﬁling
+of HPV-positive cancer has demonstrated it to be geneti-cally distinct from HPV-negative squamous cell carci-
+noma of the head and neck (SCCHN).
+17
+Analyses from the National Health and Nutrition
+Examination Survey (2011 –2014), including 2,627 adults
+aged 18 to 33 years, showed that HPV vaccination wasassociated with reduced vaccine-type oral HPV infection
+(0.1% in vaccinated individuals vs 1.6% in unvaccinated
+individuals; P5.008).
+18Moreover, HPV vaccination in the
+United States has led to herd protection against oral
+HPV16, 18, 6, and 11 infections in unvaccinated men.19
+Results of an ongoing randomized clinical trial to investi-
+gate the ef ﬁcacy of HPV vaccines for the prevention of
+oral HPV infections have not yet been reported. Although
+data are not yet available, the HPV types that cause theoverwhelming majority of SCCHN are included in theHPV nonavalent vaccine (provides protection against 9
+high-risk HPV types). Since there is evidence that vacci-
+nation prevents HPV-related cervical and anal can-cers,
+20–22the FDA expanded the indication for HPV
+vaccination to include prevention of oral HPV infections
+and related oropharyngeal cancers in 2020.Version 1.2022 © National Comprehensive Cancer Net work, Inc. 2022. All rights reserved.
+The NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.ORPHPV-1k See Principles of Radiation Therapy (ORPH-A).
+l See Principles of Surgery (SURG-A).
+m Tumors in the base of tongue, posterior pharyngeal wall, and soft 
+palate require consideration of bila teral neck treatment as do tumors 
+of the tonsil invading the tongue base.
+n See Principles of Systemic Therapy for Non-Nasopharyngeal Cancers 
+(SYST-A). 
+q Pathologic staging criteria differ from  clinical staging criteria in HPV-
+mediated oropharyngeal cancer. For pathologic stage following 
+resection, see AJCC 8th edition for appropriate staging criteria (ST-7).CLINICAL 
+STAGINGTREATMENT OF PRIMARY AND NECK ADJUVANT TREATMENT
+Recurrent 
+or 
+persistent 
+disease 
+(See ADV-3)Follow-up
+(See FOLL-A, 1 of 2)
+p16 (HPV)-positiveT1–2,N0Resection of primary  
+± ipsilateral 
+or bilateral 
+selective neck 
+dissectionl,m
+or
+k
+or
+Clinical trialsAdverse 
+featuresq,rExtranodal 
+extensions ± 
+positive margin
+Positive margin
+Other risk 
+featuresrSystemic therapy/RTk,n,s
+or
+RTk (category 2B)
+Re-resection, if feasible 
+or 
+Systemic therapy/RTk,n
+or 
+RTk
+RTk
+or 
+Systemic therapy/
+RTk,n (category 2B)
+r Adverse features: extranodal extension, positi ve margins, close margins, pT3 or pT4 
+primary, one positive node >3 cm or multiple positive nodes, nodal disease in levels IV or V, 
+perineural invasion, vascular invasion, lymphat ic invasion (see Discussion). The definition 
+of an adverse feature in the context of HPV + disease is an area of active research. This 
+includes the presence and extent of extrano dal extension, and the number of involved 
+nodes. 
+s The recommendations for patien ts at high risk with extranodal  extension + positive margins 
+are based on randomized studies involving patien ts for whom the HPV status of their 
+tumors was not specified.No adverse featuresq,rBase of Tongue/Tonsil/Posterior Pharyngeal Wall/Soft Palate
+See Post Systemic Therapy/RT or 
+RT Neck Evaluation (FOLL-A, 2 of 2)CE NCCN GUIDELINES®INSIGHTS Head and Neck Cancers, Version 1.2022
+226 © JNCCN —Journal of the National Comprehensive Cancer Network |Volume 20 Issue 3 |March 2022 Patients with locally advanced HPV-positive SCCHN
+have improved response to treatment and survival (over-all survival [OS] and progression-free survival [PFS]) whencompared with HPV-negative tumors.
+23–29Treatment
+response is improved in patients receiving radiation ther-apy (RT) or chemoradiation.
+23,30,31A meta-analysis includ-
+ing 18 studies with 4,424 patients with SCCHN showedthat patients with tumors that were both HPV-positiveand p16-positive had better 5-year OS and 5-year disease-free survival (DFS) than patients with tumors that wereHPV-negative/p16-negative, HPV-positive/p16-negative,and HPV-negative/p16-positive.
+32However, patients with
+tumors that were HPV-negative/p16-positive had greater5-year OS than patients with tumors that were p16-nega-tive (regardless of HPV status). Discrepancies between
+HPV status and p16 status are usually attributable to use
+of assays for HPV detection that do not cover all high-riskHPV types.
+33
+The impact of smoking and cancer stage on survival
+of patients with HPV-positive SCCHN has been investi-gated in numerous studies.
+34–36For example, analyses of
+patients with oropharyngeal cancer who were enrolled inRTOG 9003 or 0129 (n 5165) showed that smoking was
+associated with decreased OS and PFS, regardless of p16status.
+34An analysis of data compiled from 4 cooperative
+group trials estimated that never smokers had a 51% (haz-ard ratio [HR], 0.40; 95% CI, 0.33 –0.75) reduction in risk of
+cancer progression when compared with former and cur-rent smokers with HPV-positive SCCHN.
+36A retrospective
+analysis from a clinical trial (RTOG 0129) showed no dif-
+ference in the rate of distant metastasis in patients with
+p16-positive versus p16-negative disease.23Additional
+analyses have suggested that individuals with T4 or N3disease or radiographically detectable matted lymph nodesmay have a worse prognosis, and therefore should be
+excluded from deintensi ﬁcation trials.
+37–40These studies
+on prognostic and predictive factors in HPV-positive oro-pharyngeal cancers form the basis for RT deintensi ﬁcation
+studies. Moreover, the striking difference in prognosis forHPV-positive versus HPV-negative SCCHN led to the crea-tion of new AJCC staging criteria in 2018 (see later section
+on“Treatment, ”page 228).
+HPV Testing
+The NCCN Clinical Practice Guidelines in Oncology (NCCN
+Guidelines) for Head and Neck Cancers recommend tumor
+HPV testing by p16 immunohistochemistry (IHC) in all
+patients diagnosed with an oropharyngeal cancer. There areVersion 1.2022 © National Comprehensive Cancer Network, Inc. 2022. All rights reserved.
+The NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.ORPHPV-2k See Principles of Radiation Therapy (ORPH-A).
+l See Principles of Surgery (SURG-A).
+m Tumors in the base of tongue, posterior pharyngeal wall, and soft palate require 
+consideration of bilateral neck treatment as  do tumors of the tonsil invading the 
+tongue base.
+n See Principles of Systemic Therapy fo r Non-Nasopharyngeal Cancers (SYST-A). 
+q Pathologic staging criteria differ from cl inical staging criteria in HPV-mediated 
+oropharyngeal cancer. For pathologic stage following resection, see AJCC 8th 
+edition for appropriate staging criteria (ST-7).CLINICAL 
+STAGINGTREATMENT OF PRIMARY AND NECK ADJUVANT TREATMENT
+Recurrent 
+or 
+persistent 
+disease 
+(See ADV-3)Follow-up(See FOLL-A, 
+1 of 2)
+p16 (HPV)-positive
+T0–2,N1
+(single node ≤3 cm)Resection  
+of primary ±  
+ipsilateral or  
+bilateral neck dissectionl,m
+or
+ 
+k
+or
+Concurrent systemic 
+therapy/RTk,n (category 2B) 
+orClinical trialsAdverse 
+featuresq,rExtranodal 
+extensions ± 
+positive margin
+Positive 
+margin
+Other risk 
+featuresrSystemic therapy/RTk,n,s
+or
+RTk (category 2B)
+Re-resection, if feasible 
+or 
+Systemic therapy/RTk,n 
+or 
+RTk (category 2B)
+RTk
+or Systemic therapy/
+RTk,n (category 2B)
+r Adverse features: extranodal extension, pos itive margins, close margins, pT3 
+or pT4 primary, one positive node >3 cm or multiple positive nodes, nodal 
+disease in levels IV or V, perineural invasion, vascular invasion, lymphatic 
+invasion (See Discussion). The definition of an adverse feature in the context 
+of HPV+ disease is an ar ea of active research. This includes the presence 
+and extent of extranodal extension, and the number of involved nodes. 
+s The recommendations for patients at high risk with extranodal extension 
++ positive margins are based on randomized studies involving patients for 
+whom the HPV status of their tumors was not specified.No adverse featuresq,rBase of Tongue/Tonsil/Posterior Pharyngeal Wall/Soft Palate
+See Post Systemic Therapy/RT or 
+RT Neck Evaluation (FOLL-A, 2 of 2)
+p16 (HPV)-positive
+T0–2,N1 (single 
+node >3 cm, or 2 
+or more ipsilateral 
+nodes ≤6 cm)See ORPHPV-3Head and Neck Cancers, Version 1.2022 NCCN GUIDELINES®INSIGHTS CE
+JNCCN.org |Volume 20 Issue 3 |March 2022 227 currently no diagnostic tests with regulatory approval. A few
+HPV testing options are available for use in the clinical set-
+ting. Expression of p16 as detected by IHC is a widely avail-able surrogate biomarker that has very good agreement withHPV status as determined by HPV E6/E7 mRNA expres-sion.
+33,41–44Other tests include HPV detection by PCR and in
+situ hybridization (ISH).33,42Sensitivity of IHC staining for
+p16 and PCR-based assay is high, although speci ﬁcity is
+highest for ISH.42Analyses of HPV testing methods have
+shown that sensitivity and speci ﬁcity of p16 IHC range from
+94% to 97% and 83% to 84%, respectively, with sensitivity
+and speci ﬁcity of HPV16 ISH ranging from 85% to 88% and
+88% to 95%.33,43The reduced speci ﬁcity for p16 IHC may be
+due to the presence of p16-positive tumors that do not haveevidence of HPV DNA, whereas the reduced sensitivity forH P V 1 6I S Hm a yb ed u et ot h ep r e s e n c eo fo t h e rh i g h - r i s kHPV types in the tumor. Due to variations in sensitivity andspeciﬁcity values of testing options, multiple methods may
+be used in combination for HPV detection.
+6,42,43,45,46Sufﬁ-
+cient pathologic material for HPV testing can be obtained byﬁne-needle aspiration.
+6,47Guidelines for HPV testing have
+been published by the College of American Pathologists.48
+HPV testing may prompt questions about prognosis and sex-ual history that the clinician should be prepared to address.Treatment
+Expert consensus is that HPV status should be used as astratiﬁcation factor in clinical trials, or clinical trial eligi-
+bility should be restricted to one or the other patient
+population.
+49–51With some exceptions, the treatment
+algorithms in the NCCN Guidelines for Head and NeckCancers for p16-negative and p16-positive oropharyngealcancer are identical. It is the stance of the panel that
+there is currently no evidence that the staging criteria
+published in the 8th edition of the AJCC Cancer Staging
+Manual
+52should drive clinical decision-making, as it is
+currently unknown how to therapeutically address the
+vast biologic differences between the 2 distinct cancers.The panel urges that patients with HPV-positive cancers
+be enrolled in clinical trials evaluating biologic and treat-
+ment-related questions.
+53–55
+Some clinicians have suggested that less-intense treat-
+ment may be adequate for HPV-positive oropharyngeal
+cancers (ie deintensi ﬁcation).38Although not considered
+deintensi ﬁcation, other RT-based strategies that may be
+used to potentially minimize harm in patients with p16-
+positive oropharyngeal cancer include use of image-guided
+RT and consideration of unilateral neck irradiation in dis-ease that is well-lateralized.
+56Available data supportingVersion 1.2022 © National Comprehensive Cancer Network, Inc. 2022. All rights reserved.
+The NCCN Guidelines® and this illustration may not be reproduced in any form without the express written permission of NCCN.ORPHPV-3CLINICAL 
+STAGINGTREATMENT OF PRIMARY AND NECK ADJUVANT TREATMENT
+p16 (HPV)-positive
+T0–2,N1 (single node >3 cm, or 2 
+or more ipsilateral 
+nodes ≤6 cm), 
+or
+T0–2,N2or
+T3,N0–2Concurrent systemic therapy/RT
+k,n,t 
+or
+Resection of 
+primary and ipsilateral or 
+bilateral neck dissection
+l,m,t
+or
+Clinical trialsunilateral
+cN0–3
+bilateral
+cN2–3Resection of 
+primary, neck 
+dissectionl
+Resection of primary and bilateral neck 
+dissection
+l No adverse 
+featuresq,r
+Adverse 
+featuresq,rExtranodal extension and/
+or positive 
+margin
+Other risk 
+featuresq,rSystemic 
+therapy/RTk,n,s
+RTk
+or
+Consider systemic  
+therapy/RTk,nFollow-up
+(See FOLL-A, 
+1 of 2)
+Recurrent 
+or 
+persistent disease
+(See ADV-3)Recurrent or persistent 
+disease (See ADV-3)
+k See Principles of Radia tion Therapy (ORPH-A).
+l See Principles of Surgery (SURG-A).
+m Tumors in the base of tongue, p osterior pharyngeal wall, and soft 
+palate require consideration of bilateral neck treatment as do tumors of the tonsil invading the tongue base.
+n See Principles of Systemic Therapy for Non-Nasopharyngeal 
+Cancers (SYST-A). 
+p See Discussion on induction chemotherapy.
+q Pathologic staging criteria differ  from clinical staging criteria in 
+HPV-mediated oropharyngeal cancer. For pathologic stage following 
+resection, see AJCC 8th edition for appropriate staging criteria (ST-7).r Adverse features: extranodal extension, p ositive margins, close margins, pT3 or pT4 
+primary, one positive node >3 cm or multiple  positive nodes, nodal disease in levels IV or V, 
+perineural invasion, vascular invasion, lymphat ic invasion (See Discussion). The definition 
+of an adverse feature in the context of HPV+ disease is an area of active research. This 
+includes the presence and extent of extranod al extension, and the number of involved 
+nodes. 
+s The recommendations for patients at high risk  with extranodal extension + positive margins 
+are based on randomized studies involving pa tients for whom the HPV status of their 
+tumors was not specified. 
+t For those with clinical evidence of fixed or matted nodes or  obvious extranodal extension, 
+resection is not recommended and concurr ent systemic therapy/RT is preferred.  Base of Tongue/Tonsil/Posterior Pharyngeal Wall/Soft Palate
+Induction chemotherapyn,p 
+(category 3) followed by RTk 
+or systemic therapy/RTk,nor
+See Post Systemic Therapy/RT or 
+RT Neck Evaluation (FOLL-A, 2 of 2)Recurrent or persistent 
+disease (See ADV-3)See Post Systemic 
+Therapy/RT or RT Neck Evaluation (FOLL-A, 2 of 2)CE NCCN GUIDELINES®INSIGHTS Head and Neck Cancers, Version 1.2022
+228 © JNCCN —Journal of the National Comprehensive Cancer Network |Volume 20 Issue 3 |March 2022 these assertions are limited by retrospective analyses, sin-
+gle-institution phase III trials, variability in HPV testingmethod used, and short follow-up periods.
+38,54,57,58Dein-
+tensiﬁcation treatment protocols for HPV-positive locally
+advanced oropharyngeal cancer are being investigated inongoing clinical trials. Strategies under active investigationinclude reducing or using response-strati ﬁed RT dose,
+using RT alone versus chemoradiation, using less invasivesurgical procedures such as transoral laser microsurgery ortransoral robotic surgery (TORS), using sequential systemictherapy/RT, and using immunotherapy.
+54,56,59
+Early-stage (ie, T1 –T2N0) p16-positive oropharyngeal
+cancers may be treated with de ﬁnitive RT or resection of
+the primary with neck dissection60–63(see ORPHPV-1, page
+226). Tumors at or approaching the midline (ie, tumors inthe base of the tongue, posterior pharyngeal wall, soft pal-ate, and tonsil invading the tongue base) are at risk forcontralateral metastasis and warrant bilateral treatment.
+The randomized phase II ORATOR trial aimed to compare
+swallow-related QoL outcomes in patients with early-stageT1–T2,N0 –2 oropharyngeal cancer treated with primary RT
+or systemic therapy/RT versus those treated with TORS withneck dissection with or without adjuvant RT or systemictherapy/RT.
+64The study enrolled 68 patients from 6hospitals in Canada and Australia (88% were p16-positive),
+and compared MD Anderson Dysphagia Inventory(MDADI) scores between the 2 groups at 1 year. Swallow-related QoL outcomes reached statistical signi ﬁcance favor-
+ing the primary RT cohort; however, this difference did notmeet criteria for a clinically meaningful change, and withlong-term follow-up the difference in scores became lesspronounced with the passage of time.
+64,65Study results
+showed that there were excellent and similar PFS and OSrates in both arms. The authors concluded that “RT- and
+TORS-based approaches were associated with clinically sim-ilar QoL outcomes, but differing spectra of toxicities, anddifferences in QoL between arms decreased over time. Clini-cians and patients should be involved in shared decision-making, in a multidisciplinary context, to individualize treat-
+ment of oropharyngeal squamous cell carcinoma. ”
+65Addi-
+tional randomized trials of minimally invasive transoralsurgery or RT for oropharyngeal cancer are ongoing or havebeen presented in abstract form (ClinicalTrials.gov identi-ﬁers: NCT02984410, NCT05144100, and NCT03210103
+66).
+Results from multiple phase II trials show that RT
+deintensi ﬁcation is associated with promising PFS rates
+in patients with p16-positive oropharyngeal cancer.67–71A
+phase II randomized trial of low-risk HPV-associatedVersion 1.2022 © National Comprehensive Canc er Network, Inc. 2022. All rights reserved.
+The NCCN Guidelines® and this illustration may not be reproduced in any form  without the express written permission of NCCN.ORPHPV-4CLINICAL 
+STAGINGTREATMENT OF PRIMARY AND NECK ADJUVANT TREATMENT
+p16 (HPV)-positive
+T0–3,N3
+or
+T4,N0–3Concurrent systemic 
+therapy/RTk,n (preferred)
+or
+Resection of 
+primary and ipsilateral or bilateral neck dissection
+l,m,t
+or
+Clinical trialscN0–3 
+(unilateral)
+cN2–3 
+(bilateral)Resection of 
+primary, neck dissectionl
+Resection of primary and 
+bilateral neck 
+dissectionl No adverse 
+featuresq,r
+Adverse featuresq,rExtranodal 
+extension and/
+or positive 
+margin
+Other risk 
+featuresq,rSystemic therapy/RTk,n,s
+RTk
+or
+Consider 
+systemic  
+therapy/RTk,nFollow-up
+(See FOLL-A, 1 of 2)
+Recurrent 
+or persistent 
+disease
+(See ADV-3)Recurrent or persistent disease (See ADV-3)
+Recurrent or persistent 
+disease (See ADV-3)
+k See Principles of Radiation Therapy (ORPH-A).
+l See Principles of Surgery (SURG-A).
+m Tumors in the base of tongue, posterior pharyngeal wall, and soft 
+palate require consideration of bilate ral neck treatment as do tumors 
+of the tonsil invading the tongue base.
+n See Principles of Systemic Therapy for Non-Nasopharyngeal 
+Cancers (SYST-A). 
+p See Discussion on induction chemotherapy.
+q Pathologic staging criteria differ from clinical staging criteria in 
+HPV-mediated oropharyngeal cancer. F or pathologic stage following 
+resection, see AJCC 8th edition for appropriate staging criteria (ST-7).r Adverse features: extranodal extension, positive margins, close margins, pT3 or pT4 
+primary, one positive node >3 cm or multiple  positive nodes, nodal disease in levels 
+IV or V, perineural invasion, vascular invasi on, lymphatic invasion (See Discussion). 
+The definition of an adverse feature in the context of HPV+ disease is an area of active 
+research. This includes the presence and extent of extranodal extension, and the 
+number of involved nodes. 
+s The recommendations for patients at high risk with extranodal extension + positive 
+margins are based on randomized studies involv ing patients for whom the HPV status of 
+their tumors was not specified.
+t For those with clinical evidence of fixed or matted nodes or obvious extranodal extension, 
+resection is not recommended and concurrent systemic therapy/RT is preferred.  Base of Tongue/Tonsil/Posterior Pharyngeal Wall/Soft Palate
+orInduction chemotherapyn,p 
+(category 3) followed by RTk 
+or systemic therapy/RTk,nSee Post Systemic Therapy/RT or 
+RT Neck Evaluation (FOLL-A, 2 of 2)
+See Post Systemic Therapy/RT or 
+RT Neck Evaluation (FOLL-A, 2 of 2)Head and Neck Cancers, Version 1.2022 NCCN GUIDELINES®INSIGHTS CE
+JNCCN.org |Volume 20 Issue 3 |March 2022 229 oropharyngeal cancer ( #10 pack years, T1 –2N1 or
+T3N0 –1) demonstrated that de-escalated RT to 60 Gy
+with concurrent cisplatin was associated with a 2-yearPFS rate of 90.5%, and accelerated RT alone to 60 Gy was
+associated with a 2-year PFS rate of 87.6%.
+72The former,
+but not the latter, regimen met criteria for further studyand is the subject of an ongoing cooperative group phase
+II/III randomized trial on dose de-escalation. Similarly, a
+nonrandomized phase II study of de ﬁnitive RT to 60 Gy 6
+concurrent cisplatin in 114 patients with T0 –3N0–2M0
+p16-positive oropharyngeal cancer demonstrated a 2-year
+PFS of 86% and 2-year OS of 95%.
+70Analyses of quality
+of life (QoL) outcomes from one of these trials68showed
+that RT deintensi ﬁcation was associated with a quicker
+and more robust return to baseline-level functioning.73
+A prospective phase II trial of initial TORS followed by
+risk-adapted adjuvant treatment demonstrated a 2-year
+PFS rate of 96.9% for low-risk disease with TORS alone,
+94.9% for intermediate-risk disease with 50 Gy adjuvantRT, 96% for intermediate-risk disease with 60 Gy adju-vant RT, and 90.7% for high-risk disease with 66 Gy adju-
+vant RT with concurrent weekly cisplatin.
+74
+Research on the impact of adverse features such as
+extranodal extension and number of involved nodes onoutcomes in patients with p16-positive disease who have
+undergone resection is rapidly evolving. Analyses fromthe RTOG 9501
+75and EORTC 22931 trials,76prior to the
+era of p16/HPV testing, showed that extranodal extensionis associated with poor prognosis and demonstrated ben-
+eﬁtt oa d j u v a n ts y s t e m i ct h e r a p y / R Ti np a t i e n t sw i t h
+locally advanced SCCHN who have undergone surgicalresection.
+77Data suggesting equivalent outcomes of
+adjuvant RT and systemic therapy/RT for p16-positive
+oropharyngeal cancer with extranodal extension are
+restricted to retrospective trials,35,49,78–83although clinical
+trials are being conducted to validate the revised AJCCstaging
+52for clinical decision-making. Secondary to a lack
+of high-quality, prospective clinical evidence in the mod-
+ern era, systemic therapy/RT is a category 2A option forpatients with p16-positive disease and extranodal exten-sion. Adjuvant systemic therapy/RT remains a category 1recommendation for patients with nonoropharyngeal
+SCCHN who have extranodal extension. Because patients
+with p16-positive oropharyngeal cancer have a generallyfavorable prognosis and may live longer, toxicity and QoLare concerns for these patients.
+54,55On the other hand,
+they are also younger, with fewer comorbidities, so they
+can probably tolerate combined adjuvant therapy better.Version 1.2022 © National Comprehensive Cancer  Network, Inc. 2022. All rights reserved.
+The NCCN Guidelines® and this illustration may not be reproduced in any for m without the express wr itten permission of NCCN.ORPH-A
+1 OF 21 See Principles of Radiation Techniques (RAD-A) and Discussion.
+2 For doses >70 Gy, some clinicians feel that the fractionation should 
+be slightly modified (eg, <2.0 Gy/fraction for at least some of the treatment) to minimize toxicity. An additional 2–3 doses can be added depending on clinical circumstances.
+3 Eisbruch A, et al. Int J Radiat Oncol Biol Phys 2010;76:1333-1338.
+4 Suggest 44–50 Gy in 3D-CRT and sequentially planned IMRT or 
+54–63 Gy with IMRT dose painting technique (dependent on dose 
+per fraction).
+5 Yom SS, et al. J Clin Oncol 2021 ;39:956-965; Chera BS, et al. J 
+Clin Oncol 2019;37:2661-2669.
+6 See Principles of Systemic Therapy for Non-Nasopharyngeal 
+Cancers (SYST-A).PRINCIPLES OF RADIATION THERAPY1
+DEFINITIVE:
+RT Alone• PTV
+High risk: Primary tumor and involved l ymph nodes [this includes possible local 
+ ►
+/g161Fractionation: 
+ – IMRT planning can consist of sequential IM RT (S-IMRT) or simultaneous integrated 
+boost (SIB) techniques. Equival ent doses in 2 Gy (EQD2) can be used to determine 
+appropriate fractionation schem es when using SIB techniques.
+ – 66 Gy (2.2 Gy/fraction) to 70 Gy (2.0 Gy/fraction);3  
+daily Monday–Friday in 6–7 weeks2
+ – Concomitant boost accelerated RT: 
+ ▪
+during last 12 treatment days)
+ ▪ 66–70 Gy (2.0 Gy/fraction; 6 fractions/wk accelerated)
+ – Hyperfractionation for T2,N0–1 disease: 81.6 Gy/7 weeks (1.2 Gy/fraction, twice 
+daily)
+ – 69.96 Gy (2.12 Gy/fraction) da ily Monday–Friday in 6–7 weeks 
+Low to intermediate risk: Sites of  suspected subclinical spread
+ /g161
+54–63 Gy (1.6–1.8 Gy/fraction) when using SIB techniques4
+• 
+II studies demonstrating promising rates of progression-free survival with dose-reduced 
+radiotherapy.5Either IMRT (preferred) or 3D-CRT is 
+recommended for cancers of the oropharynx 
+in order to minimize do se to critical structures. 
+Use of proton therapy is an area of active 
+investigation. Proton therapy may be considered 
+when normal tissue constraints cannot be met by 
+photon-based therapy.CONCURRENT SYSTEMIC THERAPY/RT:6,7
+• PTV 
+High risk: Typically 70 Gy (2.0 Gy/fraction)
+Low to intermediate risk: 44–50 Gy (2.0 Gy/
+fraction) to 54–63 Gy (1.6–1.8 Gy/fraction)4
+7 Based on published data, concurrent systemic th erapy/RT most commonly uses conventional 
+fractionation at 2.0 Gy per fraction to a typi cal dose of 70 Gy in  7 weeks with single-
+agent cisplatin given every 3 weeks at 100 mg/m2; 2–3 cycles of chemotherapy are used 
+depending on the radiation fractionation sche me (RTOG 0129) (Ang KK, et al. N Engl J 
+Med 2010;363:24-35). When carboplatin and 5-FU are used, the recommended regimen 
+is standard fractionation plus 3 cycles of ch emotherapy. [Bourhis J, et al. Lancet Oncol 
+2012;13:145-153]. Other fraction sizes (eg, 1.8 Gy, conventional), multiagent chemotherapy, 
+other dosing schedules of cisplatin, or altered fractionation with chemotherapy are efficacious, 
+and there is no consensus on the optimal ap proach. In general, the use of concurrent 
+systemic therapy/RT carries a high toxicity burd en; altered fractionation or multiagent 
+chemotherapy will likely further increase the toxicity burden. For any systemic therapy/RT 
+approach, close attention should be paid to published reports for the specific chemotherapy 
+agent, dose, and schedule of ad ministration. Systemic therapy/ RT should be performed by an 
+experienced team and should include substant ial supportive care. See Discussion.►►
+►CE NCCN GUIDELINES®INSIGHTS Head and Neck Cancers, Version 1.2022
+230 © JNCCN —Journal of the National Comprehensive Cancer Network |Volume 20 Issue 3 |March 2022 Omitting systemic therapy and administering RT alone is
+a category 2B option for patients with p16-positive cT0 –2,
+cN0–1 disease (single node #3c m )w h oh a v ee x t r a n o d a l
+extension following surgery. For patients with positive orclose margins, reresection (if feasible), RT, and systemictherapy/RT are treatment options.
+84For patients with
+other risk features such as pT3 or pT4 primary, one posi-
+tive node .3 cm or multiple positive nodes, nodal disease
+in levels IV or V, perineural invasion, vascular invasion, orlymphatic invasion, adjuvant treatment options includeRT or systemic therapy/RT (category 2B) (see ORPHPV-1and ORPHPV-2, pages 226 and 227, respectively).
+For locally advanced resectable disease (T0 –2cN1
+[single node .3c m ,o r $2 ipsilateral nodes #6c m ]o r
+T0–2N2, or T3N0 –3, or T4, treatment recommendations
+include concurrent systemic therapy/RT
+84,85and resec-
+tion of the primary and neck dissection (with appropriateadjuvant therapy [systemic therapy/RT or RT]), in addi-tion to enrollment in clinical trials (see ORPHPV-3 andORPHPV-4, pages 228 and 229, respectively). As withearly-stage disease, tumors at or approaching the midline
+should be strongly considered for bilateral treatment of
+the neck. The panel asserts that concurrent systemictherapy/RT is preferred in patients with locoregionallyadvanced HPV-positive disease who have clinical evi-
+dence of ﬁxed or matted nodes or obvious extranodal
+extension, because surgery is not recommended for thesepatients. Induction chemotherapy (followed by RT or sys-temic therapy/RT) is listed as a treatment option forthese patients,
+60,62,86but is a category 3 option due to lack
+of consensus among NCCN Member Institutions. Panel
+concerns are based on absence of consistent bene ﬁto f
+induction chemotherapy in randomized clinical trialsand concerns that use of better-tolerated —but potentially
+less effective —concurrent regimens or poorer patient com-
+pliance with RT may compromise outcomes. For moredetail, see the Discussion section in the full version of theNCCN Guidelines for Head and Neck Cancers (available at
+NCCN.org). Patients with cN2 –3 disease who are treated
+with initial surgery have a high likelihood of extranodalextension, which warrants adjuvant systemic therapy/RTtreatment. Triple modality management is associated withincreased toxicity. Beginning treatment with concurrentsystemic therapy/RT may help decrease the need for triplemodality therapy and additional treatment-induced mor-
+bidity. Therefore, de ﬁnitive concurrent systemic therapy/
+RT is preferred over up-front surgery for p16-positive cT4or cN3 oropharyngeal cancer (see ORPHPV-4, page 229).Version 1.2022 © National Comprehensive Cancer Net work, Inc. 2022. All rights reserved.
+The NCCN Guidelines® and this illustration may not be reproduced in an y form without the express wr itten permission of NCCN.ORPH-A
+2 OF 21 See Principles of Radiation Tec hniques (RAD-A) and Discussion.
+4 Suggest 44–50 Gy in 3D-CRT and sequenti ally planned IMRT or 54–63 Gy with 
+IMRT dose painting technique (dependent on dose per fraction).
+8 See Principles of Systemic Therapy for Non-Nasopharyngeal Cancers (SYST-A).
+9 Bernier J, et al. N Engl J Med 2004;350:1945-1952.
+10 Cooper JS, et al. N Engl  J Med 2004;350:1937-1944.
+11 Bernier J, et al. Head Neck 2005;27:843-850.
+12 Cooper JS, et al. Int J Radiat Oncol Biol Phys 2012;84:1198-1205.PRINCIPLES OF RADIATION THERAPY1
+POSTOPERATIVE:
+RT or Concurrent Systemic Therapy/RT8-12
+• Preferred interval between resectio n and postoperative RT is ≤6 weeks.
+• PTV
+High risk: Adverse features  such as positive margins13,14
+ /g16160–66 Gy (2.0 Gy/fraction); daily Monday–Friday in 6–6.5 weeks
+Low to intermediate risk: Sites of suspected subclinical spread
+ /g16144–50 Gy (2.0 Gy/fraction) to 54–63 Gy (1.6–1.8 Gy/fraction)4
+Either IMRT (preferred) or 3D-CRT is recommended for cancers of th e oropharynx in order to minimi ze dose to critical structures . Use of 
+proton therapy is an area of active inv estigation. Proton therapy may be considered wh en normal tissue constraints cannot be me t by photon-
+based therapy.
+13 Adverse features for p16(HPV)-negative dis ease: extranodal extension, positive 
+margins, close margins, pT3 or pT4 primary, pN2 or pN3 nodal disease, nodal 
+disease in levels IV or V, perine ural invasion, vascular invasion, lymphatic 
+invasion (See Discussion).
+14 Adverse features for p16 (HPV)-positive di sease: extranodal extension, positive 
+margins, close margins, pT3 or pT4 primary , one positive node >3  cm or multiple 
+positive nodes, nodal disease in levels IV or V, perineural invasion, vascular 
+invasion, lymphatic invasion (see Discussion) . The definition of an adverse feature 
+in the context of HPV+ disease is an area of active research. This includes the 
+presence and extent of extranodal ext ension, and the number  of involved nodes. ►
+►Head and Neck Cancers, Version 1.2022 NCCN GUIDELINES®INSIGHTS CE
+JNCCN.org |Volume 20 Issue 3 |March 2022 231 In 3 randomized phase III trials, cetuximab 1RT
+was compared with cisplatin 1RT as a deintensi ﬁcation
+treatment strategy for HPV-positive locally advanced oro-pharyngeal cancer, but cetuximab 1RT proved to be
+inferior to cisplatin (in terms of OS) and was not bettertolerated.
+87,88In the RTOG 1016 noninferiority trial, 849
+patients with locally advanced HPV-positive oropharyn-geal cancer were randomized to receive accelerated
+intensity-modulated RT (IMRT) with either cetuximab or
+cisplatin.
+87After a median follow-up of 4.5 years, the
+cetuximab arm did not meet the criterion for noninfer-iority (based on 5-year OS). Five-year OS was 77.9% forthe cetuximab arm and 84.6% for the cisplatin arm. PFSand risk of locoregional failure were signi ﬁcantly worse
+in the cetuximab arm compared with the cisplatin arm(HR, 1.72; 95% CI, 1.29 –2.29; P,.001 for PFS; HR, 2.05;
+95% CI, 1.35 –3.10; P,.001 for locoregional failure), with
+5-year PFS and locoregional failure rates being 67.3% and17.3% for the cetuximab arm, and 78.4% and 9.9% for thecisplatin arm, respectively. In the randomized phase IIIDe-ESCALaTE HPV trial, cetuximab 1RT was compared
+with cisplatin 1RT in 334 patients with locally advanced
+p16-positive oropharyngeal squamous cell carcinoma.
+88
+Patients treated with cisplatin 1RT had signi ﬁcantly bet-
+ter 2-year OS (97.5% vs 89.4%, respectively; HR, 5.0; 95%
+CI, 1.7 –14.7; P5.001) and a lower recurrence rate (6.0%
+vs 16.1%, respectively; HR, 3.4; 95% CI, 1.6 –7.2;P,.001)
+than those treated with cetuximab 1RT. In the multicen-
+ter TROG 12.01 trial, 189 patients with intermediate-riskHPV-positive oropharyngeal cancer were randomized toreceive 70 Gy RT with either weekly cisplatin or cetuxi-mab.
+89The 3-year failure-free survival was 93% in the
+RT/cisplatin arm and 80% in the RT/cetuximab arm
+(P5.015). These 3 phase III trials demonstrated that
+cetuximab and RT was inferior to cisplatin and RT inpatients with HPV-positive oropharyngeal cancer.
+87–89
+When concurrent systemic therapy/RT is recommendedfor treatment of locoregionally advanced p16-positivecancer of the oropharynx, the panel asserts that high-dose cisplatin is the preferred systemic agent, although
+weekly cisplatin is also an option. An NRG Oncology trial
+is currently in progress for comparing high-dose cisplatinto weekly cisplatin in locally advanced SCCHN (Clinical-Trials.gov identi ﬁer: NCT05050162).
+RT Fractionation
+IMRT is preferred for radiation treatment of oropharynx
+cancer, because it is associated with decreased toxicity.90,91There is an ongoing randomized trial comparing IMRTwith intensity-modulated proton therapy in oropharyngealcancer (ClinicalTrials.gov identi ﬁer: NCT01893307). A
+fractionation schedule of 66 to 70 Gy at 2 Gy/fractiondaily (Monday –Friday) for 6 to 7 weeks is recommended
+for patients with gross disease. Hypofractionation,hyperfractionation, or accelerated fractionation isacceptable in patients with early-stage oropharyngeal
+cancer and may be associated with improved locore-
+gional control.
+84,92For elective nodal treatment, a biolog-
+ically equivalent dose of approximately 40 to 50 Gy in 2Gy/fraction is recommended.
+84,93The complete list of
+recommended schedules for radiation treatment of p16-positive oropharynx cancer are shown in the algorithm(see“Principles of Radiation Therapy, ”ORPH-A 1 and 2,
+pages 230 and 231). Despite the evidence that RT dose
+deintensi ﬁcation may improve long-term function while
+preserving PFS in patients with p16-positive disease,
+67–69,73
+more studies are needed in this area. The majority of clini-cal trials in this space have been single-arm phase II andneed to be compared with the standard of care in ran-domized trials. Currently, enrollment of patients withlow-risk HPV-positive oropharyngeal cancer is in pro-gress for the randomized phase II/III NRG HN-005
+trial, which will compare de-escalated 60 Gy with cis-
+platin, 60 Gy with nivolumab, and 70 Gy with cisplatin(NCT03952585).
+Summary
+The incidence of HPV-positive oropharyngeal cancer isincreasing in the United States, and patients with locallyadvanced HPV-positive SCCHN have improved out-
+comes relative to patients with HPV-negative tumors.
+The NCCN Guidelines for Head and Neck Cancers rec-ommend tumor HPV testing in all patients with oro-pharyngeal cancer. Treatment deintensi ﬁcation (eg,
+dose-reduced RT) is an active area of research withpromising preliminary results. However, de ﬁnitive
+data from randomized phase III trials must be avail-able before RT deintensi ﬁcation for HPV-positive can-
+cers is considered a standard option. Ongoing clinical
+trials speci ﬁct ot h i su n i q u es u b s e to fh e a da n dn e c k
+cancers are anticipated to further inform these NCCNGuidelines.
+To participate in this journal CE activity, go to
+https://education.nccn.org/node/91074
+References
+1. Chaturvedi AK, Engels EA, Anderson WF, et al. Incidence trends for
+human papillomavirus-related and -unrelated oral squamous cell
+carcinomas in the United States. J Clin Oncol 2008;26:612 –619.2. Chaturvedi AK, Engels EA, Pfeiffer RM, et al. Human papillomavirus and
+rising oropharyngeal cancer incidence in the United States. J Clin Oncol
+2011;29:4294 –4301.CE NCCN GUIDELINES®INSIGHTS Head and Neck Cancers, Version 1.2022
+232 © JNCCN —Journal of the National Comprehensive Cancer Network |Volume 20 Issue 3 |March 2022 3. Gillison ML, Broutian T, Pickard RK, et al. Prevalence of oral HPV infection
+in the United States, 2009-2010. JAMA 2012;307:693 –703.
+4. N €asman A, Attner P, Hammarstedt L, et al. Incidence of human papillo-
+mavirus (HPV) positive tonsillar carcinoma in Stockholm, Sweden: an
+epidemic of viral-induced carcinoma? Int J Cancer 2009;125:362 –366.
+5. Mehanna H, Beech T, Nicholson T, et al. Prevalence of human papilloma-
+virus in oropharyngeal and nonoropharyngeal head and neck cancer –
+systematic review and meta-analysis of trends by time and region. HeadNeck 2013;35:747 –755.
+6. Snow AN, Laudadio J. Human papillomavirus detection in head and neck
+squamous cell carcinomas. Adv Anat Pathol 2010;17:394 –403.
+7. D ’Souza G, Zhang HH, D ’Souza WD, et al. Moderate predictive value of
+demographic and behavioral characteristics for a diagnosis of
+HPV16-positive and HPV16-negative head and neck cancer.
+Oral Oncol 2010;46:100 –104.
+8. Lu DJ, Luu M, Mita A, et al. Human papillomavirus-associated oropharyn-
+geal cancer among patients aged 70 and older: Dramatically increased
+prevalence and clinical implications. Eur J Cancer 2018;103:195 –204.
+9. Tota JE, Best AF, Zumsteg ZS, et al. Evolution of the oropharynx cancer
+epidemic in the United States: moderation of increasing incidence in
+younger individuals and shift in the burden to older individuals. J Clin
+Oncol 2019;37:1538 –1546.
+10. Gillison ML, Alemany L, Snijders PJ, et al. Human papillomavirus and dis-
+eases of the upper airway: head and neck cancer and respiratory papillo-matosis. Vaccine 2012;30(Suppl 5):F34 –54.
+11. Gillison ML, Koch WM, Capone RB, et al. Evidence for a causal associa-
+tion between human papillomavirus and a subset of head and neckcancers. J Natl Cancer Inst 2000;92:709 –720.
+12. Ndiaye C, Mena M, Alemany L, et al. HPV DNA, E6/E7 mRNA, and
+p16INK4a detection in head and neck cancers: a systematic review and
+meta-analysis. Lancet Oncol 2014;15:1319 –1331.
+13. Agalliu I, Gapstur S, Chen Z, et al. Associations of oral alpha-, beta-, and
+gamma-human papillomavirus types with risk of incident head and neck
+cancer. JAMA Oncol 2016;2:599 –606.
+14. LeConte BA, Szaniszlo P, Fennewald SM, et al. Differences in the viral
+genome between HPV-positive cervical and oropharyngeal cancer. PLoS
+One 2018;13:e0203403.
+15. Steinau M, Saraiya M, Goodman MT, et al. Human papillomavirus preva-
+lence in oropharyngeal cancer before vaccine introduction, United States.
+Emerg Infect Dis 2014;20:822 –828.
+16. da Silva RL, da Silva Batista Z, Bastos GR, et al. Role of HPV 16 variants
+among cervical carcinoma samples from Northeastern Brazil. BMC
+Womens Health 2020;20:162.
+17. Gillison ML, Akagi K, Xiao W, et al. Human papillomavirus and the land-
+scape of secondary genetic alterations in oral cancers. Genome Res
+2019;29:1 –17.
+18. Chaturvedi AK, Graubard BI, Broutian T, et al. Effect of prophylactic
+human papillomavirus (HPV) vaccination on oral HPV infections among
+young adults in the United States. J Clin Oncol 2018;36:262 –267.
+19. Chaturvedi AK, Graubard BI, Broutian T, et al. Prevalence of oral HPV
+infection in unvaccinated men and women in the United States,
+2009-2016. JAMA 2019;322:977 –979.
+20. FUTURE II Study Group. Quadrivalent vaccine against human papilloma-
+virus to prevent high-grade cervical lesions. N Engl J Med 2007;356:1915–1927.
+21. Beachler DC, Kreimer AR, Schiffman M, et al. Multisite HPV16/18 vaccine
+efﬁcacy against cervical, anal, and oral HPV infection. J Natl Cancer Inst
+2015;108:108.
+22. Lei J, Ploner A, Elfstr €om KM, et al. HPV vaccination and the risk of
+invasive cervical cancer. N Engl J Med 2020;383:1340 –1348.
+23. Ang KK, Harris J, Wheeler R, et al. Human papillomavirus and survival
+of patients with oropharyngeal cancer. N Engl J Med 2010;363:
+24–35.
+24. Rischin D, Young RJ, Fisher R, et al. Prognostic signi ﬁcance of p16INK4A
+and human papillomavirus in patients with oropharyngeal cancer treatedon TROG 02.02 phase III trial. J Clin Oncol 2010;28:4142 –4148.
+25. Fakhry C, Zhang Q, Nguyen-Tan PF, et al. Human papillomavirus and
+overall survival after progression of oropharyngeal squamous cell carci-noma. J Clin Oncol 2014;32:3365 –3373.
+26. Posner MR, Lorch JH, Goloubeva O, et al. Survival and human papilloma-
+virus in oropharynx cancer in TAX 324: a subset analysis from an interna-
+tional phase III trial. Ann Oncol 2011;22:1071 –1077.
+27. Fakhry C, Zhang Q, Nguyen-T ^an PF, et al. Development and validation
+of nomograms predictive of overall and progression-free survival in
+patients with oropharyngeal cancer. J Clin Oncol 2017;35:4057 –4065.28. Fullerton ZH, Butler SS, Mahal BA, et al. Short-term mortality risks among
+patients with oropharynx cancer by human papillomavirus status. Cancer
+2020;126:1424 –1433.
+29. Ren J, Yang W, Su J, et al. Human papillomavirus and p16 immunostain-
+ing, prevalence and prognosis of squamous carcinoma of unknownprimary in the head and neck region. Int J Cancer 2019;145:1465 –1474.
+30. Fakhry C, Westra WH, Li S, et al. Improved survival of patients with
+human papillomavirus-positive head and neck squamous cell carcinomain a prospective clinical trial. J Natl Cancer Inst 2008;100:261 –269.
+31. Lassen P, Eriksen JG, Hamilton-Dutoit S, et al. Effect of HPV-associated
+p16INK4A expression on response to radiotherapy and survival in squa-
+mous cell carcinoma of the head and neck. J Clin Oncol 2009;27:
+1992–1998.
+32. Coordes A, Lenz K, Qian X, et al. Meta-analysis of survival in patients
+with HNSCC discriminates risk depending on combined HPV and p16
+status. Eur Arch Otorhinolaryngol 2016;273:2157 –2169.
+33. Jordan RC, Lingen MW, Perez-Ordonez B, et al. Validation of methods
+for oropharyngeal cancer HPV status determination in US cooperative
+group trials. Am J Surg Pathol 2012;36:945 –954.
+34. Gillison ML, Zhang Q, Jordan R, et al. Tobacco smoking and increased
+risk of death and progression for patients with p16-positive and p16-
+negative oropharyngeal cancer. J Clin Oncol 2012;30:2102 –2111.
+35. Sinha P, Lewis JS Jr, Piccirillo JF, et al. Extracapsular spread and adjuvant
+therapy in human papillomavirus-related, p16-positive oropharyngealcarcinoma. Cancer 2012;118:3519 –3530.
+36. Lassen P, Lacas B, Pignon JP, et al. Prognostic impact of HPV-associated
+p16-expression and smoking status on outcomes following radiotherapyfor oropharyngeal cancer: the MARCH-HPV project. Radiother Oncol
+2018;126:107 –115.
+37. Spector ME, Gallagher KK, Light E, et al. Matted nodes: poor prognostic
+marker in oropharyngeal squamous cell carcinoma independent of HPV
+and EGFR status. Head Neck 2012;34:1727 –1733.
+38. O ’Sullivan B, Huang SH, Siu LL, et al. Deintensi ﬁcation candidate sub-
+groups in human papillomavirus-related oropharyngeal cancer according
+to minimal risk of distant metastasis. J Clin Oncol 2013;31:543 –550.
+39. Vainshtein JM, Spector ME, Ibrahim M, et al. Matted nodes: high distant-
+metastasis risk and a potential indication for intensi ﬁcation of systemic
+therapy in human papillomavirus-related oropharyngeal cancer. Head
+Neck 2016;38(Suppl 1):E805 –814.
+40. Huang SH, O ’Sullivan B, Su J, et al. Prognostic importance of radiologic
+extranodal extension in HPV-positive oropharyngeal carcinoma and its
+potential role in re ﬁning TNM-8 cN-classi ﬁcation. Radiother Oncol 2020;
+144:13 –22.
+41. Weinberger PM, Yu Z, Haffty BG, et al. Molecular classi ﬁcation identi ﬁes
+a subset of human papillomavirus –associated oropharyngeal cancers with
+favorable prognosis. J Clin Oncol 2006;24:736 –747.
+42. Cantley RL, Gabrielli E, Montebelli F, et al. Ancillary studies in determin-
+ing human papillomavirus status of squamous cell carcinoma of the oro-
+pharynx: a review. Pathol Res Int 2011;2011:138469.
+43. Prigge ES, Arbyn M, von Knebel Doeberitz M, et al. Diagnostic accuracy of
+p16INK4aimmunohistochemistry in oropharyngeal squamous cell carcinomas:
+a systematic review and meta-analysis. Int J Cancer 2017;140:1186 –1198.
+44. Lang Kuhs KA, Wood CB, Wiggleton J, et al. Transcervical sonography
+and human papillomavirus 16 E6 antibodies are sensitive for the detec-
+tion of oropharyngeal cancer. Cancer 2020;126:2658 –2665.
+45. Singhi AD, Westra WH. Comparison of human papillomavirus in situ
+hybridization and p16 immunohistochemistry in the detection of human
+papillomavirus-associated head and neck cancer based on a prospective
+clinical experience. Cancer 2010;116:2166 –2173.
+46. Thavaraj S, Stokes A, Guerra E, et al. Evaluation of human papillomavirus
+testing for squamous cell carcinoma of the tonsil in clinical practice.
+J Clin Pathol 2011;64:308 –312.
+47. Begum S, Gillison ML, Nicol TL, et al. Detection of human papillomavi-
+rus-16 in ﬁne-needle aspirates to determine tumor origin in patients with
+metastatic squamous cell carcinoma of the head and neck. Clin Cancer
+Res 2007;13:1186 –1191.
+48. Lewis JS Jr, Beadle B, Bishop JA, et al. Human papillomavirus testing in
+head and neck carcinomas: guideline from the College of American Path-ologists. Arch Pathol Lab Med 2018;142:559 –597.
+49. Kaczmar JM, Tan KS, Heitjan DF, et al. HPV-related oropharyngeal
+cancer: risk factors for treatment failure in patients managed with primary
+transoral robotic surgery. Head Neck 2016;38:59 –65.
+50. Dahlstrom KR, Garden AS, William WN Jr, et al. Proposed staging system
+for patients with HPV-related oropharyngeal cancer based on nasopha-
+ryngeal cancer N categories. J Clin Oncol 2016;34:1848 –1854.Head and Neck Cancers, Version 1.2022 NCCN GUIDELINES®INSIGHTS CE
+JNCCN.org |Volume 20 Issue 3 |March 2022 233 51. Gillison ML. Human papillomavirus and oropharyngeal cancer stage. J
+Clin Oncol 2016;34:1833 –1835.
+52. Amin M, Edge S, Greene F, et al. AJCC Cancer Staging Manual, 8th edi-
+tion. New York, NY: Springer; 2017.
+53. Mehra R, Ang KK, Burtness B. Management of human papillomavirus-
+positive and human papillomavirus-negative head and neck cancer.
+Semin Radiat Oncol 2012;22:194 –197.
+54. Psyrri A, Rampias T, Vermorken JB. The current and future impact of
+human papillomavirus on treatment of squamous cell carcinoma of the
+head and neck. Ann Oncol 2014;25:2101 –2115.
+55. Mehanna H. Update on de-intensi ﬁcation and intensi ﬁcation studies in
+HPV. Recent Results Cancer Res 2017;206:251 –256.
+56. Mehanna H, Rischin D, Wong SJ, et al. De-escalation after DE-ESCALATE
+and RTOG 1016: a Head and Neck Cancer InterGroup Framework for
+future de-escalation studies. J Clin Oncol 2020;38:2552 –2557.
+57. Quon H, Forastiere AA. Controversies in treatment deintensi ﬁcation of
+human papillomavirus-associated oropharyngeal carcinomas: should we,
+how should we, and for whom? J Clin Oncol 2013;31:520 –522.
+58. Masterson L, Moualed D, Masood A, et al. De-escalation treatment pro-
+tocols for human papillomavirus-associated oropharyngeal squamous cell
+carcinoma. Cochrane Database Syst Rev 2014;2:CD010271.
+59. Ko ﬂer B, Laban S, Busch CJ, et al. New treatment strategies for HPV-positive
+head and neck cancer. Eur Arch Otorhinolaryngol 2014;271:1861 –1867.
+60. Adelstein DJ, Ridge JA, Brizel DM, et al. Transoral resection of pharyn-
+geal cancer: summary of a National Cancer Institute Head and NeckCancer Steering Committee Clinical Trials Planning Meeting, November
+6-7, 2011, Arlington, Virginia. Head Neck 2012;34:1681 –1703.
+61. Hinni ML, Zarka MA, Hoxworth JM. Margin mapping in transoral surgery
+for head and neck cancer. Laryngoscope 2013;123:1190 –1198.
+62. Li RJ, Richmon JD. Transoral endoscopic surgery: new surgical techniques
+for oropharyngeal cancer. Otolaryngol Clin North Am 2012;45:823 –844.
+63. Cracchiolo JR, Baxi SS, Morris LG, et al. Increase in primary surgical treat-
+ment of T1 and T2 oropharyngeal squamous cell carcinoma and rates of
+adverse pathologic features: National Cancer Data Base. Cancer 2016;
+122:1523 –1532.
+64. Nichols AC, Theurer J, Prisman E, et al. Radiotherapy versus transoral
+robotic surgery and neck dissection for oropharyngeal squamous cell
+carcinoma (ORATOR): an open-label, phase 2, randomised trial. Lancet
+Oncol 2019;20:1349 –1359.
+65. Nichols AC, Theurer J, Prisman E, et al. Randomized trial of radiotherapy
+versus transoral robotic surgery for oropharyngeal squamous cell carci-noma: long-term results of the ORATOR trial [published online January 7,
+2022]. J Clin Oncol, doi:10.1200/JCO.21.01961
+66. Palma D, Nichols A. A phase II randomized trial of treatment de-escala-
+tion for HPV associated oropharyngeal squamous cell carcinoma: radio-
+therapy vs trans-oral surgery (ORATOR 2). Presented at the 2021
+American Society for Radiation Oncology Annual Meeting; October24–27, 2021; Chicago, Illinoi. Abstract LBA-2.
+67. Marur S, Li S, Cmelak AJ, et al. E1308: phase II trial of induction chemo-
+therapy followed by reduced-dose radiation and weekly cetuximab inpatients with HPV-associated resectable squamous cell carcinoma of the
+oropharynx- ECOG-ACRIN Cancer Research Group. J Clin Oncol 2017;
+35:490 –497.
+68. Chen AM, Felix C, Wang PC, et al. Reduced-dose radiotherapy for
+human papillomavirus-associated squamous-cell carcinoma of the oro-pharynx: a single-arm, phase 2 study. Lancet Oncol 2017;18:803 –811.
+69. Chera BS, Amdur RJ, Tepper JE, et al. Mature results of a prospective
+study of deintensi ﬁed chemoradiotherapy for low-risk human papilloma-
+virus-associated oropharyngeal squamous cell carcinoma. Cancer 2018;
+124:2347 –2354.
+70. Chera BS, Amdur RJ, Green R, et al. Phase II trial of de-intensi ﬁed che-
+moradiotherapy for human papillomavirus-associated oropharyngeal
+squamous cell carcinoma. J Clin Oncol 2019;37:2661 –2669.
+71. Ma DJ, Price KA, Moore EJ, et al. Phase II evaluation of aggressive dose de-
+escalation for adjuvant chemoradiotherapy in human papillomavirus-associated
+oropharynx squamous cell carcinoma. J Clin Oncol 2019;37:1909 –1918.
+72. Yom SS, Torres-Saavedra P, Caudell JJ, et al. Reduced-dose radiation
+therapy for HPV-associated oropharyngeal carcinoma (NRG OncologyHN002). J Clin Oncol 2021;39:956 –965.
+73. Hegde JV, Shaverdian N, Daly ME, et al. Patient-reported quality-of-life
+outcomes after de-escalated chemoradiation for human papillomavirus-
+positive oropharyngeal carcinoma: ﬁndings from a phase 2 trial. Cancer
+2018;124:521 –529.74. Ferris RL, Flamand Y, Weinstein GS, et al. Phase II randomized trial of
+transoral surgery and low-dose intensity modulated radiation therapy in
+resectable p16 1locally advanced oropharynx cancer: an ECOG-ACRIN
+Cancer Research Group Trial (E3311). J Clin Oncol 2022;40:138 –149.
+75. Cooper JS, Pajak TF, Forastiere AA, et al. Postoperative concurrent radio-
+therapy and chemotherapy for high-risk squamous-cell carcinoma of the
+head and neck. N Engl J Med 2004;350:1937 –1944.
+76. Bernier J, Domenge C, Ozsahin M, et al. Postoperative irradiation with or
+without concomitant chemotherapy for locally advanced head and neck
+cancer. N Engl J Med 2004;350:1945 –1952.
+77. Bernier J, Cooper JS, Pajak TF, et al. De ﬁning risk levels in locally
+advanced head and neck cancers: a comparative analysis of concurrent
+postoperative radiation plus chemotherapy trials of the EORTC (#22931)and RTOG (# 9501). Head Neck 2005;27:843 –850.
+78. Iyer NG, Dogan S, Palmer F, et al. Detailed analysis of clinicopathologic
+factors demonstrate distinct difference in outcome and prognostic factorsbetween surgically treated HPV-positive and negative oropharyngeal
+cancer. Ann Surg Oncol 2015;22:4411 –4421.
+79. Maxwell JH, Ferris RL, Gooding W, et al. Extracapsular spread in head
+and neck carcinoma: impact of site and human papillomavirus status.
+Cancer 2013;119:3302 –3308.
+80. Sinha P, Kallogjeri D, Gay H, et al. High metastatic node number, not
+extracapsular spread or N-classi ﬁcation is a node-related prognosticator
+in transorally-resected, neck-dissected p16-positive oropharynx cancer.
+Oral Oncol 2015;51:514 –520.
+81. An Y, Park HS, Kelly JR, et al. The prognostic value of extranodal exten-
+sion in human papillomavirus-associated oropharyngeal squamous cell
+carcinoma. Cancer 2017;123:2762 –2772.
+82. Haughey BH, Sinha P. Prognostic factors and survival unique to surgically
+treated p16 1oropharyngeal cancer. Laryngoscope 2012;122(Suppl 2):
+S13–33.
+83. Freitag J, Wald T, Kuhnt T, et al. Extracapsular extension of neck nodes
+and absence of human papillomavirus 16-DNA are predictors of impaired
+survival in p16-positive oropharyngeal squamous cell carcinoma. Cancer
+2020;126:1856 –1872.
+84. Sher DJ, Adelstein DJ, Bajaj GK, et al. Radiation therapy for oropharyn-
+geal squamous cell carcinoma: executive summary of an ASTRO evi-
+dence-based clinical practice guideline. Pract Radiat Oncol 2017;7:
+246–253.
+85. Denis F, Garaud P, Bardet E, et al. Final results of the 94-01 French Head
+and Neck Oncology and Radiotherapy Group randomized trial compar-
+ing radiotherapy alone with concomitant radiochemotherapy in
+advanced-stage oropharynx carcinoma. J Clin Oncol 2004;22:69 –76.
+86. Haughey BH, Hinni ML, Salassa JR, et al. Transoral laser microsurgery as
+primary treatment for advanced-stage oropharyngeal cancer: a United
+States multicenter study. Head Neck 2011;33:1683 –1694.
+87. Gillison ML, Trotti AM, Harris J, et al. Radiotherapy plus cetuximab or
+cisplatin in human papillomavirus-positive oropharyngeal cancer (NRG
+Oncology RTOG 1016): a randomised, multicentre, non-inferiority trial.
+Lancet 2019;393:40 –50.
+88. Mehanna H, Robinson M, Hartley A, et al. Radiotherapy plus cisplatin or
+cetuximab in low-risk human papillomavirus-positive oropharyngeal can-
+cer (De-ESCALaTE HPV): an open-label randomised controlled phase 3
+trial. Lancet 2019;393:51 –60.
+89. Rischin D, King M, Kenny L, et al. Randomized trial of radiation therapy
+with weekly cisplatin or cetuximab in low-risk HPV-associated oropharyn-geal cancer (TROG 12.01) —a Trans-Tasman Radiation Oncology Group
+Study. Int J Radiat Oncol Biol Phys 2021;111:876 –886.
+90. Garden AS, Kies MS, Morrison WH, et al. Outcomes and patterns of care
+of patients with locally advanced oropharyngeal carcinoma treated in the
+early 21st century. Radiat Oncol 2013;8:21.
+91. Al-Mamgani A, Van Rooij P, Tans L, et al. Toxicity and outcome of inten-
+sity-modulated radiotherapy versus 3-dimensional conformal radiother-
+apy for oropharyngeal cancer: a matched-pair analysis. Technol CancerRes Treat 2013;12:123 –130.
+92. Eisbruch A, Harris J, Garden AS, et al. Multi-institutional trial of acceler-
+ated hypofractionated intensity-modulated radiation therapy for early-stage oropharyngeal cancer (RTOG 00-22). Int J Radiat Oncol Biol Phys
+2010;76:1333 –1338.
+93. Deschuymer S, Nevens D, Duprez F, et al. Randomized clinical trial on
+reduction of radiotherapy dose to the elective neck in head and neck
+squamous cell carcinoma; update of the long-term tumor outcome.Radiother Oncol 2020;143:24 –29.CE NCCN GUIDELINES®INSIGHTS Head and Neck Cancers, Version 1.2022
+234 © JNCCN —Journal of the National Comprehensive Cancer Network |Volume 20 Issue 3 |March 2022

@@ -1,0 +1,990 @@
+Citation: Poupore, N.S.; Chen, T.;
+Nguyen, S.A.; Nathan, C.-A.O.;
+Newman, J.G. Transoral Robotic
+Surgery for Oropharyngeal
+Squamous Cell Carcinoma of the
+Tonsil versus Base of Tongue: A
+Systematic Review and
+Meta-Analysis. Cancers 2022 ,14, 3837.
+https://doi.org/10.3390/
+cancers14153837
+Academic Editor: Maria
+Lina Tornesello
+Received: 25 July 2022
+Accepted: 4 August 2022
+Published: 8 August 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+cancers
+Systematic Review
+Transoral Robotic Surgery for Oropharyngeal Squamous Cell
+Carcinoma of the Tonsil versus Base of Tongue: A Systematic
+Review and Meta-Analysis
+Nicolas S. Poupore1
+, Tiffany Chen1, Shaun A. Nguyen1,*, Cherie-Ann O. Nathan2and Jason G. Newman1
+1Department of Otolaryngology—Head and Neck Surgery, Medical University of South Carolina,
+Charleston, SC 29425, USA
+2Department of Otolaryngology—Head and Neck Surgery, Louisiana State University Health Sciences Center,
+Shreveport, LA 71103, USA
+*Correspondence: nguyensh@musc.edu
+Simple Summary: Transoral Robotic Surgery (TORS) has become widely adopted for the surgical
+removal of oropharyngeal squamous cell carcinoma (OPSCC). However, it is currently unknown if
+TORS has equal efﬁcacy and outcomes in patients with tonsillar or base of tongue (BOT) OPSCC.
+Therefore, we performed a systematic review, including articles describing the surgical management
+of OPSCC with TORS that compared margin status, complications, and recurrence between tonsil
+and BOT. BOT OPSCC had a higher rate of positive margins compared to tonsillar OPSCC. However,
+no differences were seen in the recurrence or postoperative hemorrhage rates of BOT and tonsillar
+OPSCC. While a higher rate of positive margins was seen in BOT OPSCC when compared to tonsillar
+OPSCC, this did not translate to a higher recurrence rate in the BOT group. Future research on which
+subset of patients with BOT is more likely to have positive margins is warranted to improve the
+utility of TORS further.
+Abstract: Transoral Robotic Surgery (TORS) has become widely adopted for the surgical removal of
+oropharyngeal squamous cell carcinoma (OPSCC), with the most common locations being in the tonsil
+and base of tongue (BOT). However, it is currently unknown if TORS has equal efﬁcacy and outcomes
+in patients with tonsillar or BOT OPSCC. Therefore, the aim of this study was to compare the margin
+status and recurrence rates of tonsillar and BOT OPSCC after TORS. Per PRISMA guidelines, PubMed,
+Scopus, and CINAHL were systematically searched from inception to 2/28/2022. Articles including
+the surgical management of OPSCC with TORS that compared margin status, complications, and
+recurrence between tonsil and BOT were included. Meta-analyses of proportions and odds ratios
+were performed. A total of 28 studies were included, comprising 1769 patients with tonsillar OPSCC
+and 1139 patients with BOT OPSCC. HPV positivity was seen in 92.3% of tumors. BOT OPSCC had
+a higher rate of positive margins compared to tonsillar OPSCC (28.1% [95%CI 15.1–43.3] vs. 7.5%
+[95%CI 3.3–13.3]). No differences were seen in recurrence between BOT and tonsillar OPSCC (OR
+1.1 [95%CI 0.8–1.5], p= 0.480). In addition, no differences in postoperative hemorrhage were seen
+between tonsillar and BOT OPSCC (10.7% [95%CI 6.1–16.5] vs. 8.8% [95% CI 1.5–21.3]). While a
+higher rate of positive margins was seen in BOT OPSCC when compared to tonsil OPSCC, this did
+not translate to a higher recurrence rate in the BOT group. Future research on which subset of patients
+with BOT is more likely to have positive margins is warranted to improve the utility of TORS further.
+Keywords: oropharyngeal squamous cell carcinoma; transoral robotic surgery; tonsil; base of tongue;
+positive margin; recurrence; postoperative hemorrhage
+1. Introduction
+The incidence of oropharyngeal squamous cell carcinoma (OPSCC) has consistently
+risen over the past 40 years, secondary to an increase in human papillomavirus (HPV)-
+Cancers 2022 ,14, 3837. https://doi.org/10.3390/cancers14153837 https://www.mdpi.com/journal/cancers Cancers 2022 ,14, 3837 2 of 17
+positive tumors [ 1–3]. OPSCC used to primarily be associated with tobacco and alcohol
+use, which has been shown to lead to a more aggressive disease pathology compared to
+HPV-associated OPSCC [ 4–6]. Secondary to the changing etiologies and pathogeneses of
+OPSCC, different therapeutic approaches and techniques, such as de-escalation strategies,
+are currently being explored to improve survival and long-term outcomes in patients with
+OPSCC [ 4,7]. Evidence shows that upfront transoral robotic surgery (TORS) is as effective
+as chemoradiotherapy, and it has been widely adopted for the treatment of T1 and T2
+primary OPSCC [ 8]. While TORS was initially used in the surgical resection of tonsillar
+OPSCC, it has now advanced to also removing base of tongue (BOT) tumors [9–11].
+However, there is currently limited and conﬂicting evidence on if there are varying sur-
+gical outcomes between the two most common sites of OPSCC: the tonsil and BOT [ 10]. One
+retrospective study noticed difﬁculty gaining proper exposure in BOT OPSCC compared to
+tonsillar OPSCC [ 12]. The authors also felt that the cryptic lingual tonsillar mucosa com-
+pared to the smooth mucosa of the tonsil made it more challenging to identify the extent of
+the tumor, particularly at the deep margin, which can be the hardest to clear [ 12,13]. While
+postoperative positive margins are crucial for the decision to perform adjuvant therapy,
+there is conﬂicting evidence on its utility when considering long-term survival [ 14,15]. One
+study found that patients requiring more intraoperative attempts to achieve a negative
+margin had a higher rate of death due to cancer [ 16], but two other studies did not ﬁnd any
+changes in survival when comparing patients with positive margins to negative margins in
+HPV-positive OPSCC after TORS [17,18].
+It is currently unknown if surgical outcomes differ between tonsillar and BOT OPSCC
+after TORS. Therefore, we performed a systematic review of the literature to analyze
+tumor margin status and recurrence rates after TORS. Secondarily, we also aimed to
+see if complication rates differed between the subsites. Our initial hypothesis was that
+BOT OPSCC would have increased rates of positive margins after TORS, which would
+translate to higher rates of recurrence when compared to patients with tonsillar OPSCC.
+We also hypothesized that BOT tumors would have more complications secondary to more
+technically challenging removals and attempts at negative margins.
+2. Materials and Methods
+2.1. Search Criteria
+This systematic review was performed following the Preferred Reporting Items for
+Systematic Reviews and Meta-Analyses (PRISMA) guidelines [ 19]. Two authors (N.S.P . and
+T.C.) developed search strategies for the following databases: PubMed (National Library
+of Medicine, National Institutes of Health); Scopus (Elsevier); and CINAHL (EBSCO) to
+identify studies for inclusion. These strategies used a combination of subject headings (e.g.,
+Medical Subject Headings [MeSH] in PubMed) and keywords for the concepts oropharyn-
+geal squamous cell carcinoma and TORS. The PubMed search strategy was developed ﬁrst
+and then used to design the search strategies for the other two databases; MeSH terms were
+replaced with appropriate subject headings and similar keywords when available. The
+search strategies are detailed in Appendix A. The databases were searched from inception
+to 28 February 2022. The reference lists of relevant articles and citing articles were manually
+searched to conﬁrm the search strategy and identify additional articles. All the articles
+were uploaded to the review management software Covidence (Veritas health innovation
+Ltd., Melbourne, Australia) and screened for relevance.
+2.2. Selection Criteria
+Studies that described cases of OPSCC treated with TORS were considered for inclu-
+sion. Double- or single-blinded randomized controlled trials, double- or single-blinded
+randomized comparison trials, non-randomized controlled trials, and prospective or retro-
+spective observational studies were considered for inclusion. Speciﬁcally, cases must have
+described outcome data pertaining to the TORS surgery to be considered for inclusion. For
+this review, the outcomes of postoperative margin status, hemorrhage, and locoregional Cancers 2022 ,14, 3837 3 of 17
+or metastatic recurrence were the primary outcomes of interest. Studies were excluded
+if they did not detail these three outcome variables based on either the tonsillar or BOT
+subsite. Furthermore, studies were excluded if outcomes were not speciﬁcally after TORS,
+such as with transoral or laser surgery. Studies that combined their outcome data from
+OPSCC with other malignancies were excluded. The remaining exclusion criteria included
+cancer database studies, case reports with less than four tonsillar or BOT OPSCC patients,
+non-English studies, and non-human studies.
+Titles and abstracts were ﬁrst independently screened by two reviewers (N.S.P . and
+T.C.) to identify the records that met the inclusion criteria. Disagreements were resolved in
+discussion with a third reviewer (S.A.N.). Next, the full texts of the selected records were
+independently assessed by both N.S.P . and T.C. to ﬁnd which articles met all the inclusion
+and exclusion criteria necessary to be included in the ﬁnal analysis. Any conﬂicts were
+resolved by S.A.N. The level of evidence for each selected article was evaluated with the
+Oxford Center for Evidence-Based Medicine [ 20]. The risk of bias for each selected report
+was assessed according to the Cochrane Handbook for Systematic Reviews of Interventions
+Version 6.0 [ 21]. The Risk of Bias in Non-Randomized Studies – of Interventions (ROBINS-I)
+tool was utilized because all the ﬁnal selected studies were non-randomized studies [ 22].
+The consistency of the risk of bias assessment was checked by the two authors (N.S.P . and
+T.C.) performing a pilot assessment on three studies and comparing for accuracy. Both then
+performed an independent risk assessment on the remaining studies. All disagreements
+were resolved by discussion with a third reviewer (S.A.N.). The risk of bias items included
+the following: bias due to confounding, bias in the selection of participants for the study,
+bias in the classiﬁcation of interventions, bias due to deviations from the intended inter-
+ventions, bias due to missing data, bias in the measurement of outcomes, and bias in the
+selection of the reported results. The risk of bias for each aspect was graded as low, unclear,
+or high.
+2.3. Data Extraction
+Two reviewers (N.S.P . and T.C.) independently extracted the data and compared for
+accuracy. The author; year of publication; country of study; demographics, including age
+and gender; and smoking status were recorded. In addition, disease characteristics for
+the entire cohort of patients were collected, including p16/HPV status, T-stage, N-stage,
+perineural invasion, extranodal extension, lymphovascular invasion, and extrascapular
+spread. The presence of neck dissection and adjuvant therapy (radiotherapy or chemora-
+diotherapy) was also recorded. The following outcomes speciﬁc to tonsillar or BOT subsite
+were extracted: the number of positive margins, locoregional and metastatic recurrence,
+and postoperative hemorrhage. Locoregional and metastatic recurrence was combined
+into the variable total recurrence. If a study did not specify whether the recurrence was
+locoregional or metastatic, those cases were counted only under total recurrence.
+2.4. Statistical Analysis
+Meta-analyses of odds ratios (comparison of locoregional recurrence, metastatic recur-
+rence, and total recurrence) between BOT and tonsil were performed with Cochrane Review
+Manager (RevMan) version 5.4 (The Cochrane Collaboration 2020). A meta-analysis of
+proportions was performed using MedCalc 19.6 (MedCalc Software Ltd., Ostend, Belgium;
+https://www.medcalc.org; accessed on 4 May 2020). The pooled prevalence rate of positive
+margin and hemorrhage for BOT and tonsil were expressed as a percentage with their 95%
+conﬁdence intervals (CI). Each measure was weighted according to the number of patients
+affected. The weighted-summary proportion was calculated by the Freeman–Tukey trans-
+formation [ 23]. Heterogeneity among the studies was assessed using 2and I2statistics.
+I2< 50% indicated acceptable heterogeneity, and, therefore, the ﬁxed-effects model was
+used; otherwise, the random-effects model was performed. In addition, a comparison of
+weighted proportions was performed to compare the prevalence rates of positive margin
+and hemorrhage between BOT and tonsil. Finally, Egger’s tests with funnel plots were per- Cancers 2022 ,14, 3837 4 of 17
+formed to further assess the risk of publication bias [ 24,25]. In a funnel plot, the treatment
+effect is plotted on the horizontal axis, and the standard error is plotted on the vertical
+axis. The vertical line represents the summary estimated and is derived using a ﬁxed-effect
+meta-analysis. Two diagonal lines represent (pseudo) 95% conﬁdence limits (effect 
+1.96 SE) around the summary effect for each standard error on the vertical axis. These show
+the expected distribution of studies in the absence of heterogeneity or selection bias. In
+the absence of heterogeneity, 95% of the studies should lie within the funnel deﬁned by
+these diagonal lines. Potential publication bias was evaluated by a visual inspection of
+the funnel plot (as bias results in asymmetry of the funnel plot), and Egger’s test, which
+statistically examines this asymmetry. A p-value of <0.05 was considered to indicate a
+statistically signiﬁcant difference for all the statistical tests.
+3. Results
+3.1. Search Results and Study Characteristics
+The search strategies yielded 1386 unique articles, with title and abstract screening
+excluding 1036 articles. A full-text review of the remaining studies excluded 322 articles,
+leaving 28 remaining articles for inclusion in the ﬁnal data extraction and analysis. Figure 1
+shows the PRISMA ﬂowchart, which details the entire search process.
+Cancers 2022, 14, x   4 of 18 
+ 
+ Freeman–Tukey  transformation  [23]. Heterogeneity  among the studies was assessed  us‐
+ing χ2 and I2 statistics.  I2 < 50% indicated  acceptable  heterogeneity,  and, therefore,  the 
+fixed‐effects model was used; otherwise,  the random‐effects model was performed.  In ad‐
+dition, a comparison  of weighted  proportions  was performed  to compare  the prevalence  
+rates of positive margin and hemorrhage  between BOT and tonsil. Finally, Egger’s tests 
+with funnel plots were performed  to further assess the risk of publication  bias [24,25]. In 
+a funnel plot, the treatment  effect is plotted on the horizontal  axis, and the standard  error 
+is plotted on the vertical axis. The vertical line represents  the summary  estimated  and is 
+derived using a fixed‐effect meta‐analysis.  Two diagonal  lines represent  (pseudo)  95% 
+confidence  limits (effect ± 1.96 SE) around the summary  effect for each standard  error on 
+the vertical axis. These show the expected  distribution  of studies in the absence of hetero‐
+geneity or selection  bias. In the absence of heterogeneity,  95% of the studies should lie 
+within the funnel defined by these diagonal  lines. Potential  publication  bias was evaluated  
+by a visual inspection  of the funnel plot (as bias results in asymmetry  of the funnel plot), 
+and Egger’s test, which statistically  examines  this asymmetry.  A p‐value of <0.05 was con‐
+sidered to indicate a statistically  significant  difference  for all the statistical  tests. 
+3. Results 
+3.1. Search Results and Study Characteristics  
+The search strategies  yielded 1386 unique articles, with title and abstract screening  
+excluding  1036 articles. A full‐text review of the remaining  studies excluded  322 articles, 
+leaving 28 remaining  articles for inclusion  in the final data extraction  and analysis.  Figure 
+1 shows the PRISMA  flowchart,  which details the entire search process. 
+ 
+Figure 1. PRISMA  flowchart  of study selection.  
+Figure 1. PRISMA ﬂowchart of study selection. Cancers 2022 ,14, 3837 5 of 17
+A critical appraisal of the studies indicated an acceptably low risk of bias for the
+majority of those that were included (Figure 2).
+Potential sources of bias were most pronounced in bias in the selection of participants
+and bias in the selection of the reported results. A funnel plot with Egger’s test sug-
+gested little publication bias, as all the studies were within the funnel with no asymmetry
+(0.4, 95% CI-1.0–1.8, p= 0.568) (Figure S1).
+Cancers 2022, 14, x   5 of 18 
+ 
+ A critical appraisal  of the studies indicated  an acceptably  low risk of bias for the ma‐
+jority of those that were included  (Figure 2). 
+ 
+Figure 2. Risk of bias assessment  of selected studies. 
+Potential  sources of bias were most pronounced  in bias in the selection  of participants  
+and bias in the selection  of the reported  results. A funnel plot with Egger’s test suggested  
+little publication  bias, as all the studies were within the funnel with no asymmetry  (0.4, 
+95% CI‐1.0–1.8, p = 0.568) (Figure S1). 
+Articles selected for inclusion  were level 4 studies based on the Oxford Level of Evi‐
+dence and were published  between 2009 and 2022 (Table 1). 
+Figure 2. Risk of bias assessment of selected studies.
+Articles selected for inclusion were level 4 studies based on the Oxford Level of
+Evidence and were published between 2009 and 2022 (Table 1). Cancers 2022 ,14, 3837 6 of 17
+Table 1. Description of included studies.
+Author
+(Year)OLEStudy
+DesignTotal
+Tonsil (N)Total
+BOT (N)P16/HPV
+(%)Age Mean or
+Median, Year
+(Range)Male
+(%)Never
+Smoked
+(%)Neck
+Dissection
+(%)T3 or
+T4 (%)N2 or
+N3
+(%)Perineural
+Invasion
+(%)Extra-nodal
+Extension
+(%)Lympho-
+vascular
+Invasion
+(%)Extra-
+capsular
+Spread
+(%)Adjuvant
+Radio-
+ther-
+apy
+(%)Adjuvant
+Chemora-
+diother-
+apy
+(%)Follow-Up
+Mean or
+Median, Year
+(Range)
+Bu 2021 4Case
+Series94 70 100.060.0
+(15.0–85.0)88.2 NR NR 3.0 58.6 NR NR NR 24.9 42.0 35.5NR
+(NR)
+Byeon
+20134Case
+Series4 0 NR54.0
+(38.0–64.0)75.0 NR 100.0 25.0 100.0 NR NR NR 25.0 NR NRNR
+(NR)
+Carey
+20214Case
+Series278 202 100.059.1
+(NR)86.7 32.5 NR 7.6 16.1 15.3 30.1 29.2 NR 45.8 37.7NR
+(NR)
+de
+Almeida
+20154Case
+Series186 130 69.459.6
+(NR)82.4 33.7 80.8 9.3 48.0 22.3 31.3 26.4 36.7 25.9 17.620.0
+(1.0–74.0)
+Dowthwaite
+20194Case
+Series26 0 92.363.0
+(41.0–77.0)80.8 76.9 26.9 0.0 0.0 NR NR NR NR 11.5 7.736.0
+(6.0–54.0)
+Dziegielewski
+20174Case
+Series79 0 85.955.6
+(39.2–78.5)77.2 15.2 NR 8.9 78.5 31.6 NR 40.5 35.1 30.4 53.210.5
+(0.0–42.3)
+Fradet
+20224Case
+Series55 44 91.359.0
+(NR)85.4 NR 93.2 2.9 40.8 8.7 47.6 50.5 NR 16.5 41.731.2
+(3.0–9.2)
+Funk
+20164Case
+Series16 9 100.058.0
+(39.0–91.0)NR NR NR NR 68.0 12.0 NR 92.0 28.0 NR 0.031.5
+(4.9–73.1)
+Gallitto
+20194Case
+Series26 19 79.554.0
+(NR)95.7 51.1 100.0 4.3 17.4 26.1 97.8 32.5 67.4 100.0 0.048.4
+(NR)
+Gobillot
+20194Case
+Series58 0 92.7NR
+(NR)89.7 NR 94.8 0.0 8.6 NR 19.0 NR NR 36.2 24.119.5
+(6.2–86.0)
+Hirshoren
+20184Case
+Series9 18 62.563.7
+(28.0–87.0)62.9 NR NR 4.2 21.7 NR NR NR NR NR NRNR
+(NR)
+Hobelmann
+20184Case
+Series63 52 100.058.0
+(38.0–87.0)87.1 44.8 NR NR NR NR 43.1 NR NR 32.8 58.630.0
+(8.0–82.0)
+Holcomb
+20214Case
+Series55 42 100.060.9
+(NR)82.8 45.9 NR 2.0 46.4 3.5 89.9 18.7 NR 0.0 0.028.5
+(6.0–121.0)
+Kubik
+20174Case
+Series114 122 82.659.0
+(NR)81.1 NR NR 10.2 NR NR NR NR NR NR NRNR
+(NR) Cancers 2022 ,14, 3837 7 of 17
+Table 1. Cont.
+Author
+(Year)OLEStudy
+DesignTotal
+Tonsil (N)Total
+BOT (N)P16/HPV
+(%)Age Mean or
+Median, Year
+(Range)Male
+(%)Never
+Smoked
+(%)Neck
+Dissection
+(%)T3 or
+T4 (%)N2 or
+N3
+(%)Perineural
+Invasion
+(%)Extra-nodal
+Extension
+(%)Lympho-
+vascular
+Invasion
+(%)Extra-
+capsular
+Spread
+(%)Adjuvant
+Radio-
+ther-
+apy
+(%)Adjuvant
+Chemora-
+diother-
+apy
+(%)Follow-Up
+Mean or
+Median, Year
+(Range)
+Kumar
+20214Case
+Series49 9 100.059.8
+(40.0–78.0)76.3 NR NR 1.7 39.7 NR NR NR NR NR NRNR
+(NR)
+Meccariello
+20194Case
+Series28 25 55.0NR
+(NR)NR NR NR 12.2 24.5 NR NR NR NR 33.3 36.730.3
+(NR)
+Moore
+20094Case
+Series19 26 NR57.0
+(38.0–88.0)88.9 66.7 95.6 24.4 68.9 NR NR NR NR 17.8 55.612.3
+(1.0–16.0)
+Moore
+20124Case
+Series40 26 71.755.2
+(36.0–80.0)89.4 50.0 100.0 9.7 74.2 3.0 NR 12.1 56.1 21.2 62.136.0
+(24.0–45.0)
+Olaleye
+20214Case
+Series21 22 87.860.5
+(NR)82.6 NR 61.2 10.6 10.0 NR NR NR NR 0.0 83.7NR
+(NR-54.0)
+Persky
+20184 Cohort 89 51 88.558.0
+(NR)80.0 34.5 NR NR 36.4 16.8 NR 16.9 NR NR NRNR
+(NR)
+Pipkorn
+20194 Cohort 133 108 100.054.0
+(27.0–83.0)86.0 47.3 100.0 22.6 NR 11.0 NR 31.3 78.4 41.9 34.133.0
+(5.0–65.0)
+Sadeghi
+20164Case
+Series4 6 80.059.8
+(NR)80.0 NR NR 20.0 0.0 NR NR NR NR 0.0 100.0NR
+(NR)
+Sims
+20174Case
+Series19 5 100.059.6
+(NR)82.6 NR NR 26.1 56.5 NR NR NR NR 17.4 30.413.2
+(0.0–74.4)
+Spellman
+20184Case
+Series14 0 100.057.6
+(32.0–72.0)78.6 78.6 100.0 0.0 0.0 7.1 NR 0.0 NR 7.1 NR28.0
+(1.0–56.0)
+Subramanian
+20164Case
+Series17 16 90.356.5
+(NR)73.5 38.2 85.3 12.1 52.9 NR NR NR 51.7 20.6 50.0NR
+(NR)
+Su 2020 4Case
+Series194 99 100.060.0
+(28.0–86.6)84.9 NR NR 3.2 48.6 NR NR NR NR 0.0 NR20.0
+(NR)
+Weinstein
+20074Case
+Series27 0 NRNR
+(NR)92.6 NR 96.3 22.2 37.0 7.4 NR NR NR 33.3 55.6NR
+(NR)
+Zebolsky
+20214Case
+Series52 38 100.063.0
+(36.0–87.0)83.1 47.1 100.0 2.2 70.6 8.8 19.9 25.0 NR NR NRNR
+(NR)
+OLE = Oxford Level of Evidence; CC = case-control; CS = case series; NR = not reported; N = number of patients; BOT = base of tongue. Cancers 2022 ,14, 3837 8 of 17
+3.2. Patient Characteristics
+A total of 2908 patients were included from all 28 studies (Table 1). The tonsillar
+OPSCC group had 1769 patients, and the BOT OPSCC group had 1139 patients. All
+patients’ mean and median age ranged from 54.0 years to 63.7 years, with most patients
+being male (range 62.9% to 95.7%). Most included patients did not have advanced disease
+(T3 and T4 range 0.0% to 26.1%), but there was a wide range of adjuvant radiotherapy
+(0.0% to 100.0%) and chemoradiotherapy (0.0% to 100%). The mean and median follow-up
+ranged from 10.5 to 48.4 months for the included studies.
+3.3. Margin Status
+A total of 12 studies included extractable data on margin status after resection using
+TORS [ 12,26–36]. BOT OPSCC had a statistically signiﬁcant higher rate of positive margins
+when compared to tonsillar OPSCC (28.1% [95% CI 15.1–43.3] vs. 7.5% [95% CI 3.3–13.3]).
+Both forest plots are shown in Figure 3A,B.
+Cancers 2022, 14, x   8 of 18 
+ 
+3.2. Patient Characteristics  
+A total of 2908 patients were included  from all 28 studies (Table 1). The tonsillar OP‐
+SCC group had 1769 patients,  and the BOT OPSCC group had 1139 patients.  All patientsʹ 
+mean and median age ranged from 54.0 years to 63.7 years, with most patients being male 
+(range 62.9% to 95.7%). Most included  patients did not have advanced  disease (T3 and T4 
+range 0.0% to 26.1%), but there was a wide range of adjuvant  radiotherapy  (0.0% to 
+100.0%) and chemoradiotherapy  (0.0% to 100%). The mean and median follow‐up ranged 
+from 10.5 to 48.4 months for the included  studies. 
+3.3. Margin Status 
+A total of 12 studies included  extractable  data on margin status after resection  using 
+TORS [12,26–36].  BOT OPSCC had a statistically  significant  higher rate of positive margins 
+when compared  to tonsillar OPSCC (28.1% [95% CI 15.1–43.3]  vs. 7.5% [95% CI 3.3–13.3]).  
+Both forest plots are shown in Figure 3A,B. 
+ 
+Figure 3. (A) Rate of positive margin in tonsillar OPSCC after TORS; (B) Rate of positive margin in 
+base of tongue OPSCC after TORS. 
+3.4. Recurrence  
+ The recurrence  of OPSCC after TORS was analyzed  by subsite in 13 studies [37–49]. 
+There was no statistically  significant  difference  in the odds of total recurrence  between 
+tonsillar and BOT OPSCC (1.1 [95%CI 0.8–1.5], p = 0.480) (Figure 4). 
+Figure 3. (A) Rate of positive margin in tonsillar OPSCC after TORS; ( B) Rate of positive margin in
+base of tongue OPSCC after TORS.
+3.4. Recurrence
+The recurrence of OPSCC after TORS was analyzed by subsite in 13 studies [ 37–49].
+There was no statistically signiﬁcant difference in the odds of total recurrence between
+tonsillar and BOT OPSCC (1.1 [95%CI 0.8–1.5], p= 0.480) (Figure 4).
+Cancers 2022, 14, x   9 of 18 
+ 
+  
+Figure 4. Comparison  of total recurrence  between tonsillar OPSCC and base of tongue OPSCC. 
+Furthermore,  no differences  were seen in the odds of recurrence  when separated  by 
+locoregional  (1.2 [95% CI 0.8–1.8], p = 0.500) and metastatic  recurrence  (0.8 [95% CI 0.4–
+1.6], p = 0.600). These forest plots are shown in Figures 5 and 6. 
+ 
+Figure 5. Comparison  of locoregional  recurrence  between tonsillar OPSCC and base of tongue OP‐
+SCC. 
+ 
+Figure 6. Comparison  of metastatic  recurrence  between tonsillar OPSCC and base of tongue OP‐
+SCC. 
+3.5. Hemorrhage  
+Postoperative  hemorrhage  was described  by subsite in nine articles for this review 
+[26–28,32,34,44,50–52].  There was no statistical  difference  between the hemorrhage  rates 
+Figure 4. Comparison of total recurrence between tonsillar OPSCC and base of tongue OPSCC. Cancers 2022 ,14, 3837 9 of 17
+Furthermore, no differences were seen in the odds of recurrence when separated by
+locoregional (1.2 [95% CI 0.8–1.8], p= 0.500) and metastatic recurrence (0.8 [95% CI 0.4–1.6],
+p= 0.600). These forest plots are shown in Figures 5 and 6.
+Cancers 2022, 14, x   9 of 18 
+ 
+  
+Figure 4. Comparison  of total recurrence  between tonsillar OPSCC and base of tongue OPSCC. 
+Furthermore,  no differences  were seen in the odds of recurrence  when separated  by 
+locoregional  (1.2 [95% CI 0.8–1.8], p = 0.500) and metastatic  recurrence  (0.8 [95% CI 0.4–
+1.6], p = 0.600). These forest plots are shown in Figures 5 and 6. 
+ 
+Figure 5. Comparison  of locoregional  recurrence  between tonsillar OPSCC and base of tongue OP‐
+SCC. 
+ 
+Figure 6. Comparison  of metastatic  recurrence  between tonsillar OPSCC and base of tongue OP‐
+SCC. 
+3.5. Hemorrhage  
+Postoperative  hemorrhage  was described  by subsite in nine articles for this review 
+[26–28,32,34,44,50–52].  There was no statistical  difference  between the hemorrhage  rates 
+Figure 5. Comparison of locoregional recurrence between tonsillar OPSCC and base of tongue OPSCC.
+Cancers 2022, 14, x   9 of 18 
+ 
+  
+Figure 4. Comparison  of total recurrence  between tonsillar OPSCC and base of tongue OPSCC. 
+Furthermore,  no differences  were seen in the odds of recurrence  when separated  by 
+locoregional  (1.2 [95% CI 0.8–1.8], p = 0.500) and metastatic  recurrence  (0.8 [95% CI 0.4–
+1.6], p = 0.600). These forest plots are shown in Figures 5 and 6. 
+ 
+Figure 5. Comparison  of locoregional  recurrence  between tonsillar OPSCC and base of tongue OP‐
+SCC. 
+ 
+Figure 6. Comparison  of metastatic  recurrence  between tonsillar OPSCC and base of tongue OP‐
+SCC. 
+3.5. Hemorrhage  
+Postoperative  hemorrhage  was described  by subsite in nine articles for this review 
+[26–28,32,34,44,50–52].  There was no statistical  difference  between the hemorrhage  rates 
+Figure 6. Comparison of metastatic recurrence between tonsillar OPSCC and base of tongue OPSCC.
+3.5. Hemorrhage
+Postoperative hemorrhage was described by subsite in nine articles for this re-
+view [ 26–28,32,34,44,50–52]. There was no statistical difference between the hemor-
+rhage rates in patients with tonsillar or BOT OPSCC treated with TORS. (10.7% [95% CI
+6.1–16.50] vs. 8.8% [95% CI 1.5–21.3]) (Figure 7A,B).
+Cancers 2022, 14, x   10 of 18 
+ 
+ in patients with tonsillar or BOT OPSCC treated with TORS. (10.7% [95% CI 6.1–16.50]  vs. 
+8.8% [95% CI 1.5–21.3])  (Figure 7A,B). 
+ 
+Figure 7. (A) Rate of postoperative  hemorrhage  in tonsillar OPSCC after TORS; (B) Rate of postop‐
+erative hemorrhage  in base of tongue OPSCC after TORS. 
+4. Discussion  
+There is a paucity of literature  comparing  the postoperative  outcomes  after TORS by 
+subsite, particularly  tonsil and BOT. Therefore,  we performed  this systematic  review and 
+meta‐analysis to compare  the margin, recurrence,  and postoperative  hemorrhage  rates be‐
+tween patients with tonsillar and BOT OPSCC. Notably,  patients with BOT OPSCC had 
+higher rates of positive margins after TORS, but contrary to our initial hypothesis,  this did 
+not translate  to a higher locoregional  or metastatic  recurrence  rate. Furthermore,  postop‐
+erative hemorrhage  rates were not noted to be different  between these two subgroups  of 
+patients undergoing  TORS. 
+In our included  studies, patients with BOT OPSCC had a higher proportion  of posi‐
+tive postoperative  margins compared  to patients with tonsillar OPSCC (28.1% vs. 7.5%). 
+In OPSCC, the positive margin rate for all subsites after TORS has been cited as between 
+16.9% and 21.2% [53–55]. The utility of TORS regarding  improvement  in margin status is 
+inconsistent.  One systematic  review that combined  outcomes  from TORS, transoral  laser 
+microsurgery  (TLM), and transoral  conventional  surgery found a lower positive margin 
+rate of 7.8%, with the tonsil and BOT subsites not being factors in margin status [56]. How‐
+ever, another retrospective  study of the National  Cancer Database  (NCDB) found that 
+TORS was associated  with a lower likelihood  of positive margins for all sites compared  to 
+non‐robotic procedures,  but not TLM [57]. When considering  outcomes  after TORS, an‐
+other NCDB study by Hanna et al. found the rate of BOT OPSCC positive margins was 
+higher than tonsillar OPSCC, but this was nonsignificant  [55]. Interestingly,  Hanna et al. 
+and another more recent NCDB review from Oliver et al. found that high volume cancer 
+centers reduced their positive margin rates by almost half compared  to low volume cen‐
+ters (12.7% versus 21.9% and 11.2% to 19.3%) [55,58]. Furthermore,  Oliver et al. found that 
+BOT positive margins were reduced by around 6% when comparing  rates from 2011 to 
+2016 [58]. A systematic  review on TORS found that specific procedures  were more difficult 
+due to the structural  components  of the robot, with BOT resections  being more likely to 
+Figure 7. (A) Rate of postoperative hemorrhage in tonsillar OPSCC after TORS; ( B) Rate of postoper-
+ative hemorrhage in base of tongue OPSCC after TORS. Cancers 2022 ,14, 3837 10 of 17
+4. Discussion
+There is a paucity of literature comparing the postoperative outcomes after TORS
+by subsite, particularly tonsil and BOT. Therefore, we performed this systematic review
+and meta-analysis to compare the margin, recurrence, and postoperative hemorrhage rates
+between patients with tonsillar and BOT OPSCC. Notably, patients with BOT OPSCC
+had higher rates of positive margins after TORS, but contrary to our initial hypothesis,
+this did not translate to a higher locoregional or metastatic recurrence rate. Furthermore,
+postoperative hemorrhage rates were not noted to be different between these two subgroups
+of patients undergoing TORS.
+In our included studies, patients with BOT OPSCC had a higher proportion of positive
+postoperative margins compared to patients with tonsillar OPSCC (28.1% vs. 7.5%). In
+OPSCC, the positive margin rate for all subsites after TORS has been cited as between
+16.9% and 21.2% [ 53–55]. The utility of TORS regarding improvement in margin status is
+inconsistent. One systematic review that combined outcomes from TORS, transoral laser
+microsurgery (TLM), and transoral conventional surgery found a lower positive margin
+rate of 7.8%, with the tonsil and BOT subsites not being factors in margin status [ 56].
+However, another retrospective study of the National Cancer Database (NCDB) found that
+TORS was associated with a lower likelihood of positive margins for all sites compared
+to non-robotic procedures, but not TLM [ 57]. When considering outcomes after TORS,
+another NCDB study by Hanna et al. found the rate of BOT OPSCC positive margins
+was higher than tonsillar OPSCC, but this was nonsigniﬁcant [ 55]. Interestingly, Hanna
+et al. and another more recent NCDB review from Oliver et al. found that high volume
+cancer centers reduced their positive margin rates by almost half compared to low volume
+centers (12.7% versus 21.9% and 11.2% to 19.3%) [ 55,58]. Furthermore, Oliver et al. found
+that BOT positive margins were reduced by around 6% when comparing rates from 2011
+to 2016 [ 58]. A systematic review on TORS found that speciﬁc procedures were more
+difﬁcult due to the structural components of the robot, with BOT resections being more
+likely to undergo conversion to an open approach [ 59]. As positive margin status is a strong
+consideration for adjuvant therapy and increased treatment burden, surgeons must be able
+to counsel patients appropriately on the risks after TORS. Our ﬁndings suggest that it may
+be more challenging to completely clear all margins in BOT OPSCC resections, but the
+literature suggests that high volume centers can signiﬁcantly reduce their positive margin
+rate through more experience.
+Even though BOT OPSCC had higher rates of positive margins, our study did not show
+increased odds of locoregional or metastatic recurrence for BOT OPSCC when compared to
+tonsillar OPSCC. In surgical oncological care, positive postoperative margins have been
+widely accepted as a prognostic factor for increased locoregional recurrence [ 60]. This has
+been endorsed in numerous studies of OPSCC, with patients who had ﬁnal positive mar-
+gins experiencing reduced disease-speciﬁc survival, recurrence-free survival, and overall
+survival [ 39,61–64]. However, all of these studies did not report HPV tumor status, which
+has been shown to be a crucial delineator when considering OPSCC outcomes [ 48]. Iyer
+et al. compared disease-speciﬁc survival based on margin status stratiﬁed by HPV positiv-
+ity [65]. While patients with positive margins had worse survival in HPV-negative cases,
+there was no difference in survival based on ﬁnal margins in HPV-positive patients [ 65].
+A more recent but smaller study endorsed these ﬁndings of margin status not being a
+predictive factor in p16 positive tumors [ 18]. These ﬁndings have been further conﬁrmed
+by Carey et al., who could not ﬁnd any pathological features associated with locoregional
+recurrence in p16 positive OPSCC [ 38]. However, a recent NCBD did endorse positive
+margin status as a statistically signiﬁcant prognosticator for risk of death in the univari-
+ate analysis, but these ﬁndings did not persist into the multivariate analysis [ 66]. When
+considering outcomes by subsite, the current literature is minimal. Only one retrospective
+review comparing intensity-modulated radiotherapy found BOT OPSCC to have a higher
+metastatic recurrence rate, while having similar locoregional control compared to tonsillar
+OPSCC [ 67]. As our included patients had a pooled proportion of 92.3% p16/HPV-positive Cancers 2022 ,14, 3837 11 of 17
+malignancies, this study endorses the current literature and deintensiﬁcation trends that
+the increased positive margins in BOT tumors may not be an essential variable when
+considering locoregional and metastatic recurrence.
+Regarding rates of postoperative hemorrhage, our study did not ﬁnd any statistical
+differences between tonsillar and BOT OPSCC (10.7% and 8.8%). These rates are similar to
+postoperative hemorrhage in all cases after TORS, which is reported to be between 1.5% and
+13.0% [ 68–72]. As postoperative hemorrhage after TORS can cause mortality, decreasing
+the risk factors for this complication is crucial to improving surgical care [ 71]. The literature
+is limited in directly comparing hemorrhage rates between tonsil and BOT. One study
+endorsed no differences in both univariate and multivariate analyses [ 73], but two other
+studies, including one national database, found that tonsillar OPSCC had higher odds of
+experiencing postoperative hemorrhage when compared to BOT [ 74,75]. Neither study had
+complete explanations for why tonsillar OPSCC had higher hemorrhage rates but argued
+that it could be due to an increased likelihood that T3 or T4 tumors of the tonsils were being
+removed with TORS, while T3 and T4 BOT OPSCC would almost exclusively undergo
+an open approach [ 74,75]. Since T3 and T4 tumors involve the larger arteries around
+the tonsillar fossa, theoretically, there could be a higher chance of hemorrhage [ 74,75].
+One of these studies felt that it was more multifactorial secondary to platelet dysfunction,
+antithrombotic medications, or hepatic insufﬁciencies [ 75]. While our study endorsed
+no differences, the BOT conﬁdence interval was very wide (1.5% to 21.3%), secondary
+to only three studies with extractable data. Therefore, we feel that this ﬁnding should
+be interpreted with caution and should be used as a hypothesis-generating ﬁnding for
+future research.
+The most signiﬁcant limitation of this study was the lack of subgroup analyses. As
+most of the studies included in this systematic review looked at other outcomes of TORS
+after OPSCC, only a few direct comparisons of tonsillar versus BOT OPSCC could be ex-
+tracted. Therefore, unfortunately, we could not separate patients by their adjuvant therapy
+status for each subsite. As radiotherapy or chemoradiotherapy has been supported for
+tumors with positive margins [ 76,77], these treatments may have inﬂuenced the nonsigniﬁ-
+cant differences in locoregional and distant control seen between tonsillar and BOT OPSCC,
+even though BOT OPSCC had higher rates of positive margins. Only two studies reported
+differences in adjuvant therapy between subsites, with Fradet et al. ﬁnding no differences
+in the rate of adjuvant therapy, whereas Persky et al. found that BOT OPSCC underwent
+more chemoradiation secondary to more positive margins [ 12,40]. In looking at all the
+subsites combined, a few studies have endorsed TORS with adjuvant therapy to be supe-
+rior to TORS alone, particularly when considering locoregional control [ 16,38]. However,
+the literature is not consistent, with two studies showing excellent locoregional (3.0% to
+3.3%) and distant control (0.0% to 8.4%) in patients with HPV-positive OPSCC undergoing
+single modality TORS therapy, regardless of margin status [ 78,79]. Furthermore, more
+studies have shown that both negative margin status and adjuvant therapy do not improve
+recurrence and survival and that salvage therapy can be just as effective for those patients
+with recurrences [ 39,42,43,80]. Nichols et al. even said that, because of the high survival
+rate in HPV OPSCC after TORS, margins and adjuvant therapy most likely do not con-
+tribute to overall outcomes. As adjuvant radiotherapy and chemoradiotherapy have been
+shown to signiﬁcantly worsen quality of life compared to TORS [ 81,82], more research is
+needed to fully understand the inﬂuence of adjuvant therapy on recurrence in OPSCC with
+positive margins.
+Furthermore, we could not separate patients with more signiﬁcant disease, such as
+T3 and T4 staging, an elevated Charlson comorbidity index, or extranodal extension. In
+particular, for the postoperative hemorrhage analysis, we could not separate patients on
+anticoagulation or antiplatelet medications, which have shown to be a signiﬁcant risk
+factor for post-TORS hemorrhage [ 71,74]. Furthermore, this study was limited by the
+heterogeneity between studies. Some studies reported on their ﬁrst implementations of
+TORS at their institution, while others performed recent retrospective reviews after a decade Cancers 2022 ,14, 3837 12 of 17
+of use. As increased experience with TORS can decrease postoperative positive margins,
+the length of institutional experience with TORS may have been a confounding factor in
+these analyses [ 58]. Moreover, while most studies included upfront TORS for OPSCC,
+some included salvage procedures that were unable to be factored out of the analysis,
+therefore, potentially elevating rates of positive margin, recurrence, and hemorrhage for
+that particular study. In addition, positive margins were not classiﬁed uniformly, with
+some studies using the typical 5 mm mark for clear margins, while others classiﬁed 2 mm
+or close margins as clear. Follow-up varied signiﬁcantly with the studies, with some studies
+only including an average of ten months of follow-up, with others including up to forty
+months. This factor could decrease the studies’ measurement of locoregional or metastatic
+recurrence with short follow-up compared to those with extensive follow-up. Lastly, the
+fact that all studies were retrospective case series limits how this analysis translates to
+the general population. Therefore, a prospective observational trial using standardized
+deﬁnitions of a positive margin and follow-up would better elucidate differences in tonsillar
+and BOT OPSCC outcomes after TORS.
+5. Conclusions
+In this systematic review comparing tonsillar and BOT OPSCC, a higher rate of positive
+margins was seen in BOT OPSCC. However, there was no difference in the locoregional and
+metastatic recurrence rates between these subsites. In addition, postoperative hemorrhage
+rates did not statistically differ. High heterogeneity between the studies limited the ability
+to perform clinically relevant subgroup analyses to identify which particular tonsillar or
+BOT OPSCC patients would be at a higher risk of these poor outcomes. Therefore, future
+research to identify these risk factors in patients with each tonsillar and BOT OPSCC is
+warranted to improve the utility of TORS and oncological care.
+Supplementary Materials: The following supporting information can be downloaded at: https://www.
+mdpi.com/article/10.3390/cancers14153837/s1, Figure S1: Funnel plot to assess for publication bias.
+Author Contributions: Conceptualization, N.S.P ., T.C., S.A.N. and J.G.N.; methodology, N.S.P ., T.C.,
+S.A.N. and J.G.N.; software, N.S.P ., T.C. and S.A.N.; validation, N.S.P ., T.C. and S.A.N.; formal analysis,
+N.S.P ., T.C. and S.A.N.; investigation, N.S.P ., T.C. and S.A.N.; resources, S.A.N.; data curation, N.S.P .,
+T.C. and S.A.N.; writing—original draft preparation, N.S.P . and S.A.N.; writing—review and editing,
+T.C., S.A.N., C.-A.O.N. and J.G.N.; visualization, N.S.P ., T.C. and S.A.N.; supervision, S.A.N. and
+J.G.N.; project administration, N.S.P . and S.A.N.; funding acquisition, S.A.N. All authors have read
+and agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable because this study was a systematic review
+of currently published data.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+Appendix A
+PubMed (U.S. National Library of Medicine, National Institutes of Health) Search Strategy
+(“oropharyngeal neoplasms”[MeSH] OR “oropharyngeal neoplasms/mortality”[MeSH]
+OR “oropharyngeal neoplasms/therapy”[MeSH] OR “squamous cell carcinoma of head
+and neck”[MeSH] OR “oropharyngeal cancer”[tiab] OR “oropharyngeal squamous cell
+carcinoma”[tiab] OR “tonsillar cancer”[tiab] OR “tonsillar squamous cell carcinoma”[tiab]
+OR “base of tongue cancer”[tiab] OR “base of tongue carcinoma”[tiab] OR “oropharyn-
+gectomy”[tiab]) AND ("Robotic Surgical Procedures"[Mesh] OR "Robotic Surgical Proce-
+dures/methods"[Mesh] OR “Laser Therapy”[MeSH] OR “Laser Therapy/mortality”[MeSH]
+OR “Laser Therapy/methods”[MeSH] OR “Microsurgery/methods”[MeSH] OR “Micro-
+surgery”[MeSH] OR “Microsurgery/mortality”[MeSH] OR transoral[tiab] OR laser[tiab] OR
+microsurgery[tiab] OR “transoral laser microsurgery”[tiab] OR “transoral laser surgery”[tiab]
+OR robotic[tiab] OR robot[tiab] OR “robotic surgery”[tiab] OR TORS[tiab] OR “transoral laser Cancers 2022 ,14, 3837 13 of 17
+microsurgical excision”[tiab] OR “laser microsurgical excision”[tiab] OR “laser excision”[tiab]
+OR “microsurgical excision”[tiab])
+ Filters/limits: none
+ Date Searched: 28 February 2022
+ # of records identiﬁed: 1007
+Scopus (Elsevier) Search Strategy: (1062 Results)
+TITLE-ABS-KEY(“oropharyngeal neoplasms” OR “oropharyngeal neoplasms mor-
+tality” OR “oropharyngeal neoplasms therapy” OR “squamous cell carcinoma of head
+and neck” OR “oropharyngeal cancer” OR “oropharyngeal squamous cell carcinoma” OR
+“tonsillar cancer” OR “tonsillar squamous cell carcinoma” OR “base of tongue cancer” OR
+“base of tongue carcinoma” OR “oropharyngectomy”) AND TITLE-ABS-KEY (“Robotic
+Surgical Procedures” OR “Robotic Surgical Procedures methods” OR “Laser Therapy” OR
+“Laser Therapy mortality” OR “Laser Therapy methods” OR “Microsurgery methods” OR
+“Microsurgery” OR “Microsurgery mortality” OR transoral OR laser OR microsurgery
+OR “transoral laser microsurgery” OR “transoral laser surgery” OR robotic OR robot
+OR “robotic surgery” OR TORS OR “transoral laser microsurgical excision” OR “laser
+microsurgical excision” OR “laser excision” OR “microsurgical excision”)
+ Filters/limits: none
+ Date Searched: 28 February 2022
+ # of records identiﬁed: 1062
+CINAHL (EBSCOhost) Search Strategy: (286 Results)
+(“oropharyngeal neoplasms” OR “oropharyngeal neoplasms mortality” OR “oropha-
+ryngeal neoplasms therapy” OR “squamous cell carcinoma of head and neck” OR “oropha-
+ryngeal cancer” OR “oropharyngeal squamous cell carcinoma” OR “tonsillar cancer” OR
+“tonsillar squamous cell carcinoma” OR “base of tongue cancer” OR “base of tongue carci-
+noma” OR “oropharyngectomy”) AND (“Robotic Surgical Procedures” OR “Robotic Surgi-
+cal Procedures methods” OR “Laser Therapy” OR “Laser Therapy mortality” OR “Laser
+Therapy methods” OR “Microsurgery methods” OR “Microsurgery” OR “Microsurgery
+mortality” OR transoral OR laser OR microsurgery OR “transoral laser microsurgery” OR
+“transoral laser surgery” OR robotic OR robot OR “robotic surgery” OR TORS OR “transoral
+laser microsurgical excision” OR “laser microsurgical excision” OR “laser excision” OR
+“microsurgical excision”)
+ Filters/limits: none
+ Date Searched: 28 February 2022
+ # of records identiﬁed: 286
+References
+1. Osazuwa-Peters, N.; Simpson, M.C.; Massa, S.T.; Boakye, E.A.; Antisdel, J.L.; Varvares, M.A. 40-year incidence trends for
+oropharyngeal squamous cell carcinoma in the United States. Oral Oncol. 2017 ,74, 90–97. [CrossRef] [PubMed]
+2. Craig, S.; Anderson, L.; Schache, A.; Moran, M.; Graham, L.; Currie, K.; Rooney, K.; Robinson, M.; Upile, N.S.; Brooker, R.; et al.
+Recommendations for determining HPV status in patients with oropharyngeal cancers under TNM8 guidelines: A two-tier
+approach. Br. J. Cancer 2019 ,120, 827–833. [CrossRef] [PubMed]
+3. Plummer, M.; de Martel, C.; Vignat, J.; Ferlay, J.; Bray, F.; Franceschi, S. Global burden of cancers attributable to infections in 2012:
+A synthetic analysis. Lancet Glob. Heal. 2016 ,4, e609–e616. [CrossRef]
+4. O’Sullivan, B.; Huang, S.H.; Su, J.; Garden, A.S.; Sturgis, E.M.; Dahlstrom, K.; Lee, N.; Riaz, N.; Pei, X.; A Koyfman, S.; et al.
+Development and validation of a staging system for HPV-related oropharyngeal cancer by the International Collaboration on
+Oropharyngeal cancer Network for Staging (ICON-S): A multicentre cohort study. Lancet Oncol. 2016 ,17, 440–451. [CrossRef]
+5. Dahlstrom, K.R.; Calzada, G.; Hanby, J.D.; Garden, A.S.; Glisson, B.S.; Li, G.; Roberts, D.B.; Weber, R.S.; Sturgis, E.M. An Evolution
+in Demographics, Treatment, and Outcomes of Oropharyngeal Cancer at a Major Cancer Center: A Staging System in Need of
+Repair. Cancer 2013 ,119, 81–89. [CrossRef] Cancers 2022 ,14, 3837 14 of 17
+6. Huang, S.H.; Xu, W.; Waldron, J.; Siu, L.; Shen, X.; Tong, L.; Ringash, J.; Bayley, A.; Kim, J.; Hope, A.; et al. Reﬁning American Joint
+Committee on Cancer/Union for International Cancer Control TNM Stage and Prognostic Groups for Human Papillomavirus–
+Related Oropharyngeal Carcinomas. J. Clin. Oncol. 2015 ,33, 836–845. [CrossRef]
+7. Bauwens, L.; Baltres, A.; Fiani, D.-J.; Zrounba, P .; Buiret, G.; Fleury, B.; Benzerdjeb, N.; Gr égoire, V . Prevalence and distribution of
+cervical lymph node metastases in HPV-positive and HPV-negative oropharyngeal squamous cell carcinoma. Radiother. Oncol.
+2021 ,157, 122–129. [CrossRef]
+8. Cracchiolo, J.R.; Baxi, S.S.; Morris, L.G.; Ganly, I.; Patel, S.G.; Cohen, M.A.; Roman, B.R. Increase in primary surgical treatment of
+T1 and T2 oropharyngeal squamous cell carcinoma and rates of adverse pathologic features: National Cancer Data Base. Cancer
+2016 ,122, 1523–1532. [CrossRef]
+9. Cracchiolo, J.R.; Roman, B.R.; Kutler, D.I.; Kuhel, W.I.; Cohen, M.A. Adoption of transoral robotic surgery compared with other
+surgical modalities for treatment of oropharyngeal squamous cell carcinoma. J. Surg. Oncol. 2016 ,114, 405–411. [CrossRef]
+10. Gross, N.D.; Holsinger, F.C.; Magnuson, J.S.; Duvvuri, U.; Genden, E.M.; Ghanem, T.A.; Yaremchuk, K.L.; Goldenberg, D.;
+Miller, M.C.; Moore, E.J.; et al. Robotics in Otolaryngology and Head and Neck Surgery: Recommendations for Training and
+Credentialing: A Report of the 2015 Ahns Education Committee, Aao-Hns Robotic Task Force and Aao-Hns Sleep Disorders
+Committee. Head Neck. 2016 ,38, E151–E158. [CrossRef]
+11. Mercante, G.; Ruscito, P .; Pellini, R.; Cristalli, G.; Spriano, G. Transoral robotic surgery (TORS) for tongue base tumours. Acta
+Otorhinolaryngol. Ital. 2013 ,33, 230–235.
+12. Persky, M.J.; Albergotti, W.G.; Rath, T.J.; Kubik, M.W.; Abberbock, S.; Geltzeiler, M.; Kim, S.; Duvvuri, U.; Ferris, R.L. Positive
+Margins by Oropharyngeal Subsite in Transoral Robotic Surgery for T1/T2 Squamous Cell Carcinoma. Otolaryngol. Head Neck
+Surg. 2018 ,158, 660–666. [CrossRef]
+13. Geltzeiler, M.; Clayburgh, D.; Gleysteen, J.; Gross, N.D.; Hamilton, B.; Andersen, P .; Brickman, D. Predictors of extracapsular
+extension in HPV-associated oropharyngeal cancer treated surgically. Oral Oncol. 2017 ,65, 89–93. [CrossRef]
+14. Howard, F.M.; Kochanny, S.; Koshy, M.; Spiotto, M.; Pearson, A.T. Machine Learning–Guided Adjuvant Treatment of Head and
+Neck Cancer. JAMA Netw. Open 2020 ,3, e2025881. [CrossRef]
+15. Brandwein-Gensler, M.; Teixeira, M.S.; Lewis, C.M.; Lee, B.; Rolnitzky, L.; Hille, J.J.; Genden, E.; Urken, M.L.; Wang, B.Y. Oral
+Squamous Cell Carcinoma: Histologic Risk Assessment, but Not Margin Status, Is Strongly Predictive of Local Disease-Free and
+Overall Survival. Am. J. Surg. Pathol. 2005 ,29, 167–178. [CrossRef]
+16. Moore, E.J.; Van Abel, K.M.; Price, D.L.; Lohse, C.M.; Olsen, K.D.; Jackson, R.; Martin, E.J. Transoral robotic surgery for
+oropharyngeal carcinoma: Surgical margins and oncologic outcomes. Head Neck 2018 ,40, 747–755. [CrossRef]
+17. Viet, C.T.; Dierks, E.J.; Cheng, A.C.; Patel, A.A.; Chang, S.-C.; Couey , M.A.; Watters, A.L.; Hoang, T.; Xiao, H.D.; Crittenden, M.R.; et al.
+Transoral robotic surgery and neck dissection for HPV-positive oropharyngeal carcinoma: Importance of nodal count in survival.
+Oral Oncol. 2020 ,109, 104770. [CrossRef]
+18. Molony, P .; Kharytaniuk, N.; Boyle, S.; Woods, R.S.R.; O’Leary, G.; Werner, R.; Heffron, C.; Feeley, L.; Sheahan, P . Impact of
+positive margins on outcomes of oropharyngeal squamous cell carcinoma according to p16 status. Head Neck 2017 ,39, 1680–1688.
+[CrossRef]
+19. Moher, D.; Liberati, A.; Tetzlaff, J.; Altman, D.G.; PRISMA Group. Preferred reporting items for systematic reviews and
+meta-analyses: The PRISMA statement. PLoS Med. 2009 ,6, e1000097. [CrossRef]
+20. Oxford Centre for Evidence-Based Medicine. The Oxford Levels of Evidence 2. Available online: https://www.cebm.ox.ac.uk/
+resources/levels-of-evidence/ocebm-levels-of-evidence (accessed on 20 July 2021).
+21. Sally, G.; Higgins, J.P .T. (Eds.) Cochrane Handbook for Systematic Reviews of Interventions. John Wiley & Sons: New York, NY,
+USA, 2011.
+22. Sterne, J.A.C.; Hern án, M.A.; Reeves, B.C.; Savovi´ c, J.; Berkman, N.D.; Viswanathan, M.; Henry, D.; Altman, D.G.; Ansari, M.T.;
+Boutron, I.; et al. ROBINS-I: A tool for assessing risk of bias in non-randomised studies of interventions. BMJ 2016 ,355, i4919.
+[CrossRef]
+23. Freeman, M.F.; Tukey, J.W. Transformations Related to the Angular and the Square Root. Ann. Math. Stat. 1950 ,21, 607–611.
+[CrossRef]
+24. Egger, M.; Smith, G.D.; Schneider, M.; Minder, C. Bias in Meta-Analysis Detected by a Simple, Graphical Test. BMJ 1997 ,
+315, 629–634. [CrossRef] [PubMed]
+25. Sterne, J.A.; Egger, M. Funnel plots for detecting bias in meta-analysis: Guidelines on choice of axis. J. Clin. Epidemiol. 2001 ,
+54, 1046–1055. [CrossRef]
+26. Dowthwaite, S.; Panizza, B.; O’Neill, J.; Porceddu, S.; Jackson, J.E.; Chua, B. Outcomes of primary trans-oral surgical management
+of early tonsillar squamous cell carcinoma with risk-adapted adjuvant radiotherapy. Aust. J. Otolaryngol. 2019 ,2, 7. [CrossRef]
+27. Dziegielewski, P .T.; Boyce, B.J.; Old, M.; Teknos, T.N.; Agrawal, A.; Patwa, H.; Ozer, E. Transoral robotic surgery for tonsillar
+cancer: Addressing the contralateral tonsil. Head Neck 2017 ,39, 2224–2231. [CrossRef] [PubMed]
+28. Gobillot, T.; Kaka, A.S.; Patel, S.A.; Rodriguez, C.; Cannon, R.B.; Futran, N.D.; Houlton, J.J. Treatment of Tonsillar Carcinoma
+following Nononcologic Tonsillectomy: Efﬁcacy of Transoral Robotic Revision Tonsillectomy. Otolaryngol. Neck Surg. 2018 ,
+160, 627–634. [CrossRef] [PubMed]
+29. Hirshoren, N.; Ruskin, O.; Fua, T.; Kleid, S.; Magarey, M.; Dixon, B. Transoral robotic surgery: Implementation as a tool in head
+and neck surgery — A single-centre Australian experience. ANZ J. Surg. 2016 ,88, 1129–1134. [CrossRef] Cancers 2022 ,14, 3837 15 of 17
+30. Kumar, A.; Laskar, S.G.; Thiagarajan, S. Is Transoral Robotic Surgery (Tors) for Oropharyngeal Squamous Cell Carcinoma Being
+Done More Often Than Actually Indicated? Head Neck 2021 ,43, 1376–1377. [CrossRef]
+31. Olaleye, O.; Jeong, B.; Switajewski, M.; Ooi, E.H.; Krishnan, S.; Foreman, A.; Hodge, J.-C. Trans-oral robotic surgery for head and
+neck cancers using the Medrobotics Flex®system: The Adelaide cohort. J. Robot. Surg. 2021 ,16, 527–536. [CrossRef]
+32. Spellman, J.; Sload, R.; Kim, P .; Martin, P .; Calzada, G. Staging Neck Dissection and Transoral Robotic Surgery Treatment
+Algorithm in Palatine Tonsil Cancer. Otolaryngol. Neck Surg. 2017 ,158, 479–483. [CrossRef]
+33. Subramanian, H.; Park, H.S.; Barbieri, A.; Mahajan, A.; Judson, B.L.; Mehra, S.; Yarbrough, W.G.; Burtness, B.A.; Husain, Z.A.
+Pretreatment predictors of adjuvant chemoradiation in patients receiving transoral robotic surgery for squamous cell carcinoma
+of the oropharynx: A case control study. Cancers Head Neck 2016 ,1, 7. [CrossRef]
+34. Weinstein, G.S.; O’Malley, B.W., Jr.; Snyder, W.; Sherman, E.; Quon, H. Transoral Robotic Surgery: Radical Tonsillectomy. Arch.
+Otolaryngol. Head Neck Surg. 2007 ,133, 1220–1226. [CrossRef]
+35. Zebolsky, A.L.; George, E.; Gulati, A.; Wai, K.C.; Carpenter, P .; Van Zante, A.; Ha, P .K.; Heaton, C.M.; Ryan, W.R. Risk of Pathologic
+Extranodal Extension and Other Adverse Features After Transoral Robotic Surgery in Patients With HPV-Positive Oropharynx
+Cancer. JAMA Otolaryngol. Neck Surg. 2021 ,147, 1080. [CrossRef]
+36. Gallitto, M.; Sindhu, K.; Wasserman, I.; De, B.; Gupta, V .; Miles, B.A.; Genden, E.M.; Posner, M.; Misiukiewicz, K.; Bakst, R.L.
+Trimodality Therapy for Oropharyngeal Cancer in the Tors Era: Is There a Cohort That May Beneﬁt? Head Neck 2019 ,41, 3009–3022.
+[CrossRef]
+37. Bu, D.D.; Ferrandino, R.; Ba, E.M.R.; Liu, S.; Miles, B.A.; Teng, M.S.; Yao, M.; Genden, E.M.; Chai, R.L. Lymph Node Ratio in HPV
+-Associated Oropharyngeal Cancer: Identiﬁcation of a Prognostic Threshold. Laryngoscope 2020 ,131, E184–E189. [CrossRef]
+38. Carey, R.M.; Brody, R.M.; Ba, D.S.; Shinn, J.R.; Mady, L.J.; Rajasekaran, K.; Cannady, S.B.; Lin, A.; Lukens, J.N.;
+Bauml, J.M.; et al. Locoregional Recurrence in p16-Positive Oropharyngeal Squamous Cell Carcinoma After TORS. Laryngoscope
+2021 ,131, E2865–E2873. [CrossRef]
+39. de Almeida, J.R.; Li, R.; Magnuson, J.S.; Smith, R.V .; Moore, E.; Lawson, G.; Remacle, M.; Ganly, I.; Kraus, D.H.; Teng, M.S.; et al.
+Oncologic Outcomes after Transoral Robotic Surgery: A Multi-Institutional Study. JAMA Otolaryngol. Head Neck Surg. 2015 ,
+141, 1043–1051. [CrossRef]
+40. Fradet, L.; Charters, E.; Gao, K.; Froggatt, C.; Palme, C.; Riffat, F.; Nguyen, K.; Wu, R.; Milross, C.; Clark, J.R. Avoidance of primary
+site adjuvant radiotherapy following transoral robotic surgery: A cohort study. ANZ J. Surg. 2022 ,92, 511–517. [CrossRef]
+41. Funk, R.K.; Moore, E.J.; Garc ía, J.J.; Ms, W.S.H.; Stoddard, D.G.; Vencio, E.F.; Foote, R.L.; Price, K.A.; Ma, D.J. Risk factors for
+locoregional relapse after transoral robotic surgery for human papillomavirus-related oropharyngeal squamous cell carcinoma.
+Head Neck 2015 ,38, E1674–E1679. [CrossRef]
+42. Hobelmann, K.C.; Topf, M.C.; Bar-Ad, V .; Luginbuhl, A.J.; Keane, W.M.; Curry, J.M.; Cognetti, D.M. AJCC-8ed nodal staging does
+not predict outcomes in surgically managed HPV-associated oropharyngeal cancer. Oral Oncol. 2018 ,82, 138–143. [CrossRef]
+43. Holcomb, A.J.; Herberg, M.; Strohl, M.; Ochoa, E.; Feng, A.L.; Abt, N.B.; Mokhtari, T.E.; Suresh, K.; McHugh, C.I.; Parikh, A.S.;
+et al. Impact of surgical margins on local control in patients undergoing single-modality transoral robotic surgery for HPV-related
+oropharyngeal squamous cell carcinoma. Head Neck 2021 ,43, 2434–2444. [CrossRef] [PubMed]
+44. Moore, E.J.; Olsen, K.D.; Kasperbauer, J.L. Transoral robotic surgery for oropharyngeal squamous cell carcinoma: A prospective
+study of feasibility and functional outcomes. Laryngoscope 2009 ,119, 2156–2164. [CrossRef] [PubMed]
+45. Moore, E.J.; Olsen, S.M.; Laborde, R.R.; Garc ía, J.J.; Walsh, F.J.; Price, D.L.; Janus, J.R.; Kasperbauer, J.L.; Olsen, K.D. Long-term
+Functional and Oncologic Results of Transoral Robotic Surgery for Oropharyngeal Squamous Cell Carcinoma. Mayo Clin. Proc.
+2012 ,87, 219–225. [CrossRef] [PubMed]
+46. Pipkorn, P .; Sinha, P .; Kallogjeri, D.; Adkins, D.; Thorstad, W.T.; Rich, J.T.; Jackson, R. Outcomes of relapsed human papillomavirus-
+related oropharyngeal squamous cell carcinoma treated with curative intent. Head Neck 2018 ,41, 1312–1319. [CrossRef]
+47. Sadeghi, N.; Li, N.-W.; Taheri, M.R.; Easley, S.; Siegel, R.S. Neoadjuvant chemotherapy and transoral surgery as a deﬁnitive
+treatment for oropharyngeal cancer: A feasible novel approach. Head Neck 2016 ,38, 1837–1846. [CrossRef]
+48. Sims, J.R.; Van Abel, K.; Martin, E.J.; Lohse, C.M.; Price, D.L.; Olsen, K.D.; Moore, E.J. Management of Recurrent and Metastatic
+HPV-Positive Oropharyngeal Squamous Cell Carcinoma after Transoral Robotic Surgery. Otolaryngol. Neck Surg. 2017 ,157, 69–76.
+[CrossRef]
+49. Su, W.; Rajeev-Kumar, G.; Kang, M.; Posner, M.; Liu, J.; Westra, W.; Miles, B.A.; Gupta, V .; Sharma, S.; Misiukiewicz, K.; et al.
+Long-term outcomes in patients with recurrent human papillomavirus-positive oropharyngeal cancer after upfront transoral
+robotic surgery. Head Neck 2020 ,42, 3490–3496. [CrossRef]
+50. Byeon, H.K.; Duvvuri, U.; Kim, W.S.; Park, Y.M.; Hong, H.J.; Koh, Y.W.; Choi, E.C. Transoral Robotic Retropharyngeal Lymph
+Node Dissection With or Without Lateral Oropharyngectomy. J. Craniofacial Surg. 2013 ,24, 1156–1161. [CrossRef]
+51. Kubik, M.; Mandal, R.; Albergotti, W.; Duvvuri, U.; Ferris, R.L.; Kim, S. Effect of transcervical arterial ligation on the severity of
+postoperative hemorrhage after transoral robotic surgery. Head Neck 2017 ,39, 1510–1515. [CrossRef]
+52. Meccariello, G.; Cammaroto, G.; Ofo, E.; Calpona, S.; Parisi, E.; D’Agostino, G.; Gobbi, R.; Firinu, E.; Bellini, C.; De Vito, A.; et al.
+The emerging role of trans-oral robotic surgery for the detection of the primary tumour site in patients with head-neck unknown
+primary cancers: A meta-analysis. Auris Nasus Larynx 2019 ,46, 663–671. [CrossRef]
+53. Chen, M.M.; Roman, S.A.; Kraus, D.H.; Sosa, J.A.; Judson, B.L. Transoral Robotic Surgery: A Population-Level Analysis.
+Otolaryngol. Head Neck Surg. 2014 ,150, 968–975. [CrossRef] Cancers 2022 ,14, 3837 16 of 17
+54. Morisod, B.; Venara-Vulpe, I.I.; Alzuphar, S.; Monnier, Y.; Bongiovanni, M.; Hagmann, P .; Bouchaab, H.; Bourhis, J.; Simon, C.
+Minimizing adjuvant treatment after transoral robotic surgery through surgical margin revision and exclusion of radiographic
+extracapsular extension: A Prospective observational cohort study. Head Neck 2017 ,39, 965–973. [CrossRef]
+55. Hanna, J.; Morse, E.; Brauer, P .R.; Judson, B.; Mehra, S. Positive margin rates and predictors in transoral robotic surgery after
+federal approval: A national quality study. Head Neck 2019 ,41, 3064–3072. [CrossRef]
+56. Gorphe, P .; Simon, C. A systematic review and meta-analysis of margins in transoral surgery for oropharyngeal carcinoma. Oral
+Oncol. 2019 ,98, 69–77. [CrossRef]
+57. Li, H.; Ba, S.J.T.; Park, H.S.; Yarbrough, W.G.; Mehra, S.; Choi, R.; Judson, B.L. Clinical value of transoral robotic surgery:
+Nationwide results from the ﬁrst 5 years of adoption. Laryngoscope 2018 ,129, 1844–1855. [CrossRef]
+58. Oliver, J.R.; Persky, M.J.; Wang, B.; Duvvuri, U.; Gross, N.D.; Vaezi, A.E.; Morris, L.G.T.; Givi, B. Transoral robotic surgery
+adoption and safety in treatment of oropharyngeal cancers. Cancer 2021 ,128, 685–696. [CrossRef]
+59. Fiacchini, G.; Vianini, M.; Dallan, I.; Bruschini, L. Is the Da Vinci Xi system a real improvement for oncologic transoral robotic
+surgery? A systematic review of the literature. J. Robot. Surg. 2020 ,15, 1–12. [CrossRef]
+60. Alicandri-Ciufelli, M.; Bonali, M.; Piccinini, A.; Marra, L.; Ghidini, A.; Cunsolo, E.M.; Maiorana, A.; Presutti, L.; Conte, P .F.
+Surgical Margins in Head and Neck Squamous Cell Carcinoma: What Is ‘Close’? Eur. Arch. Otorhinolaryngol. 2013 ,270, 2603–2609.
+[CrossRef]
+61. Machtay, M.; Perch, S.; Markiewicz, D.; Thaler, E.; Chalian, A.; Goldberg, A.; Kligerman, M.; Weinstein, G. Combined Surgery
+and Postoperative Radiotherapy for Carcinoma of the Base of Radiotherapy for Carcinoma of the Base of Tongue: Analysis of
+Treatment Outcome and Prognostic Value of Margin Status. Head Neck 1997 ,19, 494–499. [CrossRef]
+62. Cohen, M.A.; Weinstein, G.S.; O’Malley, B.W.; Feldman, M.; Quon, H. Transoral robotic surgery and human papillomavirus status:
+Oncologic results. Head Neck 2010 ,33, 573–580. [CrossRef]
+63. Weinstein, G.S.; O’Malley, B.W., Jr.; Magnuson, J.S.; Carroll, W.R.; Olsen, K.D.; Daio, L.; Moore, E.J.; Holsinger, F.C. Transoral
+Robotic Surgery: A Multicenter Study to Assess Feasibility, Safety, and Surgical Margins. Laryngoscope 2012 ,122, 1701–1707.
+[CrossRef]
+64. Horwich, P .; MacKay, C.; Bullock, M.; Taylor, S.M.; Hart, R.; Trites, J.; Geldenhuys, L.; Williams, B.; Rigby, M.H. Specimen oriented
+intraoperative margin assessment in oral cavity and oropharyngeal squamous cell carcinoma. J. Otolaryngol. Head Neck Surg.
+2021 ,50, 37. [CrossRef]
+65. Iyer, N.G.; Dogan, S.; Palmer, F.; Rahmati, R.; Nixon, I.; Lee, N.; Patel, S.G.; Shah, J.; Ganly, I. Detailed Analysis of Clinicopathologic
+Factors Demonstrate Distinct Difference in Outcome and Prognostic Factors Between Surgically Treated HPV-Positive and
+Negative Oropharyngeal Cancer. Ann. Surg. Oncol. 2015 ,22, 4411–4421. [CrossRef]
+66. Han, M.; Stanford-Moore, G.B.; Larson, A.R.; Schoppy, D.W.; Cognetti, D.M.; Joshi, A.S.; Houlton, J.J.; Ryan, W.R. Predictors of
+Mortality in HPV-Associated Oropharynx Carcinoma Treated With Surgery Alone. Laryngoscope 2019 ,130, E423–E435. [CrossRef]
+[PubMed]
+67. Kanakamedala, M.R.; Giri, S.P .G.; Hamilton, R.D.; Bhanat, E.; Vijayakumar, S. Outcomes utilizing intensity-modulated radiother-
+apy in oropharyngeal cancers: Tonsils versus base of tongue. Head Neck 2018 ,40, 1034–1039. [CrossRef] [PubMed]
+68. Chia, S.H.; Gross, N.D.; Richmon, J.D. Surgeon Experience and Complications with Transoral Robotic Surgery (TORS). Otolaryngol.
+Neck Surg. 2013 ,149, 885–892. [CrossRef] [PubMed]
+69. De Almeida, J.R.; Byrd, J.K.; Wu, R.; Stucken, C.L.; Duvvuri, U.; Goldstein, D.P .; Miles, B.A.; Teng, M.S.; Gupta, V .; Genden, E.M.
+A systematic review of transoral robotic surgery and radiotherapy for early oropharynx cancer: A systematic review. Laryngoscope
+2014 ,124, 2096–2102. [CrossRef] [PubMed]
+70. Asher, S.A.; White, H.N.; Kejner, A.E.; Rosenthal, E.L.; Carroll, W.R.; Magnuson, J.S. Hemorrhage after Transoral Robotic-Assisted
+Surgery. Otolaryngol. Neck Surg. 2013 ,149, 112–117. [CrossRef]
+71. Gleysteen, J.; Troob, S.; Light, T.; Brickman, D.; Clayburgh, D.; Andersen, P .; Gross, N. The impact of prophylactic external carotid
+artery ligation on postoperative bleeding after transoral robotic surgery (TORS) for oropharyngeal squamous cell carcinoma. Oral
+Oncol. 2017 ,70, 1–6. [CrossRef]
+72. Vergez, S.; Lallemant, B.; Ceruse, P .; Moriniere, S.; Aubry, K.; De Mones, E.; Benlyazid, A.; Mallet, Y. Initial Multi-institutional
+Experience with Transoral Robotic Surgery. Otolaryngol. Neck Surg. 2012 ,147, 475–481. [CrossRef]
+73. Hay, A.; Nixon, I.J. Recent Advances in the Understanding and Management of Oropharyngeal Cancer. F1000Research 2018 ,7, 72.
+[CrossRef]
+74. Pollei, T.R.; Hinni, M.L.; Moore, E.J.; Hayden, R.E.; Olsen, K.D.; Casler, J.D.; Walter, L.C. Analysis of Postoperative Bleeding and
+Risk Factors in Transoral Surgery of the Oropharynx. JAMA Otolaryngol. Neck Surg. 2013 ,139, 1212–1218. [CrossRef]
+75. Zenga, J.; Suko, J.; Kallogjeri, D.; Pipkorn, P .; Nussenbaum, B.; Jackson, R.S. Postoperative hemorrhage and hospital revisit after
+transoral robotic surgery. Laryngoscope 2017 ,127, 2287–2292. [CrossRef]
+76. Bernier, J.; Cooper, J.S.; Pajak, T.F.; Van Glabbeke, M.; Bourhis, J.; Forastiere, A.; Ozsahin, E.M.; Jacobs, J.R.; Jassem, J.;
+Ang, K.-K.; et al. Deﬁning risk levels in locally advanced head and neck cancers: A comparative analysis of concurrent
+postoperative radiation plus chemotherapy trials of the EORTC (#22931) and RTOG (# 9501). Head Neck 2005 ,27, 843–850.
+[CrossRef]
+77. Ward, M.C.; Koyfman, S.A. Transoral robotic surgery: The radiation oncologist’s perspective. Oral Oncol. 2016 ,60, 96–102.
+[CrossRef] Cancers 2022 ,14, 3837 17 of 17
+78. Weinstein, G.S.; Quon, H.; Newman, H.J.; Chalian, J.A.; Malloy, K.; Lin, A.; Desai, A.; Livolsi, V .A.; Montone, K.T.;
+Cohen, K.R.; et al. Transoral Robotic Surgery Alone for Oropharyngeal Cancer: An Analysis of Local Control. Arch. Otolaryngol.
+Head Neck Surg. 2012 ,138, 628–634. [CrossRef]
+79. Kaczmar, J.M.; Tan, K.S.; Heitjan, D.F.; Lin, A.; Ahn, P .H.; Newman, J.G.; Rassekh, C.H.; Chalian, A.A.; O’Malley, B.W.;
+Cohen, R.B.; et al. HPV-related oropharyngeal cancer: Risk factors for treatment failure in patients managed with primary
+transoral robotic surgery. Head Neck 2014 ,38, 59–65. [CrossRef]
+80. Zenga, J.; Graboyes, E.; Janz, T.; Drake, V .; Rettig, E.; Desai, S.; Nickel, C.; Shabani, S.; Padhya, T.; Scarpinato, M.; et al. Salvage of
+Recurrence after Surgery and Adjuvant Therapy: A Multi-institutional Study. Otolaryngol. Neck Surg. 2019 ,161, 74–81. [CrossRef]
+81. Dziegielewski, P .T.; Teknos, T.N.; Durmus, K.; Old, M.; Agrawal, A.; Kakarala, K.; Marcinow, A.; Ozer, E. Transoral Robotic
+Surgery for Oropharyngeal Cancer: Long-Term Quality of Life and Functional Outcomes. JAMA Otolaryngol. Head Neck Surg.
+2013 ,139, 1099–1108. [CrossRef]
+82. Sethia, R.; Yumusakhuylu, A.C.; Ozbay, I.; Diavolitsis, V .; Brown, N.V .; Zhao, S.; Wei, L.; Old, M.; Agrawal, A.; Teknos, T.N.; et al.
+Quality of life outcomes of transoral robotic surgery with or without adjuvant therapy for oropharyngeal cancer. Laryngoscope
+2017 ,128, 403–411. [CrossRef]

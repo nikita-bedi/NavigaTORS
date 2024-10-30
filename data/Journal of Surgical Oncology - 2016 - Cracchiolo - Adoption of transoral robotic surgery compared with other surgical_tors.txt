@@ -1,0 +1,489 @@
+Adoption of Transoral Robotic Surgery Compared With Other Surgical
+Modalities for Treatment of Oropharyngeal Squamous Cell Carcinoma
+JENNIFER R. CRACCHIOLO, MD,1BENJAMIN R. ROMAN, MD, MSHP ,1DAVID I. KUTLER, MD,2
+WILLIAM I. KUHEL, MD,2ANDMARC A. COHEN, MD, MPH1*
+1Memorial Sloan Kettering Cancer Center, New York, New York
+2Weill Cornell Medical College, New York, New York
+Background and Objectives: Transoral robotic surgery (TORS) has increased for treatment of oropharyngeal squamous cell carcinoma (OPSCC).
+To de ﬁne the adoption of TORS, we analyzed patterns of surgical treatment for OPSCC in the US.
+Methods: Cases of T1-T3 OPSCC treated with surgery between 2010 and 2013 from the National Cancer Database were queried.
+Results: Of 3,071 patients who underwent primary surgical management for T1-T3 OPSCC, 846 (28%) underwent TORS. On multivariable analysis,
+low tumor stage (T2 vs. T1: OR 0.75, CI 0.37 –0.51, P<0.0001; T3 vs. T1: O.R. 0.33, CI 0.28 –0.38, P<0.0001), treatment at an academic cancer
+center (O.R. 2.23, C.I. 1.29 –3.88, P¼0.004) and treatment at a high volume hospital (34 –155 cases vs. 1 –4 cases: O.R. 9.07, C.I. 3.19 –25.79,
+P<0.0001) were associated with increased TORS approach. Signi ﬁcant geographic variation was observed, with high adoption in the Middle
+Atlantic. Positive margin rates were lower when TORS was performed at a high volume versus low volume hospital (8.2% vs. 16.7% respectively,
+P¼0.001).
+Conclusions: Tumor and non-tumor factors are associated with TORS adoption. This analysis suggests uneven diffusion of this technology in the
+treatment of OPSCC.
+J. Surg. Oncol. 2016;114:405 –411./C2232016 Wiley Periodicals, Inc.
+KEYWORDS: oropharyngeal squamous cell carcinoma (OPSCC); trans-oral robotic surgery (TORS); positive margins
+INTRODUCTION
+In the right conditions, new technology will ﬁrst be adopted by
+innovators, followed by diffusion into society through cumulative
+normal distribution [1,2]. Transoral robotic surgery (TORS) as a
+primary surgical treatment modality for oropharyngeal squamous cell
+carcinoma (OPSSC) is in the early stages of this adoption curve.McLeod and Melder published the ﬁrst clinical report of TORS utilizing
+theda Vinci robot (Intuitive Surgical Inc., Sunnyvale, CA) for the
+excision of a benign vallecular cyst [3]. The modality ’s extension to
+malignant tumors came in 2006, when in three patients, O ’Malley,
+Weinstein and colleagues showed the ef ﬁcacy of TORS in the treatment
+of three patients with carcinoma of the tongue base [4]. Subsequent
+reports from a prospective trial at the University of Pennsylvania
+demonstrating the safety and feasibility of performing radicaltonsillectomy and partial pharyngectomy led to Food and Drug
+Administration (FDA) approval of TORS for management of early
+stage (T1 and T2) malignant disease in 2009 [4 –7].
+Historically, primary surgical approaches to the oropharynx
+involved open surgical resection with mandibulotomy. Alternatively,transoral oropharyngectomy with mouth gag and headlight has been
+used to reduce the morbidity of open surgery and transoral laser
+microsurgery (TLM) has augmented the ability to resect the base of
+tongue and tonsils in the hands of some surgeons [8,9]. Nonetheless, the
+morbidity associated with open surgery, exposure challenges withtransoral surgery, and studies demonstrating effective nonsurgical
+management [10] have resulted in many authors advocating for primary
+radiation treatment for OPSCC over the last several decades [11].
+In order for new technology to be adopted, advantages over current
+strategies need to be demonstrated. Hockstein et al. reported bene ﬁts of
+TORS including: 3-dimensional imaging through a dual endoscope
+mechanism, enabling visualization at angles and reducing line of site
+issues; robotic instrumentation ’s wider range of motions compared to
+traditional endoscopic instruments; scaling of movement, allowinglarge movements of the hands that result in small corresponding
+instrument movements; and the dampening of hand tremors [6]. In
+contrast to TLM, TORS allows for an en bloc rather than a piecemeal or
+cutting procedure in addition to overcoming the line of sight limitations.Reported disadvantages of TORS include lack of tactile feedback from
+the da Vinci robot ’s EndoWrist Instruments, limited con ﬁguration
+options, and cost [12,13]. Despite its disadvantages, TORS represents a
+standardized, easily adoptable, and reproducible method of surgical
+management of OPSCC. In addition to this new surgical technology,emerging understanding of the epidemiology of human papilloma virus
+(HPV)-related OPSCC has improved prognosis and increased rates
+of early presentation. These surgically amenable small tumors
+(T-classi ﬁcation disease) are well-suited for management transoral
+primary surgical treatment [14 –18]. Further, the widespread
+acknowledgment of the signi ﬁcant morbidity and late toxicities
+associated with primary radiation strategies in a patient population
+poised to live for many years have laid the groundwork for a
+technology-driven paradigm shift in the treatment of OPSCC [19].
+To date, only isolated, early time points have been analyzed
+regarding national trends of the adoption and diffusion of TORS
+Grant sponsor: National Institutes of Health/National Cancer Institute;
+Grant number: #P30 CA008748.
+Conﬂicts of interest: None.
+*Correspondence to: Marc A. Cohen, MD, MPH, Department of Surgery,
+Memorial Sloan Kettering Cancer Center, Head and Neck Service, 1275
+York Avenue, Rm C-1075, New York, NY 10065. Fax: þ1-917-432-2311.
+E-mail: cohenm2@mskcc.org
+Received 16 June 2016; Accepted 18 June 2016
+DOI 10.1002/jso.24353Published online 8 July 2016 in Wiley Online Library
+(wileyonlinelibrary.com).Journal of Surgical Oncology 2016;114:405 –411
+/C2232016 Wiley Periodicals, Inc. compared to other primary surgical approaches in the treatment of
+OPSCC [20,21]. We recently reported that primary surgical treatment
+of early stage OPSCC has risen [22]. It is unclear what contribution
+TORS has had in this increase and if this surgical approach has beenuniformly adopted. We hypothesize that adoption of TORS nationally
+has increased, however, it is concentrated and associated with tumor
+and non-tumor factors. To test this premise, we analyzed the surgicalapproach utilized in a large cohort of patients in the National Cancer
+Database who were diagnosed with OPSCC. In addition, we used
+margin positivity rates to determine what factors in ﬂuence better
+surgical outcomes for those undergoing TORS.
+MATERIALS AND METHODS
+Study Population
+The data source for this study was the National Cancer Database
+(NCDB), a joint program of the Commission on Cancer and the
+American College of Surgeons that collects hospital-based registry data
+on over 80% of US oral cavity and pharynx cases [23]. The source ﬁles
+were used in accordance with the NCDB Participant User Files (PUF)data use agreement.
+We identi ﬁed all patients /C2118 years diagnosed with clinically
+staged T1-T3 OPSCC from 2010 to 2013. We included ICDO codes
+for the “oropharynx ”(ICDO C019, C090, C091, C098, C099, C100,
+C101, C102, C103, C104, C108, C109, C142) with histologicallyproven squamous cell carcinoma tissue examined by microscope.
+Patients who had received treatment outside of the NCDB reporting
+facility, whose treatment information was incomplete, and whosestaging information was inconsistent with treatment information or
+could not be assessed were excluded. Patients were included in the
+analysis only if they underwent a primary surgical procedure, which
+we de ﬁne as surgery before any radiation or chemotherapy. Local
+tumor excision such as excisional biopsy was not considered primarysurgery. For tonsil and other oropharynx sites, all categories of
+pharyngectomy were used. For base-of-tongue tumors, primary
+surgical patients were those who underwent at least glossectomy and
+not local tumor excision. The total cohort with complete data was
+3,071 patients (Fig. 1).
+Outcomes
+The primary outcome assessed was surgical approach. Patients were
+categorized as receiving TORS or other surgical approach. Patientswere de ﬁned as treated with TORS as the primary surgical approach if
+they were coded as “Robotic assisted or Robotic converted to open. ”
+Other surgical approaches included the codes endoscopic or
+laparoscopic; endoscopic or laparoscopic converted to open, open or
+approach unspeci ﬁed. The NCDB does not specify what other surgical
+approach was used (open, Bovie/headlight, TLM) and so thisinformation could not be included in the analysis. Additionally the
+“surgical approach ”item was ﬁrst introduced into the NCDB in 2010,
+making that year the starting point of our analysis.
+A secondary outcome was the presence of a positive margin
+resection in patients who underwent primary surgical treatment. For this
+analysis, we included only those records of patients undergoing TORS
+or other surgical approach with complete information on margin status.
+Covariates
+Covariates including patient sociodemographic factors including
+age, sex, race, insurance status (grouped as private, Medicare, Medicaidor uninsured), and comorbidities (Charlson-Deyo Comorbidity index)
+were analyzed [24]. Hospital volume was de ﬁned as the total new
+OPSCC cases treated with a primary surgical approach inclusive of
+2010 –2013, with hospitals divided into quartiles by volume for
+analysis. Hospital type was de ﬁned as either academic, which included
+academic/research programs as well as National Cancer Institute-
+designated Comprehensive Cancer Centers, or community, which
+included Community Cancer Programs, Comprehensive Community
+Cancer Programs, Integrated Network Cancer Programs, and other
+speciﬁed types of programs.
+Analysis
+Chi-squared tests were used to analyze TORS adoption over time
+and to compare tumor factors, patient sociodemographic factors, and
+hospital factors among patients who underwent TORS versus other
+surgical approach. For multivariable analysis we used hierarchical
+generalized linear models with a logit link function to account forclustering of patients within hospitals while evaluating the in ﬂuence of
+tumor, patient sociodemographic, and hospital factors on the binary
+choice of primary surgical approach. Pvalues<0.05 were considered
+signiﬁcant. Analyses were conducted using Stata Statistical Software
+(Release 12.1; Stata Inc., College Station, TX).
+RESULTS
+Characteristics of the Cohort
+We identi ﬁed 3,071 patients with T1-T3 OPSCC treated with
+primary surgery between 2010 and 2013. Males represented 77% of the
+study cohort. Table I summarizes the patient and tumor characteristics.
+The majority of patients were ages 50 –64 (55%) and white (90.7%). The
+Charlson-Deyo Comorbidity score was zero for 78.1% of patients. Mostpatients were treated in an academic center (65.5%), with one quarter of
+patients (25.4%) being treated in low volume centers (performing 1 –4
+surgical cases over study time) and 24.3% being treated in high volumecenters (treating 34 –155 surgical cases over study time). Patients with
+private insurance represent the majority of the cohort (63.3%).
+Regarding tumor factors, 44.0% of patients were clinically staged as
+T1, 45.6% as T2 and 10.4% as T3.
+TORS as Choice of Surgical Approach Over Time
+Of the patients with OPSCC with tumor stage T1-T3 disease
+treated with primary surgery, 27.6% were treated with TORS as the
+primary surgical modality during the study period. TORS utilizationincreased over time (20.6% in 2010 to 32.2% by 2013, P<0.0001;
+Fig. 2). When TORS was selected as the surgical approach, 14.2% of
+patients had a positive margin resection compared to an overall
+positive margin rate of 23.8% in patients treated with other surgical
+approach ( P<0.0001; Fig. 3a). Positive margin status during this
+t i m ep e r i o dr e m a i n e dc o n s t a n t ,w i t hn os i g n i ﬁcant difference
+observed over time ( P¼0.261; Fig. 3b).
+Fig. 1. Flow diagram of patient inclusion and exclusions.
+Journal of Surgical Oncology406 Cracchiolo et al.
+ 10969098, 2016, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jso.24353 by Stanford University, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Patient and Tumor Factors Associated With TORS as Choice
+of a Primary Surgical Approach
+There were no signi ﬁcant differences in selecting TORS versus a
+non-robotic modality (hereafter referred to as “alternative ”) based on
+age, race, or Charlson-Deyo Comorbidity scores. Males were more
+likely to undergo TORS than females (29.2% vs. 21.9%, respectively,
+P<0.0001). Clinical tumor classi ﬁcation also in ﬂuenced surgical
+modality section; patients with T3 tumors were more likely to undergo
+an alternative surgical treatment than T2 or T1 tumors (19.1% T3,27.9% T2, 29.2% T1; P¼0.001). On multivariate analysis, male sex
+(female vs. male: OR 0.74, CI 0.58 –0.95, P¼0.018) and lowerT classi ﬁcation (T2 vs. T1: OR 0.75, CI 0.37 –0.51, P<0.0001; T3 vs.
+T1: O.R. 0.33, CI 0.28 –0.38, P<0.0001) were associated with
+increased likelihood of undergoing TORS versus another primary
+surgical approach.
+Early Adoption of TORS Across Insurance Status, Hospital
+Setting, and Geography
+Non-tumor and non-patient characteristics were associated with
+surgical approach selection. These included patient insurance status,hospital setting characteristics, and location of treatment. InsuranceTABLE I. Primary Treatment Modality in Patients with T1-T3 OPSCC
+Overall TORS (vs. other surgical approach)Multivariable analysis of TORS (vs. other
+surgical approach)
+Characteristic No. (Column %) No. (row % compared to other) P-value Adjusted odds ratio (95% C.I.) P-value
+Patients 3,071 846 (27.6%)
+Age at diagnosis P¼0.137
+<50 474 (15.4%) 116 (24.5%) 1 [Reference]
+50–64 1,688 (55%) 471 (27.9%) 1.2 (0.89 –1.63) P¼0.232
+65–79 803 (26.2%) 236 (29.4%) 1.4 (0.91 –2.03) P¼0.138
+/C2180 106 (3.4%) 23 (21.7%) 1.1 (0.54 –2.17) P¼0.816
+Sex P<0.0001
+Male 2,364 (77.0%) 691 (29.2%) 1 [Reference]Female 707 (23.0%) 155 (21.9%) 0.74 (0.58 –0.95) P¼0.018
+Race P¼0.970
+White 2,787 (90.7%) 766 (27.5%) 1 [Reference]Black 199 (6.5%) 56 (28.1%) 1.23 (0.82 –1.87) P¼0.316
+Other 85 (2.8%) 24 (28.2%) 0.89 (0.48 –1.64) P¼0.711
+Clinical T classification
+/C3P¼0.001
+T1 1,352 (44.0%) 395 (29.2%) 1 [Reference]
+T2 1,400 (45.6%) 390 (27.9%) 0.75 (0.37 –0.51) P<0.0001
+T3 319 (10.4%) 61 (19.1%) 0.33 (0.28 –0.38) P<0.0001
+Insurance Status P¼0.021
+Private 1,944 (63.3%) 555 (28.5%) 1 [Reference]Uninsured 128 (4.2%) 21 (16.4%) 0.93 (0.50 –1.73) P¼0.819
+Medicaid 942 (30.7%) 252 (26.8%) 0.82 (0.61 –1.12) P¼0.216
+Medicare 57 (1.8%) 18 (31.6%) 1.23 (0.59 –2.58) P¼0.572
+Charlson-deyo comorbidity count P¼0.847
+0 2,398 (78.1%) 663 (27.7%) 1 [Reference]
+1 539 (17.5%) 149 (27.6%) 0.89 (0.68 –1.16) P¼0.387
+/C212 134 (4.4%) 34 (25.4%) 0.66 (0.41 –1.08) P¼0.102
+Year of diagnosis P<0.0001
+2010 665 (21.6%) 137 (20.6%)2011 742 (24.2%) 202 (27.2%)2012 795 (25.9%) 227 (28.5%)2013 869 (28.3%) 280 (32.2%)
+Geographic Location P<0.0001
+Southeast 585 (19.5%) 99 (16.9%) 1 [Reference]
+Northeast 99 (3.3%) 15 (15.2%) 1.40 (0.36 –5.44) P¼0.627
+Atlantic 540 (18.0%) 230 (42.6%) 5.66 (2.55 –12.58) P<0.0001
+Greatlakes 481 (16.0%) 109 (22.7%) 2.72 (1.25 –5.92) P¼0.011
+South 251 (8.4%) 80 (31.9%) 3.82 (1.44 –10.13) P¼0.007
+Midwest 396 (13.2%) 127 (32.1%) 4.63 (2.17 –9.87) P<0.0001
+West 172 (5.7%) 42 (24.4%) 2.93 (1.08 –7.93) P¼
+0.035
+Mountain 149 (5.0%) 23 (15.4%) 1.29 (0.52 –3.16) P¼0.577
+Pacific 328 (10.9%) 107 (32.6%) 3.62 (1.54 –8.56) P¼0.003
+Facility type P<0.0001
+Academic/ NCI CCC 1,966 (65.5%) 699 (35.6%) 2.23 (1.29 –3.88) P¼0.004
+Community 1035 (34.5%) 133 (12.6%) 1 [Reference]
+Hospital volume P<0.0001
+1–4 cases 779 (25.4%) 49 (6.3%) 1 [Reference]
+5–15 cases 835 (27.2%) 212 (25.4%) 5.87 (3.22 –10.69) P<0.0001
+16–32 cases 709 (23.1%) 265 (37.4%) 13.82 (6.37 –29.99) P<0.0001
+34–155 cases 748 (24.3%) 320 (42.8%) 9.07 (3.19 –25.79) P<0.0001
+OPSCC, oropharyngeal squamous cell carcinoma; NCI CCC, national cancer institute comprehensive cancer center; N, nodal; T, tumor. Geographic Loca tions:
+Northeast (CT, MA, ME, NH, RI, VT); Atlantic (NJ, NY, PA); Southeast(DC, DE, FL, GA, MD, NC, SC, VA, WV); Greatlakes (IL, IN, MI, OH, WI); South (AL, KY,
+MS, TN); Midwest (IA, KS, MN, MO, ND, NE, SD); West (AR, LA, OK, TX); Mountain (AZ, CO, ID, MT, NM, NV, UT, WY); Paci ﬁc (AK, CA, HI, OR, WA). Bold
+P-values are <0.05.
+/C3Both nodal and T stage de ﬁned as clinical staging, since this was the only information available before selection of surgical treatment modality.
+Journal of Surgical OncologyAdoption of Transoral Robotic Surgery 407
+ 10969098, 2016, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jso.24353 by Stanford University, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ status was associated with selection of TORS as the surgical treatment
+approach for OPSCC on univariate analysis. Patients with Medicare
+were most likely to have TORS (31.6%), while private insurance,
+Medicaid and uninsured patients were less likely (28.5% private
+insurance, 26.8% Medicaid, and 16.4% uninsured, P¼0.021).
+The percentage of total surgical cases done across the 4 quartiles of
+hospital volume centers were similar (1 –4 cases, 25.4%; 5 –15 cases,
+27.2%; 16 –32 cases, 23.1%; 33 –155 case; 24.3%; Fig. 4a). On
+multivariate analysis, patients receiving treatment in an academic center
+were signi ﬁcantly more likely to have TORS than patients undergoing
+treatment in a community hospital (O.R. 2.23, C.I. 1.29 –3.88,
+P¼0.004; Fig. 4b). Additionally, the highest-volume hospitals were
+signiﬁcantly more likely to use TORS compared to the lowest-volume
+hospitals (34 –155 cases vs. 1 –4 cases: O.R. 9.07, C.I. 3.19 –25.79,
+P<0.0001; see Fig. 4a). TORS carried out in low-volume hospitals
+were more likely to have a positive margin resection than cases in high-
+volume hospitals (16.7% vs. 8.2%, P¼0.001; Fig. 4a). Community
+hospitals were also associated with a signi ﬁcantly higher rate of a
+positive margin resections than academic centers (26.9% vs. 11.6%,
+P<0.0001; see Fig. 4b).
+Geographic variability was observed in the early adoption period
+analyzed. The highest rates of TORS were seen in the Middle Atlantic(NJ, NY, PA) region and the lowest in Northeast (CT, MA, ME, NH,
+RI, VT; Fig. 5a). In the Middle Atlantic, TORS ’utilization
+approached half of cases (42.6%). By contrast, a signi ﬁcant
+majority of patients (84.8%) in the Northeast were treated with analternative surgical approach. On multivariate analysis, treatment
+location was associated with use of TORS, most notably observed
+with the comparison of the Atlantic versus the Southeast (DC, DE,FL, GA, MD, NC, SC, VA, WV; Atlantic vs. Southeast: OR 5.66, CI
+2.55 –12.58, P<0.0001). Figure 5b illustrates the distribution of
+TORS cases by geographic region.
+DISCUSSION
+As hypothesized, adoption of TORS nationally is concentrated in
+speciﬁc geographic locations, academic hospitals and in high volume
+centers. These ﬁndings allow for analysis of these patterns and have
+important hypothesis-generating implications for further study oftechnologic adoption in the ﬁeld of surgery.
+Diffusion of a novel surgical device into clinical practice depends on
+economic, institutional, and psychological factors. In addition, adoption
+relies on the technology ’s proven value when compared to past strategies.
+Rogers described the Diffusion of Innovations Theory to explain theprocess of how new technology spreads through society. Rogers and
+others have described three variables that in ﬂuence the rate of
+dissemination: (i) how the novel technology is perceived; (ii) thecharacteristics of people who adopt the innovation; and (iii) the
+environment into which the technology is being adopted [2,25]. To date,
+only data from isolated and early time points have been analyzed
+regarding the national adoption of TORS and the factors associated with
+the technique ’s diffusion. Chen et al. demonstrated both increased
+utilization of TORS in academic centers as well as an increase in
+utilization over two early time points [21]. In the present study we used
+the NCDB to assess these trends over a longer time period and analyze the
+adoption patterns in the context of the Diffusion of Innovations Theory.
+Since FDA approval in 2009, use of TORS as a tool for the primary
+surgical treatment of OPSCC has risen. In 2010, 22% patients
+undergoing primary surgical treatment for T1-T3 OPSCC were
+treated with TORS. A modest rise to 28% of cases was observed by
+2013. Classically, an adoption curve of new technology takes on an
+S-shaped normal curve when plotted on a cumulative basis over time.This represents a slow early phase, followed by a more rapid middle
+phase after a “tipping point, ”andﬁnally a plateau with variable market
+share penetrance. The current study suggests that TORS for the
+treatment of T1-3 OPSCC is in the early stages of this adoption curve.
+While we cannot know the extent to which TORS adoption willcontinue to follow this classic adoption pattern including how steep the
+Fig. 2. Primary treatment approach for patients with T1-T3 OPSCC
+over time. N ¼3,071including 846 (27.6%) receiving TORS as the
+primary surgical approach. There were 137 total patients in 2010,increasing to 280 total patients in 2013. P<0.0001 for change in use
+over time.
+Fig. 3. Positive margin rate in patients treated with primary surgical approach. a: Positive margin rate by surgical approach (TORS 14.2% vs.
+other 23.8%, P<0.0001). b: Margin status for patient having a TORS approach for T1-T3 OPSCC over time were unchanged P¼0.261.
+Journal of Surgical Oncology408 Cracchiolo et al.
+ 10969098, 2016, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jso.24353 by Stanford University, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ linear phase of the curve will be and what degree of market penetration
+will be achieved at its plateau, this early view of national diffusion
+patterns enables us to craft a hypothesis on its anticipated course and
+potential barriers to adoption (Fig. 6).
+In line with the Rogers ’theory, the head and neck surgical
+community ’s perception of the procedure ’s value will be a key driver in
+the adoption TORS for the treatment of OPSSC. De ﬁning value as the
+ratio of bene ﬁt over cost, TORS must be proven oncologically sound
+and technically superior at an equal or reduced cost. The stated goals of
+primary surgical treatment for OPSCC are a potential increase in the
+therapeutic index by reducing morbidity via an attenuation of toxicity ofadjuvant therapy. Margin status represents an important variable in
+reducing indications for adjuvant therapy as well as optimizing
+oncologic results. In the current study, 14% of patients who underwent
+TORS had a positive margin resection. This rate did not signi ﬁcantly
+change over time. When comparing positive margin rates in patientshaving TORS versus other surgical approaches, a lower positive margin
+resection rate in the TORS group would suggest ef ﬁcacy and thereforeshould drive adoption, assuming other factors associated with the
+technology have perceived bene ﬁt. In addition, the lack of signi ﬁcant
+change in positive margin incidence suggests that surgeons learning the
+TORS procedure are subject to an acceptable learning curve, which
+could further hasten adoption. Alternatively, the low positive margin
+status could result from increased use of TORS in T1 and T2 tumors(for which it is FDA approved) compared to T3 tumors. Intuitively,
+surgeons would be more apt to use new technology in the treatment of
+smaller, less-risky primary tumors.
+Cost represents the denominator in the value equation required for
+adoption of new technology. Cost analysis of TORS has beenextensively reported [26 –28]. In an analysis of how TORS compared
+to traditional open surgery in overall hospital costs, Richmon et al.
+showed an overall median reduction of $4,285 per patient in the 1.2% of
+patients who underwent TORS [28]. This study only takes into account
+the acute costs of TORS, with most of the cost bene ﬁts of this approach
+associated with the signi ﬁcantly decreased length of hospitalization
+compared to open procedures. Importantly, others have shown that the
+Fig. 5. Geographic use of TORS. a: Uneven regional TORS adoption. b: The skewed distribution suggests TORS cases are concentrated among a
+small group of early adopters. Geographic Locations: Northeast (CT, MA, ME, NH, RI, VT); Atlantic (NJ, NY, PA); Southeast (DC, DE, FL, GA,MD, NC, SC, VA, WV); Great Lakes (IL, IN, MI, OH, WI); South (AL, KY, MS, TN); Midwest (IA, KS, MN, MO, ND, NE, SD); West (AR, LA,OK, TX); Mountain (AZ, CO, ID, MT, NM, NV, UT, WY); Paci ﬁc (AK, CA, HI, OR, WA).
+/C3Percentages represent number of cases per region.
+Fig. 4. Surgical trends by hospital characteristics. a: Surgical trends by hospital volume. While percentage of surgical cases done across all 4
+quartiles of hospital volume centers are similar, TORS cases represent a signi ﬁcantly greater proportion of surgical cases in high volume centers
+(P<0.0001) . This is associated inversely with positive margin status. b: TORS cases represent a greater proportion of surgical cases in academic
+settings with positive margin status being signi ﬁcantly lower in academic centers when compared to community hospitals P<0.0001.
+Journal of Surgical OncologyAdoption of Transoral Robotic Surgery 409
+ 10969098, 2016, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jso.24353 by Stanford University, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ cost bene ﬁts of TORS are diminished when adjuvant therapy is required
+post-operatively [26,27]. These ﬁndings call into question the cost
+beneﬁts of TORS for a broad group of patients with T1-T2 OPSCC,
+potentially slowing adoption.
+Characteristics of early adopters often set the pace for adoption and
+diffusion of new technology. Adopters can be described as a bellcurve [2]. On the early tail of the curve are the innovators, followed by the
+early adopters, early majority, late majority, and ﬁnally laggards making
+up the late alternative tail. The current data shows TORS utilizationconcentrated in the Middle Atlantic states. These ﬁndings are consistent
+with the presence of early adopters in institutions in this region, including
+the sites of initial TORS studies. The current data would suggest skewed
+adoption with concentrated use among a small group of early adopters.
+Early adopters ’perception of TORS may differ from surgeons practicing
+in the in the community, leading to concentrated areas of acceptance. In
+the present analysis, patients who underwent TORS in an academic
+setting were more than half as likely to have a positive margin resection
+(12%) as patients who had TORS in the community (27%). This
+signiﬁcant difference was also observed in low versus high volume
+settings (17% vs. 8% positive margin resection rate, respectively). It
+could be hypothesized that early adopters represented in academic and
+high volume centers perceive bene ﬁt based on their outcomes while those
+in low volume centers question the procedure ’s value owing to these
+inferior outcomes. Strati ﬁed opinion of the technology based on personal
+experience could result in concentrated areas of adoption with slow
+diffusion, as observed in the present study.
+The environment into which the technology is being adopted
+also in ﬂuences the adoption curve. Rates of surgical treatment of
+OPSCC are rising [22]. This is secondary to shifts in the understanding
+of epidemiology and biology of HPV-related OPSCC as well as
+acknowledgment of the signi ﬁcant morbidly and late toxicities
+associated with primary radiation treatment [19]. It has beenobserved that patients with HPV-related OPSCC present with early T
+classi ﬁcation disease. [16,17]. This shift in presentation signi ﬁcantly
+strengthens the argument for surgical treatment of this disease.
+Additionally, the earlier age of presentation and improved survival
+observed in HPV-related OPSCC has highlighted the morbidity risksassociated with adjuvant treatment and prompted clinical trials
+examining the role of transoral approaches as part of a de-escalation
+strategy [14,29]. Certainly, the current environment in the treatment of
+OPSCC promotes technologic advancement and diffusion. Findings ofongoing clinical trials as well as enhanced understanding of the biology
+of HPV-related disease will undoubtedly in ﬂuence adoption and
+diffusion patterns of TORS in the future.
+This study ’sﬁndings must be considered in the context of important
+limitations. First, the NCDB started recording use of TORS in 2010, one
+year after FDA approval. We are therefore unable to assess the earliest
+adoption period of this technology. Additionally, because this is a new
+code in the NCDB database, coding bias is possible. Delay in accuratecoding of this new procedure may result in undercounting of TORS
+cases. Also, strict inclusion criteria resulted in a signi ﬁcant number of
+patients deleted secondary to treatment outside of an NCDB facility or
+incomplete staging. Although the stringent criteria for inclusion results
+in less patients included, this allows for appreciation of more robustresults. Finally, case coverage for oropharynx in the NCDB is estimated
+to be 70%, with some geographic variation in case coverage related to
+the proportion of hospitals in a state that are accredited by the American
+College of Surgeons ’Commission on Cancer [20]. This could lead to
+bias when analyzing geographic distribution of TORS.
+CONCLUSIONS
+While TORS utilization has increased during the short early
+adoption period studied, this analysis suggests uneven diffusion the
+value of this technology in the treatment of OPSCC. Longer time
+periods need to be analyzed as the adoption curves mature. Results of
+clinical trials using transoral approaches and advances in robotictechnology may shorten the linear phase of the adoption model. While
+TORS represents an exciting technologic advancement in the treatment
+of OPSCC, rigorous assessment of any new technology is essential and
+evidence of value needed in order to justify its adoption. Perception of
+this technology, experience of the adaptors as well as the mindset of thehead and neck surgery community will shape the adoption curve in the
+following decades.
+REFERENCES
+1. Mans ﬁeld E: The economics of technological change. London:
+Longmans, Green and Company; 1979.
+2. Rogers E: Diffusion of innovation, 5th ed. New York, NY: Simon
+and Schuster; 2003.
+3. McLeod IK, Melder PC: Da Vinci robot-assisted excision of a
+vallecular cyst: A case report. Ear Nose Throat J 2005;84:170 –172.
+4. O ’Malley BW, Jr., Weinstein GS, Snyder W, et al.: Transoral
+robotic surgery (TORS) for base of tongueneoplasms. Laryngoscope2006;116:1465 –1472.
+5. Weinstein GS, O ’Malley BW, Jr., Snyder W, et al.: Transoral
+robotic surgery: Radical tonsillectomy. Arch Otolaryngol HeadNeck Surg 2007;133:1220 –1226.
+6. Hockstein NG, O ’Malley BW, Jr., Weinstein GS: Assessment of
+intraoperative safety in transoral robotic surgery. Laryngoscope
+2006;116:165 –168.
+7. Weinstein GS, O ’Malley BW, Jr., Cohen MA, et al.: Transoral
+robotic surgery for advanced oropharyngeal carcinoma. Arch
+Otolaryngol Head Neck Surg 2010;136:1079 –1085.
+8. Holsinger FC, McWhorter AJ, M /C19enard M, et al.: Transoral lateral
+oropharyngectomy for squamous cell carcinoma of the tonsillarregion: I. Technique, complications, and functional results. Arch
+Otolaryngol Head Neck Surg 2005;131:583 –591.
+9. Laccourreye O, Hans S, M /C19enard M, et al.: Transoral lateral
+oropharyngectomy for squamous cell carcinoma of the tonsillarregion: II. An analysis of the incidence, related variables, and
+consequences of local recurrence. Arch Otolaryngol Head Neck
+Surg 2005;131:592 –599.
+Fig. 6. Hypothesized prospective TORS adoption curves. A: Failed
+adoption with eventual abandonment. B: Continued use by early
+adopters without widespread adoption. C: Classic adoption curvesupported by early adaptors followed by diffusion among all groups ofsurgeons. D: Steep adoption with high market penetrance secondary to
+favorable adoption environment.
+Journal of Surgical Oncology410 Cracchiolo et al.
+ 10969098, 2016, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jso.24353 by Stanford University, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ 10. Calais G, Alfonsi M, Bardet E, et al.: Randomized trial of radiation
+therapy versus concomitant chemotherapy and radiation therapyfor advanced-stage oropharynx carcinoma. J Natl Cancer Inst
+1999;91:2081 –2086.
+11. Parsons JT, Mendenhall WM, Stringer SP, et al.: Squamous cell
+carcinoma of the oropharynx: Surgery, radiation therapy, or both.Cancer 2002;94:2967 –2980.
+12. Genden EM, O ’Malley BW, Jr., Weinstein GS, et al.: Transoral
+robotic surgery: Role in the management of upper aerodigestivetract tumors. Head Neck 2012;34:886 –893.
+13. Shah S, Goldenberg D: Robotic surgery for oropharyngeal cancer.
+Rambam Maimonides Med J 2014;5:e0014.
+14. Ang KK, Harris J, Wheeler R, et al.: Human papillomavirus and
+survival of patients with oropharyngeal cancer. N Engl J Med2010;363:24 –35.
+15. Fakhry C, Westra WH, Li S, et al.: Improved survival of patients
+with human papillomavirus-positive head and neck squamous cellcarcinoma in a prospective clinical trial. J Natl Cancer Inst2008;100:
+261–269.
+16. Huang SH, Perez-Ordonez B, Liu FF, et al.: Atypical clinical
+behavior of p16-con ﬁrmed HPV-related oropharyngeal squamous
+cell carcinoma treated with radical radiotherapy. Int J Radiat Oncol
+Biol Phys 2012;82:276 –283.
+17. Goldenberg D, Begum S, Westra WH, et al.: Cystic lymph node
+metastasis in patients with head and neck cancer: An HPV-associated phenomenon. Head Neck 2008;30:898 –903.
+18. Cohen MA, Weinstein GS, O ’Malley BW, Jr., et al.: Transoral
+robotic surgery and human papillomavirus status: Oncologicresults. Head Neck 2011;33:573 –580.
+19. Trotti A, Pajak TF, Gwede CK, et al.: TAME: development of a
+new method for summarising adverse events of cancer treatment by
+the Radiation Therapy Oncology Group. Lancet Oncol 2007;8:613–624.20. Lerro CC, Robbins AS, Phillips JL, et al.: Comparison of cases
+captured in the national cancer data base with those in population-based central cancer registries. Ann Surg Oncol 2013;20:
+1759 –1765.
+21. Chen MM, Roman SA, Kraus DH, et al.: Transoral robotic surgery:
+A population-Level analysis. Otolaryngol Head Neck Surg 2014;150:968–975.
+22. Cracchiolo JR, Baxi SS, Morris LG, et al.: Increase in primary
+surgical treatment of T1 and T2 oropharyngeal squamous cellcarcinoma and rates of adverse pathologic features: National CancerData Base. Cancer 2016;122:1523 –1532.
+23. Bilimoria KY, Stewart AK, Winchester DP, et al.: The National
+Cancer Data Base: A powerful initiative to improve cancer care inthe United States. Ann Surg Oncol 2008;15:683 –690.
+24. Deyo RA, Cherkin DC, Ciol MA: Adapting a clinical comorbidity
+index for use with ICD-9-CM administrative databases. J Clin
+Epidemiol 1992;45:613 –619.
+25. Berwick DM: Disseminating innovations in health care. JAMA
+2003;289:1969 –1975.
+26. de Almeida JR, Moskowitz AJ, Miles BA, et al.: Cost-effectiveness
+of transoral robotic surgery versus (chemo)radiotherapy for early Tclassi ﬁcation oropharyngeal carcinoma: A cost-utility analysis.
+Head Neck 2014;38:589 –600.
+27. Rudmik L, An W, Livingstone D, et al.: Making a case for high-
+volume robotic surgery centers: A cost-effectiveness analysis oftransoral robotic surgery. J Surg Oncol 2015;112:155 –163.
+28. Richmon JD, Quon H, Gourin CG: The effect of transoral robotic
+surgery on short-term outcomes and cost of care after oropharyn-
+geal cancer surgery. Laryngoscope 2014;124:165 –171.
+29. Ferris, R.E.C.O.G. Transoral surgery followed by low-dose or
+standard-dose radiation therapy with or without chemotherapy in
+treating patients with hpv positive stage III-IVA oropharyngeal
+cancer: NCT 0189 8494. [cited 2016 January 12th]; Availablefrom: https://clinicaltrials.gov/ct2/show/N CT01898494
+Journal of Surgical OncologyAdoption of Transoral Robotic Surgery 411
+ 10969098, 2016, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/jso.24353 by Stanford University, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

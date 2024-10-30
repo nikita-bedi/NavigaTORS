@@ -1,0 +1,2538 @@
+0123456789();: Oropharyngeal squamous cell carcinoma (OPSCC) 
+comprises cancers of the tonsils, base of tongue, soft 
+palate and uvula (Fig.  1). Like other head and neck 
+squamous cell carcinomas (HNSCCs), OPSCC has historically been linked to alcohol and tobacco con -
+sumption. A reduction in the prevalence of smoking 
+in most high-income countries over the past 20 years has led to a decline in the incidence of HNSCC; how -
+ever, carcinogenic human papillomavirus (HPV) infec-tion has emerged as an important risk factor that has driven an increase in the incidence of OPSCC over the same period. More specifically, HPV now accounts for 
+71% and 51.8% of all OPSCCs in the USA and UK, 
+respectively
+1–4. Of these, 85–96% are caused by HPV-16 
+infections and are therefore expected to be preventa-
+ble by prophylactic HPV vaccination, which is known 
+to be effective in preventing HPV-associated cervi-cal neoplasia and is now being administered to both boys and girls in several countries
+4,5. The most recent 
+edition of the American Joint Committee on Cancer 
+(AJCC) staging system defined HPV-positive (HPV+) 
+and HPV-negative (HPV–) OPSCCs as separate entities, 
+with distinct molecular profiles, tumour characteristics and outcomes
+6 (Table  1). Importantly, the former is asso-
+ciated with a more favourable prognosis7. In this Review, we provide a comprehensive overview of HPV+ OPSCC, 
+focusing on how our increasing knowledge of disease biology has informed clinical practice and is guiding the 
+pursuit of improved treatments.
+Epidemiology
+Rising incidence, particularly in men
+Among all cancers, OPSCC has one of the most rap-idly rising incidences in high-income countries
+8,9. An 
+increasing incidence of this disease has been observed 
+in the UK, USA, across Europe, New Zealand and in 
+parts of Asia9–19. In both the UK and the USA, the inci-
+dence of oropharyngeal cancer in men has surpassed 
+that of cervical cancer in women8 (Fig.  1). Globally, the 
+percentage of OPSCCs that are HPV+ was reported in 
+2021 to be 33%; however, prevalence varies considerably depending on the geographical region, with estimates 
+ranging from 0% in southern India to 85% in Lebanon
+20.
+HPV+ OPSCC is more prevalent than HPV– OPSCC 
+among those who do not consume tobacco or alcohol; 
+however, a substantial history of tobacco and alcohol use 
+remains prominent in patients with the former and is associated with worse outcomes
+21,22. Furthermore, sexual 
+behaviour is an established risk factor for HPV+ OPSCC, 
+with a strong association observed between number of HPV-associated oropharyngeal cancer: 
+epidemiology, molecular biology and 
+clinical management
+Matt Lechner  1,2,3 ✉, Jacklyn Liu1, Liam Masterson4 and Tim R. Fenton  5,6 ✉
+Abstract | Human papillomavirus (HPV)-positive (HPV+) oropharyngeal squamous cell carcinoma 
+(OPSCC) has one of the most rapidly increasing incidences of any cancer in high-income countries. 
+The most recent (8th) edition of the UICC/AJCC staging system separates HPV+ OPSCC from  
+its HPV-negative (HPV−) counterpart to account for the improved prognosis seen in the former. 
+Indeed, owing to its improved prognosis and greater prevalence in younger individuals, numerous ongoing trials are examining the potential for treatment de-intensification as a means to improve 
+quality of life while maintaining acceptable survival outcomes. In addition, owing to the distinct 
+biology of HPV
++ OPSCCs, targeted therapies and immunotherapies have become an area of 
+particular interest. Importantly, OPSCC is often detected at an advanced stage owing to a lack  
+of symptoms in the early stages; therefore, a need exists to identify and validate possible diagnostic 
+biomarkers to aid in earlier detection. In this Review, we provide a summary of the epidemiology, 
+molecular biology and clinical management of HPV+ OPSCC in an effort to highlight important 
+advances in the field. Ultimately, a need exists for improved understanding of the molecular basis and clinical course of this disease to guide efforts towards early detection and precision care, and 
+to improve patient outcomes.
+1UCL Cancer Institute, 
+University College London, 
+London, UK.
+2Division of Surgery and 
+Interventional Science, University College London, 
+London, UK.
+3Department of ENT ,  
+Barts Health NHS T rust, 
+London, UK.
+4Department of ENT , 
+Cambridge University Hospitals NHS T rust, 
+Cambridge, UK.
+5School of Biosciences, 
+University of Kent, 
+Canterbury, UK.
+6School of Cancer Sciences, 
+Cancer Research UK Centre, Faculty of Medicine, 
+University of Southampton, 
+Southampton, UK.
+✉e-mail: m.lechner@ucl.ac.uk;  
+t.fenton@soton.ac.uk
+https://doi.org/10.1038/ 
+s41571-022-00603-7
+www.nature.com/nrclinoncReviews
+306 | May 2022 | voluMe 19 
+ 0123456789();: lifetime oral sex partners and incidence of the disease2,23. 
+As mentioned above, this association might partially 
+reflect an observed gender disparity given that men are 
+more likely than women to report increased numbers of sexual partners
+24. Risk of oral HPV infection is associ-
+ated with an increased number of recent (within the past 
+3 months) oral and vaginal sex partners24.
+The incidence of both HPV+ and HPV– OPSCC has 
+increased over the past two decades,although evidence suggests that the former is increasing more rapidly. 
+In Denmark, a threefold increase in HPV
++ OPSCC was 
+observed between 2000 and 2017, compared with a two-
+fold increase for HPV– disease13. Comparatively, a more 
+rapid increase in HPV+ HNSCC, particularly tonsillar 
+squamous cell carcinoma (SCC), has been observed in Taiwan, compared with HPV
+– HNSCC11. In Italy, 
+the incidence of HPV+ OPSCCs (as a percentage of all 
+OPSCCs) increased from 16.7% in 2000–2006 to 46.1% in  
+2013–2018 (reF.14). Lower-to-middle income countries 
+in southern Asia and sub-Saharan Africa bear the vast majority of the global burden of HPV-associated cervical 
+cancer, although epidemiological reports that focus on HPV
++ OPSCC are scarce and, as a result, whether similar 
+rising trends are absent or simply thus far undetected in 
+these regions remains unclear25.
+From the few reports available, the prevalence of 
+HPV+ OPSCCs in sub-Saharan Africa is low, with 
+very few cases reported to date despite high rates of 
+HPV-associated cervical cancer26–30. In an investigation 
+of HPV+ OPSCC in Mozambique, the authors proposed 
+that the low prevalence of HPV+ OPSCCs in their cohort 
+(14.5%) might reflect the limited practice of oral sex in 
+the region26. This observation has been reiterated by 
+other investigators, who observed low rates of oral HPV infection among HIV-infected individuals in northwest 
+Cameroon and attribute this, at least in part, to lim-ited oral sexual behaviours, relative to higher-income countries
+27.
+Historically, most HPV+ OPSCCs occur in men, 
+which might reflect differences in both susceptibility 
+and infection transmissibility through sexual activities, 
+although this has yet to be fully elucidated4,31–33. However, 
+an increase in incidence has been observed among white women in the USA32. In a recent meta-analysis includ -
+ing data from 12 studies, the authors observed a similar 
+prevalence of HPV-driven OPSCCs in both males and 
+females, despite most of the assessed patients with OPSCC being male
+34.
+The prevalence of HPV+ OPSCC was previously 
+reported to decrease with increasing age; however, the 
+burden of disease has begun to shift towards older men 
+as a result of a birth cohort effect4,33. In one study, the 
+median age at diagnosis increased from 53 to 58 years of 
+age between 1998 and 2013 (reF.35) while another study 
+reported a similar increase, from 52 to 59 years of age between 2002 and 2017 
+(reF.36). A rapidly increasing 
+incidence in white men ≥65 years of age has also been observed, and nearly 10% of cases have been reported 
+in those ≥70 years of age
+32,36. Nevertheless, increased 
+rates of HPV+ OPSCC continue to be evident in both 
+younger and older adults and, although the burden is 
+shifting towards older adults, most cases remain in those 
+<65 years of age31,37,38.
+In the USA, a higher prevalence of HPV+ OPSCC 
+has been observed in white individuals than in those of 
+other ethnicities39,40. In an analysis of the Surveillance, 
+Epidemiology and End Results (SEER) database, a sig-
+nificant increase in rates of oropharyngeal cancer in men of white or Hispanic ethnicity, and in men of other 
+ethnicities was observed, albeit with a decrease in Black 
+men
+32. However, another report describes a significantly 
+more rapid increase in the prevalence of HPV+ OPSCCs 
+in Black and Hispanic American individuals compared 
+with white American individuals9,32. These results might 
+reflect a greater decrease in HPV– disease in Black men 
+compared with white and Hispanic men, resulting in the observed relative increase in HPV
++ disease; however, this 
+suggestion has yet to be confirmed. In parallel with the increased incidence in white men in the USA, higher 
+socioeconomic status is also associated with an increased incidence of HPV
++ OPSCC40.
+Importantly, most studies of the epidemiology 
+of HPV+ OPSCC have been conducted in the USA 
+and are therefore not necessarily generalizable to 
+other parts of the world, where differences in cul-
+ture and behaviour might influence the various life-style factors that have a role in the aetiology of HPV
++ 
+OPSCC. As such, further studies in geographically 
+diverse, and particularly non-Western regions, are 
+needed to inform region-specific guidelines, par -
+ticularly with regard to clinical management and  
+targeted public health measures.
+The role of HPV vaccination
+A need remains for improved cancer prevention that is responsive to ever-changing societal norms. No screen-
+ing methods enabling the earlier detection of OPSCC 
+are currently available; therefore, widespread prevention can be achieved only through large-scale vaccination programmes. HPV vaccination has been offered to girls 
+for nearly two decades and has led to decreased rates of 
+cervical cancer in high-income countries, where HPV vaccination is widely available
+5,41 One might argue that 
+the herd immunity established through widespread vac-
+cination of girls might preclude the need for vaccination Key points
+•	The incidence of human papillomavirus-associated oropharyngeal cancer (HPv+ 
+oPSCC) is expected to continue to rise over the coming decades until the benefits  
+of gender-neutral prophylactic HPv vaccination begin to become manifest.
+•	The incidence of HPv+ oPSCC appears to be highest in high-income countries, 
+although more epidemiological data are needed from low- and middle-income 
+countries, in which HPv vaccination coverage remains low.
+•	The substantially better prognosis of patients with HPv+ oPSCC compared to those 
+with HPv– oPSCC has been recognized in the american Joint Committee on Cancer 
+TNM8 staging guidelines, which recommend stratification by HPv status to improve staging.
+•	The molecular biology and genomic features of HPv
++ oPSCC are similar to those of 
+other HPv -associated malignancies, with HPv oncogenes (E6 and E7) acting as key 
+drivers of pathogenesis.
+•	Treatment de-intensification is being pursued in clinical trials, although identifying the ~15% of patients with HPv
++ oPSCC who have recurrent disease, and who therefore 
+require more intensive treatment, remains a key challenge.
+NaTure reviewS | CLINICAL ONCOL OgyReviews
+  voluMe 19 | May 2022 | 307
+ 0123456789();: of boys, considering the costs associated with such mass 
+vaccination programmes. However, the universal vac-
+cination of girls will probably not completely mitigate 
+the risks of HPV infection and consequent development of HPV-related cancers in men
+42. Indeed, such a policy 
+must take into account the population of men who have 
+sex with men, as well as those who have sexual partners 
+originating from geographical regions that lack a com -
+prehensive HPV vaccination programme, even in girls. Furthermore, variability in vaccination uptake owing 
+to practical, societal and cultural barriers will probably continue to hinder the ability of populations to achieve 
+the levels of immunity that are necessary to prevent future HPV-related malignancies.
+Several countries have now extended nation-
+wide vaccination programmes to boys, including Australia, Austria, Germany, Italy, New Zealand, the 
+UK and the USA. Australia was one of the first coun -
+tries to implement a gender-neutral programme and 
+has demonstrated high levels of vaccine uptake, with 75.9% and 80.2% of boys and girls, respectively, com-
+pleting a three-dose regimen
+43. By comparison, half of 
+199502468101214a
+b c
+i ii iii
+v vi iv2000 2010 2005 2015Age-standardized cases 
+per 100,000 of population
+UK cervical
+UK male oropharyngealUS cervicalUS male oropharyngeal
+Fig. 1 | Incidence, anatomical locations and histological appearance of HPV+ oropharyngeal cancers. a | Directly 
+age-standardized rates per 100,000 population of newly diagnosed cases of cervical and oropharyngeal cancer in the UK 
+and the USA. For male oropharyngeal cancers (pink dotted line) and cervical cancers (pink solid line) in the UK from 1995 to 2016, data are sourced from the UK Office for National Statistics cancer data
+241. Male oropharyngeal cancers include 
+those of the base of tongue, uvula, tonsil and oropharynx, stratified for different types of squamous cell carcinoma (SCC) (as for the US data). Observed age-standardized rates per 100,000 population of newly diagnosed cases of cancer; for oropharyngeal cancers among men (yellow dotted line) and cervical cancers (yellow solid line) from 1995 to 2014 obtained from registries within the Surveillance, Epidemiology, and End Results (SEER) programme
+242. Oropharyngeal cancers 
+included those of the base of tongue, lingual tonsil, soft palate not otherwise specified, uvula, tonsil, oropharynx and Waldeyer’s ring. Cervical cancers include all histological subtypes. b | Basic anatomy of the oropharynx, with inset images 
+from top to bottom depicting human papillomavirus-positive oropharyngeal squamous cell carcinoma (HPV
++ OPSCC) 
+located at the base of tongue (the anterior two-thirds), the soft palate and the tonsil. c | Histological appearance, clockwise 
+from top left. i | Non-keratinizing SCC. ii | Non-keratinizing SCC with immunohistochemical staining for p16; morphology 
+is monomorphic, ovoid, hyperchromatic with inconspicuous cytoplasm. This sample also features increased mitosis, apoptosis and comedo-type necrosis. iii | Keratinizing SCC, featuring filiform projections, a thickened, nonmalignant-  
+appearing stratified squamous epithelium, hyperparakeratosis and keratin plugging. iv | Basaloid SCC featuring variable 
+foci of squamous differentiation. v | Papillary SCC with early invasion, featuring predominant filiform processes with 
+minimal or absent keratinization, frequent mitosis and full-thickness dysplasia with a basaloid cell morphology. vi | Spindle-  
+cell carcinoma, featuring a biphasic tumour composed of SCC and malignant spindle-cell component, exhibits polypoid 
+growth. All images in c shown at 40×  magnification.
+www.nature.com/nrclinoncReviews
+308 | May 2022 | voluMe 19 
+ 0123456789();: all adolescents in the USA in 2018 had completed the 
+recommended three-dose regimen and nearly one-third 
+were unvaccinated44. In the UK, school-based vaccina-
+tion was extended to include boys in September 2019. In the subsequent academic year, the first dose of a 
+two-dose vaccination regimen was given to 59.2% and 54.4%, respectively, of girls and boys
+45. Importantly, 
+owing to school closures as a result of the ongoing 
+COVID-19 pandemic, roll-out of the programme was 
+interrupted. Therefore, the true uptake from this first year of a gender-neutral vaccination programme in the UK has yet to be determined.
+Several barriers to vaccination persist, including 
+parental concerns over vaccine safety, socioeconomic factors and an overall lack of awareness
+8,46–48. In a survey 
+of 725 adults between 27 and 45 years of age in the USA, 
+only 36% of responders were aware that HPV infection 
+can cause noncervical cancers49. In a separate survey 
+of roughly 1,000 UK parents with children in school 
+years 5–7 (aged 9–12 years), before the extension of vac-
+cination to boys in 2019, only half had heard of HPV and fewer than 25% knew that HPV vaccination would be offered to boys
+50. In this study, appropriate education of 
+parents led to approximately two-thirds indicating that 
+they would allow their child to be vaccinated, while only 
+10% would not. This finding implies that the provision of appropriate information to parents by health-care providers and public health administrators can lead to 
+a high level of vaccine acceptance. Further education can help to assuage additional concerns for those who are undecided and demonstrate so-called flexible 
+hesitancy
+50. Importantly, improved knowledge on the 
+part of health-care providers is also needed to effec-
+tively implement large-scale vaccination programmes. 
+In results from a survey of health-care professionals in the UK published in 2020, more than one-third of par -
+ticipants indicated the need for improved training, with 
+76% reporting that they felt adequately informed
+51. 
+In a survey of general practitioners in the UK, 74% recognized HPV infection as a risk factor for OPSCC, 
+although fewer than half were aware that being male was a risk factor for HPV
++ OPSCC52.
+With regard to the efficacy of vaccination in prevent-
+ing OPSCC, data from a registry report published in 2021 demonstrate a substantially higher risk of OPSCC in those who are not vaccinated compared with those who are
+53. Importantly, such conclusions might be pre-
+mature as the effects of herd immunity owing to vac-
+cination of females are an important confounder, and 
+the true effects of gender-neutral vaccination are still emerging. Nevertheless, this finding is encouraging and reflects the efficacy of vaccination against OPSCC, 
+which is supported by several reports that indicate effec -
+tiveness against HPV infection. For example, in a pro-
+spective cohort of >7,000 young women in Costa Rica, a 93.3% decrease in oral HPV-16/18 infections was 
+observed in those vaccinated against HPV relative to 
+those vaccinated against hepatitis A
+54. In a subsequent Table 1 | Comparison of the key characteristics of HPV+ and HPV– OPSCCs
+Characteristics HPV+ OPSCC HPV– OPSCC
+Patient characteristics
+Average age at diagnosis 
+(years)59a60 (P  < 0.001)38
+Sex 86.9% male 76.8% male (P  < 0.001)38
+Ethnicity 90% white 75.9% white (P  < 0.001)38
+Role of smoking Rising incidence of HPV+ OPSCC in smokers, as well as in nonsmokers38
+Role of alcohol HPV− OPSCC associated with greater alcohol consumption7
+Role of sexual history High number of sexual partners a risk factor for HPV+ OPSCC7
+Tumour characteristics
+Incidence per 100,000 4.62 1.82 (reF.38)
+Anatomical location More prevalent in oropharynx (94.2% HNSCC); 
+specifically the base of tongue and tonsils2Less prevalent in the oropharynx (72.8% HNSCC)
+38
+Stage (AJCC 7th edn) Early stage (T1–2); frequently with nodal metastasis at presentation
+156All stages (T1–4)38
+Histopathological appearanceImmature, basal-like/basaloid, non-keratinizing
+156Frequently keratinizing SCC
+Cancer-specific mortality HPV+ OPSCC associated with a more favourable prognosis (aHR 0.40, P < 0.001)38
+Biological characteristics
+Genetic alterations More frequent alterations in genes encoding DNA 
+damage response proteins, FGF and JAK–STAT 
+signalling proteins, as well as immune-related genes 
+such as HLA-A/B; PIK3CA mutations more commonly 
+observed95Aberration of TP53 and cell-cycle 
+pathways (such as CDKN2A loss); 
+oxidative stress regulation more 
+frequently mutated95
+Other aberrations p53 and Rb degradation by E6 and E7 , respectively243NR
+aIncidence of human papillomavirus-positive oropharyngeal squamous cell carcinoma (HPV+ OPSCC) increasing in older men. 
+AJCC, American Committee on Cancer; aHR, adjusted hazard ratio; HNSCC, head and neck squamous cell carcinoma; NR, not 
+reported; OPSCC, oropharyngeal squamous cell carcinoma; SCC, squamous cell carcinoma.
+NaTure reviewS | CLINICAL ONCOL OgyReviews
+  voluMe 19 | May 2022 | 309
+ 0123456789();: analysis of survey data from 2,627 adults in the USA 
+(18–33 years of age between 2011 and 2014), the preva-
+lence of oral HPV-6/11/16/18 infection was significantly 
+lower in vaccinated men compared with unvaccinated men (0.0% versus 2.13%; adjusted P  = 0.007)
+55.Despite the introduction of HPV vaccination pro-
+grammes for boys in several countries in the past few years and demonstrable efficacy against oral HPV 
+infection, HPV
++ OPSCC rates are likely to rise further 
+over the next 20–30 years, before the full benefits of 
+Viral infection via 
+microbrasion resulting in infection of basal stem cells Rb and p53 functiona
+bE6/E7 function
+Genomic instabilityOral epithelium
+Upregulation of PI3K–AKT–mTOR signalling
+Rb degradation,p21
+Evading growthsuppressors
+Enabling replicative immortalityResistingcell death
+Activating invasion and metastasis
+E6 interaction with PDZ proteins
+• Overexpression of 
+PD-1/PD-L1, CTLA-4
+• E6 interaction with TYK2• MHC class I 
+downregulation (E5/E7)• p53 degradation
+• APOBEC mutational 
+signature
+• Abnormal centrosome 
+duplication (E7)
+• DNA damage 
+response inductionAvoiding 
+immune destructionGenome instability and 
+mutation
+PARP inhibitor:
+olaparib
+Anti-PD-1/PD-L1 antibodiesNivolumab, pembrolizumab, avelumab, durvalumab, cemiplimabSustaining proliferative signallingE6/E7 interactions with MCM7, cyclins A/E, IGFBP3 CDKN2A induction
+• Nuclear 
+localization of caspase 8 (potentially) 
+• BAK degradation• p53 degradationMYC, hTERT activation
+Persistent infection of basal stem cells, selection for E6/E7 persistent clones Expansion of the E6/E7-expressing population Malignant transformation: progression from carcinoma in situ to invasive carcinoma• Acquisition of oncogenic 
+genetic and epigenetic changes
+• Viral DNA integration (often but 
+not necessary)
+• Development of a type I tumour 
+microenvironment• Disruption of normal HPV life cycle • E6/E7-driven cell-cycle dysregulation• Aberrant cell proliferation and 
+diﬀerentiation
+Carcinogenesis
+Anti-CTLA4 antibodiesIpilimumab
+E6/E7 vaccines
+ISA101b, TG4001Basementmembrane
+www.nature.com/nrclinoncReviews
+310 | May 2022 | voluMe 19 
+ 0123456789();: comprehensive gender-neutral vaccination are mani-
+fest. Indeed, on the basis of current vaccination rates in 
+the USA, the incidence of HPV+ OPSCC will continue 
+to climb substantially among those who were not vac-cinated as children between now and 2045, with mean-
+ingful reductions confined to those <56 years of age, who already have a lower risk of diagnosis and among whom the protective effects of vaccination will begin to 
+be manifest during this period
+56,57. Consequently, sub-
+stantial morbidities, mortality and broader societal costs are to be expected. In the UK alone, estimates suggest 
+that approximately £2 billion will be spent on the treat-ment of OPSCC in men between 2019 and 2038; taking into account loss of workplace productivity owing to 
+illness, this cost increases to more than £18 billion
+58. 
+Therefore, until the benefits of vaccination emerge, investing resources in improving public awareness of 
+HPV
++ OPSCC and supporting public health initiatives 
+will be of paramount importance to curb the substantial 
+costs to human life and society in general. This need for 
+support might also involve investing in the development of novel early detection strategies, such as the use of peripheral blood for the detection of anti-HPV-16-E6 
+antibodies
+59.
+Development of HPV+ OPSCC
+HPV-driven carcinogenesis
+HPVs are non-enveloped viruses with circular double-  
+stranded DNA genomes of approximately 8 kbp. More 
+than 200 HPV types have been identified, all of which 
+infect and complete their productive life cycle in either the cutaneous or mucosal epithelia. Of these, the WHO currently classifies 14 mucosal HPV types (HPV-16, 
+18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, 66 and 68) as 
+‘high-risk’ (hrHPV), owing to clear experimental and epidemiological evidence implicating them in cancer causation, with HPV-16 accounting for at least 85% of 
+all HPV
++ OPSCCs60. The productive life cycle of HPV-16  
+is intimately linked to the terminal differentiation of keratinocytes in stratified mucosal epithelia, while car -
+cinogenesis occurs in the context of persistent infection 
+(postulated to be favoured in the immune-privileged microenvironment of the tonsillar crypts
+61) and is the 
+result of an exit from productive viral replication62,63. 
+The stepwise changes to viral and host gene expres-
+sion and alterations to the host genome associated with carcinogenesis in the cervix have been studied exten-
+sively (Fig.  2). HPV+ carcinogenesis is largely driven by 
+two viral early genes (E6 and E7, often referred to as 
+HPV oncogenes), the physiological function of which 
+is to trigger cell-cycle entry in the basal layer of the epithelium and thus permit viral genome replication. Increased expression of E6 and E7 is often associated 
+with integration of hrHPV DNA into the host genome, 
+although carcinogenesis can occur in the absence of integration: whole-genome sequencing of 103 HPV
++ 
+OPSCCs revealed evidence of viral integration in 74% 
+of patients, with the remaining tumours harbouring epi-
+somal HPV64, a similar frequency of integration to that 
+seen in HPV-16+ cervical cancers65. Similar to cervical 
+cancer, disruption of another viral gene, E2, which acts 
+to repress expression of E6 and E7 during productive 
+infection, is frequently observed in OPSCCs that har -
+bour integrated HPV and has been linked with an unfa-vourable prognosis
+66. The observation that the physical 
+state of the HPV genome is of clinical significance in 
+patients with HPV+ OPSCC is consistent with these find-
+ings: an analysis of samples from 84 patients demon -
+strated shorter overall survival (OS) and decreased 
+antitumour immunity in patients with gene expression from integrated HPV (those in which chimeric viral–host mRNA sequences could be detected), compared 
+with those without evidence of integration
+67.
+Much research has gone into understanding the 
+molecular mechanisms by which E6 and E7 induce 
+cell-cycle entry and DNA replication in host cells. These effects, in combination with alterations to the host genome, can result in malignant transformation 
+of the host cell by enabling many of the hallmarks of 
+cancer
+68,69 (Fig.  2). The two best-characterized oncogenic 
+activities of E6 and E7 involve increased degradation of 
+p53 and Rb, respectively. The removal of these crucial 
+tumour suppressor proteins results in loss of cell-cycle checkpoint activation in response to DNA damage and uncontrolled licensing of DNA replication, which 
+together result in genomic instability and resistance to 
+apoptosis
+70–75.
+Establishing oncogene addiction
+Inhibition of Rb function has long been recognized as a key oncogenic property of epigenetic reprogram-
+ming of the host cell via Rb-independent induction of 
+two lysine demethylases, KDM6A and KDM6B. These chromatin-modifying enzymes have broad effects on gene expression, including derepression of Homeobox 
+(HOX) genes, which are master regulators of develop-
+ment and are largely silenced by polycomb group (PcG) proteins in the absence of hrHPV infection. In addition to these effects on chromatin state and derepression 
+of PcG targets, further examples of epigenetic repro-
+gramming by HPV include E6-dependent modulation of microRNAs and other non-coding RNAs
+76–78, which 
+result in altered regulation of gene expression and mod -
+ulation of DNA methylation and have been linked both to upreguation of DNA methyltransferases DNMT1 and DNMT3A in HPV
++ OPSCCs79 and to direct interaction 
+of HPV-16 E7 with DNMT1 (reFs80–83). Suppression of Rb 
+function by E7 is proposed as being necessary to prevent Fig. 2 | Oncogenesis of HPV+ oropharyngeal cancers. a | Major events in the development 
+of human papillomavirus (HPV)-driven malignancy based on the established stepwise 
+model of cervical carcinogenesis. HPV infection is established in the basal layer of the epithelium, with access facilitated either through micro-abrasions or, in the case of the oropharynx, potentially owing to the reticulated nature of the epithelium of the tonsillar crypts. Productive infections are usually cleared by the immune system but if not, deregulation of E6 and E7 expression can occur, causing exit from the productive viral 
+life cycle and the development of neoplasia (in the cervix this is evident as lesions detectable by screening but no such lesions have been identified in the oropharynx). E6 and E7 suppress 
+important mechanisms of tumour suppression and cause epigenetic changes, which can 
+combine with somatic alterations in the host cell genome to cause transformation and progression to malignancy. In the cervix, these events typically occur over the course of 10–20 years after the causative HPV infection
+60,61. b | Schematic showing how HPV-driven 
+oncogenic processes act to enable seven of the eight hallmarks of cancer originally defined by Hanahan and Weinberg
+68 and how experimental therapies are able to disable one or 
+more of these hallmarks66,67,240.◀
+NaTure reviewS | CLINICAL ONCOL OgyReviews
+  voluMe 19 | May 2022 | 311
+ 0123456789();: induction of an oncogene-induced senescence-like 
+response triggered by this reprogramming. The avoid-
+ance of Rb-induced cell-cycle suppression renders 
+HPV-transformed cells dependent on the ongoing expression of HPV oncogenes, as demonstrated by genetic loss-of-function experiments in primary cultures 
+derived from cervical cancers
+84,85. This oncogene addic-
+tion has stimulated efforts to inhibit E6 and/or E7 as  
+a therapeutic strategy, although this approach has thus far 
+proved challenging owing to a lack of intrinsic enzymatic activity in these proteins
+86. However, encouraging pro-
+gress has been made in exploiting the HPV oncoproteins  
+as targets for therapeutic vaccines.
+The epigenetic reprogramming of HPV-transformed 
+cells through the E7–KDM6B axis also results in dependence on the p16
+INK4A tumour suppressor pro-
+tein (hereafter referred to as p16, one of two cell-cycle 
+inhibitory proteins encoded by the PcG-regulated 
+gene CDKN2A), owing to its ability to suppress CDK4 
+and CDK6 activity, which is required to relieve the Rb-mediated inhibition of cell-cycle progression in 
+uninfected cells
+87,88. The dependence on p16 to limit 
+CDK4/6 activity in HPV-transformed cells is in striking contrast to many other tumour types, including oes-
+trogen receptor-positive (ER
++) breast cancer, in which 
+CDK4/6 inhibition has proved to be an effective thera-
+peutic strategy89. This oncogenic role of the p16 tumour 
+suppressor highlights the cellular rewiring induced by HPV and the importance of understanding this effect for 
+the rational design of targeted therapeutic strategies  
+for patients with HPV
++ disease. The requirement of p16 
+function in HPV-transformed cells also likely explains 
+the utility of this tumour suppressor protein as a clin-
+ical biomarker for the diagnosis of HPV+ OPSCC, as 
+expression is much less likely to be lost or downregu-
+lated than that of a protein with deleterious or neutral effects on tumour cell fitness. Dependence on a second 
+tumour suppressor protein, in this case the induction of p21CIP1 (p21
+CIP1) expression from CDKN1A by 
+KDM6A downstream of E7-directed epigenetic repro-
+gramming, is needed to limit the rate of DNA replication 
+driven by the proliferating cell nuclear antigen (PCNA) and thus avoid lethal replication stress
+90. The rewiring 
+of cell-cycle control mediated by E6 and E7 (Fig.  3) also 
+highlights that, in this updated model of HPV oncogene 
+function, the upregulation of p16 seen in HPV+ cancers 
+reflects induction of KDM6B by E7 and not (as is often assumed) Rb inhibition
+87. Many other cellular proteins 
+are targeted by the HPV oncoproteins, a comprehensive discussion of which is beyond the scope of this Review. 
+We summarize some of these additional activities 
+(Fig.  2) 
+and the reader is referred to numerous detailed reviews 
+for further information69,91–94.
+Somatic alterations and disease aetiology
+Despite the ability of sustained E6 and E7 expression 
+to initiate tumorigenesis, progression to carcinoma 
+requires the acquisition of somatic alterations in the 
+host genome. HPV– HNSCCs typically harbour more 
+copy-number alterations than HPV+ HNSCCs, suggest-
+ing a lower degree of genomic instability in the latter, 
+while somatic variant (including single nucleotide 
+variant (SNV) and insertion/deletion (indel)) burden seems similar between HPV
++ and HPV– HNSCCs, with 
+a median frequency of approximately 2–3 variants per 
+megabase95–98. TP53 is the most frequently mutated gene 
+in HPV– OPSCC, occurring in at least 75% of patients; 
+however, TP53 mutations are rarely observed in the con-
+text of HPV+ disease, almost certainly owing to the inhi-
+bition of p53 function by E6 and thus an ability of the virus to phenocopy this genetic alteration
+95–99. However, 
+p53 loss is not entirely equivalent to TP53 mutation, 
+E7
+E6
+p14ARF
+p16INK4A*
+Rb
+ E2F
+PCNA
+ p53
+KDM6A
+ KDM6B
+CDK4/
+CDK6
+Cyclin D1
+p21CIP*
+MDM2
+Lethalreplicationstress
+DNA replication rateCell cyclearrest
+PCNA
+CDKN2A
+CDKN1A
+Gene
+Cellular protein
+Viral protein
+Fig. 3 | Updated model of cell- cycle perturbation by the HPV oncogenes E6 and E7.  As proposed by McLaughlin-Drubin, 
+Munger and colleagues, E7 induces the expression of lysine demethylases KDM6A and KDM6B, which in turn leads to the 
+upregulation of CDKN1A (p21CIP) and CDKN2A (p14ARF and p16INK4A), respectively. HPV+ cancer cells become dependent 
+on the ongoing expression of p16INK4A and p21CIP, with the former acting to limit CDK4/6–cyclin D activity and the latter 
+restraining proliferating cell nuclear antigen (PCNA) activity to avoid lethal replication stress (reFs83,86,87,89). Cell-cycle 
+inhibitory proteins (p16INK4A and p21CIP1), upon which human papillomavirus (HPV)-transformed cells become dependent, 
+are starred.
+www.nature.com/nrclinoncReviews
+312 | May 2022 | voluMe 19 
+ 0123456789();: which can have gain-of-oncogenic function effects 
+on the protein. Indeed, TP53 mutations are seen in a 
+subset of heavy smokers with HPV+ OPSCC and have 
+been associated with poor prognosis in these patients98. 
+Smoking-associated KRAS  mutations typical of those 
+seen in lung adenocarcinomas have also been reported 
+in HPV+ OPSCCs from patients with a smoking history 
+of >10 pack-years95,98,100.
+Somatic alterations attributable to tobacco use and 
+ageing predominate in patients with HPV– OPSCC, 
+whereas a high proportion of mutations in HPV+ dis-
+ease (at least in most patients with HPV+ OPSCC who 
+are not heavy smokers) are now thought to be caused by 
+the off-target DNA editing activity of one or more apo-
+lipoprotein B mRNA-editing catalytic polypeptide-like (APOBEC3) enzymes, the physiological function of which is to suppress viral replication by deaminating 
+cytosine bases in the context of single-stranded DNA 
+or RNA
+96,97,101. Two of the seven human APOBEC3 
+enzymes (APOBEC3A and APOBEC3B) have been 
+implicated in the cellular response to HPV infection, 
+with evidence linking APOBEC-mediated editing of the viral genome to clearance of infection, at least in the cervix
+102. Sequencing of matched host exomes and viral 
+genomes from HPV+ OPSCCs suggests that off-target 
+APOBEC activity against the host cell genome accounts 
+for many of the somatic mutations seen in tumours in 
+which the APOBEC response has failed to clear the virus
+103 (reviewed extensively elsewhere104– 106).
+Activation of PI3K signalling
+A key consequence of APOBEC activity in HPV+ 
+OPSCCs seems to be the generation of oncogenic point 
+mutations in PIK3CA, which encodes the p110α cata-
+lytic subunit of PI3Kα96,97,101. Indeed, activation of the 
+phosphoinositide 3-kinase (PI3K) signalling pathway 
+by somatic mutation and/or copy-number alterations of 
+PIK3CA is a key feature of HPV+ OPSCC and seems to 
+occur early in carcinogenesis97,107,108. Detection of activat-
+ing mutations in PI3K components (PIK3CA, PIK3C2B  
+and PIK3R1) and their downstream mediators (such as 
+MTOR  or RICTOR) or inactivating mutations in the 
+negative regulators PTEN, TSC1 or TSC2 in meta  static 
+tumours have all been associated with longer OS in 
+patients with HPV+ OPSCC109, while PIK3CA mutations 
+have been associated with an increased risk of disease recurrence in patients with HPV
++ OPSCC receiving 
+first-line chemoradiation in the setting of trials explor -
+ing de-intensification approaches110. PIK3CA mutations 
+or amplifications have also been associated with dra-matically improved outcomes in patients with HNSCC 
+(including those with HPV
++ disease) requiring regu -
+lar non-steroidal anti-inflammatory drugs (NSAIDs) 
+(≥2 days per week for at least 6 months) relative to those 
+not taking such agents (disease-specific survival HR 0.23, P = 0.0032 and OS HR 0.31, P  = 0.0043) in a retro-
+spective analysis, potentially owing to increased cycloox-
+ygenase activity in PIK3CA-altered tumours
+111. This 
+intriguing observation requires confirmation in larger cohorts; nonetheless, PIK3CA mutations have also been 
+associated with benefit from NSAIDs in patients with colorectal cancer, potentially owing to the induction of cyclooxygenase 2 activity by PI3K signalling
+112,113. 
+Loss-of-function mutations in PTEN (which encodes 
+the PI(3)P3 phosphatase that reverses the reaction cat-
+alysed by class 1 PI3K) are significantly enriched in primary HPV
++ OPSCCs, as are loss-of-function muta-
+tions in CYLD, which encodes a ubiquitin ligase, and gain-of-function mutations in FGFR3, both of which can 
+also result in activation of PI3K signalling
+97.
+Other alterations
+Genes involved in epidermal differentiation, including ZNF750, KMT2D, EP300, RIPK4 and NOTCH1, are 
+recurrently mutated in patients with HPV
++ OPSCC, as 
+are various components of the p53 (although as noted 
+above, very rarely TP53 itself) and Rb pathways tar -
+geted by E6 and E7, including mutations in or loss of 
+RB1 (the gene encoding Rb) in as many as 40% of HPV+ 
+OPSCCs95,97. In a genomic analysis of 157 OPSCCs, 73 
+of which were HPV+ and for which long-term clinical 
+follow-up data were available, NOTCH1 mutations were 
+associated with a significantly shorter OS duration spe-
+cifically in those with HPV+ disease98. This observation, 
+together with data showing that Notch1  inactivation 
+generates higher-grade tumours in a mouse model of HPV-16 E6/E7-driven HNSCC suggests that even though NOTCH1 expression is suppressed by E6, inac-
+tivation owing to loss-of-function mutation might have 
+a greater effect on pathway activation and therefore lead 
+to the development of more-aggressive tumours
+114, 115. 
+The importance of evading immunity to viral infection 
+is evident also in the frequent enrichment for mutations 
+in components of the interferon response, including DDX3X, TRAF3, IFNGR1, NFKBIA, TGFBR2, EP300  
+and KMT2D; these alterations are selected for despite 
+suppression of the pathway at multiple levels by HPV oncoproteins
+116.
+Many of the genes that are frequently mutated in HPV+ 
+OPSCCs encode transcriptional regulators: EP300 and 
+KMT2D both encode chromatin-modifying enzymes, 
+NFKBIA encodes a negative regulator of nuclear factor κB (NF-κB), DDX3X encodes a regulator of RNA metabo-
+lism and ZNF750, CASZ1 and TAF5 all encode transcrip-
+tion factors
+97. The clinical relevance of somatic alterations 
+in these genes, together with the effects of E7 on KDM6A, 
+KDM6B and DNMT1 discussed previously, emphasizes 
+the importance of host cell rewiring during HPV-driven carcinogenesis. This phenomenon is evident from multi-ple studies that have defined gene-expression signatures 
+for HPV
++ OPSCC or pan-tissue expression signatures for  
+HPV+ malignancies97,117,118.
+Antitumour immune responses
+MHC-loaded peptides generated as a result of nonsyn -
+onymous somatic mutations in expressed genes are the primary means by which antitumour T cell responses 
+are induced in malignancies that lack a viral aetiology. Moreover, the success of immune-checkpoint inhibi -
+tors (ICIs) is associated with both the overall number 
+of neoantigens (which is closely linked to tumour muta-
+tional burden) and their level of clonality (the fraction of tumour cells in which a given neoantigen is present)
+119,120. 
+Cells that express one or more highly immunogenic 
+NaTure reviewS | CLINICAL ONCOL OgyReviews
+  voluMe 19 | May 2022 | 313
+ 0123456789();: neoantigens might be eliminated during tumour devel-
+opment, a process known as immunoediting121. In HPV+ 
+cancers, all tumour cells are exquisitely dependent on 
+the expression of the viral oncogenes E6 and E7, thus 
+these proteins serve as an indispensable source of 
+tumour-specific antigens, against which antitumour immune responses can be mounted. However, HPVs 
+have evolved many mechanisms of immune evasion, 
+from passive mechanisms, such as limiting the extent of infection to cells located outside of the basement membrane of the epithelium and restricting high levels 
+of viral gene expression and viral replication to the 
+upper layers (in which few immune cells are found), to active suppression of interferon responses and antigen presentation
+122. As discussed previously, E2-mediated 
+control of viral gene expression in the basal layer is lost 
+during progression from persistent infection to malig -
+nancy, and invasive tumours are also able to breach the 
+basement membrane; therefore, the active suppression of host immune responses to the virus is crucial to the abil -
+ity of HPV
++ tumour cells to avoid immune destruction. 
+Key mechanisms mediating this effect include selective 
+retention of certain MHC class I components (such as 
+HLA-A and HLA-B) in the Golgi apparatus through direct interaction with the Golgi-resident HPV-16 E5 protein, which inhibits the recognition of E5-expressing 
+cells by CD8
++ T cells123– 125, and inhibition of MHC class I 
+gene expression by HPV-16 E7 (reFs126– 128).
+Despite these and numerous other mechanisms 
+through which HPV oncoproteins interfere with antigen 
+processing and presentation (reviewed in reF.122), most 
+HPV+ OPSCCs contain evidence of ongoing intratu-
+moural E6-specific and/or E7-specific T cell-mediated 
+immune responses129,130. The presence of such responses 
+seems to be strongly prognostic, with significantly improved disease-specific survival in those with 
+HPV DNA
++ OPSCCs that harbour detectable HPV-
+16-specific T cells (HR 37.8, P  < 0.001). Most HPV-16-  
+specific T cells detected in this study were CD4+ and  
+produced cytokines (IFNγ, TNF, IL-2 and IL-17) consist-
+ent with T cell polarization to an antitumour (T helper 1 
+(TH1)/TH17) phenotype130. In further research, the same 
+group implicated subsets of effector memory (CD161+) 
+T cells with high levels of cytokine production and den-
+dritic cells of a CD163+ subtype (DC3) as key mediators 
+of these HPV-specific responses in patients with HPV+ 
+OPSCC131,132. HPV-specific T cells have also been identi-
+fied in blood from patients with HPV+ OPSCCs, with cir -
+culating E7-specific CD8+ T cells associated with longer 
+disease-free survival (DFS) durations133,134.
+These studies of HPV-specific immune responses 
+provide clear prognostic information, although such 
+analyses require ex vivo culture and functional assays, which poses difficulties for translation into routine use as clinical biomarkers for predicting therapeutic 
+responses
+135. Prognostic information can also be gained 
+from less-refined analyses of the tumour immune microenvironment and circulation in patients with 
+HPV
++ OPSCC. Total (CD3+) T cell tumour infiltration 
+is an independent prognostic indicator of improved 
+OS, local progression-free survival (PFS) and dis-
+tant metastasis-free survival in patients with HPV+ OPSCC136,137. Furthermore, the extent of immune infiltra-
+tion is substantially reduced in those with tumours that  
+harbour mutational signatures attributable to tobacco smoking, offering a potential explanation for the afore-mentioned association between smoking and an infe-rior prognosis
+22,138. The extent of T cell infiltration and 
+activation (assessed on the basis of gene-expression pat-
+terns) is also notably higher in HPV+ OPSCCs than in 
+other HPV+ HNSCCs in the The Cancer Genome Atlas 
+(TCGA) cohort, which possibly explains the greater OS benefits conferred by HPV infection in the oropharynx 
+than in other HNSCC subsites
+139,140. Similarly, a com -
+parative analysis of HPV+ OPSCCs and HPV+ cervical 
+cancers revealed differences in the tumour immune 
+microenvironment related to anatomical site, with HPV+ 
+OPSCCs harbouring a higher CD4+:CD8+ T cell ratio 
+(reflecting a higher CD4+:CD8+ ratio in the tonsils rela-
+tive to the cervical epithelium) and greater numbers of CD4
++CD161+ cells131.
+In addition to the DC3 cells mentioned previously, 
+other immune cell types have also been associated with 
+prognosis in patients with HPV+ OPSCC. For exam-
+ple, tumour-infiltrating B cells are also commonly 
+found, and CD20+ B cell infiltration is reported to be 
+a superior prognostic marker to HPV positivity or CD8
++ T cell infiltration141,142. Tumour-associated mac-
+rophages (TAMs) are associated with poor prognosis in many tumour types, including OPSCC; however, mac-
+rophage infiltration has been associated with improved PFS in patients with HPV
++ OPSCC who receive defin-
+itive chemoradiotherapy143. Skewing of macrophage 
+polarization towards the pro-inflammatory M1 pheno-
+type owing to high levels of IFNγ-producing T cells in 
+HPV+ OPSCC might explain this favourable association 
+(reviewed in reF.144).
+Upregulation of the immune-checkpoint protein 
+PD-L1 has been observed at higher frequencies in patients with HPV
++ than in those with HPV– OPSCC. 
+In some patients this upregulation seems to reflect inte-
+gration of the HPV genome close to the gene encoding 
+PD-L1 (CD274 )145,146. The increasing use of ICIs that tar -
+get PD-1 or PD-L1 in patients with HNSCC will shed fur -
+ther light on the extent to which HPV+ tumours depend 
+on this mechanism of immune suppression. Another 
+immune-checkpoint protein, natural killer group 2 mem-
+ber A (NKG2A), is expressed at higher levels in HPV+ 
+OPSCCs in which an HPV-specific immune response 
+can be detected and is found on tissue-resident (CD103+) 
+CD8+ T cells, which have been linked to a favourable 
+prognosis in patients with HPV+ OPSCC and in those 
+with other cancer types. Therapeutic anti-NKG2A anti-bodies are at an earlier stage of clinical development than 
+those that target PD-1 or PD-L1, but have shown some promising results thus far (reviewed in 
+reF.144).
+Clinical management
+Clinical presentation and diagnosis
+OPSCC most commonly presents as a neck mass or sore throat, but might also present as dysphagia, a visual -
+ized mass, globus sensation, odynophagia or otalgia
+147. 
+Most patients present with small primary tumours (T1 
+or T2) and nodal metastases. Furthermore, the clinical 
+www.nature.com/nrclinoncReviews
+314 | May 2022 | voluMe 19 
+ 0123456789();: presentation of OPSCC can be easily confused with other 
+common benign conditions, such as laryngopharyngeal 
+reflux or globus pharyngeus; therefore, asymptomatic 
+neck masses should ideally be evaluated using confirma-tory ultrasonography and fine-needle biopsy sampling
+148. 
+OPSCCs comprise tumours located in the posterior 
+pharyngeal wall, the soft palate, the tonsillar complex 
+and the base of the tongue. The latter two are the most common anatomical locations and comprise 96% of oropharyngeal tumours
+20,149. Of note, a subset of patients 
+with head and neck cancers will present with cervical 
+lymphadenopathy only. These carcinomas of unknown 
+primary are rising in incidence, most probably owing to the increasing incidence of HPV-related OPSCCs
+150. 
+The presence of p16 and/or HPV DNA in metastatic 
+lesions has been shown to indicate the oropharynx as the  
+primary source of these tumours150– 152.
+In general, clinical examination per the UK National 
+Multidisciplinary Guidelines involves direct flexi-
+ble endoscopy of the upper aerodigestive tract and cross-sectional imaging
+153. Both PET–CT and MRI are 
+recommended, the former for primary tumour staging 
+and to assess the extent of soft-tissue spread, and the 
+latter to determine the extent of nodal disease and bony invasion as well as for the detection of distant metas-tases to the lung and liver
+154. Conversely, in the USA, 
+[18F]fluoro-2-deoxy-d -glucose (18F-FDG) PET–CT is the 
+main modality used to assess the extent of the tumour 
+and presence of metastases, although MRI might be used 
+to assess the extent of local invasion.
+Robust HPV testing is required to accurately dis-
+criminate between HPV positivity and negativity. A 
+combination of immunohistochemical (IHC) staining 
+for p16 and in situ hybridization (ISH) for high-risk HPV has demonstrated acceptable levels of both sensi-tivity (97%) and specificity (94%) and can be performed 
+using formalin-fixed paraffin-embedded tissue
+155. 
+Current efforts to de-escalate the intensity of treatment for patients with HPV
++ OPSCC highlight the paramount 
+importance of accurate determination of HPV status. The AJCC 8th edition recommends using p16 IHC only 
+as a surrogate for HPV status because p16 positivity alone is not sufficient to detect transcriptionally active HPV in all patients. In an evaluation of the suitability of 
+these guidelines, patients with p16
++/HPV– cancers had 
+significantly lower 5-year OS than patients with p16+/
+HPV+ OPSCC (33% versus 77%, P  < 0.0001). Under the 
+new staging criteria, cancer stage was reduced in 95% of patients with p16
++/HPV− disease, despite these patients 
+having a mortality rate approximately twice that of those with p16
++/HPV+ disease on multivariate analysis 
+(HR 2.66, 95% CI 1.37–5.15)6. As such, a second ISH test 
+has been recommended in the UK as standard practice by the UK Royal College of Pathologists
+6.
+Several variant forms of SCC exist, most of which can 
+be categorized as either keratinizing or non-keratinizing, 
+with or without maturation (Fig.  1). Most non-keratinizing 
+SCCs are associated with transcriptionally active 
+high-risk HPV infection156. In this context, HPV infec-
+tion increases risk, regardless of tobacco use and/or alco-hol consumption. Keratinizing SCC is the most common 
+OPSCC subtype, although only 15–25% of keratinizing SCCs are HPV
++. Histologically, these tumours resemble 
+stratified squamous epithelium with varying degrees of 
+architectural and cytological abnormalities, such as the 
+formation of keratin pearls. Furthermore, the invasion pattern at the advancing front has been shown to be a clinically relevant predictor of both local recurrence and 
+OS. Importantly, clinical presentation and histological 
+appearance, as well as the optimal management and prog-nosis, vary between the different OPSCC subtypes. Other less common subtypes include basaloid SCC, papillary 
+SCC, lymphoepithelial carcinoma, adenosquamous car -
+cinoma, spindle-cell carcinoma and verrucous SCC. Both 
+basaloid and papillary SCCs and lymphoepithelial car -
+cinomas are generally associated with transcriptionally 
+active, high-risk HPV infection in the oropharynx
+157– 162.
+In general, clinical prognostication is based upon 
+tumour diameter and nodal status, positive surgical 
+margins and grade of differentiation (well, moderate or poorly differentiated), including the grade of the invasive front, which involves the degree of keratinization, ple-
+omorphism, mitotic rate, invasion pattern and patient 
+response
+163. Other independent prognostic factors for 
+local disease recurrence and OS include invasion pat-
+tern (cohesive or non-cohesive) as well as perineural and 
+lymphatic invasion164. Data from a retrospective study 
+indicate no statistically significant difference in prog -
+nostic performance when measures of depth of inva-sion or tumour thickness are used to determine AJCC T category
+165. Lymph node involvement and extracapsular/
+extranodal extension have been shown to have a prog-
+nostic value although some controversy remains166– 169. 
+With regard to extracapsular extension, two independent sets of investigators have reported associations between 
+extent of extracapsular extension and OS, although a third study failed to observe a statistically signifi-cant association with OS, locoregional recurrence-free 
+survival or distant metastasis-free survival
+170– 172. In a 
+cohort of patients undergoing transoral surgery and neck dissection, number of metastases was found to be 
+an independent predictor of outcome, while extent of extracapsular spread was not
+169. Data from a compari-
+son of staging systems suggest that extracapsular exten-
+sion might be a surrogate of nodal volume, which itself 
+seems to have a greater prognostic role167. The role of 
+lymph node ratio in prognosis has also been investi-
+gated and it is associated with OS in patients with HPV– 
+OPSCC, although this relationship is weaker in those with HPV
++ disease173. The investigators suggest that the 
+reduced prognostic relevance of lymph node ratio in HPV
++ disease might reflect a greater dependence on the 
+extent of the primary tumour than on nodal spread173. 
+Determination of the extent of extracapsular spread has generally relied on histopathological examination of 
+surgical specimens, although CT imaging has also been recommended for use in the initial prognostic work-up. Despite this recommendation, the predictive capac-
+ity of CT remains controversial, with previous studies 
+suggesting only moderate levels of specificity and low sensitivity, as well as poor positive and negative pre-dictive values
+174– 176. Nevertheless, the identification of 
+three or more imaging criteria (irregular nodal enhance-
+ment, infiltration into adjacent tissues, indistinct nodal 
+NaTure reviewS | CLINICAL ONCOL OgyReviews
+  voluMe 19 | May 2022 | 315
+ 0123456789();: margins, matted nodes and central necrosis) has been 
+shown to improve both specificity and positive predic-
+tive value of diagnostic CT, while the presence of necro-
+sis has been found to be independently correlated with pathologically proven extracapsular spread
+175,176. More 
+recently, contrast-enhanced CT demonstrated good sen-
+sitivity (81–85%) with excellent interobserver agreement 
+(weighted κ = 0.87) in 31 patients with unknown primary 
+HNSCCs177. Altogether, the utility of extracapsular 
+spread as a clinical prognostic factor, considering the 
+challenges associated with the radiological evaluation of 
+extranodal pathology, remains unclear. The heterogene-ity of data presented thus far, including several contra-dictory results, warrants further large-scale multicentre 
+studies to better guide clinical management.
+The most recent (8th) edition of the AJCC staging 
+guidelines, based on the International Collaboration on 
+Oropharyngeal Cancer Network for Staging (ICON-S) 
+cohort study, differentiated OPSCC on the basis of HPV 
+status, as determined by p16 overexpression
+178 (Table  2). 
+With changes made to the approach to N staging in par -
+ticular, many patients with HPV+ disease were assigned 
+to a lower stage relative to previous criteria. Furthermore, 
+this update reserves the use of the term ‘stage IV’ for met-
+astatic disease only, compared with traditional staging systems, which classified locally advanced disease as stage IVa. These changes, among others, have enabled 
+improved OS discrimination, which is especially impor -
+tant in the era of treatment de-intensification
+179, 180. 
+However, the ability to discriminate between stage groups, particularly between stages II and III and 
+between stages III and IV , is controversial in that out -
+comes of certain patients with disease of a specific stage will sometimes overlap with those of patients who sup-
+posedly have disease of a more advanced stage. Thus, 
+implementation of the staging system in clinical practice requires further adaptation to include consideration of other relevant prognostic factors
+181,182.Importantly, a subgroup of patients with p16+ but 
+HPV DNA– OPSCCs exists, with a significantly worse 
+prognosis than patients with HPV DNA+ disease6,183. 
+Therefore, and as mentioned previously, determina-
+tion of HPV status should involve assessments of both 
+p16 (via IHC) and high-risk HPV DNA (using ISH). Other tumour-specific and patient-specific factors might also be necessary considerations for attempts to 
+improve prognostication. In a recursive partitioning 
+study (0129) conducted by the Radiotherapy Oncology Group (RTOG), low, intermediate and high risk groups were established based on HPV status, tobacco exposure 
+and extent of lymph node invasion
+22. Patients deemed 
+to be low risk in this study had HPV+ disease with low 
+tobacco exposure or a history of smoking ≤10 pack-years in addition to only one ipsilateral lymph node with a 
+diameter <6 cm; intermediate-risk patients have HPV
++ 
+disease, a history of smoking of >10 pack-years and 
+advanced lymph node disease (multiple ipsilateral lymph 
+nodes, one or more contralateral lymph nodes or any lymph node measuring >6 cm) or HPV
+– disease with 
+low tobacco exposure and <T4 stage tumour; high-risk 
+patients had HPV– disease with a history of smoking of 
+>10 pack-years or stage T4 disease. A retrospective anal-ysis assessing the 5-year survival outcomes of this cohort 
+demonstrated the robustness of this stratification, with persistent differences observed in both PFS and OS
+184. 
+Taking into account a second, independent cohort 
+(RTOG-0522), combined 5-year PFS for patients with 
+low-risk, intermediate-risk or high-risk disease were 72.9%, 56.1% and 42.2%, respectively, with 5-year OS of 88.1%, 69.9% and 45.1%. On the basis of these data, the 
+authors recommended therapeutic de-intensification for 
+patients in the low-risk group.
+Crucially, an analysis of the US National Cancer 
+Database found anatomical subsite to be an independent 
+prognostic factor
+149. However, the current AJCC guide-
+lines, although stratifying for HPV status, do not con -
+sider subsite. Despite this lack of guideline recognition, 
+anatomical location remains important because SCCs of the tonsils or base of the tongue are more frequently HPV
++ than those at other sites. Indeed, the prevalence 
+of HPV infection in these sites seems to be lower, with 
+approximately 19–22% of tumours testing positive for 
+HPV , compared with 56–70% for OPSCCs located in the tonsils or base of the tongue
+185,186. Furthermore, the 
+prognostic value of HPV infections outside these two 
+anatomical locations seems to be less robust, calling 
+into question the appropriateness of the current AJCC staging system for SCCs at these sites
+186. These consider -
+ations warrant continued investigation of more compre-
+hensive, and potentially more accurate, prognosticators 
+that incorporate the effects of subsite as well as patient history, with particular regard to smoking history as  
+discussed above, on top of current AJCC staging.
+Treatment and follow-up
+The treatment of patients with OPSCC typically involves surgical excision, primary radiotherapy or 
+chemoradiotherapy
+153 (see Table  3 for UK recommenda-
+tions). Historically, surgical excision has involved open surgery; however, owing to concerns of cosmetic and/or Table 2 | Important differences between AJCC TNM 7th and 8th editions
+TNM stage p16–p16+
+T staging Same as AJCC 7th edn Tis: not included
+T0: only for p16+ metastatic lymph 
+nodesT4: formerly divided into T4a and 
+T4b, now unified into a single category
+Clinical N stagingN3: nodes >6 cm in diameter 
+further subdivided into N3a and N3b on the basis of the absence (former) or presence (latter) of 
+extranodal extensionN1: ipsilateral lymph nodes ≤6 cm
+N2: bilateral or contralateral 
+nodes ≤6 cm
+no N2 subcategories
+N3: nodes >6 cm
+Pathological 
+N stagingSame as AJCC 7th edn N1: involvement of ≤4 metastatic 
+lymph nodes
+N2: >4 metastatic nodes
+N3: removed
+HPV status p16 testing; tumours with at least moderate staining intensity 
+and diffuse staining (≥ 75% of tumour cells) classified as probable 
+HPV-associated aetiology on the basis of p16 positivity
+See reF.244. AJCC, American Joint Committee on Cancer; HPV , human papillomavirus.
+www.nature.com/nrclinoncReviews
+316 | May 2022 | voluMe 19 
+ 0123456789();: functional morbidities, for patients with early stage dis-
+ease this has largely been replaced by less-invasive tech-
+niques, such as transoral laser microsurgery (TLMS) and 
+transoral robotic surgery (TORS). Primary radiotherapy and chemoradiotherapy are also widely used according to patient preference, or if TLMS or TORS is not tech-
+nically feasible, such as owing to a large (T3 or above) 
+primary tumour diameter, poor transoral access or advanced bilateral nodal disease. The current standard of care consists of 66–70 Gy radiotherapy with concur -
+rent platinum-based chemotherapy, typically cisplatin based (
+Table  4; Supplementary Information).
+Despite the favourable prognosis associated with 
+HPV+ OPSCC, 10–25% of patients will develop disease recurrence, the majority within 2 years but some up to 5 years after initial diagnosis. Thus, a robust and effec-tive monitoring protocol for patients with HPV
++ OPSCC 
+who are in remission is crucial. Typical follow-up 
+monitoring involves regular clinical examination. The 
+National Comprehensive Cancer Network recommends examinations every 1–3 months in the first year, then every 2–6 months in the second year, every 4–8 months 
+up to year 5 and then subsequently once per year
+187. 
+However, even with regular clinical examinations, the ability to detect disease recurrence is limited.
+HPV DNA has been shown to be a useful biomarker 
+for the monitoring of post-treatment disease status. 
+In a prospective study with results published in 2019, Table 3 | UK/US treatment recommendations for HPV+ OPSCC (not yet updated for AJCC 8th edition staging guidelines)
+Approach Early stage (T1 or T2 N0) Late stage (T3 or T4 N0; T1–4 N1–3)
+Open surgery
+PM
+Mandibulectomy
+TCP G/LRNot typically recommended; TORS/TLM resection or 
+definitive RT insteadUsually, PM or TCP for tongue base resections, G/LR not frequently used; mandibulectomy for tumours 
+with gross bony involvement
+Lip-splitting mandibulotomy usually required for 
+adequate visualization
+Reconstruction by radial artery free or anterolateral 
+thigh free flaps
+Also used when surgical salvage is requiredAdjuvant CRT or PORT usually required
+Modified or selective neck dissection recommended
+Transoral surgery
+TORS
+TLMT1/T2, potentially T3; ipsilateral selective neck 
+dissection recommended, N0 treated electively
+Adjuvant RT/CRT to reduce risk of recurrence 
+depending on tumour featuresLimited to early stage disease
+Definitive RT
+Radical (70 Gy/35 fractions); 
+hypofractionated (65–66 Gy/30 
+fractions)
+Intensity modulatedUsually restricted to patients with no previous history 
+of head and neck irradiation and/or those with substantial comorbidities
+Prophylactic RT to ipsilateral cervical lymph nodes 
+for lateralized tumours, both sides for non-lateralized 
+tumours
+Cetuximab might be a safer alternative for patients 
+with pre-existing sensorineural hearing loss or renal, 
+cardiac or haematological impairmentsOnly if patient is unfit for CRT (such as those  
+>70 years of age, and/or with poor performance 
+status)
+In clinical trials for de-escalation in definitive and adjuvant settings
+Definitive CRT
+70 Gy RT (2 Gy fractions) with 
+concurrent cisplatin (either 100 mg/
+m
+2 on days 1, 22 and 43 of RT or 
+40 mg/m2 weekly)Usually, restricted to patients for whom surgery is 
+either not indicated or who wish to avoid surgery 
+owing to patient preferenceTechnical feasibility for surgery is dictated by 
+evidence of extratonsillar disease involvement, 
+which might require reconstruction of the defect or 
+lateral disease located close to the carotid artery  
+or advanced bilateral nodal disease
+Adjuvant therapy
+CRT comprising 70 Gy RT (delivered 
+as 2 Gy fractions) with concurrent 
+cisplatin (either 100 mg/m2 on days 1, 
+22 and 43 of RT or 40 mg/m2 weekly)
+PORT comprising 70 Gy RT (delivered 
+as 2 Gy fractions)For positive or close resection margins or extranodal 
+extension of lymph nodes; or other high-risk features 
+(lymphovascular or perineural invasion)
+PORT can be with or without concurrent 
+chemotherapyImproves outcomes for patients with extracapsular 
+invasion and/or microscopically involved surgical 
+resection margins around the primary tumour
+Not recommended for those >70 years of age  
+and/or those with poor performance status
+See reFs155,245. AJCC, American Joint Committee on Cancer; CRT , chemoradiotherapy; G/LR, glossotomy/lingual release; HPV , human papillomavirus; OPSCC, 
+oropharyngeal squamous cell carcinoma; PM, paramedian mandibulotomy; PORT , post-operative radiotherapy; RT , radiotherapy; TCP , trans-cervical paryngotomy; 
+TLM, transoral laser microdissection; TORS, transoral robotic surgery.
+NaTure reviewS | CLINICAL ONCOL OgyReviews
+  voluMe 19 | May 2022 | 317
+ 0123456789();: continued detection of HPV DNA (of the same type as 
+detected originally in tumour specimens) in oral rinses 
+following completion of treatment was predictive of 
+locoregional recurrence and unfavourable 2-year OS. Although the predictive value of HPV DNA for distant metastasis was weaker, the authors suggested that oral 
+and plasma HPV DNA detection could potentially be 
+combined to provide an effective biomarker of treatment response and risk of disease progression
+188. Furthermore, 
+measuring circulating HPV DNA in plasma samples 
+has proved an extremely sensitive method of detecting 
+disease recurrence189. In a study involving 115 patients, 
+two consecutive positive tests had a positive predictive 
+value of 94% and a negative predictive value of 100%. 
+Therefore, this approach might enable earlier detection of recurrence and, as a result, improve the efficacy of salvage treatment thereafter
+189.
+Outcomes with primary TORS/TLMS with or without adjuvant chemoradiotherapy.  Until recently (~2010), 
+OPSCC was generally treated with primary radiother -
+apy (plus or minus chemotherapy) owing to the sub-
+stantial risk of morbidities associated with open surgery. 
+However, owing to advances in surgical technology, minimally invasive approaches (such as TORS or TLMS) have become the mainstay of treatment for patients 
+with early stage OPSCC. Patients with advanced-stage 
+OPSCC, or with disease features not amenable to TORS or TLMS, typically receive chemo  radiotherapy, 
+with surgical salvage available for those with disease 
+progression
+190. A prospective study that assessed the 
+efficacy of TLMS in predominantly early-stage (I or II) disease demonstrated impressive 5-year survival out-
+comes, with DFS, disease-specific survival and OS of 85%, 93% and 90%, respectively. The recurrence rate was 12%, mainly due to the emergence of distant metastases, 
+and 90% of recurrences occurred within the first 2 years. 
+Minimal post-treatment morbidities were observed, and in the absence of indications for gastrostomy, only 4% of 
+patients had a gastrostomy tube
+191.
+Importantly, most patients with OPSCC treated 
+with TORS or TLMS receive adjuvant radiotherapy, 
+and a minority will also receive chemotherapy192. As 
+such, appropriate risk stratification is needed to safely 
+de-escalate adjuvant therapy and thus capitalize on the 
+reduced incidence of post-treatment morbidities offered by minimally invasive surgical techniques. Data from two independent studies demonstrate that adjuvant 
+therapy lowers the risk of local and regional recurrence; 
+however, no statistically significant differences in OS have been observed owing to high salvage rates
+193, 194. 
+Indeed, even patients who receive upfront adjuvant 
+therapy might have disease relapse, although salvage 
+treatments are generally successful, resulting in excel-lent survival outcomes. This consideration is especially important owing to the various toxicities associated 
+with adjuvant radiotherapy or chemoradiotherapy. For 
+example, in one study, a greater risk of gastrostomy was observed in patients who received adjuvant therapy
+193. 
+Indeed, patients who received TORS alone are reported 
+to have superior quality of life (QOL) and functional 
+outcomes at 6 months, most probably reflecting avoid-ance of the adverse effects of adjuvant therapy, includ-ing xerostomia, odynophagia and oral thrush, that are  
+detrimental to patient-reported outcomes
+195.
+When adjuvant radiotherapy is indicated, reducing 
+the radiation dose in patients with favourable risk fac-tors (such as negative surgical margins and/or early stage disease) can ameliorate the risk of treatment-associated morbidities while maintaining efficacy. For example, 
+reducing adjuvant radiation dose from 60–66 Gy to 
+30–36 Gy in patients with negative margins and a mini-
+mal smoking history has been shown to lead to improved 
+swallowing and overall QOL outcomes while maintain-
+ing excellent 2-year locoregional control, PFS and OS 
+(96.2%, 91.1% and 98.7%, respectively)
+196. Alternatively, 
+Table 4 | Clinical trials investigating the efficacy of induction therapy in HPV+ OPSCC
+Study Study cohort Treatment Outcomes Toxicity profile Ref.
+OPTIMA (2019) 62 patients; divided into 
+those with low-risk (≤ T3 
+≤N2b, ≤10 pack-year 
+smoking history) or 
+high-risk (T4 or ≥N2c or >10 
+pack-year smoking history) 
+diseaseThree cycles of carboplatin (AUC 6)  
+plus nab-paclitaxel (100 mg/m2) 
+followed by low-dose CRT (45 Gy 
+plus three cycles of TFHX) or 
+standard-dose CRT (75 Gy plus five 
+cycles of TFHX)2-year PFS 95% in patients with low-risk disease, 
+94% in those with 
+high-risk disease.Grade ≥3 mucositis in 63% and 
+91%; grade ≥3 neutropenia in 30% 
+and 18% and grade ≥3 dermatitis 
+in 20% and 55% of patients in the 
+low-risk and high-risk groups, 
+respectively. All other grade ≥3 
+adverse events in ≤10% of patients.204
+E1308 (2017) 80 patients; mostly with T1–3 N0–N2b disease, and 
+a ≤10 pack-year smoking 
+historyThree cycles of cetuximab  
+(400 mg/m
+2 on day 1 followed by 
+250 mg/m2 weekly) plus IC followed 
+by concurrent cetuximab with RT (54 Gy for patients with a CR or 
+69.3 Gy for those without a CR)2-year PFS 78%, 2-year OS 91% 
+(100% for those with a CR at 
+the primary site 
+following IC).Grade ≥3 mucositis in 30% and 
+47%; grade ≥3 dysphagia in 15% 
+and 29%; grade ≥3 acneiform rash 
+in 12% and 24% in patients who received low dose or high dose RT , 
+respectively.205
+NCT02048020, 
+NCT01716195 
+(2017)44 patients with stage III–IV 
+diseaseTwo cycles of paclitaxel (175 mg/m2)  
+and carboplatin (AUC 6) followed 
+by IMRT: 54 Gy for those with a  
+CR/PR or 60 Gy plus paclitaxel 
+(30 mg/m2) for non-responders2-year PFS 92% Grade 3 adverse events in 39% 
+of patients, including dysphagia (9.1%), mucositis (9.1%) and 
+dermatitis (6.8%).207
+AUC, area under the curve; CR, complete response; CRT , chemoradiotherapy; HPV , human papillomavirus; IC, cisplatin (75 mg/m2 on day 1, paclitaxel 90 mg/m2  
+on days 1, 8 and 15); substitution of cisplatin with carboplatin was permitted; IMRT , intensity-modulated radiotherapy; OPSCC, oropharyngeal squamous cell 
+carcinoma; OS, overall survival; PFS, progression-free survival; PR, partial response; TFHX, paclitaxel (100 mg/m2 on day 1), 5-fluorouracil (5-FU) (600 mg/m2 daily  
+on days 0–5) and hydroxyurea (500 mg twice daily on days 0–5).
+www.nature.com/nrclinoncReviews
+318 | May 2022 | voluMe 19 
+ 0123456789();: data from the AVOID study demonstrate that avoiding 
+irradiation of the resected primary tumour site and only 
+targeting at-risk neck areas with reduced radiation doses 
+in patients with early stage disease might be safe and can also result in high 2-year local control rates and OS (98.3% and 100%, respectively).
+The safety and efficacy of de-intensified adjuvant 
+therapy following TORS is being evaluated further in several ongoing trials, such as PATHOS and ECOG3311 
+(reF.197). An update from ECOG3311 demonstrates that 
+primary TORS and reduced post-operative radiother -
+apy without chemotherapy provide excellent oncolog-ical outcomes at a follow-up duration of 35 months, with favourable QOL and functional outcomes, in patients with intermediate-risk HPV
++ OPSCC198– 200. 
+Data from the SIRS and MINT trials (NCT02072148 
+and NCT03621696, respectively), are expected to fur -
+ther confirm the accuracy of pathological characteristics 
+(such as extracapsular spread, lymphovascular invasion, perineural invasion, surgical margins and tumour stage) 
+for the allocation of treatment, with particular regard for  
+the omission of adjuvant therapy in patients with 
+low-risk disease. The feasibility of reduced-dose adju-vant radiotherapy in patients with high-risk disease 
+will also be further investigated in both DART-HPV (NCT02908477) and DELPHI (NCT03396718) (
+Table  5, 
+Supplementary Information).
+Outcomes with primary chemoradiotherapy.  Despite the 
+positive results obtained with minimally invasive surgical 
+approaches, primary radiotherapy and/or chemoradio-
+therapy are still widely used. Over the past 10 years, efforts 
+to de-escalate radiation dose have demonstrated both excellent oncological outcomes and improved morbidity rates. Data from two studies demonstrate high patholog-
+ical response rates to reduced-dose intensity-modulated 
+radiotherapy (IMRT) with concurrent low-dose cisplatin for patients with early stage disease
+201,202. Excellent 3-year 
+local and regional control rates were observed with a 
+3-year OS of 95%203. For patients with advanced-stage 
+disease (stages III–IV), induction chemotherapy fol-lowed by reduced-dose chemoradiotherapy has proved 
+to be a promising approach in terms of reducing the risks of treatment-associated morbidities while main-taining acceptable survival rates
+204– 207. Indeed, those 
+who respond well to induction chemotherapy are more 
+likely to have radiosensitve tumours, which could enable 
+improvements in both oncological and long-term func-tional outcomes such as swallowing, nutritional status and overall QOL.Table 5 | Trials investigating de-escalation or replacement of chemotherapy and/or radiotherapy in HPV+ OPSCC
+Study Study cohort Treatment Outcomes Toxicity profile Ref.
+MC1273 (2019) 80 patients with ≤10 
+pack-year smoking 
+history, negative margins; 
+cohort B included 
+patients with extranodal extensionCohort A: 30 Gy RT plus docetaxel 
+(15 mg/m
+2)
+Cohort B: extranodal extension 
+to 36 Gy2-year locoregional 
+tumour control 96.2%, PFS 91.1%, OS 
+98.7%Grade ≥3 toxicities before RT 
+in 2.5% of patients, no grade ≥3 
+toxicities at 1 or 2 years after RT196
+NCT01530997 
+(2015)43 patients with T0–3 N0–2c M0 disease and a 
+minimal smoking history60 Gy IMRT with concurrent 
+cisplatin (30 mg/m
+2)3-year locoregional 
+control 100%, distant MFS 100%, DSS 100%Grade ≥3 dysphagia in 39%, 
+grade ≥3 mucositis in 35%; 
+chemotherapy-related 
+grade ≥3 toxicities included 
+haematological events (11%), 
+nausea (18%) and vomiting (5%)201
+Quarterback and Quarterback 2b 
+(2021)24 and 65 patients; stage 
+III/IV disease without 
+distant metastases (per 
+AJCC 7th edn staging)Quarterback: three cycles of induction chemotherapy; 
+responders randomized 2:1 to 
+receive 56 Gy (rdCRT) or 70 Gy 
+(sdCRT) RT with concurrent 
+carboplastin (AUC 1.5) 
+Quarterback 2b: 56/50.4 Gy IMRTCombined rdCRT arms: 2-year LRC, PFS 
+and OS 87.4%, 84.4% 
+and 90.6%No therapy-related mortality, minimal long-term 
+consequences (to be reported)
+246
+ORATOR (2019) 68 patients, ≥18 years of 
+age with ECOG PS 0–2, 
+stage T1–2 N0–2 tumours; 
+stratification by p16 
+status70 Gy IMRT with high-dose 
+cisplatin (100 mg/m²) or 
+modified cisplatin, cetuximab or carboplatin, for patients with N1–2 tumours or TORS plus ND 
+with 1 cm margins (±  adjuvant 
+CRT)MDADI score 
+(swallowing-related 
+QOL at 1 year): 86.9 
+vs 80.1 in the RT vs TORS plus ND 
+groups, respectively.Grade ≥3 dyspagia in 18% vs 26, 
+grade ≥3 hearing loss in 18% 
+vs 0%, grade ≥3 post-operative 
+haemorhage and bleeding (oral 
+cavity) each in two patients in the TORS plus ND group213
+ORATOR2 (2021) 61 patients with stage T1–2 N0–2 (AJCC 8th edn) 
+tumoursDe-intensified IMRT 
+(60 Gy ±  chemotherapy) vs TORS 
+plus ND (±  adjuvant 50 Gy IMRT)Estimated 2-year OS 100% vs 89.2% in the 
+IMRT vs TORS plus 
+ND arms, respectivelyGrade 2–5 toxicities in 67% of patients in the RT arm and 
+71% in the TORS plus ND arm. 
+Study terminated early owing to treatment-related mortality 
+and unacceptable PFS in the 
+TORS plus ND arm247
+An overview of ongoing trials is provided in Supplementary Information. AUC, area under the curve; AJCC, American Joint Committee on Cancer; CRT , 
+chemoradiotherapy; DSS, disease-specific survival; ECOG, Eastern Co-operative Oncology Group; HPV , human papillomavirus; IMRT , intensity-modulated 
+radiotherapy; LRC, locoregional control; MDADI, MD Anderson Dysphagia Inventory; MFS, metastasis-free survival; ND, neck dissection; OPSCC, oropharyngeal 
+squamous cell carcinoma; QOL, quality of life; PFS, progression-free survival; PS, performance status; rdCRT , reduced-dose chemoradiotherapy; RT , radiotherapy; sdCRT , standard-dose chemoradiotherapy; TORS, transoral robotic surgery.
+NaTure reviewS | CLINICAL ONCOL OgyReviews
+  voluMe 19 | May 2022 | 319
+ 0123456789();: With regard to the necessity of administering chemo-
+therapy alongside radiotherapy, results from one study 
+show that radiotherapy alone might be sufficient for 
+patients with locally advanced HPV+ disease. Indeed, 
+relative to chemoradiotherapy, radiotherapy alone is 
+less effective in patients with p16–/HPV DNA– OPSCC, 
+although no statistically significant difference in sur -
+vival outcomes exists for those with p16+/HPV DNA+ 
+disease208. However, in addition to HPV status, the 
+extent of disease might be an additional important fac-tor when considering the exclusion or de-escalation of 
+chemotherapy. In a retrospective analysis of data from more than 600 patients, concurrent chemoradiother -
+apy reduced the risk of metastatic disease in patients 
+with high-risk (AJCC 7th edition T4 and/or N3) HPV
++ 
+OPSCC but not in those with low-risk disease209. 
+Conversely, the addition of concurrent cisplatin led to improved DFS in a phase II trial involving patients 
+with low-risk HPV
++ OPSCC, in comparison with those 
+who received radiotherapy alone210. Owing to these dif-
+fering results, reliable conclusions regarding the safety 
+and efficacy of excluding chemotherapy from the pri-
+mary treatment of patients with advanced-stage HPV+ 
+OPSCC cannot be drawn.
+At present, the pursuit of treatment de-escalation 
+should remain within the confines of a well-designed clinical trial, as recommended in an American Society for Radiation Oncology (ASTRO) consensus paper from 2017 
+(reF.211). Nonetheless, ongoing and future studies might 
+provide the necessary evidence to update the current 
+standard of care ( Table  6, Supplementary Information). 
+These include the EV ADER trial (NCT03822897) for patients with early stage disease, which aims to deter -
+mine survival outcomes with reduced-dose radiotherapy 
+with or without concurrent chemotherapy. The safety and efficacy of hypofractionated radiotherapy with concur -
+rent chemotherapy as well as that of stereotactic ablative radiotherapy boost and de-escalated chemoradiotherapy will be further investigated in HYHOPE (NCT04580446) and SHORT-OPC (NCT04178174), respectively. Furthermore, the Quarterback trials (NCT01706939 
+and NCT02945631) aim to determine the safety and 
+efficacy of reduced-dose radiotherapy in patients with advanced-stage disease (stages III–IV). Results from these trials and others will enable a better and more compre-
+hensive understanding of the feasibility of de-escalated 
+primary radiotherapy or chemoradiotherapy and will hopefully provide the necessary evidence to influence the current standard of care.
+TORS or primary radio/chemoradiotherapy.  A retro -
+spective query of the National Cancer Database failed 
+to reveal any statistically significant difference in OS in 
+patients with HPV
++ OPSCC who received either primary 
+TORS or primary radiotherapy192. Survival outcomes 
+might be similar between the two methods, although dif -
+ferences in their respective toxicity profiles and the risks 
+of consequent morbidities are important considerations in the clinical decision-making process.
+Importantly, before the ORATOR trial, no data from 
+prospective studies investigating differences in outcome between patients who received TORS/TLMS alone and those who received primary chemoradiotherapy were available
+212. The ORATOR trial was unable to determine 
+definitive differences in survival outcomes between 
+patients receiving these two treatment modalities owing 
+to its modest sample size, with similar QOL outcomes observed in addition to a spectrum of treatment-specific toxicities
+213. However, the trial investigators only 
+reported 1-year swallowing and oncological outcomes 
+data. Importantly, the authors observed a risk of bleed-
+ing associated with TORS, although multi-institutional approaches to TORS with large patient numbers showed only low rates of severe bleeding
+214,215. As such, patients 
+should currently be presented with both treatment 
+options, including discussions of the relative risks and 
+benefits associated with each approach. A second study, ORATOR2 (NCT03210103), is currently underway and is expected to further confirm these findings and  
+determine OS outcomes in a larger cohort of patients.Table 6 | Trials investigating de-escalation of adjuvant therapy in HPV+ OPSCC
+Study Cohort Treatment Outcomes Toxicity profile Ref.
+SIRS 
+(2021)54 patients with stage I, II, III  
+and intermediate stage IVa  
+(T1 N0–2b, T2 N0–2b, AJCC 8th edn) disease, with stratification 
+based on pathological prognosis (based on ECS, LVI, PNI)TORS with follow-up monitoring 
+for patients with a good prognosis 
+(group 1); reduced-dose adjuvant 
+RT or CRT based on risk status for 
+patients with a poor prognosis (group 2 or 3)mPFS 91.3%, 86.7% and 
+93.3% for groups 1–3, 
+respectively, at a median 
+follow-up duration of 
+43.9 monthsGroup 1: dysphagia in 37%, severe 
+pain in 29.6%, anxiety in 11.1%; 
+group 2: altered taste/dysgeusia 
+in 100%, xerostomia in 66.6% and 
+severe pain in 66.6%; group 3: dysphagia in 100%; pain in 100%; 
+dysarthria in 50.0%248
+E3311 
+(2021)495 patients with cT1–2 stage III/IV disease (AJCC 7th edn)TORS only (group A); TORS with low-dose IMRT (group B) or TORS 
+with standard-dose IMRT (group C)  
+or TORS with standard-dose 
+IMRT with concurrent cisplatin or 
+carboplatin (group D)2-year PFS 96.6%, 
+94.9%, 96.0% and 
+90.7% in arms A–D, 
+respectively17% of patients had grade 3–4 AEs following TORS; grade 3–4 
+AEs observed in 0%, 15%, 24% and 
+60% in groups A–D, respectively, common AEs included oral 
+mucositis and dysphagia200
+AVOID 
+(2020)60 patients with pT1–pT2 N1–3 disease with favourable 
+prognostic features underwent 
+TORS at the primary siteAdjuvant RT omitting the  
+tumour bed2-year local control 98.3%; 2-year OS 100%AEs in 30%: including radiation dermatitis (13.33%), oral mucositis 
+(5.00%) and dysphagia (3.33%)249
+An overview of ongoing trials is provided in Supplementary Information. AEs, adverse events; AJCC, American Joint Committee on Cancer; CRT , chemoradiotherapy; 
+ECS, extracapsular spread; HPV , human papillomavirus; IMRT , intensity-modulated radiotherapy; LVI, lymphovascular invasion; mPFS, median progression-free 
+survival; OPSCC, oropharyngeal squamous cell carcinoma; OS, overall survival; PNI, perineural invasion; PFS, progression-free survival; RT , radiotherapy; TORS, 
+transoral robotic surgery.
+www.nature.com/nrclinoncReviews
+320 | May 2022 | voluMe 19 
+ 0123456789();: Targeted therapies. Several ongoing clinical trials are 
+investigating the efficacy of targeted therapy in combi-
+nation with the various other available treatment modal-
+ities in a range of treatment settings. The anti-EGFR monoclonal antibody cetuximab has been investigated as an alternative to cisplatin in an effort to reduce the 
+risks of treatment-related toxicities and morbidities 
+in two prospective studies. The adverse event profile was similar in both groups of patients, although those receiving cetuximab had inferior locoregional disease 
+control with an increased incidence of distant metasta-
+ses; furthermore, reductions in both PFS and OS were observed
+216,217. EGFR  is amplified in the majority of head 
+and neck cancers, although an important difference in 
+expression pattern is likely to exist in oropharyngeal 
+cancers, specifically218. Genomic studies have failed to 
+demonstrate the selection of clones harbouring mutated 
+or amplified EGFR  in patients with HPV+ tumours, 
+in contrast to those with HPV– tumours. However, 
+EGFR has been shown to be upregulated through gene fusion
+95,219.
+Data from one study demonstrate the safety of an  
+induction chemotherapy regimen consisting of de-  
+intensified chemotherapy in combination with the 
+antiviral agent ribavirin and the EGFR/HER2 inhib-itor afatinib in patients with locally advanced HPV
++ 
+OPSCC220. Biologically, the investigators postulate that 
+the antitumour effects of afatinib are mediated by inhibi-
+tion of HER2 signalling, which is oncogenically dysregu-
+lated through the action of the E6 protein. This approach seems promising, although further investigation is needed to better understand the biological mechanisms 
+of this combination as well as its efficacy as an alternative,  
+de-intensified induction therapy approach.
+Emergence of immunotherapies. Promoting de novo or 
+potentiating pre-existing antitumour immune responses 
+to viral antigens (particularly those derived from E6 and E7) in patients with HPV
++ malignancies is a tan-
+talizing and long-sought prospect for immunotherapy. 
+The many and varied approaches to immunotherapy 
+for HPV+ cancer that have been developed over the 
+past 20 years are covered in detail elsewhere221; here, 
+we highlight data from selected clinical trials involving 
+patients with HPV+ OPSCC, although we emphasize 
+that, thus far, only anti-PD-1/PD-L1 antibodies have been approved for clinical use
+221– 223.
+The anti-PD-1 antibodies nivolumab and pembroli-
+zumab were first approved by the FDA for patients with 
+metastatic, platinum-refractory HNSCC (regardless of HPV status) in 2016, on the basis of data from the phase III trials CheckMate-141 and KEYNOTE-040, 
+respectively. Pembrolizumab was also approved as 
+a first-line monotherapy for patients with PD-L1
++ 
+(combined-positive score ≥1%) metastatic or unresect-
+able HNSCC in 2019, based on data from the phase III 
+KEYNOTE-048 trial224– 226. These trials all included 
+patients with both HPV+ and HPV– disease; therefore, 
+several systematic reviews have since investigated possi-
+ble associations between HPV status and outcomes, with 
+three studies suggesting increased objective response rates (ORRs) and improved OS in patients with HPV
++ disease227– 229, one of which227 suggests a stronger rela-
+tionship in the context of PD-L1 blockade, whereas 
+another230 found no association between HPV status 
+and outcome. All four studies highlight the need for further research into this important question and point 
+to a lack of data on the relationship between HPV status and PFS in patients receiving adjuvant anti-PD-1/PD-L1 antibodies. In this regard, the anti-PD-L1 antibody ate-
+zolizumab is currently being tested in a phase III trial as 
+monotherapy in the adjuvant setting, following defini-tive treatment for locally advanced HPV
++ (stage III) or 
+HPV– (stage IV A and IVB) HNSCC231.
+A phase Ib trial combining nivolumab and stereotac-
+tic body radiation therapy (SBRT) in the neoadjuvant setting resulted in a high pathological complete response (pCR) rate (67%) among a cohort of 21 patients with locally advanced HNSCC (NCT03247712), 16 of whom 
+had HPV
++ disease232. The investigators noted the high 
+rate of major pathological responses (MPRs) to radi -
+otherapy alone among patients with HPV+ disease in 
+this trial, indicating a need to determine the separate contribution of each modality to these reponses. These 
+investigators also noted the unsuitability of radiographic response as an indicator of pathological response in this context, given the short treatment window of 
+6 weeks. The combination of the anti-PD-L1 antibody 
+durvalumab with SBRT is currently being tested in NCT03618134, a phase Ib/II trial specifically involv-ing patients with HPV
++ OPSCC. The role of nivolumab 
+monotherapy has also been investigated in the neoad-
+juvant setting in CheckMate-358 (reF.232), with low radi-
+ographic response rates observed both in patients with HPV
++ (12%) and in those with HPV– (8.3%) disease233. 
+No pCRs were seen in this study and among patients with HPV
++ disease, only one of 17 patients evaluated 
+had an MPR, with three more having partial patho-logical responses. In the phase Ib CIAO trial involv-
+ing 28 patients with OPSCC, of whom 24 had p16
++ 
+tumours, 29% had an MPR and no increased benefit 
+was observed from addition of the anti-CTLA4 anti-
+body tremelimumab234. As noted elsewhere232, however, 
+differences in the criteria used to assess pathological 
+response make comparisons of data from these different 
+neoadjuvant trials difficult, and overall, the pathologi-cal response rates of patients with HNSCC who received neoadjuvant anti-PD-1/PD-L1 antibodies as monother -
+apies appear to be lower than those seen in several other cancer types
+233.
+Therapeutic vaccines based on E6 and/or E7 have 
+long been investigated as treatments for cervical cancer; unfortunately thus far without any notable clinical suc-cess. Several therapeutic vaccines targeting E6 and/or E7 have entered trials for patients with HPV
++ OPSCC, with 
+numerous studies now investigating combinations 
+with an ICI or another immunomodulatory agent223,235. 
+Of the few trials with outcomes data available, an ORR of 36% and median OS duration of 17.5 months were 
+observed in 22 patients with HPV
++ OPSCC in a phase II 
+trial combining nivolumab with an HPV-16 E6/E7  
+peptide vaccine (ISA 101), which compares favourably with data from trials testing nivolumab monotherapy
+236. 
+MEDI0457 (a DNA vaccine encoding E6 and E7 antigens 
+NaTure reviewS | CLINICAL ONCOL OgyReviews
+  voluMe 19 | May 2022 | 321
+ 0123456789();: from HPV-16 and HPV-18, administered together with 
+DNA encoding IL-12 as an adjuvant) induced durable 
+HPV-specific immune responses in 18 of 21 patients with 
+locally advanced p16+ HNSCC, including one patient 
+who developed metastatic disease followed by a complete, 
+rapid and durable response to subseqeunt nivolumab, 
+in a phase I/IIa trial237. Other ongoing trials include 
+HARE-40, a phase I/II dose-escalation trial designed to 
+determine the safety of an E7-targeting mRNA vaccine 
+delivered in combination with an agonistic anti-CD40 antibody to enhance antigen presentation by dendritic cells (NCT03418480) and a first-in-human phase I/II  
+trial investigating the novel E6/E7-targeting vaccine HB-201, with or without concurrent immune-checkpoint inhibition (NCT04180215 and NCT03669718) (
+Table  7, 
+Supplementary Information). The results of these tri-
+als and others will be crucial in shaping the continued 
+progress of immunotherapies for patients with HPV+ 
+OPSCCs.
+Future directions for novel therapies
+Ultimately, with the currently available therapies, identifying safe methods of de-escalation of chemo-
+radiation seems to be a more relevant research objec-
+tive than identifying the most effective chemotherapy regimen. However, the vast majority of molecular data from patients with HPV
++ OPSCCs have thus far been 
+derived from primary tumours, >80% of which are typ-
+ically eliminated with chemoradiation. Key challenges 
+are to identify the 15–20% of primary tumours that are associated with a high risk of recurrence and to identify effective treatments for patients with recurrent disease, 
+for whom 2-year OS remains at 40%
+238. To this end, 
+sequencing of tumour specimens from 51 patients with primary HPV
++ OPSCCs, 16 of whom had disease recur -
+rence, together with specimens from 12 metachronous recurrent HPV
++ OPSCCs (including seven with matched 
+primary tumours also sequenced) was undertaken. This study provided the intriguing observation that recur -
+rent tumours share certain genomic aberrations, such 
+as TP53 mutations, that are almost exclusive to pri-
+mary HPV
+– HNSCCs239. The more recent discovery of a 
+gene-expression profile associated with poor prognosis 
+in patients with HPV+ OPSCC that bears similarities to 
+that of HPV– HNSCC provides support for this finding. 
+Interestingly, the extent of HPV E6 and E7 expression does not seem to vary between good-prognosis and 
+poor-prognosis HPV
++ subgroups; instead expression 
+of the viral E1–E4 transcript, which functions dur -
+ing the later stages of the productive HPV replication cycle but has not previously been implicated in cancer, is substantially increased in tumours belonging to the good-prognosis subgroup. The reasons for this increased 
+expression remain unclear but might confer increased 
+radiosensitivity in cells expressing E1–E4 
+(reF.240). Given 
+the findings from these studies, determining whether 
+cells derived from recurrent HPV+ OPSCCs have the 
+same dependence upon ongoing viral oncogene expres-sion as those derived from primary tumours will be 
+important; if not, this might have implications for the efficacy of HPV-targeted therapies (such as therapeutic vaccines) in patients with advanced-stage disease.
+Table 7 | Ongoing immunotherapy clinical trials for HPV+ OPSCC
+Study Cohort Treatment Outcome measures Current 
+status
+IMvoke010 
+(NCT03452137)406 patients, with a CR/PR or stable disease following definitive local therapyAtezolizumab or placebo as adjuvant therapy after definitve local therapy for patients with high-risk diseaseEFS (primary outcome), OS and AEs included as secondary outcomesActive
+NCT03799445 180 patients with T1 N2a–N2 cM0, T2 N1–2c M0, T3 N0–2 cM0 (AJCC 7th edn) or stage I/II disease excluding T1 N0–1 
+and T2 N0 (AJCC 8th edn)IMRT (50–66 Gy) plus nivolumab and 
+ipilimumabDose-limiting toxicities, CR rate, 
+PFS (primary outcomes); grade 3 AEs, tolerability, clinical CR, acute 
+and chronic AEs, acute toxicities, 
+late toxicities, swallowing, pattern of failure, OSRecruiting
+NCT03410615 180 patients with locoregionally advanced, intermediate-risk 
+non-metastatic disease (AJCC 8th edn)70 Gy RT with cisplatin vs durvalumab 
+plus adjuvant durvaluamb vs durvalumab plus adjuvant 
+durvalumab/tremelimumab (third arm closed to accrual)3-year EFS (primary outcome); FACT–HN score, local regional 
+failure, distant MFS, OS, 
+cost-effectiveness, toxicitiesRecruiting
+NCT03669718 194 patients with PD-L1
++, p16+ 
+recurrent and/or metastatic diseaseISA101b plus cemiplimab vs placebo 
+plus cemiplimabORR, treatment-related AEs, DORRecruiting
+NCT03952585 711 patients with early stage, p16
++ 
+non-smoking-associated diseaseImage-guided RT or IMRT plus 
+concurrent cisplatin vs reduced-dose image-guided RT or IMRT plus 
+concurrent cisplatin vs reduced-dose 
+image-guided RT or IMRT plus nivolumabPFS, QOL (primary outcomes), locoregional failure, distant failure, OS, AEsRecruiting
+NCT03811015 744 patients with a ≥10 pack-year 
+smoking history and stage T1–2 N2–3 or T3–4 N0–3 disease or <10 pack-years 
+with stage T4 N0–3 or T1–2 N2–3Cisplatin plus IMRT followed by nivolumab vs cisplatin plus IMRT followed by observation with potential 
+crossover to nivolumab at 12 monthsPFS, OS, negative FDG–PET at 12 
+weeks post-therapyRecruiting
+AJCC, American Joint Committee on Cancer; AEs, adverse events; CR, complete response; DOR, duration of response; EFS, event-free survival; FDG, 
+fluorodeoxyglucose; FACT–HN, functional assessment of cancer therapy, head & neck; IMRT , intensity-modulated radiotherapy; MFS, metastasis-free survival;  
+ORR, objective response rate; OS, overall survival; PFS, progression-free survival; PR, partial response; QOL, quality of life; RT , radiotherapy.
+www.nature.com/nrclinoncReviews
+322 | May 2022 | voluMe 19 
+ 0123456789();: Finally, in the largest genomic analysis of distant 
+metastases from patients with HPV+ OPSCC pub-
+lished to date, targeted cancer gene sequencing of 
+samples from 26 metastatic lesions revealed a higher 
+frequency of PRKDC mutations compared with pri -
+mary tumours. PRKDC encodes the DNA-dependent 
+protein kinase catalytic subunit (DNA-PKcs), which is 
+essential for the repair of DNA double-strand breaks 
+by non-homologous end joining; thus, the investigators speculate that these metastatic tumours might respond to therapies such as PARP inhibitors, which exploit DNA 
+repair defects
+109. Indeed, the PARP inhibitor olaparib is 
+currently being assessed as a radiosensitizer with the aim of improved logoregional control in patients with 
+stage II–III HNSCCs (NCT02229656). However, deter -
+mining whether these tantalizing observations hold true in larger cohorts of patients with recurrent and/or 
+metastatic HPV
++ OPSCCs, and developing preclinical 
+models that are representative of these tumours, will be  
+important steps going forward.
+Conclusions
+The differentiation of HPV+ OPSCCs from their HPV– 
+counterparts outlined in the 8th edition of the AJCC staging system cements the distinct biology of these tumours and the associated improved prognosis. The prevalence of these tumours in younger individu -
+als emphasizes the need for continued efforts to treat 
+patients, such that post-treatment QOL remains high. Owing to the particular vulnerability of these tumours 
+to antitumour immunity, novel therapeutic regimens 
+that improve on the associated morbidities and mor -
+tality associated with the current standard of care will probably eventually include immunotherapies. Data 
+from completed and ongoing clinical trials emphasize 
+the potential for treatment de-intensification as a means of improving QOL while maintaining robust survival outcomes. More trials are clearly needed, although it 
+remains apparent that such strategies can lead to con-
+siderable reductions in morbidity and mortality, and as such, all eligible patients should be considered for such studies. Importantly, a need continues to exist 
+for further research to identify and validate diagnos-
+tic, prognostic and predictive biomarkers to improve early detection, stratify patients for potential treatment de-intensification or otherwise better allocate to cur -
+rent standard-of-care therapies and, in future, targeted  
+therapies and immunotherapies.
+Published online 1 February 2022
+1. Chaturvedi, A. K. et al. Human papillomavirus and 
+rising oropharyngeal cancer incidence in the United 
+States. J. Clin. Oncol. 29, 4294–4301 (2011).
+2. Gillison, M. L., Chaturvedi, A. K., Anderson, W. F.  
+& Fakhry, C. Epidemiology of human papillomavirus-  
+positive head and neck squamous cell carcinoma.  
+J. Clin. Oncol. 33, 3235–3242 (2015).
+3. Senkomago, V. et al. Human papillomavirus-attributable cancers — United States, 
+2012–2016. MMWR Morb. Mortal. Wkly Rep. 68, 
+724–728 (2019).
+4. Schache, A. G. et al. HPV-related oropharynx cancer in the United Kingdom: an evolution in the understanding of disease etiology. Cancer Res. 76, 6598–6606 
+(2016).
+5. Lei, J. et al. HPV vaccination and the risk of invasive cervical cancer. N. Engl. J. Med. 383, 1340–1348 
+(2020).
+6. Craig, S. G. et al. Recommendations for determining HPV status in patients with oropharyngeal cancers under TNM8 guidelines: a two-tier approach. Br. J. 
+Cancer 120, 827–833 (2019).
+7. Gillison, M. L. et al. Distinct risk factor profiles for human papillomavirus type 16-positive and human 
+papillomavirus type 16-negative head and neck cancers. J. Natl Cancer Inst. 100, 407–420 (2008).
+8. Lechner, M., Jones, O. S., Breeze, C. E. & Gilson, R. Gender-neutral HPV vaccination in the UK, rising  
+male oropharyngeal cancer rates, and lack of HPV 
+awareness. Lancet Infect. Dis. 19, 131–132 (2019).
+9. Faraji, F. et al. The prevalence of human papillomavirus 
+in oropharyngeal cancer is increasing regardless of sex 
+or race, and the influence of sex and race on survival  
+is modified by human papillomavirus tumor status. 
+Cancer 125, 761–769 (2019).
+10. Argirion, I. et al. Increasing prevalence of HPV in oropharyngeal carcinoma suggests adaptation of  
+p16 screening in Southeast Asia. J. Clin. Virol. 132, 
+104637 (2020).
+11. Hwang, T . Z., Hsiao, J. R., T sai, C. R. & Chang, J. S. 
+Incidence trends of human papillomavirus-related 
+head and neck cancer in T aiwan, 1995-2009. Int. J. 
+Cancer 137, 395–408 (2015).
+12. Wittekindt, C. et al. Increasing incidence rates of oropharyngeal squamous cell carcinoma in Germany 
+and significance of disease burden attributed  
+to human papillomavirus. Cancer Prev. Res. 12,  
+375–382 (2019).
+13. Zamani, M. et al. The current epidemic of 
+HPV-associated oropharyngeal cancer: an 18-year Danish population-based study with 2,169 patients. 
+Eur. J. Cancer 134, 52–59 (2020).14. Del Mistro, A. et al. Age-independent increasing prevalence of human papillomavirus-driven 
+oropharyngeal carcinomas in North-East Italy.  
+Sci. Rep. 10, 1–10 (2020).
+15. Morbini, P . et al. The evolving landscape of human 
+papillomavirus-related oropharyngeal squamous  
+cell carcinoma at a single institution in northern Italy. Acta Otorhinolaryngol. Ital. 39, 9–17 (2019).
+16. Haeggblom, L. et al. Changes in incidence and prevalence of human papillomavirus in tonsillar  
+and base of tongue cancer during 2000-2016 in the 
+Stockholm region and Sweden. Head. Neck 41, 
+1583–1590 (2019).
+17. Donà, M. G. et al. Evolving profile of HPV-driven oropharyngeal squamous cell carcinoma in a national 
+cancer institute in Italy: a 10-year retrospective study. Microorganisms 8, 1–12 (2020).
+18. Girardi, F. M., Wagner, V. P ., Martins, M. D., Abentroth, A. L. & Hauth, L. A. Prevalence of p16 expression in oropharyngeal squamous cell carcinoma in southern Brazil. Oral. Surg. Oral. Med. Oral. 
+Pathol. Oral. Radiol. 130, 681–691 (2020).
+19. Rietbergen, M. M. et al. Epidemiologic associations  
+of HPV-positive oropharyngeal cancer and (pre)
+cancerous cervical lesions. Int. J. Cancer 143,  
+283–288 (2018).
+20. Carlander, A. F. et al. A contemporary systematic review on repartition of HPV-positivity in oropharyngeal cancer worldwide. Viruses 13, 1326 (2021).
+21. Chen, S. Y. et al. The association of smoking and outcomes in HPV-positive oropharyngeal cancer:  
+a systematic review. Am. J. Otolaryngol. 41, 102592 
+(2020).
+22. Ang, K. K. et al. Human papillomavirus and survival of patients with oropharyngeal cancer. N. Engl. J. Med.  
+363, 24–35 (2010).
+23. Gooi, Z., Chan, J. Y. K. & Fakhry, C. The epidemiology of the human papillomavirus related to oropharyngeal 
+head and neck cancer. Laryngoscope 126, 894–900 
+(2016).
+24. D’Souza, G. et al. Sex differences in risk factors and natural history of oral human papillomavirus infection. 
+J. Infect. Dis. 213, 1893–1896 (2016).
+25. de Martel, C., Plummer, M., Vignat, J. & Franceschi, S. Worldwide burden of cancer attributable to HPV  
+by site, country and HPV type. Int. J. Cancer 141, 
+664–670 (2017).
+26. Blumberg, J., Monjane, L., Prasad, M., Carrilho, C.  
+& Judson, B. L. Investigation of the presence of HPV related oropharyngeal and oral tongue squamous cell 
+carcinoma in Mozambique. Cancer Epidemiol. 39, 
+1000–1005 (2015).27. Rettig, E. M. et al. Oral human papillomavirus 
+infection and head and neck squamous cell carcinoma 
+in rural northwest Cameroon. OTO Open 3, 
+2473974X18818415 (2019).
+28. Ndiaye, C. et al. The role of human papillomavirus  
+in head and neck cancer in Senegal. Infect. Agent. Cancer 8, 14 (2013).
+29. Kofi, B. et al. Infrequent detection of human 
+papillomavirus infection in head and neck cancers in 
+the Central African Republic: a retrospective study. Infect. Agent Cancer 14, 9 (2019).
+30. Oga, E. A. et al. Paucity of HPV-related head and neck 
+cancers (HNC) in Nigeria. PLoS ONE 11, e0152828 
+(2016).
+31. Chaturvedi, A. K. & Zumsteg, Z. S. A snapshot of the 
+evolving epidemiology of oropharynx. cancers Cancer  
+124, 2893–2896 (2018).
+32. T ota, J. E. et al. Evolution of the oropharynx cancer 
+epidemic in the United States: moderation of increasing incidence in younger individuals and shift  
+in the burden to older individuals. J. Clin. Oncol. 37, 
+1538–1546 (2019).
+33. Kreimer, A. R. et al. Summary from an international 
+cancer seminar focused on human papillomavirus (HPV)-positive oropharynx cancer, convened by scientists at IARC and NCI. Oral. Oncol. 108, 104736 
+(2020).
+34. Mariz BALA, K. L. P . et al. Global prevalence of human 
+papillomavirus-driven oropharyngeal squamous cell 
+carcinoma following the ASCO guidelines: a systematic 
+review and meta-analysis. Crit. Rev. Oncol. Hematol.  
+156, 103116 (2020).
+35. Windon, M. J. et al. Increasing prevalence of human 
+papillomavirus–positive oropharyngeal cancers among older adults. Cancer 124, 2993–2999 
+(2018).
+36. Rettig, E. M., Fakhry, C., Khararjian, A. & Westra, W. H. 
+Age profile of patients with oropharyngeal squamous 
+cell carcinoma. JAMA Otolaryngol. 
+144, 538–539 
+(2018).
+37. Zumsteg, Z. S. et al. Incidence of oropharyngeal 
+cancer among elderly patients in the United States. 
+JAMA Oncol. 2, 1617–1623 (2016).
+38. Mahal, B. A. et al. Incidence and demographic  
+burden of HPV-associated oropharyngeal  
+head and neck cancers in the United States.  
+Cancer Epidemiol. Biomark. Prev. 28, 1660–1667 
+(2019).
+39. Ramer, I. et al. Racial disparities in incidence of human papillomavirus-associated oropharyngeal 
+cancer in an urban population. Cancer Epidemiol. 44, 
+91–95 (2016).
+NaTure reviewS | CLINICAL ONCOL OgyReviews
+  voluMe 19 | May 2022 | 323
+ 0123456789();: 40. Liederbach, E. et al. The national landscape of human 
+papillomavirus-associated oropharynx squamous cell 
+carcinoma. Int. J. Cancer 140, 504–512 (2017).
+41. Falcaro, M. et al. The effects of the national HPV vaccination programme in England, UK, on cervical 
+cancer and grade 3 cervical intraepithelial neoplasia incidence: a register-based observational study. 
+Lancet 398, 2084–2092 (2021).
+42. Masterson, L. & Lechner, M. HPV vaccination  
+in boys — will the UK join the fight? Nat. Rev. Clin. 
+Oncol. 13, 721–722 (2016).
+43. HPV Vaccination Uptake. Australia National  
+Control Indicators. Published 2019. h ttps:// 
+ncci.canceraustralia.gov.au/prevention/hpv- 
+vaccination-uptake/hpv-vaccination-uptake (2021).
+44. Walker, T . Y. et al. National, regional, state, and selected local area vaccination coverage among 
+adolescents aged 13–17 years — United States, 
+2019. MMWR Morb. Mortal. Wkly Rep. 69,  
+1109–1116 (2020).
+45. Public Health England. Human papillomavirus (HPV) 
+vaccination coverage in adolescent females and males 
+in England: academic year 2019 to 2020. Heal. Prot. 
+Rep. 14, 1–15 (2020).
+46. Radisic, G., Chapman, J., Flight, I. & Wilson, C. Factors associated with parents’ attitudes to the HPV vaccination of their adolescent sons: a systematic 
+review. Prev. Med. 95, 26–37 (2017).
+47. Sonawane, K. et al. Parental intent to initiate and complete the human papillomavirus vaccine series in 
+the USA: a nationwide, cross-sectional survey. Lancet 
+Public Heal. 5, e484–e492 (2020).
+48. Gottvall, M., Stenhammar, C. & Grandahl, M. Parents’ 
+views of including young boys in the Swedish national 
+school-based HPV vaccination programme: a qualitative study. BMJ Open 7, 11–13 (2017).
+49. Thompson, E. L. et al. Awareness and knowledge  
+of HPV and HPV vaccination among adults ages 27–45 years. Vaccine 38, 3143–3148 (2020).
+50. Waller, J. et al. Decision-making about HPV vaccination in parents of boys and girls: a population-based survey in England and Wales. 
+Vaccine 38, 1040–1047 (2020).
+51. Sherman, S. M., Cohen, C. R., Denison, H. J., 
+Bromhead, C. & Patel, H. A survey of knowledge, attitudes and awareness of the human papillomavirus 
+among healthcare professionals across the UK.  
+Eur. J. Public Health 30, 10–16 (2020).
+52. Lechner, M. et al. A cross-sectional survey of 
+awareness of human papillomavirus-associated oropharyngeal cancers among general practitioners in the UK. BMJ Open 8, 1–6 (2018).
+53. Katz, J. The impact of HPV vaccination on the prevalence of oropharyngeal cancer (OPC) in a hospital-based population: a cross-sectional study of 
+patient’s registry. J. Oral. Pathol. Med. 50, 47–51 
+(2021).
+54. Herrero, R. et al. Reduced prevalence of oral human 
+papillomavirus (HPV) 4 years after bivalent HPV vaccination in a randomized clinical trial in Costa Rica. PLoS ONE 8, e68329 (2013).
+55. Chaturvedi, A. K. et al. Effect of prophylactic human papillomavirus (HPV) vaccination on oral HPV 
+infections among young adults in the United States.  
+J. Clin. Oncol. 36, 262–267 (2018).
+56. Hirth, J. M., Chang, M., Resto, V. A., Guo, F.  
+& Berenson, A. B. Prevalence of oral human 
+papillomavirus by vaccination status among young adults (18–30 years old). Vaccine 35, 3446–3451 
+(2017).
+57. Zhang, Y., Fakhry, C. & D’Souza, G. Projected association of human papillomavirus vaccination with 
+oropharynx cancer incidence in the US, 2020–2045. 
+JAMA Oncol. 7, e212907 (2021).
+58. Lechner, M., Breeze, C. E., O’Mahony, J. F. & 
+Masterson, L. Early detection of HPV-associated 
+oropharyngeal cancer. Lancet 393, 2123 (2019).
+59. Kreimer, A. R. et al. Timing of HPV16-E6 antibody seroconversion before OPSCC: findings from the 
+HPVC3 consortium. Ann. Oncol. 30, 1335–1343 
+(2019).
+60. Kreimer, A. R., Clifford, G. M., Boyle, P . &  
+Franceschi, S. Human papillomavirus types in head 
+and neck squamous cell carcinomas worldwide: a systemic review. Cancer Epidemiol. Biomark. Prev. 14, 
+467–475 (2005).
+61. Egawa, N., Egawa, K., Griffin, H. & Doorbar, J.  
+Human papillomaviruses; epithelial tropisms, and the development of neoplasia. Viruses 7, 3863–3890 
+(2015).
+62. Doorbar, J. et al. The biology and life-cycle of human papillomaviruses. Vaccine 30, F55–F70 (2012).63. Graham, S. V. Keratinocyte differentiation-dependent human papillomavirus gene regulation. Viruses 9, 
+245 (2017).
+64. Parfenov, M. et al. Characterization of HPV and  
+host genome interactions in primary head  
+and neck cancers. Proc. Natl Acad. Sci. USA 111, 
+15544–15549 (2014).
+65. Vinokurova, S. et al. T ype-dependent integration frequency of human papillomavirus genomes in 
+cervical lesions. Cancer Res. 68, 307–313 (2008).
+66. Ramqvist, T . et al. Studies on human papillomavirus 
+(HPV) 16 E2, E5 and E7 mRNA in HPV-positive 
+tonsillar and base of tongue cancer in relation to 
+clinical outcome and immunological parameters.  
+Oral. Oncol. 51, 1126–1131 (2015).
+67. Koneva, L. A. et al. HPV integration in HNSCC correlates with survival outcomes, immune response 
+signatures, and candidate drivers. Mol. Cancer Res.  
+16, 90–102 (2018).
+68. Hanahan, D. & Weinberg, R. A. Hallmarks of cancer: 
+the next generation. Cell 144, 646–674 (2011).
+69. Mesri, E. A., Feitelson, M. A. & Munger, K. Human 
+viral oncogenesis: a cancer hallmarks analysis.  
+Cell Host Microbe 15, 266–282 (2014).
+70. Huibregtse, J. M., Scheffner, M. & Howley, P . M.  
+A cellular protein mediates association of p53 with 
+the E6 oncoprotein of human papillomavirus types 16 
+or 18. EMBO J. 10, 4129–4135 (1991).
+71. Scheffner, M., Werness, B. A., Huibregtse, J. M., Levine, A. J. & Howley, P . M. The E6 oncoprotein 
+encoded by human papillomavirus types 16  
+and 18 promotes the degradation of p53. Cell 63, 
+1129–1136 (1990).
+72. Scheffner, M., Huibregtse, J. M., Vierstra, R. D. & 
+Howley, P . M. The HPV-16 E6 and E6-AP complex functions as a ubiquitin-protein ligase in the ubiquitination of p53. Cell 75, 495–505 (1993).
+73. Huh, K. et al. Human papillomavirus type 16 E7 oncoprotein associates with the Cullin 2 ubiquitin 
+ligase complex, which contributes to degradation of 
+the retinoblastoma tumor suppressor. J. Virol. 81, 
+9737–9747 (2007).
+74. Dyson, N., Howley, P . M., Munger, K. & Harlow, E.  
+The human papilloma virus-16 E7 oncoprotein is able 
+to bind to the retinoblastoma gene product. Science  
+243, 934–938 (1986).
+75. Münger, K., Phelps, W. C., Bubb, V., Howley, P . M.  
+& Schlegel, R. The E6 and E7 genes of the human 
+papillomavirus type 16 together are necessary and 
+sufficient for transformation of primary human 
+keratinocytes. J. Virol. 63, 4417–4421 (1989).
+76. Božinovi ć, K. et al. Genome-wide miRNA profiling 
+reinforces the importance of miR-9 in human 
+papillomavirus associated oral and oropharyngeal 
+head and neck cancer. Sci. Rep. 9, 2306 (2019).
+77. Boscolo-Rizzo, P ., Furlan, C., Lupato, V., Polesel, J.  
+& Fratta, E. Novel insights into epigenetic drivers of oropharyngeal squamous cell carcinoma: role  
+of HPV and lifestyle factors. Clin. Epigenetics 9, 124 
+(2017).
+78. Barr, J. A. et al. Long non-coding RNA FAM83H-AS1 is regulated by human papillomavirus 16 E6 
+independently of p53 in cervical cancer cells. Sci. Rep.  
+9, 3662 (2019).
+79. Lechner, M. et al. Identification and functional 
+validation of HPV-mediated hypermethylation in head and neck squamous cell carcinoma. Genome Med. 5, 
+15 (2013).
+80. Burgers, W. A. et al. Viral oncoproteins target the DNA methyltransferases. Oncogene 26, 1650–1655 
+(2007).
+81. Chalertpet, K., Pakdeechaidan, W., Patel, V., Mutirangura, A. & Yanatatsaneejit, P . Human 
+papillomavirus type 16 E7 oncoprotein mediates 
+CCNA1 promoter methylation. Cancer Sci. 106, 
+1333–1340 (2015).
+82. Cicchini, L. et al. Suppression of antitumor immune responses by human papillomavirus through 
+epigenetic downregulation of CXCL14. mBio 7, 
+e00270-16 (2016).
+83. Cicchini, L. et al. High-risk human papillomavirus E7 
+alters host DNA methylome and represses HLA-E expression in human keratinocytes. Sci. Rep. 7, 3633 
+(2017).
+84. Munger, K. & Jones, D. L. Human papillomavirus 
+carcinogenesis: an identity crisis in the retinoblastoma 
+tumor suppressor pathway. J. Virol. 89, 4708–4711 
+(2015).
+85. Magaldi, T . G. et al. Primary human cervical carcinoma cells require human papillomavirus E6 and E7 
+expression for ongoing proliferation. Virology 422, 
+114–124 (2012).86. Weinstein, I. B. Addiction to oncogenes–the Achilles 
+heal of cancer. Science 297, 63–64 (2002).
+87. McLaughlin-Drubin, M. E., Crum, C. P . & Münger, K. Human papillomavirus E7 oncoprotein induces KDM6A and KDM6B histone demethylase expression 
+and causes epigenetic reprogramming. Proc. Natl 
+Acad. Sci. USA 108, 2130–2135 (2011).
+88. McLaughlin-Drubin, M. E., Park, D. & Munger, K. T umor suppressor p16INK4A is necessary for survival of cervical carcinoma cell lines. Proc. Natl Acad. Sci. 
+USA 110, 16175–16180 (2013).
+89. Spring, L. M. et al. Cyclin-dependent kinase 4 and 6 inhibitors for hormone receptor-positive breast 
+cancer: past, present, and future. Lancet 395,  
+817–827 (2020).
+90. Soto, D. R., Barton, C., Munger, K. & 
+McLaughlin-Drubin, M. E. KDM6A addiction of 
+cervical carcinoma cell lines is triggered by E7 and 
+mediated by p21
+CIP1 suppression of replication stress. 
+PLoS Pathog. 13, 1–25 (2017).
+91. Ganti, K. et al. The human papillomavirus E6 PDZ 
+binding motif: from life cycle to malignancy. Viruses 7, 
+3530–3551 (2015).
+92. Mittal, S. & Banks, L. Molecular mechanisms 
+underlying human papillomavirus E6 and E7 
+oncoprotein-induced cell transformation. Mutat. Res.  
+772, 23–35 (2017).
+93. Roman, A. & Munger, K. The papillomavirus E7 
+proteins. Virology 445, 138–168 (2013).
+94. Moody, C. A. & Laimins, L. A. Human papillomavirus 
+oncoproteins: pathways to transformation. Nat. Rev. 
+Cancer 10, 550–560 (2010).
+95. Seiwert, T . Y. et al. Integrative and comparative 
+genomic analysis of HPV-positive and HPV-negative head and neck squamous cell carcinomas. Clin. Cancer 
+Res. 21, 632–641 (2015).
+96. The Cancer Genome Atlas Network. Comprehensive 
+genomic characterization of head and neck squamous 
+cell carcinomas. Nature 517, 576–582 (2015).
+97. Gillison, M. L. et al. Human papillomavirus and the 
+landscape of secondary genetic alterations in oral cancers. Genome Res. 29, 1–17 (2019).
+98. Dogan, S. et al. Identification of prognostic molecular 
+biomarkers in 157 HPV-positive and HPV-negative 
+squamous cell carcinomas of the oropharynx. Int. J. 
+Cancer 145, 3152–3162 (2019).
+99. Lechner, M. et al. T argeted next-generation 
+sequencing of head and neck squamous cell  
+carcinoma identifies novel genetic alterations in HPV+ 
+and HPV−  tumors. Genome Med. 5, 49 (2013).
+100. Hayes, D. N., Van Waes, C. & Seiwert, T . Y. Genetic 
+landscape of human papillomavirus-associated head and neck cancer and comparison to tobacco-related 
+tumors. J. Clin. Oncol. 33, 3227–3234 (2015).
+101. Henderson, S., Chakravarthy, A., Su, X., Boshoff, C. & 
+Fenton, T . R. APOBEC-mediated cytosine deamination links PIK3CA helical domain mutations to human 
+papillomavirus-driven tumor development. Cell Rep.  
+7, 1833–1841 (2014).
+102. Zhu, B. et al. Mutations in the HPV16 genome induced 
+by APOBEC3 are associated with viral clearance.  
+Nat. Commun. 11, 1–12 (2020).
+103. Faden, D. L. et al. APOBEC mutagenesis is concordant 
+between tumor and viral genomes in HPV-positive head and neck squamous cell carcinoma. Viruses 13, 
+1666 (2021).
+104. Smith, N. J. & Fenton, T . R. The APOBEC3 genes  
+and their role in cancer: insights from human papillomavirus. J. Mol. Endocrinol. 62, R269–R287 
+(2019).
+105. Fenton, T . R. Accumulation of host cell genetic errors 
+following high-risk HPV infection. Curr. Opin. Virol. 51, 
+1–8 (2021).
+106. Warren, C. J., Westrich, J. A., Van Doorslaer, K. & 
+Pyeon, D. Roles of APOBEC3A and APOBEC3B in human papillomavirus infection and disease 
+progression. Viruses 9, 1–20 (2017).
+107. Lui, V. W. Y. et al. Frequent mutation of the  
+PI3K pathway in head and neck cancer defines 
+predictive biomarkers. Cancer Discov. 3, 761–769 
+(2013).
+108. Nichols, A. C. et al. High frequency of activating 
+PIK3CA mutations in human papillomavirus- positive 
+oropharyngeal cancer. JAMA Otolaryngol. 139,  
+617–622 (2013).
+109. Hanna, G. J. et al. Improved outcomes in 
+PI3K-pathway-altered metastatic HPV oropharyngeal cancer. JCI Insight 3, e122799 (2018).
+110. Beaty, B. T . et al. PIK3CA mutation in HPV-  
+associated OPSCC patients receiving deintensified 
+chemoradiation. J. Natl Cancer Inst. 112, 855–858 
+(2019).
+www.nature.com/nrclinoncReviews
+324 | May 2022 | voluMe 19  0123456789();: 111. Hedberg, M. L. et al. Use of nonsteroidal 
+anti-inflammatory drugs predicts improved patient 
+survival for PIK3CA-altered head and neck cancer.  
+J. Exp. Med. 216, 419–427 (2019).
+112. Cai, Y., Yousef, A., Grandis, J. R. & Johnson, D. E. 
+NSAID therapy for PIK3CA-altered colorectal, breast, and head and neck cancer. Adv. Biol. Regul. 75, 
+100653 (2020).
+113. Paleari, L. et al. PIK3CA mutation, aspirin use  
+after diagnosis and survival of colorectal cancer.  
+a systematic review and meta-analysis of epidemiological studies. Clin. Oncol. 28, 317–326 
+(2016).
+114. Nyman, P . E., Buehler, D. & Lambert, P . F. Loss of 
+function of canonical Notch signaling drives head  
+and neck carcinogenesis. Clin. Cancer Res. 24,  
+6308–6318 (2018).
+115. Kranjec, C. et al. Modulation of basal cell fate during 
+productive and transforming HPV-16 infection is 
+mediated by progressive E6-driven depletion of Notch. 
+J. Pathol. 242, 448–462 (2017).
+116. Beglin, M., Melar-New, M. & Laimins, L. Human 
+papillomaviruses and the interferon response.  
+J. Interf. Cytokine Res. 29, 629–635 (2009).
+117. Dhawan, A. et al. Role of gene signatures combined 
+with pathology in classification of oropharynx head and neck cancer. Sci. Rep. 10, 10226 (2020).
+118. She, Y. et al. Immune-related gene signature for predicting the prognosis of head and neck squamous 
+cell carcinoma. Cancer Cell Int. 20, 22 (2020).
+119. Chan, T . A. et al. Development of tumor mutation burden as an immunotherapy biomarker: utility for 
+the oncology clinic. Ann. Oncol. 30, 44–56 (2019).
+120. McGranahan, N. et al. Clonal neoantigens elicit  
+T cell immunoreactivity and sensitivity to immune checkpoint blockade. Science 351, 1463–1469 
+(2016).
+121. Schreiber, R. D., Old, L. J. & Smyth, M. J. Cancer immunoediting: integrating immunity’s roles in  
+cancer suppression and promotion. Science 331, 
+1565–1570 (2011).
+122. Steinbach, A. & Riemer, A. B. Immune evasion 
+mechanisms of human papillomavirus: an update.  
+Int. J. Cancer 142, 224–229 (2018).
+123. Ashrafi, G. H., Haghshenas, M. R., Marchetti, B., 
+O’Brien, P . M. & Campo, M. S. E5 protein of human 
+papillomavirus type 16 selectively downregulates 
+surface HLA class I. Int. J. Cancer 113, 276–283 
+(2005).
+124. Ashrafi, G. H., Haghshenas, M., Marchetti, B. & Campo, M. S. E5 protein of human papillomavirus 16 downregulates HLA class I and interacts with the 
+heavy chain via its first hydrophobic domain. Int. J. 
+Cancer 119, 2105–2112 (2006).
+125. Campo, M. S. et al. HPV-16 E5 down-regulates 
+expression of surface HLA class I and reduces 
+recognition by CD8 T cells. Virology 407, 137–142 
+(2010).
+126. Georgopoulos, N. T ., Proffitt, J. L. & Blair, G. E. T ranscriptional regulation of the major histocompatibility complex (MHC) class I heavy chain, TAP1 and LMP2 
+genes by the human papillomavirus (HPV) type 6b, 16 
+and 18 E7 oncoproteins. Oncogene 19, 4930–4935 
+(2000).
+127. Li, H., Ou, X., Xiong, J. & Wang, T . HPV16E7 mediates HADC chromatin repression and downregulation of 
+MHC class I genes in HPV16 tumorigenic cells through 
+interaction with an MHC class I promoter. Biochem. Biophys. Res. Commun. 349, 1315–1321 (2006).
+128. Bottley, G. et al. High-risk human papillomavirus E7 
+expression reduces cell-surface MHC class I molecules 
+and increases susceptibility to natural killer cells. 
+Oncogene 27, 1794–1799 (2008).
+129. Heusinkveld, M. et al. Systemic and local human 
+papillomavirus 16-specific T -cell immunity in patients 
+with head and neck cancer. Int. J. Cancer 131, 74–85 
+(2012).
+130. Welters, M. J. P . et al. Intratumoral HPV16-  
+specific T cells constitute a type I-oriented tumor 
+microenvironment to improve survival in HPV16-
+driven oropharyngeal cancer. Clin. Cancer Res. 24, 
+634–647 (2018).
+131. Santegoets, S. J. et al. The anatomical location shapes 
+the immune infiltrate in tumors of same etiology  
+and affects survival. Clin. Cancer Res. 25, 240–252 
+(2019).
+132. Santegoets, S. J. et al. CD163
++ cytokine-producing 
+cDC2 stimulate intratumoral type 1 T cell responses in 
+HPV16-induced oropharyngeal cancer. J. Immunother. 
+Cancer 8, e001053 (2020).
+133. Hoffmann, T . K. et al. T cells specific for HPV16 E7 epitopes in patients with squamous cell carcinoma of the oropharynx. Int. J. Cancer 118, 1984–1991 
+(2006).
+134. Masterson, L. et al. CD8+  T cell response to human 
+papillomavirus 16 E7 is able to predict survival outcome in oropharyngeal cancer. Eur. J. Cancer 67, 
+141–151 (2016).
+135. Laban, S. & Hoffmann, T . K. Human papillomavirus 
+immunity in oropharyngeal cancer: time to change the 
+game? Clin. Cancer Res. 24, 505–507 (2018).
+136. Balermpas, P . et al. CD8+  tumour-infiltrating 
+lymphocytes in relation to HPV status and clinical outcome in patients with head and neck cancer after 
+postoperative chemoradiotherapy: a multicentre study 
+of the German Cancer Consortium Radiation Oncology Group (DKTK-ROG). Int. J. Cancer 138, 171–181 
+(2016).
+137. Ward, M. J. et al. T umour-infiltrating lymphocytes 
+predict for outcome in HPV-positive oropharyngeal 
+cancer. Br. J. Cancer 110, 489–500 (2014).
+138. Mandal, R. et al. The head and neck cancer immune 
+landscape and its immunotherapeutic implications.  
+JCI Insight 1, e89829 (2016).
+139. Chakravarthy, A. et al. Human papillomavirus drives 
+tumor development throughout the head and neck: improved prognosis is associated with an immune 
+response largely restricted to the oropharynx. J. Clin. 
+Oncol. 34, 4132–4141 (2016).
+140. Li, H. et al. Association of human papillomavirus status at head and neck carcinoma subsites with overall survival. JAMA Otolaryngol. 144, 519–525 
+(2018).
+141. Hladíková, K. et al. T umor-infiltrating B cells affect  
+the progression of oropharyngeal squamous cell carcinoma via cell-to-cell interactions with CD8+ T cells. J. Immunother. Cancer 7, 261 (2019).
+142. Wood, O. et al. Gene expression analysis of TIL rich HPV-driven head and neck tumors reveals a distinct 
+B-cell signature when compared to HPV independent 
+tumors. Oncotarget 7, 56781–56797 (2016).
+143. Ou, D. et al. Influence of tumor-associated 
+macrophages and HLA class I expression according to 
+HPV status in head and neck cancer patients receiving 
+chemo/bioradiotherapy. Radiother. Oncol. 130, 
+89–96 (2019).
+144. Welters, M. J. P ., Santegoets, S. J. & van der Burg, S. H. 
+The tumor microenvironment and immunotherapy  
+of oropharyngeal squamous cell carcinoma. Front. 
+Oncol. 10, 545385 (2020).
+145. Hong, A. M. et al. Significant association of PD-L1 
+expression with human papillomavirus positivity and 
+its prognostic impact in oropharyngeal cancer. Oral. Oncol. 92, 33–39 (2019).
+146. Cao, S. et al. Dynamic host immune response in 
+virus-associated cancers. Commun. Biol. 2, 109 
+(2019).
+147. McIlwain, W. R., Sood, A. J., Nguyen, S. A. & Day, T . A. 
+Initial symptoms in patients with HPV-positive and HPV-negative oropharyngeal cancer. JAMA Otolaryngol.  
+140, 441–447 (2014).
+148. Khalid, M. B. et al. Initial presentation of human papillomavirus-related head and neck cancer: a 
+retrospective review. Laryngoscope 129, 877–882 
+(2019).
+149. Tham, T ., Ahn, S., Frank, D., Kraus, D. &  
+Costantino, P . Anatomical subsite modifies survival in 
+oropharyngeal squamous cell carcinoma: National 
+Cancer Database study. Head. Neck 42, 434–445 
+(2020).
+150. Golusinski, P . et al. Evidence for the approach to the 
+diagnostic evaluation of squamous cell carcinoma 
+occult primary tumors of the head and neck.  
+Oral. Oncol. 88, 145–152 (2019).
+151. Zhang, M. Q., El-Mofty, S. K. & Dávila, R. M. Detection of human papillomavirus-related  
+squamous cell carcinoma cytologically and by in situ hybridization in fine-needle aspiration biopsies of 
+cervical metastasis: a tool for identifying the site of an occult head and neck primary. Cancer 114, 118–123 
+(2008).
+152. Begum, S., Gillison, M. L., Nicol, T. L. & Westra, W. H. 
+Detection of human papillomavirus-16 in fine-needle 
+aspirates to determine tumor origin in patients  
+with metastatic squamous cell carcinoma of the  
+head and neck. Clin. Cancer Res. 13, 1186–1191 
+(2007).
+153. Mehanna, H. et al. Oropharyngeal cancer: United Kingdom National Multidisciplinary Guidelines.  
+J. Laryngol. Otol. 130, S90–S96 (2016).
+154. Gage, K. L., Thomas, K., Jeong, D., Stallworth, D. G.  
+& Arrington, J. A. Multimodal imaging of head and  
+neck squamous cell carcinoma. Cancer Control. 24, 
+172–179 (2017).155. Schache, A. G. et al. Evaluation of human papilloma 
+virus diagnostic testing in oropharyngeal squamous 
+cell carcinoma: sensitivity, specificity, and prognostic 
+discrimination. Clin. Cancer Res. 17, 6262–6271 
+(2011).
+156. Lewis, J. S. Morphologic diversity in human papillomavirus-related oropharyngeal squamous cell 
+carcinoma: catch me if you can! Mod. Pathol. 30, 
+S44–S53 (2017).
+157. Chernock, R. D., Lewis, J. S., Zhang, Q. & El-Mofty, S. K. 
+Human papillomavirus-positive basaloid squamous  
+cell carcinomas of the upper aerodigestive tract:  
+a distinct clinicopathologic and molecular subtype of basaloid squamous cell carcinoma. Hum. Pathol. 41, 
+1016–1023 (2010).
+158. Cho, K. J. et al. Basaloid squamous cell carcinoma  
+of the head and neck: subclassification into basal, 
+ductal, and mixed subtypes based on comparison of 
+clinico-pathologic features and expression of p53, 
+cyclin D1, epidermal growth factor receptor, p16,  
+and human papilloma. J. Pathol. T ransl. Med. 51, 
+374–380 (2017).
+159. Mehrad, M. et al. Papillary squamous cell carcinoma 
+of the head and neck: clinicopathologic and  
+molecular features with special reference to human papillomavirus. Am. J. Surg. Pathol. 37, 1349–1356 
+(2013).
+160. Carpenter, D. H., El-Mofty, S. K. & Lewis, J. S. Undifferentiated carcinoma of the oropharynx:  
+a human papillomavirus-associated tumor with a 
+favorable prognosis. Mod. Pathol. 24, 1306–1312 
+(2011).
+161. Singhi, A. D., Stelow, E. B., Mills, S. E. & Westra, W. H. 
+Lymphoepithelial-like carcinoma of the oropharynx:  
+a morphologic variant of HPV-related head and  
+neck carcinoma. Am. J. Surg. Pathol. 34, 800–805 
+(2010).
+162. Jo, V. Y., Mills, S. E., Stoler, M. H. & Stelow, E. B. 
+Papillary squamous cell carcinoma of the head and 
+neck: frequent association with human papillomavirus 
+infection and invasive carcinoma. Am. J. Surg. Pathol.  
+33, 1720–1724 (2009).
+163. Bryne, M., Koppang, H. S., Lilleng, R. & Kjærheim, Å. Malignancy grading of the deep invasive margins of oral squamous cell carcinomas has high prognostic value. J. Pathol. 166, 375–381 (1992).
+164. Albergotti, W. G. et al. Defining the prevalence  
+and prognostic value of perineural invasion  
+and angiolymphatic invasion in human papillomavirus-positive oropharyngeal carcinoma. JAMA Otolaryngol. 143, 1236–1243 (2017).
+165. Dirven, R. et al. T umor thickness versus depth of 
+invasion – analysis of the 8th edition American  
+Joint Committee on Cancer Staging for oral cancer. 
+Oral. Oncol. 74, 30–33 (2017).
+166. Zhan, K. Y. et al. Appraisal of the AJCC 8th edition pathologic staging modifications for HPV− positive 
+oropharyngeal cancer, a study of the National  
+Cancer Data Base. Oral. Oncol. 73, 152–159  
+(2017).
+167. Elicin, O. et al. Comparison of contemporary staging 
+systems for oropharynx cancer in a surgically  
+treated multi-institutional cohort. Head. Neck 41, 
+1395–1402 (2019).
+168. Bhattasali, O., Thompson, L. D. R., Schumacher, A. J. 
+& Iganej, S. Radiographic nodal prognostic factors in 
+stage I HPV-related oropharyngeal squamous cell 
+carcinoma. Head. Neck 41, 398–402 (2019).
+169. Sinha, P . et al. High metastatic node number, not extracapsular spread or N-classification is a 
+node-related prognosticator in transorally-resected, 
+neck-dissected p16-positive oropharynx cancer.  
+Oral. Oncol. 51, 514–520 (2015).
+170. Bauer, E. et al. Extranodal extension is a strong prognosticator in HPV-positive oropharyngeal 
+squamous cell carcinoma. Laryngoscope 130,  
+939–945 (2020).
+171. Freitag, J. et al. Extracapsular extension of neck 
+nodes and absence of human papillomavirus 16-DNA 
+are predictors of impaired survival in p16-positive 
+oropharyngeal squamous cell carcinoma. Cancer 126, 
+1856–1872 (2020).
+172. Tian, S. et al. Prognostic value of radiographically 
+defined extranodal extension in human 
+papillomavirus-associated locally advanced 
+oropharyngeal carcinoma. Head. Neck 41,  
+3056–3063 (2019).
+173. Meyer, M. F. et al. The relevance of the lymph  
+node ratio as predictor of prognosis is higher in 
+HPV-negative than in HPV-positive oropharyngeal 
+squamous cell carcinoma. Clin. Otolaryngol. 43,  
+192–198 (2018).
+NaTure reviewS | CLINICAL ONCOL OgyReviews
+  voluMe 19 | May 2022 | 325 0123456789();: 174. Chai, R. L. et al. Accuracy of computed tomography in 
+the prediction of extracapsular spread of lymph node 
+metastases in squamous cell carcinoma of the head 
+and neck. JAMA Otolaryngol. 139, 1187–1194 
+(2013).
+175. Aiken, A. H. et al. Accuracy of preoperative imaging  
+in detecting nodal extracapsular spread in oral cavity 
+squamous cell carcinoma. Am. J. Neuroradiol. 36, 
+1776–1781 (2015).
+176. Carlton, J. A. et al. Computed tomography detection 
+of extracapsular spread of squamous cell carcinoma of the head and neck in metastatic cervical lymph nodes. 
+Neuroradiol. J. 30, 222–229 (2017).
+177. Douglas, C. et al. Accuracy of contrast-enhanced CT and predictive factors for extracapsular spread in 
+unknown primary head and neck squamous cell cancer. Clin. Radiol. 75, 77.e23–77.e28 (2020).
+178. O’Sullivan, B. et al. Development and validation of a 
+staging system for HPV-related oropharyngeal cancer 
+by the International Collaboration on Oropharyngeal 
+cancer Network for Staging (ICON-S): a multicentre cohort study. Lancet Oncol. 17, 440–451 (2016).
+179. Cramer, J. D., Hicks, K. E., Rademaker, A. W., Patel, U. A. & Samant, S. Validation of the eighth edition 
+American Joint Committee on Cancer staging system 
+for human papillomavirus-associated oropharyngeal cancer. Head. Neck 40, 457–466 (2018).
+180. Geltzeiler, M. et al. Staging HPV-related oropharyngeal cancer: validation of AJCC-8 in a 
+surgical cohort. Oral. Oncol. 84, 82–87 (2018).
+181. Van Gysen, K. et al. Validation of the 8th edition  
+UICC/AJCC TNM staging system for HPV associated 
+oropharyngeal cancer patients managed with 
+contemporary chemo-radiotherapy. BMC Cancer 19, 
+674 (2019).
+182. Würdemann, N. et al. Prognostic impact of AJCC/UICC 
+8th edition new staging rules in oropharyngeal 
+squamous cell carcinoma. Front. Oncol. 7, 129 (2017).
+183. Nauta, I. H. et al. Evaluation of the eighth TNM classification on p16-positive oropharyngeal 
+squamous cell carcinomas in the Netherlands and  
+the importance of additional HPV DNA testing. Ann. 
+Oncol. 29, 1273–1279 (2018).
+184. Fakhry, C. et al. Validation of NRG oncology/RTOG-
+0129 risk groups for HPV-positive and HPV-negative oropharyngeal squamous cell cancer: implications for 
+risk-based therapeutic intensity trials. Cancer 125, 
+2027–2038 (2019).
+185. Haeggblom, L., Ramqvist, T ., T ommasino, M. & 
+Dalianis, T . Time to change perspectives on HPV in oropharyngeal cancer. A systematic review of HPV prevalence per oropharyngeal sub-site the last 3 
+years. Papillomavirus Res. 4, 1–11 (2017).
+186. Wendt, M. et al. Long-term survival and recurrence in 
+oropharyngeal squamous cell carcinoma in relation to 
+subsites, HPV, and p16-status. Cancers (Basel) 13, 
+2553 (2021).
+187. Ellis, M. et al. Post-treatment head and neck cancer 
+care: national audit and analysis of current practice in the United Kingdom. Clin. Otolaryngol. 46, 284–294 
+(2021).
+188. Fakhry, C. et al. Association of oral human papillomavirus DNA persistence with cancer 
+progression after primary treatment for oral cavity 
+and oropharyngeal squamous cell carcinoma. JAMA Oncol. 5, 985–992 (2019).
+189. Chera, B. S. et al. Plasma circulating tumor  
+HPV DNA for the surveillance of cancer recurrence in HPV-associated oropharyngeal cancer. J. Clin. Oncol.  
+38, 1050–1058 (2020).
+190. Holsinger, F. C. & Ferris, R. L. Transoral endoscopic head and neck surgery and its role within the 
+multidisciplinary treatment paradigm of oropharynx 
+cancer: robotics, lasers, and clinical trials. J. Clin. Oncol. 33, 3285–3292 (2015).
+191. Sinha, P ., Haughey, B. H., Kallogjeri, D. & Jackson, R. S. Long-term analysis of transorally resected p16 + 
+oropharynx cancer: outcomes and prognostic factors. 
+Laryngoscope 129, 1141–1149 (2019).
+192. Mahmoud, O., Sung, K., Civantos, F. J., Thomas, G. R. 
+& Samuels, M. A. T ransoral robotic surgery for 
+oropharyngeal squamous cell carcinoma in the era  
+of human papillomavirus. Head Neck 40, 710–721 
+(2018).
+193. Jackson, R. S. et al. T ransoral resection of human 
+papillomavirus (HPV)-positive squamous cell 
+carcinoma of the oropharynx: outcomes with and 
+without adjuvant therapy. Ann. Surg. Oncol. 24, 
+3494–3501 (2017).
+194. Carey, R. M. et al. Increased rate of recurrence  
+and high rate of salvage in patients with human 
+papillomavirus–associated oropharyngeal squamous cell carcinoma with adverse features treated with primary surgery without recommended adjuvant 
+therapy. Head Neck 43, 1128–1141 (2021).
+195. Sethia, R. et al. Quality of life outcomes of transoral robotic surgery with or without adjuvant therapy for 
+oropharyngeal cancer. Laryngoscope 128, 403–411 
+(2018).
+196. Ma, D. J. et al. Phase II evaluation of aggressive  
+dose de-escalation for adjuvant chemoradiotherapy  
+in human papillomavirus-associated oropharynx squamous cell carcinoma. J. Clin. Oncol. 37,  
+1909–1918 (2019).
+197. Hargreaves, S., Beasley, M., Hurt, C., Jones, T . M.  
+& Evans, M. Deintensification of adjuvant treatment 
+after transoral surgery in patients with human 
+papillomavirus-positive oropharyngeal cancer: the conception of the PATHOS study and its development. 
+Front Oncol. 9, 936 (2019).
+198. Ferris, R. L. et al. Updated report of a phase II randomized trial of transoral surgical resection 
+followed by low-dose or standard postoperative therapy in resectable p16+  locally advanced 
+oropharynx cancer: a trial of the ECOG-ACRIN cancer research group (E3311). J. Clin. Oncol. 39, 6010 
+(2021).
+199. Ferris, R. L. et al. T ransoral robotic surgical resection followed by randomization to low- or standard-dose 
+IMRT in resectable p16+  locally advanced oropharynx 
+cancer: a trial of the ECOG-ACRIN Cancer Research Group (E3311). J. Clin. Oncol. 38, 6500 (2020).
+200. Ferris, R. L. et al. Phase II randomized trial of transoral surgery and low-dose intensity modulated 
+radiation therapy in resectable p16+  locally advanced 
+oropharynx cancer: an ECOG-ACRIN Cancer Research Group trial (E3311). J. Clin. Oncol. 40, 138–149 
+(2022).
+201. Chera, B. S. et al. Phase 2 trial of de-intensified 
+chemoradiation therapy for favorable-risk human 
+papillomavirus-associated oropharyngeal squamous 
+cell carcinoma. Int. J. Radiat. Oncol. Biol. Phys. 93, 
+976–985 (2015).
+202. Chera, B. S. et al. Mature results of a prospective study of deintensified chemoradiotherapy for low-risk 
+human papillomavirus-associated oropharyngeal squamous cell carcinoma. Cancer 124, 2347–2354 
+(2018).
+203. Pearlstein, K. A. et al. Quality of life for patients with favorable-risk HPV-associated oropharyngeal cancer 
+after de-intensified chemoradiotherapy. Int. J. Radiat. 
+Oncol. Biol. Phys. 103, 646–653 (2019).
+204. Seiwert, T . Y. et al. Optima: a phase II dose and volume de-escalation trial for human papillomavirus-  
+positive oropharyngeal cancer. Ann. Oncol. 30,  
+297–302 (2019).
+205. Marur, S. et al. E1308: phase II trial of induction 
+chemotherapy followed by reduced-dose radiation  
+and weekly cetuximab in patients with HPV-associated resectable squamous cell carcinoma of the 
+oropharynx-ECOG-ACRIN cancer research group.  
+J. Clin. Oncol. 35, 490–497 (2017).
+206. Hegde, J. V. et al. Functional outcomes after 
+de-escalated chemoradiation therapy for human 
+papillomavirus-positive oropharyngeal cancer: 
+secondary analysis of a phase 2 trial. Int. J. Radiat. 
+Oncol. Biol. Phys. 100, 647–651 (2018).
+207. Chen, A. M. et al. Reduced-dose radiotherapy for 
+human papillomavirus-associated squamous-cell 
+carcinoma of the oropharynx: a single-arm, phase 2 study. Lancet Oncol. 18, 803–811 (2017).
+208. Yamamoto, Y. et al. Radiotherapy alone as a possible 
+de-intensified treatment for human papillomavirus-  
+related locally advanced oropharyngeal squamous cell carcinoma. Int. J. Clin. Oncol. 24, 640–648 (2019).
+209. Hall, S. F., Griffiths, R. J., O’Sullivan, B. & Liu, F. F.  
+The addition of chemotherapy to radiotherapy did  
+not reduce the rate of distant metastases in low-risk 
+HPV-related oropharyngeal cancer in a real-world 
+setting. Head Neck 41, 2271–2276 (2019).
+210. Yom, S. S. et al. Reduced-dose radiation therapy for 
+HPV-associated oropharyngeal carcinoma (NRG 
+Oncology HN002). J. Clin. Oncol. 39, 956–965 
+(2021).
+211. Sher, D. J. et al. Radiation therapy for oropharyngeal 
+squamous cell carcinoma: executive summary of an ASTRO evidence-based clinical practice guideline. 
+Pract. Radiat. Oncol. 7, 246–253 (2017).
+212. Howard, J. et al. Minimally invasive surgery versus radiotherapy/chemoradiotherapy for small-volume 
+primary oropharyngeal carcinoma. Cochrane Database Syst. Rev. 12, CD010963 (2016).
+213. Nichols, A. C. et al. Radiotherapy versus transoral robotic surgery and neck dissection for oropharyngeal squamous cell carcinoma (ORATOR): an open-label, 
+phase 2, randomised trial. Lancet Oncol. 20,  
+1349–1359 (2019).
+214. Ferris, R. L. et al. A novel surgeon credentialing and 
+quality assurance process using transoral surgery  
+for oropharyngeal cancer in ECOG-ACRIN Cancer Research Group trial E3311. Oral. Oncol. 110, 
+104797 (2020).
+215. de Almeida, J. R. et al. Oncologic outcomes after 
+transoral robotic surgery: a multi-institutional study. 
+JAMA Otolaryngol. 141, 1043–1051 (2015).
+216. Mehanna, H. et al. Radiotherapy plus cisplatin or 
+cetuximab in low-risk human papillomavirus-positive oropharyngeal cancer (De-ESCALaTE HPV): an 
+open-label randomised controlled phase 3 trial. 
+Lancet 393, 51–60 (2019).
+217. Gillison, M. L. et al. Radiotherapy plus cetuximab  
+or cisplatin in human papillomavirus-positive 
+oropharyngeal cancer (NRG Oncology RTOG 1016):  
+a randomised, multicentre, non-inferiority trial. Lancet  
+393, 40–50 (2019).
+218. Oosthuizen, J. C. & Doody, J. De-intensified treatment 
+in human papillomavirus-positive oropharyngeal 
+cancer. Lancet 393, 5–7 (2019).
+219. Guo, T . et al. Characterization of functionally active 
+gene fusions in human papillomavirus related 
+oropharyngeal squamous cell carcinoma. Int. J. Cancer 139, 373–382 (2016).
+220. Dunn, L. A. et al. Phase I study of induction 
+chemotherapy with afatinib, ribavirin, and weekly carboplatin and paclitaxel for stage IVA/IVB  
+human papillomavirus-associated oropharyngeal 
+squamous cell cancer. Head. Neck 40, 233–241 
+(2018).
+221. Frazer, I. H. & Chandra, J. Immunotherapy for HPV 
+associated cancer. Papillomavirus Res. 8, 100176 
+(2019).
+222. Barra, F. et al. Advances in therapeutic vaccines for 
+treating human papillomavirus-related cervical 
+intraepithelial neoplasia. J. Obstet. Gynaecol. Res.  
+46, 989–1006 (2020).
+223. Smalley Rumfield, C., Pellom, S. T ., Morillon, Y. M., 
+Schlom, J. & Jochems, C. Immunomodulation to enhance the efficacy of an HPV therapeutic vaccine.  
+J. Immunother. Cancer https://doi.org/10.1136/ 
+jitc-2020-000612 (2020).
+224. Ferris, R. L. et al. Nivolumab for recurrent 
+squamous-cell carcinoma of the head and neck.  
+N. Engl. J. Med. 375, 1856–1867 (2016).
+225. Cohen, E. E. W. et al. Pembrolizumab versus 
+methotrexate, docetaxel, or cetuximab for recurrent or metastatic head-and-neck squamous cell carcinoma (KEYNOTE-040): a randomised, open-label, phase 3 
+study. Lancet 393, 156–167 (2019).
+226. Burtness, B. et al. Pembrolizumab alone or with 
+chemotherapy versus cetuximab with chemotherapy 
+for recurrent or metastatic squamous cell carcinoma 
+of the head and neck (KEYNOTE-048): a randomised, 
+open-label, phase 3 study. Lancet 394, 1915–1928 
+(2019).
+227. Xu, Y. et al. Programmed death-1/programmed 
+death-ligand 1-axis blockade in recurrent or 
+metastatic head and neck squamous cell carcinoma 
+stratified by human papillomavirus status: a 
+systematic review and meta-analysis. Front. Immunol.  
+12, 645170 (2021).
+228. Wang, J. et al. HPV-positive status associated with 
+inflamed immune microenvironment and improved 
+response to anti-PD-1 therapy in head and neck 
+squamous cell carcinoma. Sci. Rep. 9, 13404  
+(2019).
+229. Galvis, M. M. et al. Immunotherapy improves efficacy and safety of patients with HPV positive and negative 
+head and neck cancer: a systematic review and 
+meta-analysis. Crit. Rev. Oncol. Hematol. 150, 
+102966 (2020).
+230. Patel, J. J., Levy, D. A., Nguyen, S. A.,  
+Knochelmann, H. M. & Day, T . A. Impact of PD-L1 
+expression and human papillomavirus status in 
+anti-PD1/PDL1 immunotherapy for head and neck 
+squamous cell carcinoma — systematic review and 
+meta-analysis. Head Neck 42, 774–786 (2019).
+231. Wong, D. J. et al. Abstract CT123: IMvoke010: randomized phase III study of atezolizumab as 
+adjuvant monotherapy after definitive therapy of squamous cell carcinoma of the head and neck. 
+Cancer Res. 79, (Suppl.) 13 (2019).
+232. Leidner, R. et al. Neoadjuvant immunoradiotherapy results in high rate of complete pathological response 
+and clinical to pathological downstaging in locally advanced head and neck squamous cell carcinoma.  
+J. Immunother. Cancer 9, e002485 (2021).
+www.nature.com/nrclinoncReviews
+326 | May 2022 | voluMe 19  0123456789();: 233. Ferris, R. L. et al. Neoadjuvant nivolumab for patients 
+with resectable HPV-positive and HPV-negative 
+squamous cell carcinomas of the head and neck in  
+the CheckMate 358 trial. J. Immunother. Cancer 9, 
+e002568 (2021).
+234. Ferrarotto, R. et al. Impact of neoadjuvant 
+durvalumab with or without tremelimumab on CD8+ 
+tumor lymphocyte density, safety, and efficacy in 
+patients with oropharynx cancer: CIAO trial results. 
+Clin. Cancer Res. 26, 3211–3219 (2020).
+235. von Witzleben, A., Wang, C., Laban, S., Savelyeva, N. 
+& Ottensmeier, C. H. HNSCC: tumour antigens and 
+their targeting by immunotherapy. Cells 9, 2103 
+(2020).
+236. Massarelli, E. et al. Combining immune checkpoint 
+blockade and tumor-specific vaccine for patients with incurable human papillomavirus 16-related cancer: a 
+phase 2 clinical trial. JAMA Oncol. 5, 67–73 (2019).
+237. Aggarwal, C. et al. Immunotherapy targeting HPV16/18 generates potent immune responses in 
+HPV-associated head and neck cancer. Clin. Cancer Res. 25, 110–124 (2019).
+238. Fakhry, C. et al. Human papillomavirus and overall survival after progression of oropharyngeal squamous 
+cell carcinoma. J. Clin. Oncol. 32, 3365–3373 
+(2014).
+239. Harbison, R. A. et al. The mutational landscape of recurrent versus nonrecurrent human papillomavirus-  
+related oropharyngeal cancer. JCI insight 3, e99327 
+(2018).
+240. Gleber-netto, F. O. et al. Variations in HPV function are associated with survival in squamous cell carcinoma. 
+JCI Insight 4, e124762 (2019).
+241. King, A. and Broggio, J. Cancer Registration  
+Statistics, England https://www.ons.gov.uk/
+peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/
+cancerregistrationstatisticsengland/final2016  
+(2016).
+242. Surveillance Research Program SEER Incidence Data, 
+1975–2018. https://seer.cancer.gov/data/ (National 
+Cancer Institute, 2020).
+243. Lechner, M. & Fenton, T. R. The genomics, epigenomics, and transcriptomics of HPV-associated 
+oropharyngeal cancer — understanding the basis  
+of a rapidly evolving disease. Adv. Genet. 93, 1–56 
+(2016).
+244. Machczy
+ński, P ., Majchrzak, E., Niewinski, P ., 
+Marchlewska, J. & Golusi ński, W. A review of the 8th 
+edition of the AJCC staging system for oropharyngeal 
+cancer according to HPV status. Eur. Arch. 
+Otorhinolaryngol. 277, 2407–2412 (2020).
+245. Adelstein, D. J. et al. Role of treatment deintensification in the management of p16+ 
+oropharyngeal cancer: ASCO provisional clinical 
+opinion. J. Clin. Oncol. 37, 1578–1589 (2019).
+246. Posner, M. R. et al. Survival (OS) and progression-free survival (PFS) results after induction chemotherapy 
+(IC) followed by de-escalated chemoradiotherapy (RDCRT) for locally advanced (LA) HPV positive 
+oropharynx cancer (HPVOPC). J. Clin. Oncol. 39, 
+6058 (2021).
+247. Palma, D. A. et al. A randomized trial of radiotherapy 
+vs. trans-oral surgery for treatment de-escalation in HPV-associated oropharyngeal squamous cell 
+carcinoma (ORATOR2). Int. J. Rad. Oncol. Biophys.  
+111, 1324–1325 (2021).
+248. Miles, B. A. et al. De-escalated adjuvant therapy  
+after transoral robotic surgery for human papillomavirus-related oropharyngeal carcinoma:  
+the Sinai robotic surgery (SIRS) trial. Oncologist 26, 
+504–513 (2021).249. Swisher–McClure, S. et al. A phase 2 trial of 
+Alternative Volumes of Oropharyngeal Irradiation for 
+De-intensification (AVOID): omission of the resected primary tumor bed after transoral robotic surgery  
+for human papilloma virus-related squamous cell carcinoma of the oropharynx. Int. J. Radiat. Oncol. 
+Biol. Phys. 106, 725–732 (2020).
+Acknowledgements
+Work on HPV-positive OPSCC in T .R.F’s lab has been sup-
+ported by the Rosetrees Trust (CM229-CD1) and the Paul Southgate Fund. The authors thank A. Jay (Department of Histopathology, University College London Hospital) for the 
+micrographs shown in Fig. 1.
+Author contributions
+All authors made a substantial contribution to all aspects of 
+the preparation of this manuscript.
+Competing interests
+The authors declare no competing interests.
+Peer review information
+Nature Reviews Clinical Oncology thanks T . Dalianis and  
+the other, anonymous, reviewer(s) for their contribution to the 
+peer review of this work.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional 
+claims in published maps and institutional affiliations.
+Supplementary information
+The online version contains supplementary material available at https://doi.org/10.1038/s4
+1571-022-00603-7.
+ 
+© Springer Nature Limited 2022
+NaTure reviewS | CLINICAL ONCOL OgyReviews
+  voluMe 19 | May 2022 | 327

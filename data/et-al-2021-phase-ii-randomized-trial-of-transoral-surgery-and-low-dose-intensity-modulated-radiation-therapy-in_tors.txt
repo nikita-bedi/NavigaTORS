@@ -1,0 +1,1258 @@
+original reportsPhase II Randomized Trial of Transoral
+Surgery and Low-Dose Intensity Modulated
+Radiation Therapy in Resectable p16 1Locally
+Advanced Oropharynx Cancer: An ECOG-ACRINCancer Research Group Trial (E3311)
+Robert L. Ferris, MD, PhD1; Yael Flamand, MS2; Gregory S. Weinstein, MD3; Shuli Li, PhD2; Harry Quon, MD4; Ranee Mehra, MD5;
+Joaquin J. Garcia, MD6; Christine H. Chung, MD7; Maura L. Gillison, MD, PhD8; Umamaheswar Duvvuri, MD, PhD1;
+Bert W. O ’Malley Jr, MD3; Enver Ozer, MD9; Giovana R. Thomas, MD10; Wayne M. Koch, MD4; Neil D. Gross, MD8; R. Bryan Bell, MD11;
+Nabil F. Saba, MD12; Miriam Lango, MD13; Eduardo M ´endez, MD14, †; and Barbara Burtness, MD15
+abstractPURPOSE Deﬁnitive or postoperative chemoradiation (CRT) is curative for human papillomavirus –associated
+(HPV1) oropharynx cancer (OPC) but induces signi ﬁcant toxicity. As a deintensi ﬁcation strategy, we studied
+primary transoral surgery (TOS) and reduced postoperative radiation therapy (RT) in intermediate-riskHPV1OPC.
+METHODS E3311 is a phase II randomized trial of reduced- or standard-dose postoperative RT for resected stage
+III-IVa (American Joint Committee on Cancer-seventh edition) HPV 1OPC, determined by pathologic pa-
+rameters. Primary goals were feasibility of prospective multi-institutional study of TOS for HPV 1OPC, and
+oncologic ef ﬁcacy (2-year progression-free survival) of TOS and adjuvant therapy in intermediate-risk patients
+after resection. TOS plus 50 Gy was considered promising if the lower limit of the exact 90% binomial con ﬁdence
+intervals exceeded 85%. Quality of life and swallowing were measured by functional assessment of cancertherapy-head and neck and MD Anderson Dysphagia Index.
+RESULTS Credentialed surgeons performed TOS for 495 patients. Eligible and treated patients were assigned as
+follows: arm A (low risk, n 538) enrolled 11%, intermediate risk arms B (50 Gy, n 5100) or C (60 Gy, n 5108)
+randomly allocated 58%, and arm D (high risk, n 5113) enrolled 31%. With a median 35.2-month follow-up for
+359 evaluable (eligible and treated) patients, 2-year progression-free survival Kaplan-Meier estimate is 96.9%
+(90% CI, 91.9 to 100) for arm A (observation), 94.9% (90% CI, 91.3 to 98.6]) for arm B (50 Gy), 96.0% (90% CI,92.8 to 99.3) for arm C (60 Gy), and 90.7% (90% CI, 86.2 to 95.4) for arm D (66 Gy plus weekly cisplatin).Treatment arm distribution and oncologic outcome for ineligible or step 2 untreated patients (n 5136) mirrored
+the 359 evaluable patients. Exploratory comparison of functional assessment of cancer therapy-head and necktotal scores between arms B and C is presented.
+CONCLUSION Primary TOS and reduced postoperative RT result in outstanding oncologic outcome and favorable
+functional outcomes in intermediate-risk HPV 1OPC.
+J Clin Oncol 40:138-149. © 2021 by American Society of Clinical Oncology
+INTRODUCTION
+Approximately 15,000 cases of human papillomavirus –
+associated (HPV 1) oropharynx cancer (OPC) are di-
+agnosed annually in the United States and have superiorcure rates to tobacco- and alcohol-associated OPC.
+1-3
+HPV1OPC commonly presents with a small primary
+tumor and cervical lymphadenopathy amenable tosurgical treatment.
+4,5Transoral robotic surgery (TORS)
+or transoral laser microsurgery (TLM) may address thismalignancy in a minimally invasive manner
+6and,
+when combined with risk-adjusted postoperativeradiation therapy (PORT), may achieve comparable cure
+rates. Retrospective reports suggest improved functional
+results with primary transoral surgery (TOS),7,8yet its role
+in multidisciplinary man agement and treatment dein-
+tensi ﬁcation remains uncertain.9
+Treatment with either surgery and adjuvant therapy10,11
+or with de ﬁnitive chemoradiation (CRT) achieves high
+rates of cure for HPV 1OPC.2However, as patients are
+likely to live longer and experience the associated long-term toxicity of de ﬁnitive CRT,
+12there is interest in
+radiation and/or chemotherapy deintensi ﬁcation forASSOCIATED
+CONTENT
+See accompanying
+editorial on page 114
+AppendixProtocolAuthor af ﬁliations
+and support
+information (if
+applicable) appearat the end of thisarticle.
+Accepted on
+September 17, 2021
+and published atascopubs.org/journal/
+jcoon October 26,
+2021: DOI https://doi.
+org/10.1200/JCO.21.01752
+138 Volume 40, Issue 2
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ those patients with excellent prognosis. Both surgical and
+nonsurgical deintensi ﬁcation strategies are actively being
+pursued in numerous clinical trials.13,14TOS with de-
+escalated postoperative management is one potential
+deintensi ﬁcation strategy.7,10Retrospective studies of TOS
+compared with de ﬁnitive CRT show high oncologic ef ﬁcacy,
+and suggest improved functional results in patients un-dergoing surgery with decreased gastrostomy tubedependency.
+7,8,15At the time this study was designed,
+sufﬁcient normative data for design of a phase III trial
+comparing TOS and deintensi ﬁed postoperative therapy
+were not available, and thus, Eastern Cooperative Oncology
+Group (ECOG) and the American College of Radiology
+Imaging Network (ACRIN) Cancer Research GroupE3311 was conducted as a randomized phase II trial ofprimary TOS, with adjuvant therapy based on pathologicrisk assessment, for HPV 1OPC. Our primary objectives
+were to demonstrate the feasibility of a prospective multi-institutional study of TOS for HPV 1OPC followed by
+risk-adjusted adjuvant therapy, and to assess the onco-
+logic ef ﬁcacy, re ﬂected in 2-year progression-free survival
+(PFS), of transoral resection and adjuvant therapy inpatients determined to be at intermediate risk after surgicalexcision.
+Study Design and Participants
+E3311 ( NCT01898494 ) is a randomized phase II study of
+transoral surgery (TOS) followed as indicated by postoper-
+ative radiation therapy (PORT) with or without chemother-
+apy for stage III-IVA human papillomavirus 1oropharynx
+cancer (OPC; using American Joint Committee on Cancer-seventh edition). Patients de ﬁned as having intermediate
+risk were randomly allocated to reduced (50 Gy)- or stan-dard (60 Gy)-dose radiation. Eligible patients had T1-2p161squamous cell carcinoma of the oropharynx ame-
+nable to transoral resection, with no matted nodes, and werecandidates for radiation and cisplatin. The study Protocol
+(online only) and eligibility criteria have been previouslydescribed in greater detail.
+16The institutional review board
+(IRB) at each site approved the study Protocol, which was
+approved by the National Cancer Institute (NCI) central IRB.
+All study subjects provided written informed consent andwere enrolled on step 1 (TOS). Step 2 adjuvant treatmentarm assignment was determined by pathologic risk pa-rameters (Appendix Table A1 , online only), as follows: low-
+risk patients de ﬁned T1-T2 resected with negative ( .3m m )
+margins, N0-N1 and no extranodal extension (ENE), wereobserved (arm A); intermediate-risk patients de ﬁned T1-T2
+resected to negative or close ( ,3 mm) margins, N1-N2
+with#1 mm ENE, or up to four positive nodes were randomly
+a l l o c a t e dt o5 0G y( a r mB )o r6 0G y( a r mC )o fP O R T ;h i g h e r -risk patients (arm D) were those with positive margins,.1 mm of ENE, and/or $5 metastatic lymph nodes, and
+received 66 Gy of PORT with concurrent weekly cisplatin at40 mg/m
+2. The random assignment in the intermediate-risk
+patient group was strati ﬁed by smoking history ( #10v.10
+pack-years). Validated patient-reported outcomes (PRO)
+measuring quality of life and swallowing were collected.
+Statistical Analysis
+The study was designed to estimate the 2-year PFS rate for
+intermediate-risk patients who received TOS followed byreduced-dose PORT (arms B and C). The regimen of TOSplus reduced-dose radiation (arm B and C, analyzedseparately) would be considered worthy of further study if,
+for the given arm, the upper limit of the exact 90% binomial
+CI exceeded 85%, indicating a result consistent withnoninferiority to the outcomes observed in our prior studyE2399. It was expected that 48% of the patient populationwould be evaluable intermediate risk, and therefore asample size of 377 was targeted to enroll at least 180intermediate-risk patients.CONTEXT
+Key Objective
+Our primary objectives were to demonstrate the feasibility of a prospective multi-institutional study of transoral surgery (TOS)
+for human papillomavirus 1oropharynx cancer followed by risk-adjusted adjuvant therapy, and to assess the 2-year
+progression-free survival of TOS and reduced adjuvant therapy in intermediate-risk patients.
+Knowledge GeneratedThis novel randomized phase II clinical trial reports the ﬁrst prospective multicenter data for TOS in head and neck cancer.
+For the 70% of patients who underwent deintensi ﬁed postoperative adjuvant therapy, outstanding progression-free
+survival supports the safety and ef ﬁcacy of treatment deintensi ﬁcation (elimination of chemotherapy, and 10 Gy less
+radiation). Exploratory comparison suggests a trend toward better quality-of-life scores associated with reduced radiation
+therapy and chemotherapy.
+RelevancePrimary TOS and reduced postoperative radiation therapy result in outstanding oncologic outcome and favorable functional
+outcomes in intermediate-risk human papillomavirus 1oropharynx cancer.
+Journal of Clinical Oncology 139Transoral Surgery and Reduced RT for HPV 1OPC
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ RESULTS
+Of 120 applications, 87 surgeons at 59 sites were
+credentialed,17and 68 accrued at least one patient. We
+separately reported details regarding surgical quality as-surance including positive margin rate, postoperative gradeIII or IV oropharyngeal bleeding, and number of nodesremoved.
+17One noncredentialed surgeon accrued three
+patients (see Fig 1 CONSORT diagram). The surgeon
+underwent a retrospective credentialing procedure,according to ECOG ACRIN and institutional review board
+guidance, and was found to qualify. After ligation of cervical
+vessels was made a strong recommendation in a trialamendment (activated January 13, 2016), the only grade Vfatal oropharyngeal bleeding occurred (out of 256 enrolledpatients after amendment activation) with the omission ofrecommended vessel ligation. No difference in grade III-Voral bleeding events was observed before and afteramendment mandating ligation (6.1% v6.1%; P5.99).Assigned or randomly allocated to an arm
+(n = 445)Received transoral resection
+(n = 495)Accrued patients with p16+ newly diagnosed oropharyngeal
+squamous cell carcinoma, amenable to transoral resection
+(N = 519)
+Excluded: did not receive transoral resection
+(n = 24)Enrollment
+Excluded: not assigned or randomly allocated to an arm (n = 50)*Eight of whom were also ineligible to step 1**Two of whom had N2c or N3 disease and would have been directlyassigned to arm C
+(n = 11)
+(n = 3)
+(n = 1)
+(n = 1)
+(n = 1)(n = 8)
+(n = 5)
+(n = 3)Excluded
+Ineligible for step 1
+   Primary was nonmeasurable      
+ clinically
+   Prestudy laboratory tests not done 
+       within 4 weeks before registration
+   Unknown
+Ineligible for step 2
+   Registration to step 2 > 7 weeks      
+ postsurgery
+   Incorrect risk assignment Excluded
+Ineligible for step 1
+   Prestudy scans and/or laboratory        
+ tests not done within 4 weeks before
+       registration
+   Baseline creatinine clearance      
+ was less than 60 MI/min
+   Patient had clinical T3 disease      
+ at baseline
+   Unknown
+Ineligible for step 2
+   Registration to step 2 > 7      
+ weeks postsurgery
+   Incorrect risk assignment(n = 20)
+(n = 11)
+(n = 7)
+(n = 1)
+(n = 2)(n = 1)(n = 9)
+(n = 4)
+(n = 5)ExcludedIneligible for step 1
+   Prestudy scans and/or laboratory        
+ tests not done within 4 weeks before
+       registration
+   Unknown   Patient had clinical T3 disease at      
+ baseline
+   Patient had N2c stage at baseline
+Ineligible for step 2
+Registration to step 2 > 7 weeks    postsurgeryIncorrect risk assignment(n = 19)
+(n = 11)
+(n = 7)
+(n = 2)
+(n = 1)
+(n = 1)(n = 8)
+(n = 4)
+(n = 4)(n = 49)
+(n = 49)(n = 132)
+(n = 127)
+(n = 5)Assigned to arm A
+Received treatment
+Arm A
+Evaluable patients
+(n = 38)Arm B
+Evaluable patients
+(n = 100)Analysis
+Arm C
+Evaluable patients
+(n = 108)Arm D
+Evaluable patients
+(n = 113)Randomly allocated to arm B
+Received treatment
+Did not receive treatment*One also ineligible to step 1(n = 126)  
+(n = 120)   
+(n = 6)*Randomly allocated to arm C
+Received treatment
+Did not receive treatmentAssigned to arm D
+Received treatment
+Did not receive treatment*One also ineligible to step 1(n = 138)
+(n = 134)
+(n = 4)*Allocation
+(n = 21)
+(n = 13)
+(n = 8)
+(n = 2)
+(n = 1)(n = 1)
+(n = 1)(n = 8)
+(n = 5)
+(n = 2)
+(n = 1)Excluded
+Ineligible for step 1
+   Prestudy scans and/or laboratory       tests not done 
+ within 4 weeks 
+      before registration   Patient had N2c stage at baseline   Total bilirubin was not ≤ ULN
+   Patient had clinical T3 disease at      
+  baseline
+   Baseline pathology report not done
+Ineligible for step 2
+   Registration to step 2 > 7 weeks       
+  postsurgery
+   Incorrect risk assignment   Surgery performed > 4 weeks from      
+  registration to step 1
+FIG 1. CONSORT diagram.
+140 © 2021 by American Society of Clinical Oncology Volume 40, Issue 2Ferris et al
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ TABLE 1. Baseline Characteristics of Evaluable Patients (n 5359)
+Clinicopathologic FeaturesArm
+Overall (n 5359),
+No. (%) A( n538), No. (%) B (n 5100), No. (%) C (n 5108), No. (%) D (n 5113), No. (%)
+Sex 30 (78.9) 95 (95.0) 92 (85.2) 102 (90.3) 319 (88.9)
+Male
+Female 8 (21.1) 5 (5.0) 16 (14.8) 11 (9.7) 40 (11.1)Age, years, median (range) 61 (46-76) 59 (42-75) 57 (40-77) 58 (37-80) 58 (37-80)
+Ethnicity
+Hispanic or Latino 2 (5.3) 2 (2.0) 3 (2.8) 4 (3.5) 11 (3.1)Not Hispanic or Latino 36 (94.7) 90 (90.0) 98 (90.7) 100 (88.5) 324 (90.3)Not reported or unknown 0 8 (8.0) 7 (6.5) 9 (8.0) 24 (6.7)
+Race
+Asian 0 0 1 (0.9) 0 1 (0.3)Black or African American 1 (2.6) 3 (3.0) 3 (2.8) 2 (1.8) 9 (2.5)
+White 35 (92.1) 93 (93.0) 97 (89.8) 106 (93.8) 331 (92.2)
+Not reported or unknown 2 (5.3) 3 (3.0) 7 (6.5) 5 (4.4) 17 (4.7)Missing 0 1 (1.0) 0 0 1 (0.3)
+Primary disease site
+Tonsillar fossa, tonsil 24 (63.2) 67 (67.0) 65 (60.2) 82 (72.6) 238 (66.3)
+Base of tongue 13 (34.2) 30 (30.0) 38 (35.2) 29 (25.7) 110 (30.6)Glossopharyngeal sulcus 1 (2.6) 3 (3.0) 5 (4.6) 1 (0.9) 10 (2.8)
+Soft palate 0 0 0 1 (0.9) 1 (0.3)
+Histologic grade
+Well differentiated 1 (2.6) 2 (2.0) 6 (5.6) 3 (2.7) 12 (3.3)
+Moderately differentiated 7 (18.4) 20 (20.0) 19 (17.6) 12 (10.6) 58 (16.2)
+Poorly differentiated 24 (63.2) 43 (43.0) 44 (40.7) 43 (38.1) 154 (42.9)Undifferentiated 1 (2.6) 17 (17.0) 15 (13.9) 19 (16.8) 52 (14.5)Cannot be assessed 4 (10.5) 18 (18.0) 24 (22.2) 36 (31.9) 82 (22.8)
+Missing 1 (2.6) 0 0 0 1 (0.3)
+cT stage
+T1 21 (55.3) 53 (53.0) 61 (56.5) 51 (45.1) 186 (51.8)
+T2 17 (44.7) 47 (47.0) 46 (42.6) 61 (54.0) 171 (47.6)
+T3 0 0 0 1 (0.9) 1 (0.3)T4a 0 0 1 (0.9) 0 1 (0.3)
+cN stage
+N1 32 (84.2) 31 (31.0) 39 (36.1) 19 (16.8) 121 (33.7)
+N2 0 1 (1.0) 4 (3.7) 1 (0.9) 6 (1.7)N2a 2 (5.3) 19 (19.0) 24 (22.2) 17 (15.0) 62 (17.3)
+N2b 4 (10.5) 49 (49.0) 41 (38.0) 76 (67.3) 170 (47.4)
+cM stage
+M0 37 (97.4) 100 (100.0) 108 (100.0) 113 (100.0) 358 (99.7)Unknown 1 (2.6) 0 0 0 1 (0.3)
+(continued on following page)
+Journal of Clinical Oncology 141Transoral Surgery and Reduced RT for HPV 1OPC
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ From December 2013 to July 2017, 68 credentialed sur-
+geons enrolled 519 patients and performed TOS for 495
+patients with HPV 1OPC. Among the 495 patients who
+underwent planned surgery, 445 were assigned or ran-domly allocated to a postoperative treatment arm. Amongthe 495 patients who underwent planned surgery, 443
+(89.5%) underwent TORS, 41 (8.3%) underwent TLM, and11 (2.2%) underwent surgery using standard equipment.We did not observe differences in assignment to postop-erative adjuvant treatment based on surgical technique.TABLE 1. Baseline Characteristics of Evaluable Patients (n 5359) (continued)
+Clinicopathologic FeaturesArm
+Overall (n 5359),
+No. (%) A( n538), No. (%) B (n 5100), No. (%) C (n 5108), No. (%) D (n 5113), No. (%)
+pT stage
+T1 22 (57.9) 49 (49.0) 58 (53.7) 49 (43.4) 178 (49.6)
+T2 15 (39.5) 48 (48.0) 45 (41.7) 60 (53.1) 168 (46.8)
+T3 1 (2.6) 3 (3.0) 5 (4.6) 4 (3.5) 13 (3.6)
+pN stage
+NX 0 3 (3.0) 4 (3.7) 1 (0.9) 8 (2.2)
+N0 11 (28.9) 1 (1.0) 2 (1.9) 0 14 (3.9)N1 27 (71.1) 8 (8.0) 11 (10.2) 9 (8.0) 55 (15.3)N2 0 9 (9.0) 5 (4.6) 7 (6.2) 21 (5.8)
+N2a 0 37 (37.0) 35 (32.4) 15 (13.3) 87 (24.2)
+N2b 0 41 (41.0) 49 (45.4) 78 (69.0) 168 (46.8)N2c 0 0 1 (0.9) 0 1 (0.3)
+N3 0 0 1 (0.9) 3 (2.7) 4 (1.1)
+Unknown 0 1 (1.0) 0 0 1 (0.3)
+Positive margins
+No 38 (100.0) 100 (100.0) 108 (100.0) 101 (89.4) 347 (96.7)
+Yes 0 0 0 12 (10.6) 12 (3.3)
+ENE
+No 38 (100.0) 82 (82.0) 88 (81.5) 19 (16.8) 227 (63.2)
+Yes 0 18 (18.0) 20 (18.5) 94 (83.2) 132 (36.8)
+Bilateral node dissection
+No 34 (89.5) 96 (96.0) 101 (93.5) 109 (96.5) 340 (94.7)
+Yes 3 (7.9) 4 (4.0) 7 (6.5) 4 (3.5) 18 (5.0)
+Unknown 1 (2.6) 0 0 0 1 (0.3)
+Performance status
+0 36 (94.7) 90 (90.0) 97 (89.8) 100 (88.5) 323 (90.0)
+1 2 (5.3) 10 (10.0) 11 (10.2) 13 (11.5) 36 (10.0)
+Previous weight loss
+,5% of body weight 37 (97.4) 93 (93.0) 102 (94.4) 105 (92.9) 337 (93.9)
+5% to,10% of body weight 0 2 (2.0) 5 (4.6) 6 (5.3) 13 (3.6)
+10% to ,20% of body weight 0 3 (3.0) 1 (0.9) 0 4 (1.1)
+Missing 1 (2.6) 2 (2.0) 0 2 (1.8) 5 (1.4)
+Smoking history
+#10 pack-years 30 (78.9) 67 (67.0) 78 (72.2) 77 (68.1) 252 (70.2)
+.10 pack-years 7 (18.4) 33 (33.0) 30 (27.8) 34 (30.1) 104 (29.0)
+Unknown 1 (2.6) 0 0 2 (1.8) 3 (0.8)
+Abbreviation: ENE, extranodal extension.
+142 © 2021 by American Society of Clinical Oncology Volume 40, Issue 2Ferris et al
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ Among patients who underwent TORS, 11% were assigned
+to arm A, 28% and 30% randomly allocated to arms B and
+C, respectively, and 31% were assigned to arm D. Amongpatients who underwent TLM, 11% were assigned to arm A,
+32% and 24% were randomly allocated to arms B and C,
+respectively, and 34% were assigned to arm D. Eighty-one
+patients (71 of whom were eventually treated) were
+deemed ineligible; 48 patients were ineligible for step 1(surgery) and 33 patients were ineligible for step 2. The
+most common reasons for ineligibility at step 1 included
+prestudy scans and/or laboratory tests completed before
+the 4-week preregistration window (n 527) and presence
+of clinical T3 disease at baseline (n 54). Ineligibility at step
+2 was predominantly because of registration to step 2
+at.7 weeks after surgery (n 518) and incorrect risk
+assignment (n 514) after central review. Although we
+report evaluable patients (n 5359) for the primary end
+point and demographics of this group as shown in Table 1 ,
+we also present data for all ineligible or untreated (on step
+2) patients who underwent planned surgery (n 5136), as
+well as ineligible and step 2 treated patients (n 571),
+because ineligibility determinations were made during data
+cleaning, only including those patients who had received
+accurate treatment arm assignments to, and been treated
+on, step 2 of the study (Appendix Table A2 , online only).
+The proportion of patients assigned to each arm in step 2
+was comparable between the total and treated populationand the eligible and treated population: 11% to arm A
+(N549); 57% to arms B (N 5120) and C (N 5127); and
+31% to arm D (N 5134). We continued follow-up of in-
+eligible or misclassi ﬁed patients (n 571) for safety
+reporting and outcome.
+Patient demographics are shown in Table 1 for those
+evaluable (n 5359), who were analyzed for the primary
+end point ( Fig 1 , CONSORT diagram), as well as in Ap-
+pendix Table A3 (online only) for ineligible or step 2 un-
+treated patients who received TOS (n 5136). The median
+age was 58 years (range of 37-80 years), and the majority
+were male (88.9%), with primary disease site of tonsil
+(66.3%), and #10 pack-years of smoking history (70.2%).
+Among the 359 evaluable, arm A (N 538) enrolled 11%,
+arms B (50 Gy, N 5100) or C (60 Gy, N 5108) randomly
+allocated 58%, and arm D (N 5113) enrolled 31%. Arm D
+assignment was based on .1 mm extranodal extension
+(ENE; 77%), .4 nodes (27%), and/or positive margins
+(11%). ENE of any extent was present in 37% of patients on
+E3311. ENE #
+1 mm comprised 34% of the patients with
+any ENE, with the other 66% scored .1 mm and leading to
+arm D assignment. Indeed, 77% of arm D patients hadENE.1 mm, and some patients had multiple arm D risk
+factors. The positive margin rate was 3.3% overall. Forty-sixpatients received (and were eligible for) TOS (step 1) andassigned to adjuvant therapy (step 2) but subsequently didnot start treatment or deemed ineligible for step 2 (17% inarm A [N 58]; 59% in arms B [N 514] and C [N 513];
+and 24% in arm D [N 511]).
+In September 2015, the data safety monitoring com-
+mittee reviewed the interim analyses results regardingaccrual, risk distribution, and surgical quality. The ob-
+served accrual rate was 18.5 patients per month, higher
+than the assumed eight patients per month. Among theﬁrst 59 patients completing transoral resection, 29 were
+intermediate risk. Among the ﬁrst 59 eligible patients,
+ﬁve grade 3 bleeding events and two cases with positive
+margins were reported. Thus, the prespeci ﬁed stopping
+rules were not met. The ﬁnal composite quality assur-
+ance end point was a 9.1% rate of combined grade III or
+IV oropharyngeal bleeding or positive margins (4.0%
+positive margins, 5.9% grade III or IV oropharyngealbleeding, 6.1% grade III-V oropharyngeal bleeding).
+Among the 359 evaluable patients, current median follow-
+up time among patients who did not progress is
+35.2 months, and it is 35.0 months among evaluableintermediate-risk patients who did not progress. Among the
+21 recurrences observed at the time of this analysis, 10
+were local-regional and 11 were distant ( Table 2 ).Figure 2
+displays PFS curves for all evaluable patients, by arm. The
+2-year PFS Kaplan-Meier estimate was 96.9% (90% CI,
+91.9 to 100) for arm A, 94.9% (90% CI, 91.3 to 98.6) forarm B, 96.0% (90% CI, 92.8 to 99.3) for arm C, and 90.7%
+(90% CI, 86.2 to 95.4) for arm D. The 3-year PFS estimates
+were 96.9% (90% CI, 91.9 to 100) for arm A, 94.9% (90%CI, 91.3 to 98.6) for arm B, 93.4% (90% CI, 89.2 to 97.8)
+for arm C, and 90.7% (90% CI, 86.2 to 95.4) for arm D. The
+single patient with the unexpected ﬁnding of N3 disease
+without other high-risk features, who was assigned to armC, experienced a local late recurrence at 30 months;
+sensitivity analyses excluding this patient showed results
+consistent with the primary analysis (2-year PFS of 95.9%;90% CI, 92.7 to 99.3). Exploratory comparisons of PFS
+between the arms (using the log-rank test) revealed no
+signi ﬁcant differences ( Pvalues50.90 for B vC; 0.30 for B
+vD; 0.30 for C vD), although caution should be taken in the
+interpretation of these results as the study was not powered
+for the direct comparison of arms B and C, and differencesin both treatment and risk confound the comparisons ofarms B or C and D.
+Those with smoking history ( .10v#10 pack-years) did
+not have a detectably worse 3-year PFS in arms B or C
+(97%; 90% CI, 92.2 to 100 v93.9%; 90% CI, 89.1 to 98.9
+in arm B; 95.2%; 90% CI, 87.9 to 100 v92.8%; 90% CI,
+87.8 to 98.1 in arm C; 93.1% 90% CI, 85.7 to 100% v
+89.6%; 90% CI, 84.0 to 95.5% in arm D).
+Appendix Figure A1 (online only) displays PFS curves for
+ineligible and step 2 treated patients (n 571), by arm. The
+2-year PFS Kaplan-Meier estimate was 80.0% (90% CI,61.7 to 100) for arm A, 94.1% (90% CI, 85.2 to 100) forarm B, 94.4% (90% CI, 86.0 to 100) for arm C, and 89.3%
+Journal of Clinical Oncology 143Transoral Surgery and Reduced RT for HPV 1OPC
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ (90% CI, 78.2 to 100) for arm D. Appendix Figure A3
+(online only) displays PFS curves for all step 2 treatedpatients (eligible and ineligible, n 5430), by arm. The 2-
+year PFS Kaplan-Meier estimate was 93.0% (90% CI, 86.7to 99.6) for arm A, 94.8% (90% CI, 91.5 to 98.3) for arm B,95.7% (90% CI, 92.7 to 98.8) for arm C, and 90.5% (90%CI, 86.3 to 94.9) for arm D. The 3-year PFS Kaplan-Meier
+estimate was 93.0% (90% CI, 86.7 to 99.6) for arm A,
+94.8% (90% CI, 91.5 to 98.3) for arm B, 93.6% (90% CI,89.8 to 97.5) for arm C, and 90.5% (90% CI, 86.3 to 94.9)for arm D.
+Among the 359 evaluable patients, 16 patients had died at
+the time of this analysis (one in arm A, two in arm B, six inarm C, and seven in arm D). The current median follow-up
+time among patients who are alive is 35.4 months. Among
+evaluable intermediate-risk patients who are alive, it is34.8 months.Figure 3 displays OS curves for all evaluable patients, by
+arm. The 2-year OS Kaplan-Meier estimate was 100% forarm A, 99.0% (90% CI, 9.3 to 100) for arm B, 98.1% (90%CI, 95.9 to 100) for arm C, and 96.3% (90% CI, 93.3 to99.3) for arm D. Appendix Figure A2 (online only) displays
+OS curves for ineligible and step 2 treated patients, by arm.The 2-year OS Kaplan-Meier estimate was 100% for arm A,
+94.4% (90% CI, 86.0 to 100) for arm B, 100% for arm C,
+and 95.2% (90% CI, 87.9 to 100) for arm D. AppendixFigure A4 (online only) displays OS curves for all step 2
+treated patients (eligible and ineligible, n 5430), by arm.
+The 2-year OS Kaplan-Meier estimate was 100% for arm A,98.3% (90% CI, 96.3 to 100) for arm B, 98.4% (90% CI,96.5 to 100) for arm C, and 96.1% (90% CI, 93.3 to 99.0)for arm D.
+Appendix Table A5 (online only) summarizes treatment-
+related toxicities (possible, probable, or de ﬁnite) for step 1.TABLE 2. 2-Year PFS, Overall PFS Events, and Sites of Recurrence
+Arm Patients (No.) 2-Year PFS (%) 90% CI Deaths (without recurrence) Recurrences LRF DM
+A 38 96.9 91.9 to 100 0 1 0 1
+B 100 94.9 91.3 to 98.6 1 4 2 2C 108 96.0 92.8 to 99.3 0 4 0 4
+D 113 90.7 86.2 to 95.4 3 7 4 3
+NOTE. In the past 2 years, arm A had three additional recurrences (two LRF and one DM), arm B had one additional death without recurrence, arm C had
+one additional recurrence (one LRF) and one death without recurrence, and arm D had one additional recurrence (one DM).
+Abbreviations: DM, distant metastasis; LRF, local-regional failure; PFS, progression-free survival.
+0.250.500.751.00PFS
+113 107 102 99 93 79 56 Arm D108 98 94 92 89 74 47 Arm C100 97 96 94 92 72 44 Arm B38 36 34 32 31 28 17 Arm ANo. at risk:0 6 12 18 24 30 36
+Time (months)Arm A
+Arm B
+Arm C
+Arm D
+FIG 2. Kaplan-Meier estimates of PFS by arm for 359 evaluable patients. PFS, progression-free survival.
+144 © 2021 by American Society of Clinical Oncology Volume 40, Issue 2Ferris et al
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ Fifteen percent (n 574) of patients on step 1 experienced
+grade 3 treatment-related toxicities, 2% (n 510) experi-
+enced grade 4 treatment-related toxicities, and ,1%
+(n51) patient experienced grade 5 treatment-related
+toxicities. The most common grade 3 toxicities were dys-phagia (6%, n 531) and oral hemorrhage (3%, n 513).
+Appendix Table A6 (online only) summarizes treatment-
+related toxicities for step 2. Grade 3, 4, and 5 treatment-related toxicity rates were 13%, 2%, and 0% on arm B,24%, 0%, and 0% on arm C, and 49%, 11%, and 1% onarm D, respectively. The most common grade 3 toxicitieswere oral mucositis (5% in arm B, 11% in arm C, and 19%in arm D) and dysphagia (3% in arm B, 5% in arm C, and16% in arm D). There were four treatment-related deaths
+(one surgical and three on arm D). Signi ﬁcantly different
+grade III-V toxicity rates were observed between patients onarm B and arm C (14%, 17 of 120 v24%, 31 of 127,
+Pvalue5.030), arms B and D (14%, 17 of 120 v60%, 81
+of 134, Pvalue,.0001), and arms C and D (24%, 31 of
+127 v60%, 81 of 134, Pvalue,.0001).
+We measured patient-reported outcome (PRO) for quality
+of life (QOL; functional assessment of cancer therapy-head
+and neck [FACT-HN]) and swallowing (MD AndersonDysphagia Index [MDADI]) in arms A-D ( Figs 4A and 4B;
+Appendix Tables A7 and A8, online only), with 70%
+compliance at 6-month post-treatment for FACT-HN. Al-though consistent decline in QOL and swallowing scoreswas observed during treatment, these recovered to baselinein arms A-C with slightly lower scores after adjuvant therapyin arm D. Comparing change in FACT-HN total score from
+baseline to 6-month post-treatment, between arms B or Cagainst D, 56% of patients in arms B or C had a stable orimproved score compared with 38% of patients in arm D(Pvalue5.009, using a one-sided Fisher ’s exact test). An
+exploratory comparison between arms B and C revealed a
+marginally signi ﬁcant difference (63% in arm B and 49% in
+arm C had a stable or improved score, Pvalue5.066).
+However, these results should be interpreted with cautionas the study design was not powered for a comparisonbetween the randomized arms, and differences in bothtreatment and risk confound the comparison of arms B or Cversus D. With an intent-to-treat analysis of all step 2 treatedpatients, the FACT-HN score differences remain numeri-
+cally stable; however, the comparisons gain statistical
+signi ﬁcance (at 6 months, 57% of patients in arms B or C
+had stable or improved FACT-HN scores v39% of arm D,
+P5.005; 65% of patients in arm B had stable or improved
+FACT-HN scores v50% in arm C, P5.033.) Additional
+PROs and analyses of functional swallowing using objectivemeasurements (eg, modi ﬁed barium swallow) studies will
+be reported separately.
+DISCUSSION
+Treatment deintensi ﬁcation for HPV 1
+O P Ci sa na c t i v ea r e ao f
+investigation.18,19Transoral, minimally invasive surgery has
+been practiced widely since 2009 when TORS was FDA-cleared, but its role in permittin g reduction in adjuvant therapy
+as a means to deintensify therapy has not been tested0.250.500.751.00OS
+Arm DArm CArm BArm ANo. at risk:0 6 12 18 24 30 36
+Time (months)Arm A
+Arm BArm C
+Arm D
+113 108 106 103 101 98 72108 105 104 103 99 96 71100 99 98 97 96 95 6738 37 35 35 33 30 23
+FIG 3. Kaplan-Meier estimates of OS by arm for 359 evaluable patients. OS, overall survival.
+Journal of Clinical Oncology 145Transoral Surgery and Reduced RT for HPV 1OPC
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ prospectively.4The ECON-ACRIN (E3311) Trial was designed
+to collect normative information regarding feasibility andsurgical quality in a multi-inst itutional trial, treatment arm
+assignment, and PFS of redu ced-dose (50 Gy) or standard-
+dose (60 Gy) radiation therapy (RT) without chemotherapy.We also collected correlative PROs for QOL and swallowingfunction using MDADI and FACT-HN, as well as functional,
+modi ﬁed barium swallow studies at de ﬁned time points for
+comparison between arms.
+Deintensi ﬁcation approaches for HPV 1OPC have gener-
+ally focused on modifying nonsurgical treatment, such as
+reduced RT or chemotherapy. RTOG 1016 demonstrated
+that cisplatin chemotherapy was superior to cetuximabwhen added to standard-dose, de ﬁnitive RT (70 Gy),
+conﬁrmed in the DeESCALATE trial.
+20,21The NRG HN-002
+trial14suggested inferior oncologic outcomes for patientstreated nonsurgically with reduced-dose RT (60 Gy) and
+without chemotherapy for favorable-risk HPV 1OPC. Single-
+or multi-institutional case series suggest that primary TOS
+is feasible and safe.22-26However, lack of intent-to-treat
+analyses and heterogeneous postoperative management
+directed by inconsistent, locally de ﬁned criteria complicate
+interpretation of these studies. Indeed, level I data for using
+primary TOS and prespeci ﬁed criteria to deintensify ad-
+juvant therapy for good prognosis of HPV 1OPC have been
+lacking. The ECON-ACRIN (E3311) Trial now demon-strates the safety, feasibility, and high oncologic ef ﬁcacy in
+a large multicenter cooperative group trial. Use of primaryTOS and 50 Gy PORT for HPV 1OPC with multiple positive
+nodes or #1 mm ENE (up to half of those with pathologic
+ENE) would provide 70% of patients with a deintensi ﬁed
+therapeutic option after transoral resection.Time PointMean Score
+Baseline020406080100
+Surgery 1 Year Post-Tx 2 Years Post-TxArm A
+Arm B
+Arm C
+Arm DA
+Mean Score
+050100150
+Time PointBaseline Surgery End of
+Trt and/or Obs1 Year
+Post-Tx6 Months
+Post-Tx3 Months
+Post-Tx2 Years
+Post-TxArm A
+Arm BArm C
+Arm DB
+FIG 4. (A) Swallowing and (B) QOL. QOL, quality of life; Trt and/or Obs, treatment and/or observation; Tx,
+treatment.
+146 © 2021 by American Society of Clinical Oncology Volume 40, Issue 2Ferris et al
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ Historically, PORT dose prescription has been guided by
+pathologic risk assessment dictating the RT dose, with manyseminal studies
+27-29occurring before transoral surgical ap-
+proaches. These older studies typically provided RT dosesapproximating 60 Gy to the surgical bed but pathologicallynegative or positive but with in termediate pathologic risk
+features. Where pathologic risk features associated with a
+higher risk of relapse such as ENE or multiple pathologic riskfactors, a dose of 63 Gy in 1.8 Gy per fraction was recom-mended. In E3311, we adopted a similar approach tointermediate-risk pathologic features with our standard doseof 60 Gy to sites of pathology but did not require pathologicallynegative regions to be irradiated to 60 Gy, and allowedtreatment to 50 Gy at the discretion of the treating radiation
+oncologist. The primary invasive tumor site was prescribed for
+irradiation to 60 Gy in arm C. By contrast, arm B treated thedissected primary and neck to 50 Gy. Our ﬁndings suggest
+that both approaches are associated with a high 2-year PFS.
+We designed this trial to generate normative data regarding
+TOS and the feasibility of reduced postoperative radiationdose. Our ﬁnding of 95% 2-year PFS among intermediate-
+risk patients who received 50 Gy PORT is among the bestresults yet described for this population, comparing fa-vorably to comparable-stage patients managed with de-ﬁnitive chemoradiation,
+20to favorable risk nonsmokers
+treated with de ﬁnitive chemoradiation,14and favorable-risk
+nonsmokers treated with postoperative docetaxel andreduced-dose radiation.
+30An expanding literature regard-
+ing the activity of lower-dose radiation in HPV 1OPC in both
+the de ﬁnitive and postoperative setting supports our con-
+clusion that TOS and 50 Gy PORT is oncologically ap-propriate in intermediate-risk patients. Although medianfollow-up was over 35 months for the primary end point of
+2-year PFS, the natural history of recurrence after de ﬁnitive
+treatment of HPV 1OPC may require longer follow-up,
+particularly for distant metastatic disease, in addition todetecting differences in late toxicity.
+31Continued observation of
+this valuable study population will provide the ﬁrst large, multi-
+institutional cohort of HPV 1OPC treated with primary TOS and
+reduced PORT to document the kinetics of locoregional versusdistant recurrence, which may have implications for follow-up
+schedule using imaging and clinical exam. A planned phase III
+trial is in development using the arm (50 Gy) regimen as theexperimental arm, because of a combination of favorableoncologic and toxicity results from PROs presented here, to becompared with standard-of-care CRT.
+TOS with dose-reduced postoperative therapy is one of
+several deintensi ﬁcation approaches being studied inHPV1OPC.
+14,32-34None of these deintensi ﬁcation ap-
+proaches has been directly compared with standard of
+care or an alternate deintensi ﬁcation strategy in a com-
+pleted phase III trial, although such trials are ongoing
+(NCT03952585 ). Optimal deintensi ﬁcation strategies may
+differ for patients with different clinical risk features andanatomic suitability for TOS, and perhaps by molecularcharacteristics. The outstanding oncologic and functionalresults of our study provide compelling rationale for a phaseIII trial comparing the E3311 arm B regimen with standardCRT using 70 Gy of radiation and concurrent cisplatin
+across all tobacco risk groups.
+Patients with HPV 1OPC experience a profound, acute
+decrement in general physical functioning and cancer-speci ﬁc QOL as a result of surgical and nonsurgical
+treatments, and a signi ﬁcant percentage of patients fail to
+return to baseline functioning. Here, we provide initialanalyses of QOL and swallowing outcomes, measured
+using validated PROs. Clear decrement of both outcomes
+during adjuvant treatment was observed, with modestdifferences seen between arms B and C and the intensi ﬁed
+arm D. Whether differences emerge in long-term PRO ( .5
+years) because of reduction in RT dose and avoidance ofcisplatin chemotherapy will be of interest to compare.
+Future enhancement of this approach to deintensi ﬁcation
+would result from better patient selection, to avoid higher-
+risk (arm D) patients undergoing TOS followed by che-moradiation. Such preoperative patient selection might be
+accomplished using radiomics, genomic or transcriptional
+selection, or other methods to better de ﬁne those truly at
+increased risk. For example, the most common indication
+in our trial for inclusion in arm D was ENE .1 mm but it
+remains unknown at what threshold ENE is oncologically
+meaningful for resected HPV 1OPC. For arm D –like higher-
+risk patients, alternative therapeutic regimens such as
+reducing RT and/or chemotherapy dose, or replacing the
+latter with targeted therapeutic agents or immunotherapy
+should also be explored for deintensi ﬁcation.
+35This group
+could also be monitored clinically and risk-strati ﬁed using
+surrogates for residual tumor such as salivary or circulating
+tumor DNA. Others are already testing some of these
+possibilities,30,36including lower RT or omitting chemo-
+therapy for arm D –like patients with more extensive ENE.
+With the very high PFS rates demonstrated here, continued
+focus on minimizing late consequences of curative therapy
+remains of great importance for this growing population of
+patients.
+AFFILIATIONS
+1UPMC Hillman Cancer Center, Pittsburgh, PA
+2Dana Farber Cancer Institute-ECOG-ACRIN Biostatistics Center,
+Boston, MA
+3University of Pennsylvania, Philadelphia, PA
+4Johns Hopkins University, Baltimore, MD5University of Maryland, Baltimore, MD
+6Mayo Clinic, Rochester, MN
+7Mofﬁtt Cancer Center, Tampa FL
+8The University of Texas, MD Anderson Cancer Center, Houston, TX
+9The Ohio State University, Columbus, OH
+10University of Miami, Miami, FL
+Journal of Clinical Oncology 147Transoral Surgery and Reduced RT for HPV 1OPC
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ 11Providence Cancer Institute, Portland, OR
+12Winship Cancer Institute at Emory University, Atlanta, GA
+13Fox Chase Cancer Center, Philadelphia, PA
+14University of Washington, Seattle, WA
+15Yale School of Medicine and Yale Cancer Center, New Haven, CT
+†Deceased.
+CORRESPONDING AUTHOR
+Robert L. Ferris, MD, PhD, UPMC Hillman Cancer Center, 5150 Centre
+Ave, Suite 500, Pittsburgh, PA 15213-1863; e-mail: ferrisrl@upmc.edu.
+SUPPORT
+Supported by the National Cancer Institute of the National Institutes ofHealth under awards: U10CA180820, U10CA180794, U10CA180868,
+UG1CA189953, UG1CA232760, UG1CA233184, UG1CA233196,
+UG1CA233247, UG1CA233329, UG1CA233328, UG1CA233331,and UG1CA233337.
+AUTHORS ’DISCLOSURES OF POTENTIAL CONFLICTS OF
+INTEREST
+Disclosures provided by the authors are available with this article at DOI
+https://doi.org/10.1200/JCO.21.01752 .AUTHOR CONTRIBUTIONS
+Conception and design: Robert L. Ferris, Gregory S. Weinstein, Shuli Li,
+Harry Quon, Ranee Mehra, Christine H. Chung, Maura L. Gillison,
+Barbara BurtnessFinancial support: Robert L. Ferris
+Administrative support: Robert L. Ferris
+Provision of study materials or patients: Robert L. Ferris, Gregory S.
+Weinstein, Harry Quon, Ranee Mehra, Umamaheswar Duvvuri, EnverOzer, Giovana R. Thomas, Wayne M. Koch, R. Bryan Bell, Barbara
+Burtness
+Collection and assembly of data: Robert L. Ferris, Gregory S. Weinstein,
+Shuli Li, Ranee Mehra, Joaquin J. Garcia, Umamaheswar Duvvuri,Bert W. O ’Malley Jr, Enver Ozer, Wayne M. Koch, Neil D. Gross, R. Bryan
+Bell, Nabil F. Saba, Miriam Lango, Barbara Burtness
+Data analysis and interpretation: Robert L. Ferris, Yael Flamand, Gregory S.
+Weinstein, Shuli Li, Harry Quon, Joaquin J. Garcia, Christine H. Chung,Bert W. O ’Malley Jr, Enver Ozer, Giovana R. Thomas, R. Bryan Bell, Nabil
+F. Saba, Miriam Lango, Barbara Burtness
+Manuscript writing: All authors
+Final approval of manuscript: All authors
+Accountable for all aspects of the work: All authors
+REFERENCES
+1. Adelstein DJ, Ridge JA, Brizel DM, et al: Transoral resection of pharyngeal cancer: Summary of a National Cancer Institute Head and Neck Cancer Stee ring
+Committee Clinical Trials Planning Meeting, November 6-7, 2011, Arlington, Virginia. Head Neck 34:1681-1703, 2012
+2. Ang KK, Harris J, Wheeler R, et al: Human papillomavirus and survival of patients with oropharyngeal cancer. N Engl J Med 363:24-35, 2010
+3. D ’Souza G, Kreimer AR, Viscidi R, et al: Case-control study of human papillomavirus and oropharyngeal cancer. N Engl J Med 356:1944-1956, 2007
+4. Holsinger FC, Ferris RL: Transoral endoscopic head and neck surgery and its role within the multidisciplinary treatment paradigm of oropharynx ca ncer:
+Robotics, lasers, and clinical trials. J Clin Oncol 33:3285-3292, 2015
+5. O ’Sullivan B, Huang SH, Su J, et al: Development and validation of a staging system for HPV-related oropharyngeal cancer by the International Collabora tion on
+Oropharyngeal cancer Network for Staging (ICON-S): A multicentre cohort study. Lancet Oncol 17:440-451, 2016
+6. Francissen CM, van la Parra RF, Mulder AH, et al: Evaluation of the bene ﬁt of routine intraoperative frozen section analysis of sentinel lymph nodes in breast
+cancer. ISRN Oncol 2013:843793, 2013
+7. Weinstein GS, O ’Malley BW Jr, Magnuson JS, et al: Transoral robotic surgery: A multicenter study to assess feasibility, safety, and surgical margins. La-
+ryngoscope 122:1701-1707, 2012
+8. Albergotti WG, Jordan J, Anthony K, et al: A prospective evaluation of short-term dysphagia after transoral robotic surgery for squamous cell carc inoma of the
+oropharynx. Cancer 123:3132-3140, 2017
+9. Fakhry C, Westra WH, Li S, et al: Improved survival of patients with human papillomavirus-positive head and neck squamous cell carcinoma in a prospe ctive
+clinical trial. J Natl Cancer Inst 100:261-269, 2008
+10. Cramer JD, Hicks KE, Rademaker AW, et al: Validation of the eighth edition American Joint Committee on Cancer staging system for human papillomavi rus-
+associated oropharyngeal cancer. Head Neck 40:457-466, 2018
+11. Haughey BH, Hinni ML, Salassa JR, et al: Transoral laser microsurgery as primary treatment for advanced-stage oropharyngeal cancer: A United Sta tes
+multicenter study. Head Neck 33:1683-1694, 2011
+12. Langendijk JA, Doornaert P, Verdonck-de Leeuw IM, et al: Impact of late treatment-related toxicity on quality of life among patients with head and neck cancer
+treated with radiotherapy. J Clin Oncol 26:3770-3776, 2008
+13. Quon H, Forastiere AA: Controversies in treatment deintensi ﬁcation of human papillomavirus-associated oropharyngeal carcinomas: Should we, how should
+we, and for whom? J Clin Oncol 31:520-522, 2013
+14. Yom SS, Torres-Saavedra P, Caudell JJ, et al: NRG-HN002: A randomized phase II trial for patients with p16-positive, non-smoking-associated, lo coregionally
+advanced oropharyngeal cancer. 2019 ASTRO Annual Meeting. Int J Radiat Oncol Biol Phys 105:384-385, 2019
+15. Sharma A, Patel S, Baik FM, et al: Survival and gastrostomy prevalence in patients with oropharyngeal cancer treated with transoral robotic surge ry vs
+chemoradiotherapy. JAMA Otolaryngol Head Neck Surg 142:691-697, 2016
+16. Adelstein DJ, Ridge JA, Brizel DM, et al: Transoral resection of pharyngeal cancer: Summary of a National Cancer Institute head and neck cancer ste ering
+committee clinical trials planning meeting, November 6 –7, 2011, Arlington, Virginia. Head and Neck, 34:1681-1703, 2012
+17. Ferris RL, Flamand Y, Holsinger FC, et al: A novel surgeon credentialing and quality assurance process using transoral surgery for oropharyngeal cancer in
+ECOG-ACRIN Cancer Research Group Trial E3311. Oral Oncol 110:104797, 2020
+18. Bigelow EO, Seiwert TY, Fakhry C: Deintensi ﬁcation of treatment for human papillomavirus-related oropharyngeal cancer: Current state and future directions.
+Oral Oncol 105:104652, 2020
+19. Adelstein DJ, Ismaila N, Ku JA, et al: Role of treatment deintensi ﬁcation in the management of p16 1oropharyngeal cancer: ASCO provisional clinical opinion.
+J Clin Oncol 37:1578-1589, 2019
+20. Gillison ML, Trotti AM, Harris J, et al: Radiotherapy plus cetuximab or cisplatin in human papillomavirus-positive oropharyngeal cancer (NRG On cology RTOG
+1016): A randomised, multicentre, non-inferiority trial. Lancet 393:40-50, 2019
+148 © 2021 by American Society of Clinical Oncology Volume 40, Issue 2Ferris et al
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ 21. Mehanna H, Robinson M, Hartley A, et al: Radiotherapy plus cisplatin or cetuximab in low-risk human papillomavirus-positive oropharyngeal canc er (De-
+ESCALaTE HPV): An open-label randomised controlled phase 3 trial. Lancet 393:51-60, 2019
+22. Farooq S, Khandavilli S, Dretzke J, et al: Transoral tongue base mucosectomy for the identi ﬁcation of the primary site in the work-up of cancers of unknown
+origin: Systematic review and meta-analysis. Oral Oncol 91:97-106, 2019
+23. Chan JYK, Tsang RK, Holsinger FC, et al: Prospective clinical trial to evaluate safety and feasibility of using a single port ﬂexible robotic system for transoral head
+and neck surgery. Oral Oncol 94:101-105, 2019
+24. Sinha P, Haughey BH, Kallogjeri D, et al: Long-term analysis of transorally resected p16 1Oropharynx cancer: Outcomes and prognostic factors. Laryngoscope
+129:1141-1149, 2019
+25. Kaczmar JM, Tan KS, Heitjan DF, et al: HPV-related oropharyngeal cancer: Risk factors for treatment failure in patients managed with primary tran soral robotic
+surgery. Head Neck 38:59-65, 2016
+26. O ’Malley BW Jr, Weinstein GS, Snyder W, et al: Transoral robotic surgery (TORS) for base of tongue neoplasms. Laryngoscope 116:1465-1472, 2006
+27. Peters LJ, Goepfert H, Ang KK, et al: Evaluation of the dose for postoperative radiation therapy of head and neck cancer: First report of a prospecti ve randomized
+trial. Int J Radiat Oncol Biol Phys 26:3-11, 1993
+28. Ang KK, Trotti A, Brown BW, et al: Randomized trial addressing risk features and time factors of surgery plus radiotherapy in advanced head-and-ne ck cancer.
+Int J Radiat Oncol Biol Phys 51:571-578, 2001
+29. Rosenthal DI, Mohamed ASR, Garden AS, et al: Final report of a prospective randomized trial to evaluate the dose-response relationship for postop erative
+radiation therapy and pathologic risk groups in patients with Head and neck cancer. Int J Radiat Oncol Biol Phys 98:1002-1011, 2017
+30. Ma DJ, Price KA, Moore EJ, et al: Phase II evaluation of aggressive dose de-escalation for adjuvant chemoradiotherapy in human papillomavirus-as sociated
+oropharynx squamous cell carcinoma. J Clin Oncol 37:1909-1918, 2019
+31. Machtay M, Moughan J, Trotti A, et al: Factors associated with severe late toxicity after concurrent chemoradiation for locally advanced head and neck cancer:
+An RTOG analysis. J Clin Oncol 26:3582-3589, 2008
+32. Chen AM, Felix C, Wang PC, et al: Reduced-dose radiotherapy for human papillomavirus-associated squamous-cell carcinoma of the oropharynx: A si ngle-arm,
+phase 2 study. Lancet Oncol 18:803-811, 2017
+33. Marur S, Li S, Cmelak AJ, et al: E1308: Phase II trial of induction chemotherapy followed by reduced-dose radiation and weekly cetuximab in patient s with HPV-
+associated resectable squamous cell carcinoma of the oropharynx- ECOG-ACRIN Cancer Research Group. J Clin Oncol 35:490-497, 2017
+34. Seiwert TY, Foster CC, Blair EA, et al: OPTIMA: A phase II dose and volume de-escalation trial for human papillomavirus-positive oropharyngeal ca ncer. Ann
+Oncol 30:1673, 2019
+35. Cramer JD, Burtness B, Ferris RL: Immunotherapy for head and neck cancer: Recent advances and future directions. Oral Oncol 99:104460, 2019
+36. Hargreaves S, Beasley M, Hurt C, et al: Deintensi ﬁcation of adjuvant treatment after transoral surgery in patients with human papillomavirus-positive oro-
+pharyngeal cancer: The conception of the PATHOS study and its development. Front Oncol 9:936, 2019
+nnn
+Journal of Clinical Oncology 149Transoral Surgery and Reduced RT for HPV 1OPC
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ AUTHORS ’DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST
+Phase II Randomized Trial of Transoral Surgery and Low-Dose Intensity Modulated Radiation Therapy in Resectable p16 1Locally Advanced Oropharynx Cancer:
+An ECOG-ACRIN Cancer Research Group Trial (E3311)
+The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated unless othe rwise noted.
+Relationships are self-held unless noted. I 5Immediate Family Member, Inst 5My Institution. Relationships may not relate to the subject matter of this manuscript.
+For more information about ASCO ’s con ﬂict of interest policy, please refer to www.asco.org/rwc orascopubs.org/jco/authors/author-center .
+Open Payments is a public database containing information reported by companies about payments made to US-licensed physicians ( Open Payments ).
+Robert L. Ferris
+This author is a member of the Journal of Clinical Oncology Editorial Board.
+Journal policy recused the author from having any role in the peer review of thismanuscript.
+Stock and Other Ownership Interests: Novasenta
+Consulting or Advisory Role: Merck, P ﬁzer, EMD Serono, Numab, Macrogenics,
+Aduro Biotech, Novasenta, Sano ﬁ, Zymeworks, Bristol Myers Squibb
+Research Funding: Bristol Myers Squibb, AstraZeneca/MedImmune, Merck,
+Tesaro, Novasenta
+Gregory S. Weinstein
+Patents, Royalties, Other Intellectual Property: Olympus
+Shuli Li
+Employment: Takeda
+Stock and Other Ownership Interests: Takeda
+Harry Quon
+Employment: Johns Hopkins Hospital
+Leadership: Pistevo Health
+Stock and Other Ownership Interests: Oncospace, Pistevo Health
+Honoraria: Sano ﬁ/Regeneron
+Consulting or Advisory Role: Pinnacle Biologics, Tactile Medical
+Research Funding: Toshiba, Vibrent Health
+Patents, Royalties, Other Intellectual Property: Filed under Hopkins, we have
+several patents related to mobile informatics solutions
+Other Relationship: EPIC
+Ranee Mehra
+Stock and Other Ownership Interests: GlaxoSmithKline (I)
+Consulting or Advisory Role: Bayer, Rakuten Medical
+Research Funding: AstraZeneca, Merck
+Christine H. Chung
+Consulting or Advisory Role: Bristol Myers Squibb, CUE Biopharma, Mirati
+Therapeutics, Sano ﬁ/Regeneron, Exelixis
+Research Funding: AstraZeneca, Bristol Myers Squibb, Lilly, Merck, Regeneron,
+Ignyta, P ﬁzer, Brooklyn ImmunoTherapeutics, Iovance Biotherapeutics
+Travel, Accommodations, Expenses: AstraZeneca, Mirati Therapeutics
+Maura L. Gillison
+Consulting or Advisory Role: Bristol Myers Squibb, Merck, EMD Serono, Kura
+Oncology, BioNTech, Shattuck Labs, Bayer, Debiopharm Group¸ Ipsen, GileadSciences¸ Bicara Therapeutics, Nektar¸ Istari, LLX Solutions, OncLive, Seagen,
+Kura Oncology, Mirati Therapeutics, Sensei Biotherapeutics
+Research Funding: Bristol Myers Squibb, Genocea Biosciences, Cullinan
+Oncology, Genentech, Agenus, Kura Oncology
+Umamaheswar Duvvuri
+Consulting or Advisory Role: ACTIVARTIS Biotech
+Research Funding: Kolltan Pharmaceuticals, Medrobotics
+Bert W. O ’Malley Jr
+Patents, Royalties, Other Intellectual Property: Receive royalties from
+University of Pennsylvania via a licensed technology to Olympus Inc
+Neil D. Gross
+Honoraria: Intuitive Surgical
+Consulting or Advisory Role: PDS Biotechnology, Verb Surgical, Sano ﬁ/
+Regeneron, Shattuck LabsResearch Funding: Regeneron, MedImmune, Genentech
+Patents, Royalties, Other Intellectual Property: UpToDate
+R. Bryan Bell
+Honoraria: Merck, Regeneron
+Consulting or Advisory Role: Macrogenics
+Speakers ’Bureau: Merck, Regeneron
+Research Funding: Bristol Myers Squibb/Celgene
+Nabil F. Saba
+Honoraria: Merck, CUE Biopharma, BioNTech AG, GlaxoSmithKline
+Research Funding: Bristol-Myers Squibb, Exelixis
+Travel, Accommodations, Expenses: Merck, P ﬁzer, Blueprint Medicines
+Barbara Burtness
+Consulting or Advisory Role: Merck, Debiopharm Group, CUE Biopharma,
+Maverick Therapeutics, Rakuten Medical, Nanobiotix, Macrogenics, ALX
+Oncology, IO Biotech, Ipsen, Genentech/Roche, Kura Oncology, Merck KGaA,
+PPD Global, ExelixisResearch Funding: Merck (Inst), Aduro Biotech (Inst), Formation Biologics
+(Inst), Bristol Myers (Inst), CUE Biopharma (Inst)
+Travel, Accommodations, Expenses: Merck, Debiopharm Group
+No other potential con ﬂicts of interest were reported.
+© 2021 by American Society of Clinical Oncology Volume 40, Issue 2Ferris et al
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ APPENDIX.
+Procedures
+Brieﬂy, patients with resectable p16 1oropharynx cancer (American
+Joint Committee on Cancer-seventh edition tumor stage III-IVa withoutevidence for distant metastasis) and no evidence of matted or ﬁxed
+pathologic adenopathy provided written informed consent and un-derwent radiographic staging. Adherence to contraindications to TOSwas recommended during investigator communications; this includedno gross or radiographic evidence of ENE (Weinstein, GS et al: Eur Arch
+Otorhinolaryngol 272:1551-1552, 2015). Patients were required to
+have adequate end-organ function and not to have previously receivedradiation above the clavicles. Full eligibility criteria are listed in the trialProtocol section 3.1. Primary treatment was TOS and neck dissection,followed by risk-based adjuvant therapy by arm assignment, which wasreviewed and con ﬁrmed centrally. TOS consisted of transoral robotic
+surgery, transoral laser microsurgery, or standard cautery equipment,and approximately 90% of the patients were accrued by transoralrobotic surgery –credentialed surgeons, as published previously by
+Ferris et al.
+17Patients with N3 disease but no high-risk (arm D) features
+(N51) received 60 Gy PORT (arm C). Sensitivity analyses were
+conducted with the exclusion of this one patient. Con ﬁrmation of el-
+igibility was repeated upon registration to step 2 (Appendix Tables A2
+and A3).
+Postoperative radiotherapy was based on pathologic risk strati ﬁcation
+guiding radiation therapy dose prescription to the region of the pharynxor neck demonstrating the risk features. PORT was administered to theprimary site and neck, with the primary site volume de ﬁned by the
+invasive tumor base rather than preoperative imaging that may haveincluded intraluminal tumor (Appendix Table A4 ). Ipsilateral neck
+PORT could be elected if the mucosal invasive tumor base was .1c m
+from the midline mucosa as determined at the time of the surgery and ifprimary tumor adverse pathologic features were not present on themedial tumor margin. The standard PORT dose was a minimum of
+60 Gy with the exception of patients assigned to arm B, for whom 50 Gy
+was prescribed to the primary site and the involved dissected neck.
+Adverse events were evaluated by NCI Common Terminology Criteria
+for Adverse Events Version 4 (CTCAE V4) and assessed at baseline,weekly during radiotherapy, end of treatment, and 1 and 3 months
+after treatment completion (St Guily JL, et al: J Clin Virol 51:100-104,
+2011; Appendix Tables A5 andA6). Criteria for dose reduction or delay
+were prespeci ﬁed. Per Protocol, disease assessment (physical ex-
+amination, including laryngopharyngoscopy and if indicated, com-puted tomography or magnetic resonance imaging of the head andneck, and late adverse event were required every 3 months for 2 years,every 6 months through year 5, and then annually). Chest x-ray orcomputed tomography of chest was performed annually. PRO in-cluded head and neck –cancer speci ﬁc quality of life (FACT-HN) and
+swallowing perception and performance (MDADI) (Appendix Tables
+A7andA8, online only). The FACT-H&N is a self-reported instrument,
+which consists of a 27-item core (functional assessment of cancertherapy-general) and 10 head and neck –speci ﬁc items. Items are
+rated on a 5-point Likert-type scale. The score ranges from 0 to 148,with higher scores indicative of higher quality of life. Change in scorewas categorized as improved (change $7 points), stable
+(–6#change #6), or worsened (change #–7). The MDADI is also a
+self-reported instrument, which consists of 20 items that assess an
+individual ’s perception of their swallowing ability. Items are rated on a
+5-point scale. The composite score ranges from 20 (extremely lowfunctioning) to 100 (high functioning). PROs were assessed atbaseline, 4-6 weeks following surgery, end of treatment, and at 3, 6,12, and 24 months thereafter. Quality assurance review of surgicalquality and radiation therapy including stopping rules was performedper the trial Protocol.Outcomes
+Primary end points are feasibility of prospective multi-institutionalstudy of TOS followed by risk-adjusted adjuvant therapy (AppendixTable A9 ), and 2-year progression-free survival (PFS) of 50 Gy or 60 Gy
+PORT for patients with intermediate risk. Feasibility was assessedthrough interim monitoring of the (1) accrual rate during months 13-18after activation (required to be .80% of projected rate); (2) risk
+distribution among the ﬁrst 59 patients completing transoral resection
+(requiring at least 22 patients of intermediate risk); and (3) surgicalquality as assessed by the rate of grade 3-4 bleeding events duringsurgery or positive margins after surgery (interim analysis among theﬁrst 59 eligible patients requiring ,13 patients with either outcome).
+Two-year PFS is de ﬁned as the proportion of patients alive and
+progression-free at 24 months, among all evaluable (eligible andtreated on step 2) patients. Secondary end points include toxicity,
+overall survival (OS), swallowing function, and PROs. Comparisons of
+2-year PFS rates between arms B and C, arms B and D, and arms Cand D were speci ﬁed as exploratory end points.
+Statistical Design and Analyses
+Planned interim analyses included 1-year PFS rates for arms A, B and
+C, as well as surgical quality and risk distribution within the ﬁrst 59
+patients completing surgery. Because this interim analysis demon-strated a higher-than-projected proportion of evaluable patients withhigh-risk features, the total accrual goal was increased from 377 to 515(protocol amendment January 2016) to assure an adequate sample ofintermediate-risk patients.
+Among the 359 evaluable patients, 38 patients had follow-up for
+,24 months. Therefore, 2-year PFS (and OS) was estimated using
+the Kaplan-Meier method, rather than as a binomial proportion.Corresponding 90% CIs were estimated using Greenwood ’s formula.
+PFS was measured from registration to step 2 to progression or deathbecause of any cause, and patients without documented progressionor death were censored at last disease evaluation date. OS was de ﬁned
+as the time from registration to step 2 to death from any cause or
+censored at last date known alive. When last disease evaluation date
+was not available, patients were censored at their date of registration.
+Secondary quality-of-life objectives included the comparison of the
+change in FACT-HN total score from baseline (before TOS) to 6 monthsafter treatment, between arms B and C combined and arm D. A one-
+sided Fisher ’s exact test was used to compare the proportion of pa-
+tients with improved or stable score at 6 months after treatment,between arms B or C and D. A prespeci ﬁed exploratory comparison
+between arms B and C was also performed. A one-sided Fisher ’s exact
+test was used to compare the toxicity rates of arms B versus C, B versusD, and C versus D.
+Our plan was to select arm B or arm C as the experimental arm in a
+phase III comparison with de ﬁnitive chemoradiation. Therefore, a
+prespeci ﬁed exploratory comparison was made of the 2-year PFS rate
+between arms B and C. Prespeci ﬁed exploratory comparisons of PFS
+between arms B and D, and arms C and D, were also performed, with adivided type I error (0.025 each), for a family-wise error rate of 0.10. Alog-rank test was used to compare PFS between groups. Toxicityanalyses were performed on all patients treated on step 2, whereas allother prespeci ﬁed analyses were performed on the cohort of evaluable
+patients.
+Several post hoc analyses were performed, including exploratory
+analyses of (1) ineligible patients only and (2) all step 2 treated pa-tients, for PFS, OS, and change in FACT-HN total score from baselineto 6-month post-treatment. Additionally, an exploratory comparison ofPFS was done, by smoking history ( .10v#10 pack-years) for arms
+B, C, and D (evaluable patients). The ﬁnal data lock was November 30,
+2020.
+Journal of Clinical OncologyTransoral Surgery and Reduced RT for HPV 1OPC
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ 0.250.500.751.00PFS
+Arm DArm CArm BArm ANo. at risk:0 6 12 18 24 30 36
+Time (months)Arm A
+Arm BArm C
+Arm D
+21 19 16 16 15 11 719 18 18 18 17 14 720 17 16 15 14 13 1111 10 10 8 5 4 3
+FIG A1. Kaplan-Meier estimates of PFS for 71 ineligible and step 2 treated patients. PFS, progression-free
+survival.
+21 20 19 18 18 17 1119 18 18 18 18 17 1420 19 19 19 17 15 1311 11 10 10 9 8 50.250.500.751.00OS
+Arm DArm CArm BArm ANo. at risk:0 6 12 18 24 30 36
+Time (months)Arm A
+Arm B
+Arm C
+Arm D
+FIG A2. Kaplan-Meier estimates of OS for 71 ineligible and step 2 treated patients. OS, overall survival.
+© 2021 by American Society of Clinical Oncology Volume 40, Issue 2Ferris et al
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ 134 126 118 115 108 90 63127 116 112 110 106 88 54120 114 112 109 106 85 5549 46 44 40 36 32 200.250.500.751.00PFS
+Arm DArm CArm BArm ANo. at risk:06 12 18 24 30 36
+Time (months)Arm A
+Arm B
+Arm CArm D
+FIG A3. Kaplan-Meier estimates of PFS for 430 step 2 treated patients (eligible and ineligible combined).
+PFS, progression-free survival.
+134 128 125 121 119 115 83127 123 122 121 117 113 85120 118 117 116 113 110 8049 48 45 45 42 38 280.250.500.751.00OS
+Arm DArm CArm BArm ANo. at risk:0 6 12 18 24 30 36
+Time (months)Arm A
+Arm B
+Arm C
+Arm D
+FIG A4. Kaplan-Meier estimates of OS for 430 step 2 treated patients (eligible and ineligible combined). OS,
+overall survival.
+Journal of Clinical OncologyTransoral Surgery and Reduced RT for HPV 1OPC
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ TABLE A1. Pathologic Risk Criteria for Treatment Arm Assignment
+Treatment Arm Pathologic Features
+Arm A Negative margins ( .3 mm), N0-N1, no ENE
+Arm B
+ORArm CClose margins ( ,3 mm), 2-4 1nodes;
+#1 mm ENE, PNI/LVI
+Arm D Positive margin, .1 mm ENE, $51nodes
+Abbreviations: ENE, extranodal extension; LVI, lymphovasular
+invasion; PNI, perineural invasion.
+TABLE A2. Reasons for Ineligibility
+Ineligibility Reasons No.
+Transoral resection (step 1)
+Prestudy scans and/or laboratory tests not done within 4
+weeks before registration27
+Patient had clinical T3 disease at baseline 4
+Unknown 4
+Patient had N2c stage at baseline 4
+Primary was nonmeasurable radiographically and/or clinically 3Patient had N0 stage at baseline 2Total bilirubin was not less than or equal to the upper limit of
+normal1
+Patient was not disease-free for protocol required interval 1
+Baseline pathology report not done 1
+Baseline creatinine clearance was ,60 mL/min 1
+Postoperative treatment (step 2)
+Registration to step 2 was .7 weeks after surgery 18
+Incorrect risk assignment 14Surgery was performed more than 4 weeks from registration to
+step 11
+NOTE. Eighty-one patients were ineligible; 71 of whom were treated
+with postoperative treatment and 10 who were not.
+© 2021 by American Society of Clinical Oncology Volume 40, Issue 2Ferris et al
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ TABLE A3. Baseline Characteristics of Ineligible or Step 2 Untreated Patients Who Received Transoral Resection (n 5136)
+Clinicopathologic FactorsRisk Groupa
+Overall (n 5136),
+No. (%)Low Risk (n 59),
+No. (%)Intermediate Risk (n 559),
+No. (%)High Risk (n 552),
+No. (%)Unknown (n 516),
+No. (%)
+Sex
+Male 8 (88.9) 54 (91.5) 51 (98.1) 13 (81.3) 126 (92.6)
+Female 1 (11.1) 5 (8.5) 1 (1.9) 3 (18.8) 10 (7.4)
+Age, years, median (range) 59 (42-66) 59 (45-77) 61 (36-77) 58 (53-71) 60 (36-77)
+Ethnicity
+Hispanic or Latino 1 (11.1) 2 (3.4) 0 0 3 (2.2)
+Not Hispanic or Latino 6 (66.7) 55 (93.2) 48 (92.3) 16 (100.0) 125 (91.9)Not reported or unknown 2 (22.2) 2 (3.4) 4 (7.7) 0 8 (5.9)
+Race
+Asian 0 1 (1.7) 0 0 1 (0.7)
+Black or African American 3 (33.3) 2 (3.4) 1 (1.9) 0 6 (4.4)White 6 (66.7) 55 (93.2) 47 (90.4) 16 (100.0) 124 (91.2)
+Not reported or unknown 0 1 (1.7) 4 (7.7) 0 5 (3.7)
+Primary disease site
+Tonsillar fossa, tonsil 5 (55.6) 37 (62.7) 30 (57.7) 5 (31.3) 77 (56.6)Base of tongue 4 (44.4) 19 (32.2) 21 (40.4) 11 (68.8) 55 (40.4)
+Glossopharyngeal sulcus 0 3 (5.1) 1 (1.9) 0 4 (2.9)
+Histologic grade
+Well differentiated 0 2 (3.4) 4 (7.7) 0 6 (4.4)
+Moderately differentiated 1 (11.1) 15 (25.4) 11 (21.2) 1 (6.3) 28 (20.6)
+Poorly differentiated 3 (33.3) 17 (28.8) 23 (44.2) 14 (87.5) 57 (41.9)Undifferentiated 2 (22.2) 7 (11.9) 6 (11.5) 0 15 (11.0)
+Cannot be assessed 2 (22.2) 17 (28.8) 8 (15.4) 1 (6.3) 28 (20.6)
+Missing 1 (11.1) 1 (1.7) 0 0 2 (1.5)
+cT stage
+T1 3 (33.3) 25 (42.4) 20 (38.5) 6 (37.5) 54 (39.7)
+T2 6 (66.7) 31 (52.5) 30 (57.7) 9 (56.3) 76 (55.9)
+T3 0 3 (5.1) 2 (3.8) 1 (6.3) 6 (4.4)
+cN stage
+N0 0 0 0 2 (12.5) 2 (1.5)
+N1 6 (66.7) 12 (20.3) 9 (17.3) 7 (43.8) 34 (25.0)N2 1 (11.1) 2 (3.4) 1 (1.9) 0 4 (2.9)N2a 2 (22.2) 15 (25.4) 8 (15.4) 2 (12.5) 27 (19.9)
+N2b 0 29 (49.2) 31 (59.6) 4 (25.0) 64 (47.1)
+N2c 0 1 (1.7) 3 (5.8) 1 (6.3) 5 (3.7)
+cM stage
+M0 9 (100.0) 59 (100.0) 52 (100.0) 16 (100.0) 136 (100.0)
+pT stage
+TX 0 1 (1.7) 0 0 1 (0.7)T1 5 (55.6) 29 (49.2) 17 (32.7) 5 (31.3) 56 (41.2)
+T2 4 (44.4) 24 (40.7) 32 (61.5) 7 (43.8) 67 (49.3)
+(continued on following page)
+Journal of Clinical OncologyTransoral Surgery and Reduced RT for HPV 1OPC
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ TABLE A3. Baseline Characteristics of Ineligible or Step 2 Untreated Patients Who Received Transoral Resection (n 5136) (continued)
+Clinicopathologic FactorsRisk Groupa
+Overall (n 5136),
+No. (%)Low Risk (n 59),
+No. (%)Intermediate Risk (n 559),
+No. (%)High Risk (n 552),
+No. (%)Unknown (n 516),
+No. (%)
+T3 0 4 (6.8) 3 (5.8) 3 (18.8) 10 (7.4)
+T4a 0 0 0 1 (6.3) 1 (0.7)Unevaluable 0 1 (1.7) 0 0 1 (0.7)
+pN stage
+NX 0 0 2 (3.8) 2 (12.5) 4 (2.9)N0 3 (33.3) 1 (1.7) 0 11 (68.8) 15 (11.0)
+N1 6 (66.7) 7 (11.9) 4 (7.7) 1 (6.3) 18 (13.2)
+N2 0 2 (3.4) 2 (3.8) 0 4 (2.9)N2a 0 20 (33.9) 8 (15.4) 0 28 (20.6)N2b 0 23 (39.0) 30 (57.7) 0 53 (39.0)
+N2c 0 1 (1.7) 3 (5.8) 1 (6.3) 5 (3.7)
+N3 0 5 (8.5) 3 (5.8) 1 (6.3) 9 (6.6)
+Positive margins
+No 9 (100.0) 59 (100.0) 44 (84.6) 16 (100.0) 128 (94.1)
+Yes 0 0 8 (15.4) 0 8 (5.9)
+ENE
+No 9 (100.0) 48 (81.4) 13 (25.0) 16 (100.0) 86 (63.2)
+Yes 0 11 (18.6) 39 (75.0) 0 50 (36.8)
+Bilateral node dissection
+No 9 (100.0) 57 (96.6) 47 (90.4) 15 (93.8) 128 (94.1)
+Yes 0 2 (3.4) 5 (9.6) 1 (6.3) 8 (5.9)
+Performance status
+0 8 (88.9) 55 (93.2) 48 (92.3) 15 (93.8) 126 (92.6)
+1 1 (11.1) 4 (6.8) 4 (7.7) 1 (6.3) 10 (7.4)
+Previous weight loss
+,5% of body weight 8 (88.9) 53 (89.8) 50 (96.2) 14 (87.5) 125 (91.9)
+5% to,10% of body weight 1 (11.1) 4 (6.8) 2 (3.8) 1 (6.3) 8 (5.9)
+10% to ,20% of body weight 0 1 (1.7) 0 0 1 (0.7)
+Missing 0 1 (1.7) 0 1 (6.3) 2 (1.5)
+Smoking history
+#10 pack-years 6 (66.7) 37 (62.7) 35 (67.3) 12 (75.0) 90 (66.2)
+.10 pack-years 3 (33.3) 19 (32.2) 17 (32.7) 3 (18.8) 42 (30.9)
+Unknown 0 3 (5.1) 0 1 (6.3) 4 (2.9)
+Abbreviation: ENE, extranodal extension.
+aRisk group is determined from postoperative pathologic parameters: low risk: T1-T2, N0-N1 and clear ( $3 mm) margins, and no ENE or PNI/LVI.
+Intermediate risk: any of the following features: one or more close ( ,3 mm) margin(s), or minimal ( #1 mm) ENE, or N2a (1 or more lymph node .3c mi n
+diameter), or N2b (two to four lymph nodes positive, any diameter #6 cm), or with perineural invasion or lymphovascular invasion. High risk: any of the
+following features: one or more positive margin(s) with any T stage, or extensive ( .1 mm) ENE, or $5 metastatic lymph nodes (regardless of primary tumor
+margin status).
+© 2021 by American Society of Clinical Oncology Volume 40, Issue 2Ferris et al
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ TABLE A5. Treatment-Related Toxicity (step 1)
+Toxicity TypeTreatment Arm S
+(n5495)
+Grade
+34 5
+%%%
+Anemia ,1 ——
+Hemolysis ,1 ——
+Dysphagia 6 ——
+Esophageal pain ,1 ——
+GI disorders —other, specify ,1 ——
+Mucositis oral ,1 ——
+Nausea 1 ——
+Oral hemorrhage 3 ,1,1
+Oral pain 1 ——
+Vomiting ,1 ——
+Pain 1 ——
+Neck edema ,1 ——
+Wound infection ,1 ——
+Postoperative hemorrhage 1 ——
+Intraoperative arterial injury ,1 ——
+Anorexia ,1 ——
+Dehydration ,1 ——
+Hyperglycemia ,1 ——
+Hypokalemia ,1 ——
+Hyponatremia ,1 ——
+Hypophosphatemia ,1 ——
+Neck pain ,1 ——
+Trismus ,1 ——
+Head soft tissue necrosis ,1 ——
+Dysphasia ,1 ——
+Nervous system disorders —other, specify ,1 ——
+Aspiration —,1 —
+Epistaxis ,1 ——
+Hypoxia —,1 —
+Laryngeal edema ,1 ——
+Pharyngeal ﬁstula ,1 ——
+Pharyngolaryngeal pain ,1 ——
+Respiratory failure — 1 —
+Sore throat 1 ——
+Pharyngeal hemorrhage 1 ,1 —
+Laryngeal in ﬂammation ,1 ——
+Surgical and medical procedures —other, specify 1 ——
+Hematoma 1 ,1 —
+Hypertension ,1 ——
+Thromboembolic event ,1 ——
+Vascular disorders —other, specify ,1 ——
+Worst degree 15 2 ,1TABLE A4. Radiation Dose to Primary Site, Arms B and C (evaluable)
+Radiation DoseArm B
+(n5100)Arm C
+(n5108)
+Received RT to primary site 99 (99.0) 105 (97.2)
+Total dose to primary (Gy),
+median range50 (0.5-60) 60 (0.1-60)
+Total dose to primary (Gy)
+0 1 (1.0) 3 (2.8)
+0.1 to,1.0 25 (25.0) 18 (16.7)
+1.0 to,50 2 (2.0) 4 (3.7)
+50 70 (70.0) 25 (23.1).50 to,60 1 (1.0) 1 (0.9)
+60 1(1.0) 57 (52.8)
+Abbreviation: RT, radiation therapy.
+Journal of Clinical OncologyTransoral Surgery and Reduced RT for HPV 1OPC
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ TABLE A6. Treatment-Related Toxicity (step 2)
+Toxicity TypeTreatment Arm
+A( n549) B (n 5120) C (n 5127) D (n 5134)
+Grade Grade Grade Grade
+34534534534 5
+%%%%%%%%%%%%
+Anemia ————————— 4 ——
+Blood and lymphatic system
+disorders —other, specify————————— 1 ——
+Febrile neutropenia ————————— 41 —
+Tinnitus ————————— 1 ——
+Constipation ——— 1 —————— ——
+Diarrhea ————————— 1 ——
+Dry mouth —————— 2 —— 2 ——
+Dysphagia ——— 31 — 5 —— 16 ——
+Esophagitis ————————— 2 ——
+GI disorders —other, specify ——— 1 —— 1 —————
+Mucositis oral ——— 5 —— 11 —— 19 1 —
+Nausea —————— 2 —— 7 ——
+Oral hemorrhage ————————— 1 ——
+Oral pain ——— 1 —— 2 —— 1 ——
+Vomiting —————— 1 —— 1 ——
+Fatigue —————— 1 —— 2 ——
+Fever ————————— 1 ——
+General disorders and administration site
+conditions —other, specify————————— 1 ——
+Pain —————— 1 —— 1 ——
+Sepsis ——————————— 1
+Skin infection ————————— 1 ——
+Upper respiratory infection ————————— 1 ——
+Lung infection ————————— 11 —
+Dermatitis radiation ——— 3 —— 6 —— 7 ——
+Investigations —other, specify —————— 1 —————
+Lymphocyte count decreased ——— 1 —— 2 —— 13 5 —
+Neutrophil count decreased ————————— 10 7 —
+Platelet count decreased ————————— 11 —
+Weight loss ——— 1 —— 2 —— 7 ——
+White blood cell decreased ————————— 13 3 —
+Anorexia ———— 2 — 2 —— 6 ——
+Dehydration ——— 1 ————— 2 ——
+Hyperglycemia ————————— 1 ——
+Hyperkalemia ————————— 1 ——
+Hypoalbuminemia ————————— 1 ——
+Hypocalcemia —————————— 1 —
+Hypokalemia —————————— 1 —
+(continued on following page)
+© 2021 by American Society of Clinical Oncology Volume 40, Issue 2Ferris et al
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ TABLE A8. FACT-HN Total Scores by Arm
+Mean Scores Arm A 95% CI No. Arm B 95% CI No. Arm C 95% CI No. Arm D 95% CI No.
+Baseline 128.5 124.0 to 133.0 35 127.61 124.3 to 131.0 91 122.3 118.9 to 125.7 100 125.5 122.4 to 128.5 104
+Surgery 113.7 107.2 to 120.2 32 112.40 107.8 to 117.0 82 107.5 103.5 to 111.5 87 109.6 105.8 to 113.4 93End of treatment/observation 128.4 122.7 to 134.0 22 104.90 100.6 to 109.3 76 95.7 91.1 to 100.4 83 87.7 83.7 to 91.7 93
+3 Months after treatment 129.1 123.4 to 134.8 27 115.94 111.3 to 120.6 85 107.3 102.4 to 112.1 82 108.1 103.7 to 112.5 86
+6 Months after treatment 128.5 122.1 to 134.9 21 121.02 116.5 to 125.5 75 117.8 113.8 to 121.7 80 114.6 109.3 to 119.9 771 Year after treatment 132.1 126.0 to 138.2 14 122.08 117.4 to 126.8 72 122.4 118.6 to 126.2 65 120.1 115.9 to 124.3 722 Years after treatment 134.4 127.7 to 141.0 12 126.52 121.7 to 131.3 42 124.2 119.3 to 129.2 60 122.5 116.8 to 128.1 53
+Abbreviation: FACT-HN, functional assessment of cancer therapy-head and neck.TABLE A7. MDADI Composite Scores by Arm
+Mean Scores Arm A 95% CI No. Arm B 95% CI No. Arm C 95% CI No. Arm D 95% CI No.
+Baseline 89.1 84.7 to 93.5 35 90.2 87.8 to 92.5 91 87.4 84.6 to 90.1 99 88.2 85.4 to 91.0 102
+Surgery 75.5 66.0 to 85.0 31 76.3 72.4 to 80.1 83 69.6 65.1 to 74.1 88 73.3 68.2 to 78.4 94
+1 Year after treatment 94.7 73.7 to 100 11 79.1 75.4 to 82.8 71 78.8 75.6 to 82.0 64 73.3 69.3 to 77.3 70
+2 Years after treatment 92.8 87.1 to 98.5 11 82.3 78.0 to 86.6 42 80.7 77.0 to 84.4 60 75.6 71.2 to 80.0 54
+Abbreviation: MDADI, MD Anderson Dysphagia Index.TABLE A6. Treatment-Related Toxicity (step 2) (continued)
+Toxicity TypeTreatment Arm
+A( n549) B (n 5120) C (n 5127) D (n 5134)
+Grade Grade Grade Grade
+34534534534 5
+%%%%%%%%%%%%
+Hypomagnesemia ————————— 1 ——
+Hyponatremia —————— 1 —— 1 ——
+Neuralgia ——— 1 ————————
+Syncope ————————— 2 ——
+Acute kidney injury ————————— 1 ——
+Aspiration —————— 1 —————
+Pleural effusion ————————— 1 ——
+Respiratory failure —————————— 1 —
+Respiratory, thoracic, and medi
+astinal disorders —other, specify—————————— 1 —
+Sore throat ——— 1 —— 2 —— 4 ——
+Laryngeal mucositis ————————— 1 ——
+Pharyngeal mucositis ————————— 1 ——
+Hypertension ————————— 1 ——
+Hypotension ————————— 1 ——
+Worst degree ——— 13 2 — 24 —— 49 11 1
+Journal of Clinical OncologyTransoral Surgery and Reduced RT for HPV 1OPC
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved. 
+ TABLE A9. Participating or Accruing Centers
+Site City State
+AdventHealth Orlando Orlando FL
+Boston Medical Center Boston MACase Western Reserve University Cleveland OH
+City of Hope Comprehensive Cancer Center Duarte CA
+Cleveland Clinic Foundation Cleveland OHDana-Farber/Harvard Cancer Center Boston MA
+Dartmouth-Hitchcock Medical Center/
+Norris Cotton Cancer CenterLebanon NH
+Duke University Medical Center Durham NC
+Emory University Hospital Midtown Atlanta GAEmory University Hospital/Winship Cancer
+InstituteAtlanta GA
+Fox Chase Cancer Center Philadelphia PA
+Greater Baltimore Medical Center Baltimore MD
+Henry Ford Hospital Detroit MIInova Fairfax Hospital Falls Church VAJohns Hopkins University/Sidney Kimmel
+Cancer CenterBaltimore MD
+Kaiser Permanente Medical Center —Santa
+ClaraSanta Clara CA
+Kaiser Permanente Oakland-Broadway Oakland CA
+Lenox Hill Hospital New York NY
+Long Island Jewish Medical Center Queens NYMD Anderson Cancer Center Houston TX
+Massachusetts General Hospital Cancer
+CenterBoston MA
+Mayo Clinic in Arizona Scottsdale AZ
+Medical College of Wisconsin Milwaukee WIMedical University of South Carolina Charleston SCMemorial Sloan Kettering Basking Ridge Basking Ridge NJ
+Memorial Sloan Kettering Cancer Center New York NY
+Memorial Sloan Kettering Westchester West Harrison NYMercy Hospital Spring ﬁeld Spring ﬁeld MO
+Monte ﬁore Medical Center-Einstein Campus Bronx NY
+Nebraska Methodist Hospital Omaha NENorthShore University HealthSystem-
+Evanston HospitalEvanston IL
+Ohio State University Comprehensive
+Cancer CenterColumbus OH
+Oregon Health and Science University Portland OR
+Porter Adventist Hospital Denver CO
+Providence Portland Medical Center Portland ORQueen ’s Medical Center Honolulu HI
+Rohnert Park Cancer Center Rohnert Park CA
+Sentara Norfolk General Hospital Norfolk VA
+Stanford Cancer Institute Palo Alto Palo Alto CA
+(continued in next column)TABLE A9. Participating or Accruing Centers (continued)
+Site City State
+State University of New York Upstate
+Medical UniversitySyracuse NY
+Thomas Jefferson University Hospital Philadelphia PA
+UC San Diego Moores Cancer Center La Jolla CAUCLA/Jonsson Comprehensive Cancer
+CenterLos Angeles CA
+UM Sylvester Comprehensive Cancer Center
+at Deer ﬁeld BeachDeer ﬁeld
+BeachFL
+UPMC Pinnacle Cancer Center/Community
+Osteopathic CampusHarrisburg PA
+UT Southwestern/Simmons Cancer Center-
+DallasDallas TX
+University of Alabama at Birmingham
+Cancer CenterBirmingham AL
+University of Arkansas for Medical Sciences Little Rock AR
+University of Iowa/Holden Comprehensive
+Cancer CenterIowa City IA
+University of Kentucky/Markey Cancer
+CenterLexington KY
+University of Miami Miller School of
+Medicine-Sylvester Cancer CenterMiami FL
+University of Nebraska Medical Center Omaha NE
+University of New Mexico Cancer Center Albuquerque NMUniversity of Pennsylvania/Abramson
+Cancer CenterPhiladelphia PA
+University of Pittsburgh Cancer Institute
+(UPCI)Pittsburgh PA
+University of Washington Medical Center Seattle WA
+University of Wisconsin Hospital and Clinics Madison WI
+Vanderbilt University/Ingram Cancer Center Nashville TNWashington University School of Medicine Saint Louis MOYale University New Haven CT
+Zablocki Veterans Administration Medical
+CenterMilwaukee WI
+© 2021 by American Society of Clinical Oncology Volume 40, Issue 2Ferris et al
+Downloaded from ascopubs.org by on October 27, 2024 from 076.132.225.079
+Copyright © 2024 American Society of Clinical Oncology. All rights reserved.

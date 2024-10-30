@@ -1,0 +1,827 @@
+299ACTA o TorhinolAryngologiCA iTAliCA 2014;34:299-309
+Review
+HPV in oropharyngeal cancer:  
+the basics to know in clinical practice
+HPV nel carcinoma dell’orofaringe: le nozioni base da conoscere nella pratica 
+clinica
+S. ElrEfaEy1 2, M.a. MaSSaro1, S. ChioCCa3, f. ChiESa1, M. anSarin1
+1 Division of otolaryngology head and neck Surgery, European institute of oncology, Milano, italy; 2 Department of 
+otolaryngology, head and neck Surgery, alexandria University, alexandria, Egypt; 3 Department of Experimental 
+oncology, ifoM-iEo Campus, European institute of oncology, Milano, italy
+Summary
+The incidence of oropharyngeal squamous cell carcinoma (OPSCC) is rising in contrast to the decreasing incidence of carcinomas in other 
+subsites of the head and neck, in spite of the reduced prevalence of smoking. Human papilloma virus (HPV) infection, and in particular 
+type 16 (HPV-16), is now recognized as a significant player in the onset of HPV positive OPSCC, with different epidemiological, clinical, 
+anatomical, radiological, behavioural, biological and prognostic characteristics from HPV negative OPSCC. Indeed, the only subsite in 
+the head and neck with a demonstrated aetiological viral link is, at present, the oropharynx. These observations lead to questions regarding 
+management choices for patients based on tumour HPV status with important consequences on treatment, and on the role of vaccines and targeted therapy over the upcoming years.
+Key w OrdS: Human Papillomavirus • Head and Neck cancer • Oropharyngeal cancer • Squamous Cell Carcinoma • Prognosis • 
+Treatment • Prevention • Vaccination • Clinical Trial
+RiaSSuNTO
+L’incidenza del carcinoma spinocellulare dell’orofaringe (OPSCC) è in aumento in contrasto con la diminuzione dell’incidenza di carci-
+nomi in altre sedi del distretto cervico-facciale, nonostante la ridotta prevalenza del fumo. L’infezione da Papilloma Virus Umano (HPV), 
+in particolare di tipo 16 (HPV 16), è ora riconosciuto come un importante fattore nell’insorgenza di HPV OPSCC positivo, con diverse 
+caratteristiche radiologiche, epidemiologiche, cliniche, anatomiche, biologiche e prognostiche rispetto all’HPV OPSCC negativo. In effetti l’unica sede del distretto cervico-facciale con un collegamento virale eziologico dimostrato è, attualmente, l’orofaringe. Queste osserva-
+zioni portano a domande riguardanti le scelte di gestione per i pazienti in base allo stato del tumore HPV con importanti conseguenze sul 
+trattamento e sul ruolo dei vaccini e terapia mirata per i prossimi anni.
+ParOle CHIa Ve: Papilloma Virus Umano • Tumori del distretto cervico-facciale • Tumori dell’orofaringe • Carcinoma spinocellulare • 
+Prognosi • Trattamento • Prevenzione • Vaccinazione • Studi clinici
+Acta Otorhinolaryngol Ital 2014;34:299-309
+Introduction
+head and neck cancer, which includes tumours that arise 
+from the oral cavity, oropharynx, larynx, hypopharynx 
+and sinonasal tract, represents a serious health care prob-
+lem in many parts of the world, and ranks as the sixth most 
+common cancer worldwide 1. These tumours are linked by 
+common characteristics including a male predominant ap-pearance in the 5-6th decade of life, a strong aetiological 
+link with prior tobacco, alcohol use or betel nut chew-
+ing
+ 2, and a histopathological resemblance 3. About 90% 
+of head and neck cancers are squamous cell carcinomas (hnSCC).The estimated annual burden of hnSCC is approximately 650,555 incident cases and approximately 300,000 result-
+ant deaths
+ 4 5. it is considered the sixth leading cause of 
+cancer mortality and oropharyngeal squamous cell carci-
+noma (oPSCC) accounts for approximately 50,000 inci-
+dent cases, which is low in comparison with other head 
+and neck squamous cell carcinoma (hnSCC) 5 6.
+Multiple studies have demonstrated that the incidence of hnSCC has remained stable or even declined in the late 
+1980s, due to the gradual decrease in smoking and alco-
+hol which are the primary risk factors for these cancers
+ 2. 
+Despite this, the incidence of oropharyngeal squamous cell carcinoma with different characteristics, particularly  S. Elrefaey et al.300in the base of the tongue and tonsil subsites, has increased 
+by 2-3% annually during 1973-2001, and then by 5.22% 
+annually from 2000 to 2004 in the USA 7. Similar trends 
+have been noted in other countries. in particular, one study 
+suggests that the annual number of hPV-associated oro-pharyngeal cancers in the United States will overtake the incidence of invasive cervical cancer cases in the United 
+States by 2020
+ 8. There is also a discrepancy in incidence 
+of oPSCC between developed and developing countries 
+of oropharyngeal cancer 9.
+The developing world has a relatively low proportion of oPSCC (1-10% of hnSCCs), which appears to remain 
+stable (or even to decrease) over time, while the incidence 
+of hnSCC has steadily increased in most countries
+ 4 10.
+The developed world features a relatively high and vari-able proportion of oPSCCs (15-30% of hnSCC). For ex-
+ample, a central belt of European countries has the highest 
+oPSCC proportions in the developed world (up to 30% 
+of hnSCCs) with the remainder of Europe being charac-
+terised by slightly lower oPSCC proportions, while the overall hnSCCs incidence has remained stable or has even shown a declining trend over the same period
+ 4 11 12. 
+These demographic data prompted researchers to search for further risk factors contributing to the incidence of 
+oPSCC.
+The impact of HPV as a risk factor  
+for OPSCC
+Most studies have demonstrated that features tobacco and 
+alcohol consumption are major, common risk factors for hnSCC, but over the last 10-15 years hPV infection has 
+been increasingly recognised as a major aetiological fac-tor for a subset of hnSCCs
+ 7-10, including mostly oPSCC. 
+hPV infection in the aetiology of oPSCC was first shown by gillison et al.
+ 13; numerous case series studies conduct-
+ed in the late 1990s and 2000s evaluated the prevalence 
+hPV infection in oropharyngeal cancer using molecular 
+techniques such as PCr and in situ hybridisation 8 14 15. in-
+deed, over the last five years it has become increasingly clear that hPV plays a pathogenic role in this subset of 
+head and neck cancers, with distinct epidemiologic, clini-
+cal and molecular characteristics. These findings have created new opportunities for improved therapy and pri-mary prevention for these hnSCCs
+ 16.
+At present, it should be clear that the only subsite in the head and neck with a demonstrated role for hPV infection 
+in the aetiology of cancer is the oropharynx, as noted in 
+the most important report by gillison et  al.
+  13 and con-
+firmed by Stransky et al. in 2011 13 17.
+From a biological point of view, hPV is a Dn A onco-
+virus and is epitheliotropic. There are over 120 differ -
+ent hPV subtypes, including the low-risk types such as hPV 6 and hPV 11, responsible for benign proliferation of epithelium, and the high-risk oncogenic types hPV 16 and hPV 18 which are both well-established initiators of 
+over 90% of cervical cancers, 70% of anogenital cancers, 
+5% of non-oropharyngeal SCC
+  17 and 20-72% of oP-
+SCC 2 4 12 17. The oncogenic nature of high risk hPVs is 
+due to the immortalising and transforming properties of 
+hPV oncoproteins E6 and E7, which target the p53 and prB tumour suppressor pathways, respectively, rendering infected cells susceptible to mutations and cancer forma-tion
+ 18 19. Since the majority of hPV-hnSCCs are oPSCC, 
+we will mainly discuss oPSCC.
+Classification of oropharyngeal cancer 
+according to HPV
+According to the national Comprehensive Cancer net-
+work (nCCn) 20 guidelines, ‘hPV testing is recommend-
+ed for all oropharyngeal tumours’. in addition, according 
+to the US national Cancer institute (nCi) 21 and Cancer 
+Therapy Evaluation Programme (CTEP)  22, hPV status 
+must be included as a stratification factor for trials includ-
+ing oropharynx cancer patients. Much evidence suggests 
+that hPV-positive and hPV-negative oPSCCs represent distinct subgroups of oPSCC, each with unique epide-
+miological and biological profiles
+ 4 5 17 21 23-27.
+Differences between HPV positive  
+and HPV negative OPSCCs
+Epidemiological factors
+hPV-positive patients tend to be younger with a median 
+age of diagnosis of 54 years, less exposure to tobacco 
+and alcohol  28-30, and higher socioeconomic status and 
+education  31. hPV positivity is less frequent in blacks 
+than in Caucasians (4% of hnSCC in blacks vs. 34% in 
+whites) 32, with a three fold higher incidence in males than 
+females 28 33 34.
+As in cervical cancer, oral hPV infection appears to be a sexually-acquired disease. Although the natural history 
+of oral hPV infection is not well defined, D’Souza and 
+colleagues recently showed in a case-control study that a 
+high (≥ 26) number of lifetime vaginal-sex partners and 
+6 or more lifetime oral-sex partners were associated with an increased risk of oPSCC [odd ratio (or) 3.1 and 3.4, 
+respectively]
+ 35. An increased risk of hPV-associated oP-
+SCC in female patients with a history of hPV-associated anogenital cancers and their male partners is also con-
+sistent with hPV transmission to the oropharyngeal cav-ity
+ 36 37. The recent increased incidence of this disease may 
+thus reflect societal changes in sexual behaviour that have occurred over time in the developed world
+ 38 39.
+An important point to mention is that there is no clear case-control study addressing the evidence for hPV prior 
+to development of oPSCC (i.e. temporal association), 
+with the exception of a Scandinavian study by Mork et al.  HPV in oropharyngeal cancer301which showed that the presence of hPV 16 l1 antibod-
+ies in pre-diagnostic serum samples was associated with a 14.4-fold increased risk of oropharyngeal cancer. impor -
+tantly, the presence of hPV 16 antibodies preceded oro-pharyngeal cancers by more than 10 years, underscoring a temporal association. These data confirmed that oral hPV infection increases the risk of developing oPSSC
+ 40.
+lastly, it is possible that in addition hPV infection, other risk factors or cofactors such as genetic susceptibility or nutritional factors or tobacco and alcohol interaction have an important role in cancer onset. There is an objective need for more analytic epidemiological studies in males and females diagnosed with hPV positive oropharyngeal cancer younger than 50 years of age
+ 40.
+Anatomical sitesSeveral studies have noted an increased incidence of hPV-associated oropharyngeal cancers, especially tonsil-lar and tongue cancer. For example, in the USA they have risen by 3.9% and 2.1% among men and women, respec-tively, in the age group from 20 to 44 years, between 1973 and 2004
+ 2 41. Similar patterns have been noted in Sweden 
+for tonsillar cancer which rose 2.9-fold between 1970 and 2001, increasing by 2.6% per year in men and 1.1% in women
+ 11 42.
+The preference of hPV for the oropharynx is unexplained, but may be related to the unique presence of transitional mucosa in the oropharynx, predominantly found in the tonsillar tissue and which shows histological similarities to the cervical mucosa
+ 2 11. Another possibility lies within 
+the genetic features of hPV 16, which accounts for more 
+than 90-95% of all hPV associated oropharyngeal can-cers, as it may facilitate survival in the tonsillar crypt epithelium
+ 43 44. it is also possible that the invagination of 
+the mucosal surface of the tonsil may favour virus capture and maintenance by promoting its access to basal cells (the only dividing cells in the epithelium)
+ 45. if this is true, 
+tonsillar tissue could be a reservoir for hPV in the upper aerodigestive tract. This view is partly supported by the fact that when oral samples are collected by oral rinse, the detection rate of hPV is much higher than with swabs. Finally, the persistence of hPV in tonsillar tissue might be of importance in the immune response to hPV
+ 46.
+Biological profilesrecent global genomic screening studies searching for a biological distinction among hPV-positive and negative oPSCC have shown that hPV-induced carcinogenesis has a clear impact on the acquisition and maintenance of spe-cific chromosomal gains and losses within tumour cells, in which oPSCCs with transcriptionally active hPV-DnA are characterised by occasional chromosomal loss/
+allelic imbalance
+ 47. Conversely, those lacking hPV-Dn A 
+are characterised by gross deletions that involve entire or large parts of chromosomal arms
+ 32 48.Furthermore, ploidy studies have confirmed that hPV-
+positive tonsillar cancers feature a lower number of chro-mosomal alterations compared to their hPV-negative 
+counterparts
+ 49 50.
+The biology of hPV-positive oropharyngeal cancer is typified by p53 degradation, retinoblastoma protein (rB) 
+down-regulation and p16 up-regulation. By contrast, to-bacco-related oropharyngeal cancer is characterised by p53 mutations, down-regulation of p16 and rB up-reg-
+ulation
+ 45.
+interestingly, recent studies observed an inverse correla-tion between the presence of hPV and p53 mutations
+ 17.
+Clinical stage at presentation
+Multiple studies have shown that hPV-positive tumours are more likely to present with early T stage (T1-T2)
+ 51 
+and higher n stage (usually cystic and multilevel) 52, and 
+have distinct histological features, such as moderate/poor tumour differentiation and non-keratinising or basaloid pathology
+ 14 19 51. The incidence of distant metastases was 
+seen to be lower in patients with hPV positive tumours. 
+Furthermore, metastases developed later and with a very 
+different pattern from patients with hPV-negative tu-mours. hPV-positive oropharyngeal cancer had a 28% re-
+duction in the risk of death and a 49% reduction in the risk 
+of disease recurrence
+ 53. Secondary primary tumour (SPT) 
+in patients with hPV-positive cancer is very rare, and has 
+improved better survival rate compared to patients with 
+hPV negative tumours 45.
+Radiological imaging
+recent studies have shown radiological difference be-
+tween hPV-positive and hPV-negative oropharyngeal 
+cancer. Specifically, hPV-positive carcinomas often had 
+small or even occult primary lesions with well-defined 
+borders and cystic nodal metastases, whereas hPV-nega-tive primaries more often had poorly defined borders and 
+invasion of adjacent muscle
+ 52 54.
+PrognosisSeveral studies have shown that patients with hPV-pos-
+itive oropharyngeal cancer, identified through PCr, in situ hybridisation or p16 immunohistochemistry on tu-mour tissues, have a significantly improved overall and 
+disease-free survival compared to patients with hPV-
+negative oropharyngeal cancer patients
+ 29 53 55-61 (Table  i). 
+This holds true even after adjustment for differences in favourable prognostic factors associated with hPV posi-tive patients (younger age, better performance status, fewer comorbidities, less smoking). Ang et al. reported 
+that these prognostic factors explained only 10% of the 
+observed survival differences between two subgroups
+ 29. 
+however, other studies reported that survival rates im-proved among non-smoker hPV positive patients com- S. Elrefaey et al.302pared to smokers patients even in recurrent tumours, 
+underscoring once again the benefits acquired from 
+smoking cessation 62 63.
+Why does hPV positive orophrangeal cancer have a bet-
+ter prognosis?
+1. hPV-positive tumours may harbour fewer or different 
+genetic alterations, which can be associated with better response to therapy
+ 17 64.
+2. hPV-positive tumours have higher radiosensitivity, 
+probably due to intact apoptotic response to radia-
+tion 58 65.
+3. The absence of field cancerisation in hPV-positive tu-
+mours 53.
+4. immunologic response may be play a role in the im-
+proved response to radio- and chemotherapy in hPV-positive tumours (due to the stimulation of immune 
+response directed to viral specific tumour antigens
+ 66.
+5. younger age, good performance status, fewer comor -
+bidities of hPV-positive oropharyngeal cancer patients 
+may also contribute to improved survival 67.
+The impact of HPV on clinical management
+The standard treatment for oPSCCs at present is mainly 
+dependent on the stage of the disease and patient and cli-
+nician preferences. Single-modality treatment, in the form 
+of surgery or radiotherapy, is usually recommended for 
+early (T1-T2, n0) disease. For advanced stage disease, 
+standard treatments include chemoradiotherapy with or 
+without neck dissection, or surgical resection with re-
+construction and postoperative chemoradiotherapy, as required. These current standard methods of treatment 
+appear to apply to both hPV positive and negative sub-
+groups
+ 68 69.
+1) Non-surgical treatment options for OPSCCsThe emergence of hPV-oPSCCs in younger patients 
+with better prognosis and survival rates in comparison to 
+non-hPV oPSCCs have prompted clinicians to address changes in the non-surgical management according to 
+hPV status
+ 2.
+Multiple studies  29  58-61  68-70 tackling this issue have con-
+cluded that (Tables i, ii):
+1. overall survival rates increase with hPV positive sta-
+tus, low EgFr and high p16 72.2. Patients with hPV negative disease have a poorer 
+prognosis, and therefore usually require more intensive 
+treatment. Studies (TAX 324 61, Trog 02.02 59) have 
+suggested that for patients with hPV Dn A-negative 
+tumours, treatment intensification improves outcomes compared to standard treatment, but overall outcome is still poor.
+3. Smoking cessation and strategies to target EgFr and Bcl-xl
+ 70 are important adjuncts in the treatment of oro-
+pharyngeal cancer.
+4. Achievement of acceptable cure rates with minimal long-term morbidity with hPV positive oropharyngeal 
+cancer is possible.
+All these data suggest that hPV status can be used in the 
+clinical decision-making processes to select patients for 
+less aggressive non-surgical treatment. Thus, assessing 
+hPV presence is of utmost importance. This is especially 
+true considering long-term outcomes of hPV-positive younger patients, since they are at risk of a lifetime com-
+promised quality of life as a result of chronic toxicities due 
+to chemoradiotherapy. p16 immunohistochemistry (ihC) 
+is a current marker to detect hPV presence. however, it 
+can be associated with a high rate of false positive/false 
+negative responses, prompting the need for new surrogate 
+markers for oral hPV infection. These concerns were also 
+reported by rietbergen et al.
+ 71 and Bussu et al. 72. Thus, in 
+clinical practice it is not recommended to rely on p16 ihC 
+alone to screen for hPV positivity.
+Currently, there are on-going oncological trials that at-
+tempt to answer some questions regarding deintensifica-
+tion of treatment (Table iii):
+1. Can we use neoadjuvant chemotherapy followed by re-
+duced radiotherapy dose in hPV positive patients?
+2. What is the intensity of adjuvant therapy required in p16-positive oropharynx cancer patients?
+3. Can cetuximab provide selective radiosensitisation 
+compared with cisplatin?
+4. Should the volume treated be reduced by not adminis-
+tering prophylactic radiotherapy to areas at risk of mi-
+croscopic disease?
+5. is it possible to reduce the dose of radiation therapy 
+when given with standard doses of chemotherapy?
+6. What is the exact role of immune activation in hPV 
+positive patients?Table I. Selected studies reporting the association of HPV infection with oropharyngeal cancer prognosis.
+Study Author, year # of cases HPV detection Follow-up OS positive vs. negative tumours
+ECOG 58 2399 Fakhry, 2008 96 HPV 16 DNA ISH 2 2-yr survival (95% vs. 62%)
+RTOG 29 0129 Ang, 2010 323 HPV 16 DNA ISH 4.8 3-yr survival (82.4%, vs. 57.1%)
+TROG 59 02.02 Rischin, 2010 185 p16 IHC 5 2-yr survival (91% vs. 74%)
+DHANCA 60 6,7 Lassen, 2011 794 p16 IHC 5 (62% vs. 47%)c, (52% vs. 48%)*
+TAX 61) 324 Posner, 2011 111 HPV 16 DNA PCR 5 5 yr survival (82%-35%)
+ISH: in situ hybridisation; IHC: immunohistochemistry; PCR: polymerase chain reaction; OS: overall survival; * accelerated radiotherapy; c conventional radiotherapy. HPV in oropharyngeal cancer3032) Surgical treatment options for OPSCCs
+All treatment modalities for oPSCC have similar on-
+cological outcomes  73, but functional outcomes have significant and critical considerations when managing younger hPV positive patients with an longer expected 
+lifetime. While nonsurgical deintensification trials are Table II. Retrospective analyses of HPV status and/or p16 immunohistochemical staining status as a surrogate biomarker of HPV infection and survival 
+outcome in Phase III outcome.
+Study Treatment Regiment Total
+N  
+(n included)Progression-Free 
+SurvivalOverall Survival Conclusion
+RTOG 0129Ang et al.
+2010
+ 29Standard-fractionated 
+radiation + cisplatin 
+vs. hyperfractionated 
+radiation + cisplatin743 (323) HPV+/p16 HPV-/p16
+3-yr 73.7% 3 yr 43%
+3-yr 74.4% 3 yr 38% HPV+/p16HPV-/p16
+3-yr 82.4% 3 yr 57.1%
+3-yr 83.6% 3-yr 51.3% No survival differences seen between the 2 
+treatment arms.
+Secondary analysis confirmed significantly 
+improved survival in patients with HPV-
+positive tumours vs. HPV-negative disease.
+DAHANCA 5Lassen et al.
+2009 70 71Radiation
+Radiation+nimorazole195 (156)
+219 (175)5-yr p16+ (70%)
+5-yr p16- (40%)5-yr p16+ (62%)
+5-yr p16- (26%)Improved loco-regional control when 
+nimorazole was added to radiotherapy 
+was restricted to p16-negative patients. 
+Improved survival in p16-positive patients 
+treated with radiotherapy alone.
+DAHANCA 6&7
+Lassen et al.
+2011 605 Fractions w/radiation
+6 Fractions w/radiation726 (385)750 (409)5-yr p16+ (78%)
+5-yr p16- (64%)5-yr p16+ (62%)
+5-yr p16 -(47%)Accelerated radiotherapy significantly 
+improves outcome in HNSCC compared to 
+conventional fractionation. The observed 
+benefit was independent of tumour p16 
+status, and the use of a moderately 
+accelerated radiotherapy regimen seemed 
+advantageous for
+HPV/p16 positive HNSCC.
+TROG 02.02
+Rischin et al.2010
+ 59Radiation+cisplatin vs.
+radiation+cisplatin+tira
+pazamine861 (185) 2-yr p16+ (87%)
+2-yr p16- (72%)2-yr p16+ (91%)
+2-yr p16- (74%)While there was no difference in the 
+p16-positive group, there was a trend 
+for improved loco-regional control with 
+tirapazamine in p16 negative patients. 
+The study clearly demonstrated that HPV 
+associated oropharyngeal cancer treated 
+with a standard regimen of concurrent 
+cisplatin and radiation has a better outcome 
+compared with HPV-negative OPSCC.
+Table III. On-going clinical trials (ClinicalTrials.gov).
+Study ID NCI Trial 
+IDTrial 
+TypeTotal  
+(N)Treatment arm Primary
+Endpoint
+E1308 NCT01084083 Phase II 160 Sequential therapy: cisplatin/paclitaxel/cetuximab
+Complete response: IM RT (27 fractions)
+Non complete response: IM RT (33 fractions) 1cetuximab2-yr PFS
+J0988 NCT01088802 Phase I/II 60 IMRT (lower dose) + cisplatin Toxicity/LRC
+National Cancer Institute (NCI)NCT01585428 Phase II -
+Fluderabine/cyclophosphamide/ Young TIL
+/AldesleukinTumour response /
+duration
+RTOG 1016 NCT01302834 Phase III 706 IMRT hyperfractionation+cisplatin vs.
+IMRT hyperfractionation +cetuximab5-yr OS
+University of Michigan Cancer CenterNCT01663259 - -
+Standard dose radiotherapy+cetuximab for stage III/IV 
+OPSCCRate of recurrence
+ECOG1308 NCT01084083 Phase II 83 Induction chemotherapy followed by cetuximab With
+low dose vs. standard dose IMRT2-yr PFS
+Mount Sinai School of MedicineNCT01358097 Observational - Biomarkers of immune function as predictors of HNSCC in 
+response to therapy-
+OS: overall survival, LRC: loco-regional control; DFS: disease-free survival; IMRT: intensity modulated radiation therapy; PFS: progression-free survival; TIL: tumour infiltrating 
+lymphocytes. S. Elrefaey et al.304showing great promise 29 58-61 70-72, minimally-invasive ap-
+proaches, especially transoral robotic surgery (T orS), 
+have gained more favour by achieving the satisfactory 
+oncological outcomes without compromising functional 
+outcome 73 74. indeed, three-dimensional visualisation al-
+lows the ability to manipulate 75 and perform reconstruc-
+tion of the oropharynx without the need for mandibulot-omy and/or pharyngotomy, thus reducing the morbidity of extensive surgery
+ 76. it also facilitates safer exposure 
+and resection of the primary tumour, thereby providing complete pathologic evaluation and impacting the use 
+of clinically-established adjuvant therapies
+ 77. These in-
+clude use of concurrent chemotherapy  78 and effective 
+lower doses of radiotherapy, which contribute to a de-crease of swallowing dysfunction
+ 79. The postoperative 
+target volume for radiation is typically smaller, and with 
+modern techniques such as intensity modulated radio-
+therapy (iMr T) this procedure can significantly reduce 
+the dose delivered to uninvolved normal structures. in patients requiring postoperative concurrent chemoradia-
+tion, this offers the potential to reduce the risk of late complications
+ 80.
+The incorporation of T orS, not only to improve oncolog-
+ic results but also to decrease the long-term toxicity risks caused by non-surgical strategies, is crucial for hPV posi-tive patients since they typically present at a younger age.
+To date, there are few surgical trials investigating the 
+role of T orS in hPV positive patients. For instance, 
+Cohen et  al.
+  81 found no differences in oncological out-
+comes, overall survival or loco-regional control between 
+hPV-positive and negative groups patients who under -
+went T orS surgery stratified by hPV status. nonethe-
+less, T orS surgery was suitable for both subgroups. The 
+Mount Sinai group reported no differences in overall 
+survival or loco-regional control in patients stratified by smoking status, with the assumption that patients without 
+a smoking history are predominantly hPV positive
+ 82.
+The failure to show statistically significant differences in hPV-positive and hPV-negative tumours in T orS sur -
+gical trials for early T stage differences is unclear. it is 
+possible that these studies were small and thus lack the 
+statistical power to show survival differences, or that the 
+survival advantage in hPV-positive tumours does not ap-
+ply to early T-stage tumours that are surgically resected. 
+lastly, one may argue that hPV-negative tumours are less 
+radio-responsive, and surgical resection provides better 
+prognosis in the cohort being studied
+ 83.
+new multi-institutional studies are needed to confirm the 
+exact impact of T orS on the quality of life and survival 
+outcomes of hPV negative and positive oPSCC patients.
+Future directions in HPV-positive OPSCCs
+hPV-induced carcinogenesis has been extensively stud-ied in the most widely accepted hPV-related malignancy, namely cervical cancer. hPV-associated cancers continu-
+ously express the hPV E6 and E7 viral oncogenes even 
+during advanced stages, and repression of viral oncogene expression can prevent growth or survival of cervical can-
+cer cells
+ 84. These findings raise the possibility that even 
+late-stage hPV-associated cancers can be treated through hPV-targeted approaches with drugs that interfere with 
+the expression or function of the viral oncoproteins or with therapeutic vaccines that elicit a cytolytic immune 
+response in cells expressing these oncoproteins.
+Vaccination
+The world has greatly benefited from vaccine programmes 
+in controlling the morbidity and mortality of infectious diseases. hepatitis B virus (hBV) vaccine, developed for 
+the prevention of hepatitis B virus infection, is considered 
+the first vaccine against a major human cancer, hepatocel-lular carcinoma
+ 85. recently, a prophylactic hPV vaccine 
+has been included in national immunisation programmes of most developed countries with the hope of also be-ing included in developing countries within the next few 
+years, with the goal of preventing cervical and other non-
+cervical hPV related cancers
+ 86.
+Two FDA-approved hPV prophylactic vaccines are 
+currently available  87. The quadrivalent vaccine was ini-
+tially approved in the US in 2006, and is composed of 
+four hPV type-specific virus-like particles (VlPs) from 
+the major capsid protein l1 of hPV types 6, 11, 16 and 18, combined with aluminium phosphate adjuvant. These 
+are the most common hPV types found in 70% of cer -
+vical cancers and 90% of non-cervical cancers
+ 87 88. The 
+bivalent hPV vaccine, approved in 2009, is composed of two hPV types, 16 and 18, which cause 70% of cervical 
+cancers
+  86. The efficacy of the quadrivalent vaccine was 
+100% in preventing hPV 16 and 18 related cervical in-
+traepithelial neoplasia (Cin) grades 2/3 and vulvar and 
+vaginal intraepithelial neoplasia (Vin) 2/3, and 98.9% in preventing hPV 6, 11, 16 and 18 related genital warts
+ 89. 
+The bivalent vaccine is 98.1% efficacious in hPV 16 and 
+18 related Cin 2/3 prevention 90.
+The Advisory Committee on immunization Practices (ACiP) and the Centers for Disease Control and Preven-
+tion (CDC) recommends
+ 88 90 91:
+•	 routine	 vaccination	 of	girls	aged	11	or	12	years	that	can	
+be started at 9 years of age;
+•	 catch-up	vaccination	for	females	aged	13-26	years;•	 routine	vaccination	of	boys	aged	11	or	12	years;
+•	 routine	 vaccination	 recommended	 for	both	men	who	
+have sex with men (MSM) and immunocompromised individuals aged 22 through 26 years;
+•	 men	aged	13	to	21	years	who	were	not	previously	 vac-
+cinated;
+•	 men	aged	22	to	26	years	may	also	receive	the	vaccine;
+•	 can	be	given	to	lactating	 women,	patients	with	minor	 HPV in oropharyngeal cancer305acute illnesses and women with equivocal or abnormal 
+Pap test.
+hPV vaccine should be delivered through a series of 3 intramuscular injections over a 6-month period of time, 
+at 0, 2 and 6 months for the quadrivalent vaccine and 0, 1 and 6 months for the bivalent one
+  89, inducing strong 
+immune memory with persistent antibody up to 6.4 years (bivalent) and up to 9.5 years (hPV 16 VlP used in quad-rivalent) thus entailing long-term duration of protection 
+against infections caused by pathogenic hPVs and their 
+disease sequelae
+ 92.
+The entrance of males into vaccination programmes is primarily due to the estimation of 7,500 cases of hPV-related cancer, primarily head and neck and anal can-
+cer, which occur in men each year in the United States 
+alone
+ 93. Furthermore, the rates of anal cancer in homosex-
+ual males are extremely high, and thus vaccination may 
+contribute in immunisation with subsequent reduction of 
+hPV sexual transmission.in the future, the currently available vaccines may also 
+show promising results on preventing hPV-associated 
+oPSCC caused by hPV 16, and longitudinal studies com-paring the incidence of disease before and after the intro-
+duction of the vaccine may clarify this issue.
+Unfortunately, the prophylactic vaccine is not effective on established infections and cancer lesions, so the study of 
+a therapeutic hPV vaccine to treat hPV-associated cancer 
+remains an area of crucial importance
+ 94.
+Different immunotherapeutic vaccines targeting E7 and/
+or E6 have been developed over the last decade including 
+peptide/protein, dendritic cell (DC), plasmid Dn A and 
+viral vector-based therapies, but with limited success in 
+preclinical and clinical phase studies 95 96. A recent italian 
+study developed a promising therapeutic vaccine based on an integrase defective lentiviral vector (iDl V) to de-
+liver a mutated non-oncogenic form of the hPV  16 E7 
+protein, considered as a tumour specific antigen for im-
+munotherapy of hPV-associated cervical cancer, fused to 
+calreticulin (Cr T), a protein that is able to activate natu-
+ral killer T cells (nKTs). A single intramuscular injection 
+prevented tumour growth in 90% of early stage tumour-
+bearing mice, without adjuvants and/or drug treatments. These promising results may suggest that a safe antican-
+cer immunotherapeutic vaccine may be available in the 
+future for human use
+ 94.
+Targeted therapies
+Evaluation of epithelial growth factor receptor (EgFr)-targeted therapies in hnSCC patients have been based 
+on the observation that EgFr is highly expressed in hn-
+SCC, and its over-expression has been associated with reduced survival in several studies
+ 97. For clinical use, Eg-
+Fr can be targeted either by antibodies recognising the ligand-binding domain of EgFr or by EgrF tyrosine ki-nase inhibitors (TKis). Cetuximab is a humanised mouse anti-EgFr igg1 monoclonal antibody, offering improved 
+loco-regional control and overall survival in locally-ad-
+vanced hnSCC in combination with radiotherapy
+ 98.
+other humanised anti-EgFr antibodies such a panitu-
+mumab or zalutumumab are currently being evaluated in 
+phase ii/iii clinical trials and may evolve as alternatives 
+to cetuximab 99. Additional prospective clinical trials are 
+on-going to assess the value of cetuximab in management 
+of hPV-positive oPSCCs.
+Conclusions
+To date, the available data corroborate some well-estab-
+lished concepts: oropharynx tumours have been steadily increasing over the last 20 years compared to other can-
+cers of the head and neck worldwide, particularly in West-
+ern countries. SEEr data suggest that about 18% of all head and neck carcinomas in the USA were located in the 
+oropharynx in 1973, compared to 31% of such squamous 
+cell tumours in 2004. Similarly, in Sweden, the proportion 
+of oropharyngeal cancers hPV positive has steadily in-
+creased, from 23% in the 1970s to 57% in the 1990s, and as high as 93% in 2007. These data indicate that hPV is 
+now the primary cause of tonsillar cancer in north Amer -
+ica and Europe.The biology of hPV-positive oropharyngeal cancer is 
+characterised by p53 degradation, retinoblastoma rB 
+pathway inactivation and p16 up-regulation. in contrast, tobacco-related oropharyngeal cancer is characterised 
+by p53 mutation and down-regulation of CDKn2A (en-
+coding p16ink4A). hPV-positive oropharyngeal cancer 
+seems to be more responsive to chemotherapy and radia-
+tion than hPV-negative disease.The choice of the best viral detection method in tumours 
+is a matter of controversy, and both in-situ hybridisation 
+and PCr are commonly used; p16 ihC is also being used to detect hPV infection, but with unreliable results
+ 71 72. 
+Thus, there is clearly a need for new surrogate markers for 
+hPV infection to give patients the best treatment strate-
+gies.The presence of hPV 16 can also be thought of as a prog-
+nostic marker for enhanced overall and disease-free sur -
+vival, but its use as a predictive marker has not yet been 
+proven. Many questions about the natural history of oral 
+hPV infection are still under investigation.
+regarding disease management, based on the present in-formation, we can consider hPV-positive oropharyngeal 
+cancer as a distinct subset of hnSCC with a more favour -
+able outcome. Patients with hPV-positive oropharyngeal cancer are typically young and in good health. in future 
+clinical trials, cancer centres should stratify head and neck patients by hPV status. regardless of treatment 
+modality, an opportunity now exists to investigate less in-
+tense treatment strategies that do not compromise survival  S. Elrefaey et al.306outcomes, but lower the risk of fatal side effects. Thus, 
+providing a high level quality of life with the fewest treat-ment complications are important considerations. Poten-tial long-term side effects of concurrent chemoradiation include dysphagia, xerostomia, feeding-tube dependency from fibrosis and scarring of the pharyngeal muscles, 
+chronic aspiration and chronic fatigue.
+however, we must always emphasise that the best cure against cancer is prevention, especially in those malig-nancies in which the main pathogenic agent is known. Finally, the authors wish to suggest reader to consult two very recent and excellent reviews: “new insights into human papillomavirus-associated head and neck squamous cell carcinoma”
+  100 and “human papilloma 
+virus (hPV) in head and neck region: review of litera-ture
+ 101.
+List of Abbreviations:
+CTEP: Cancer therapy evaluation programme.DhAnCA: Danish head And neck Cancer group.DnA: Deoxynucleic acid
+E6: Early oncoprotein6E7: Early oncoprotein7ECog: Eastern Cooperative oncology groupFDA: Food and Drug Administration
+EgFr: Epithelia growth Factor receptor
+hnSCC: head and neck Squamous Cell CarcinomahPV: human Papilloma VirusiSh: in situ hybridizationnCCn: national Comprehensive Cancer networkPCr: Polymerase Chain reactionprb: retinoblastoma tumour suppressor
+oPSCC: oroPharyngeal Squamous Cell Carcinoma
+rTog: radiation Therapy oncology group
+TKi: Tyrosine Kinase inhibitorsTlM: Transoral laser MicrosurgeryTrog: Trans-Tasman radiation oncology groupTorS: Trans oral robotic Surgery
+USA: United States of America
+BCl-Xl: B-cell lymphoma-extra large
+SEEr: Surveillance, Epidemiology and End results Program
+References
+1 Ferlay J, Shin hr, Bray F, et  al. Estimates of worldwide 
+burden of cancer in 2008: globocan 2008. int J Cancer 2010;127:2893-917.
+2 Sturgis EM, AngKK. The epidemic of HPV-associated oro-
+pharyngeal cancer is here: is it time to change our treatment 
+paradigms? J natl Compr Cancnetw 2011;9:665-73.
+3 Johnson n, Franceschi S, Ferlay J, et  al. Oral Cavity and Oropharynx. in: Barnes l, Eve J, reichart P, et al., editors. 
+Int. Pathology and Genetics Head and Neck Tumors. l yon 
+2005. p. 163-208.
+4 van Monsjou hS, Balm AJ, van den Brekel MM, et al. Oro -pharyngeal squamous cell carcinoma: a unique disease on 
+the rise? oral oncol 2010;46:780-5.
+5 Mignogna MD, Fedele S, lo russo l. The world cancer 
+report and the burden of oral cancer. Eur J Cancer Prev 
+2004,13:139-42.
+6 horner MJ, ries lA g, Krapcho M, et al. SEER Cancer Sta-
+tistics Review, 1975-2006, National Cancer Institute. Bethes-da, MD, http://seer.cancer.gov/csr/1975_2006/, based on 
+november 2008 SEEr data submission, posted to the SEEr web site, 2009.
+7 Shiboski Ch, Schmidt Bl, Jordan rC. Tongue and tonsil carcinoma: increasing trends in the US population ages 20-44 years. Cancer 2005;103:1843-9.
+8 Chaturvedi AK, Engels EA, Pfeiffer rM, et al. Human papil-loma virus and rising oropharyngeal cancer in the United States. J Clin oncol 2011;29:4294.
+9 Sedrak M, rizzolo D. Understanding the link between hpv and oropharyngeal cancer. JAAPA 2009;22:42-6.
+10 McKean-Cowdin r, Feigelson hS, ross rK, et al. Declining cancer rates in the 1990s. J Clin oncol 2000;18:2258-68.
+11 hammarstedt l, Dahlstrand h, lindquist D, et al. The inci-dence of tonsillar cancer in Sweden is increasing. Acta oto-
+laryngol 2007;127:988-92.
+12 robinson Kl, Macfarlane gJ. Oropharyngeal cancer inci-dence and mortality in Scotland: are rates still increasing? oral oncol 2003;39:31-6.
+13 gillison Ml, Koch WM, Capone rB, et al. Evidence for a caus-al association between human papillomavirus and a subset of head and neck cancers. natl Cancer inst 2000;92:709-20.
+14 gillison Ml. Human papillomavirus-associated head and 
+neck cancer is a distinct epidemiologic, clinical, and molecu-lar entity. Semin oncol 2004;31:744-54.
+15 Singhi AD, Westra Wh. Comparison of human papilloma-
+virus in situ hybridization and p16 immunohistochemistry in the detection of human papillomavirus-associated head and 
+neck cancer based on a prospective clinical experience. Can-
+cer 2010;116:2166-73.
+16 Adelstein DJ, rodriguez CP. Human papilloma virus: changing paradigm in oropharyngeal cancer. Curr oncol 
+rep 2010;12:115-20.
+17 Stransky n, Egloff AM, Tward AD, et  al. The mutational landscape of head and neck squamous cell carcinoma. Sci-ence 2011;333(6046):1157-1160.
+18 oh JE, Kim Jo, Shin Jy . Molecular genetic characteriza-
+tion of p53 mutated oropharyngeal squamous cell carcinoma cells transformed with human papillomavirus E6 and E7 on-cogenes. int J oncol 2013;43:383-93.
+19 rampias T, Sasaki C, Weinberger P. E6 and E7 gene silenc-ing and transformed phenotype of human papillomavirus 16 - positive oropharyngeal cancer cells. J natl Cancer inst 
+2009;101:412-23.
+20 national Comprehensive Cancer Center network. Practice 
+guidelines in oncology-Head and Neck Cancers v. 2.2008.
+21 national Cancer institute: PDQ® oropharyngeal Cancer 
+Treatment. Bethesda, MD: national Cancer institute. Date last modified <02/15/2013>. Available at: http://cancer.gov/
+cancertopics/pdq/treatment/oropharyngeal/healthProfes-
+sional. Accessed <02/15/2013> HPV in oropharyngeal cancer30722 Ansher SS, Scharf r. The Cancer Therapy Evaluation Pro-
+gram (CTEP) at the National Cancer Institute. Ann n y 
+Acad Sci 2001;949:333-40.
+23 lindel K, Beer KT, laissue J, et al. Human papillomavirus positive squamous cell carcinoma of the oropharynx: a ra-
+diosensitive subgroup of head and neck carcinoma. Cancer 
+2001;92:805-13.
+24 Kreimer Ar, Cliffor gM, Boyle P, et al. Human papilloma virus types in head and neck squamous cell carcinomas 
+worldwide: a systemic review. Cancer Epidemiol Biomark-
+ers Prev 2005;14:467-75.
+25 D’Souza g, Dempsey A. The role of HPV in head and neck cancer and review of the HPV vaccine. Prev Med 
+2011;53(Suppl 1):S5-11.
+26 llewellyn CD, linklater K, J Bell, et al. An analysis of risk 
+factors for oral cancer in young people: a case-control study. oral oncol 2004;40:304-13.
+27 gillison Ml, D’Sousa g, Westra W, et al. Distinct risk factor profiles for human papillomavirus type 16-positiveand hu-man papillomavirus type 16-negativehead and neck cancers. 
+J natl Cancer inst 2008;100:407-20.
+28 Chaturvedi AK, Engels EA, Anderson WF, et al. Incidence 
+trends for human papillomavirus related and unrelated oral 
+squamous cell carcinomas in the United States. J Clin oncol 
+2008;26:612-9.
+29 Ang KK, harris J, Wheeler r, et al. Human papillomavirus 
+and survival of patients with oropharyngeal cancer. n Engl 
+J Med 2010;363:24-35.
+30 D’Souza g, Kreimer Ar, Clifford gM, et al. Case control 
+study of human papillomavirus and oropharyngeal cancer. 
+n Engl J Med 2007;356:1944-56.
+31 Benard VB, Johnson CJ, Thompson TD, et  al. Examin-ing the association between socioeconomic status and po-
+tential human papillomavirus associated cancers. Cancer 
+2008;113:2910-8.
+32 Settle K, Posner Mr, Schumaker lM, et al. Racial survival 
+disparity in head and neck cancer results from low prevalence 
+of human papillomavirus infection in black oropharyngeal 
+cancer patients. Cancer Prev res (Phila) 2009;2:776-81.
+33 ryerson AB, Peters ES, Coughlin SS, et al. Burden of potential-ly human papillomavirus-associated cancers of the oropharynx 
+and oral cavity in the US, 1998-2003. Cancer 2008;113:2901-9.
+34 Sturgis EM, Cinciripini PM. Trends in head and neck can-cer incidence in relation to smoking prevalence: an emerg-
+ing epidemic of human papilloma virus associated cancers? 
+Cancer 2007;110:1429-35.
+35 D’Souza g, Kreimer Ar, Viscidi r, et al. Case-control study 
+of human papillomavirus and oropharyngeal cancer. n Engl 
+J Med 2007;356:1944.
+36 Frisch M, Biggar rJ. Aetiological parallel between ton-sillar and anogenital squamous-cell carcinomas. lancet 
+1999;354(9188):1442-3.
+37 hemminki K, Dong C, Frisch M. Tonsillar and other upper 
+aerodigestive tract cancers among cervical cancer patients 
+and their husbands. Eur J Cancer Prev 2000;9:433-7.
+38 heck JE, Berthiller J, Vaccarella S, et Sexual behaviours 
+and the risk of head and neck cancers: a pooled analysis 
+in the International Head and Neck Cancer Epidemiology 
+(INHANCE) consortium. int J Epidemiol 2010;39:166-81.39 Smith EM, ritchie JM, Summersgill KF, et  al. Age, 
+sexual behaviour, and human papillomavirus infection 
+in oral cavity and oropharyngeal cancers. int J Cancer 
+2004;108:766-72.
+40 Mork J, lie AK, glattre E, et al. Human papillomavirus in-fection as a risk factor for squamous- 0cell carcinoma of the 
+head and neck. n Engl J Med 2001;344:1125-31.
+41 hashibe M, Brennan P, Chuang SC, et  al. Interaction be-
+tween tobacco and alcohol use and the risk of head and neck 
+cancer: pooled analysis in the International Head and Neck 
+Cancer Epidemiology Consortium. Cancer Epidemiol Bio-
+markers Prev 2009;18:541-50.
+42 hammarstedt l, lindquist D, Dahlstrand h, et  al. Human 
+papillomavirus as a risk factor for the increase in incidence 
+of tonsillar cancer. int J Cancer 2006;119:2620-3.
+43 Klussman JP, Weissenborn SJ, Wieland U, et al. Prevalence, distribution, and viral load of human papillomavirus 16 
+DNA in tonsillar carcinomas. Cancer 2001;92:2875-84.
+44 Joseph AW, D’Souza g. Epidemiology of human papilloma-virus-related head and neck cancer. otolaryngol Clin north 
+Am 2012;45:739-64.
+45 Chu A, genden E, Posner M, et al. A patient centered ap-
+proach to counseling patients with head and neck cancer un-
+dergoing human papillomavirus testing: a clinician’s guide. oncologist 2013;18:180-9.
+46 Syrjanen S. HPV infections and tonsillar carcinoma. J Clin 
+Pathol 2004;57:449-55.
+47 Dahlstrand hM, Dalianis T. Presence and influence of hu-man papillomaviruses (HPV) in tonsillar cancer. Adv Can-
+cer res 2005;93:59-89.
+48 Dahlgren l, Mellin h, Wangsa D, et al. Comparative genom-
+ic hybridization analysis of tonsillar cancer reveals a differ -
+ent pattern of genomic imbalances in human papillomavirus- 
+positive and -negative tumors. int J Cancer 2003;107:244-9.
+49 lohavanichbutr P, houck J, Fan W, et al. Genomewide gene expression profiles of HPV- positiveand HPV-negative oro-
+pharyngeal cancer: potential implications for treatment 
+choices. Arch otolaryngol head neck Surg 2009;135:180-8.
+50 Smeets SJ1, Braakhuis BJ, Abbas S, et  al. Genome-wide DNA copy number alterations in head and neck squamous 
+cell carcinomas with or without oncogene-expressing hu-
+manpapillomavirus. oncogene 2006;25:2558-64.
+51 huang Sh, Perez-ordonez B, liu FF, et al. Atypical clini-cal behaviour of p16-confirmed HPV-related oropharyngeal 
+squamous cell carcinoma treated with radical radiotherapy. 
+int J radiat oncol Biol Phys 2012;82:276-83.
+52 goldenberg D, Begum S, Westra Wh, et  al. Cystic lymph 
+node metastasis in patients with head and neck cancer: an 
+HPV-associated phenomenon. head neck 2008;30:898-903.
+53 Chaturvedi AK. Epidemiology and clinical aspects of 
+HPV in head and neck cancers. head and neck Pathol 
+2012;6:S16-S24.
+54 Cantrell SC, Peck BW, li g, et al. Differences in imaging 
+characteristics of HPV-positive and HPV negative oro-pharyngeal cancers: A blinded matched-pair analysis. AJnr 
+Am J neuroradiol 2013;34:2005-9.
+55 olshan AF. Epidemiology, pathogenesis, and prevention of 
+head and neck cancer. new york: Springer; 2010. S. Elrefaey et al.30856 Marur S, D’Souza g, Westra Wh, et  al. HPV-associated 
+head and neck cancer: a virus-related cancer epidemic. lan-
+cet oncol 2010;11:781-9.
+57 Chung Ch, gillison Ml. Human papillomavirus in head and 
+neck cancer: its role in pathogenesis and clinical implica-tions. Clin Cancer res 2009;15:6758-62.
+58 Fakhry C, Westra Wh, li S, et al. Improved survival of pa-
+tients with human papillomavirus-positive head and neck 
+squamous cell carcinoma in a prospective clinical trial. J 
+natl Cancer inst 2008;100:261-9.
+59 rischin D, young rJ, Fisher r, et al. Prognostic significance 
+of p16INK4A and human papillomavirus in patients with oropharyngeal cancer treated on TROG 02.02 phase III trial. J Clin oncol 2010;28:4142-8.
+60 lassen P, Eriksen Jg, Krogdahl A, et al. The inﬂuence of HPV-associated p16 expression on accelerated fractionated radio-therapy in head and neck cancer: evaluation of the randomised DAHANCA 6&7 trial. radiother oncol 2011;100:49-55.
+61 Posner M, lorche J, goloubeva o, et al. Survival and human 
+papillomavirus in oropharynx cancer in TAX324: a subset 
+analysis from an international phase III trial. Ann oncol 
+2011;22:1071-7.
+62 Maxwell Jh, Kumar B, Feng Fy , et al. Tobacco use in hu-
+man papillomavirus-positive advanced oropharynx cancer -
+patients related to increased risk of distant metastases and 
+tumor recurrence. Clin Cancer res 2010;16:1226-35.
+63 hafkamp hC, Manni JJ, haesevoets A, et al. Marked differ -
+ences in survival rate between smokers and nonsmokers with HPV 16-associated tonsillar carcinomas. int J Cancer 2008 
+15;122:2656-64.
+64 Klussmann JP, Mooren JJ, lehnen M, et al. Genetic signa-tures of HPV-related and unrelated oropharyngeal carci-
+noma and their prognostic implications. Clin Cancer res 
+2009;15:1779-86.
+65 lindel K, Beer KT, laissue J, et al. Human papillomavirus positive squamous cell carcinoma of the oropharynx: a ra-
+diosensitive subgroup of head and neck carcinoma. Cancer 
+2001;92:805-13.
+66 Vu hl, Sikora A g, Fu S. HPV-induced oropharyngeal can-
+cer, immune response and response to therapy. Cancer lett 2010:28;288:149-55.
+67 Ang KK, Sturgis EM. Human papillomavirus as a marker of the natural history and response to therapy of head and neck squa-
+mous cell carcinoma. Semin radiat oncol 2012;22:128-42.
+68 lassen P, Eriksen Jg, hamilton-Dutoit S, et  al. Effect of 
+HPV-associated p16INK4A expression on response to radio-
+therapy and survival in squamous cell carcinoma of the head 
+and neck. J Clin oncol 2009;27:1992-8.
+69 lassen P, Eriksen Jg, hamilton-Dutoit S, et al. HPV-associ-ated p16- expression and response to hypoxic modification 
+of radiotherapy in head and neck cancer. radiother oncol 
+2009;94:30-5.
+70 Kumar B, Cordell Kg, lee JS, et al. EGFR, p16, HPV Titer, 
+Bcl-xL and p53, sex, and smoking as indicators of response 
+to therapy and survival in oropharyngeal cancer. J Clin on-col 2008 1;26:3128-37.
+71 rietbergen MM, Snijders PJ, Beekzada D, et al. Molecular char -
+acterization of p16-immunopositive but HPV DNA-negative oro-pharyngeal carcinomas. int J Cancer 2014;134:2366-72.72 Bussu F, Sali M, gallus r, et al. HPV infection in squamous 
+cell carcinomas arising from different mucosal sites of the 
+head and neck region. Is p16 immunohistochemistry a reli-
+able surrogate marker? Br J Cancer 2013;108:1157-62.
+73 Dowthwaite SA, Franklin Jh, Palma DA, et  al. The role of transoral robotic surgery in the management of oro-
+pharyngeal cancer: a review of the literature. iSrn oncol 
+2012;2012:945162.
+74 Moore EJ, henstrom DK, olsen KD, et al. Transoral resec-tion of tonsillar squamous cell carcinoma. laryngoscope 
+2009;119:508-15.
+75 Park yM, lee Jg, lee WS, et al. Feasibility of transoral lat-
+eral oropharyngectomy using a robotic surgical system for tonsillar cancer. oral oncol 2009;45:e62-6.
+76 genden EM, Sambur iM, de Almeida Jr, et al. Human papil-
+loma virus and oropharyngeal cell squamous cell carcinoma: 
+what the clinician should know. Eur Arch otorhinolaryngol 
+2013;270:405-16.
+77 Quon h, richmon JD. Treatment deintensification strategies for HPV-associated head and neck carcinomas. otolaryngol 
+Clin north Am 2012;45:845-61.
+78 Cooper JS, Pajak TF, Forastiere AA, et al. Postoperative con-current radiotherapy and chemotherapy for high-risk squa-
+mous-cell carcinoma of the head and neck. n Engl J Med 
+2004;350:1937-44.
+79 Ang KK, Trotti A, Brown BW, et al. Randomized trial ad-
+dressing risk features and time factors of surgery plus ra-
+diotherapy in advanced head-and-neck cancer. int J radiat oncol Biol Phys 2001;51:571-8.
+80 Machtay M, Moughan J, Trotti A, et al. Factors associated with severe late toxicity after concurrent chemoradiation for 
+locally advanced head and neck cancer: an RTOG analysis. 
+J Clin oncol 2008;26:3582-3.
+81 Cohen MA, Weinstein gS, o’Malley BW Jr, et al. Transoral 
+robotic surgery and human papillomavirus status: Oncologic 
+results. head neck 2011;33:573-80.
+82 Stucken C, de Almeida Jr, Tong CCl, et al. Transoral ro-
+botic surgery for smokers with squamous cell carcinoma of 
+the oropharynx. in: Multidisciplinary Head and Neck Cancer 
+Symposium, Phoenix, AZ; 2012.
+83 genden Er. The role of surgical management in HPV-Relat-ed oropharyngeal carcinoma. head neck Pathol 2012;6(Sup-
+pl 1):S98-103.
+84 goodwin EC, yang E, lee CJ, et al. Rapid induction of se-
+nescence in human cervical carcinoma cells. Proc nat Acad 
+Sci USA 2000;97:10978-83.
+85 World health organization. Countries using Hepatitis B vac-
+cine. [cited: July 2012]. Available from: http://www.who.int/
+mediacentre/factsheets/fs204/en/.
+86 Tota JE, Chevarie-Davis M, richardson lA, et  al. Epi-demiology and burden of HPV infection and related dis-eases: implications for prevention strategies. Prev Med 
+2011;53(Suppl):S12-21.
+87 gillison Ml, Chaturvedi AK, lowy Dr. HPV prophylactic vaccines and the potential prevention of noncervical cancers 
+in both men and women. Cancer 2008;113:3036-46.
+88 Markowitz lE, Dunne EF, Saraiya M, et al. Quadrivalent hu-
+man papillomavirus vaccine. recommendations of the Advi-
+sory Committee on immunization Practices (ACiP). Centers  HPV in oropharyngeal cancer309for Disease Control and Prevention 2007. Available at: http://
+www.cdc.gov/mmwr/preview/mmwrhtml/rr5602a1.htm?s_cid=rr5602a1_e (last accessed: nov 23, 2014).
+89 Kjaer SK, Sigurdsson K, iversen oE, et al. A pooled analy-sis of continued prophylactic efficacy of quadrivalent human papillomavirus (Types 6/11/16/18) vaccine against high-grade cervical and external genital lesions. Cancer Prev res 2009;2:868-78.
+90 Centers for Disease Control and Prevention. FDA licensure of bivalent human papillomavirus vaccine (HPV 2,Cervarix) for 
+use in females and updated HPV vaccination recommenda-
+tions from the Advisory Committee on Immunization Practices (ACIP). MMWr Morb Mortal Wkly rep 2010;59:626-9.
+91 Centers for Disease Control and Prevention. Recommen-dations on the use of quadrivalent human papillomavirus vaccine in males-Advisory Committee on Immunization Practices (ACIP), 2011. MMWr Morb Mortal Wkly rep 2011;60:1705-8.
+92 Stanley M. Potential mechanisms for HPV vaccine-induced long-term protection. gynecol oncol 118(Suppl):S2-7.
+93 Centers for Disease Control. Fact sheet on HPV and men. [Updated: February 23, 2012]. Available from: http://www.cdc.gov/std/hpv/stdfact-hpv-andmen.htm
+94 grasso F, negri Dr, Mochi S, et al. Successful therapeutic vaccination with integrase defective lentiviral vector ex-
+pressing nononcogenic human papillomavirus E7 protein. 
+int J Cancer 2013;132:335-44.
+95 Trimble Cl, Frazer ih. Development of therapeutic HPV vaccines. lancet oncol 2009;10:975-80.
+96 Bellone S, Pecorelli S, Cannon MJ, et al. Advances in den-dritic-cell-based therapeutic vaccines for cervical cancer. Expert rev Anticancer Ther 2007;7:1473-86.
+97 Psyrri A, Sasaki C, Vassilakopoulou M, et al. Future direc-tions in research, treatment and prevention of HPV-related squamouscell carcinoma of the head and neck. head neck 
+Pathol 2012;6(Suppl 1):S121-8.
+98 Bonner JA, harari PM, giralt J, et al. Radiotherapy plus ce-
+tuximab for squamous- cell carcinoma of the head and neck. n Engl J Med 2006;354:567-78.
+99 Egloff AM, grandis Jr. Targeting epidermal growth factor receptor and SRC pathways in head and neck cancer. Semin oncol 2008;35:286-97.
+100 Boscolo-rizzo P, Del Mistro A, Bussu F, et al. New insights in-
+to human papillomavirus-associated head and neck squamous cell carcinoma. Acta otorhinolaryngol ital 2013;33:77-87.
+101 Mannarini l, Kratochvil V , Calabrese l, et al. Human Papil-loma Virus (HPV) in head and neck region: review of litera-ture. Acta otorhinolaryngol ital 2009;29:119-26.
+Address for correspondence: Mohssen Ansarin, Division of 
+head and neck Surgery, European institute of oncology, via ripamonti 435, 20077 Milano, italy. Tel. +39  02  57489490. 
+Fax +39 02 55210169. E-mail: mohssen.ansarin@ieo.itreceived: January 14, 2014 - Accepted: April 24, 2014

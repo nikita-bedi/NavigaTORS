@@ -1,0 +1,837 @@
+Accepted Article
+ Increasing primary surgical treatment of T1 and T2 Oropharyngeal Squamous Cell 
+Carcinoma and rates of adverse pathologic features;  NCDB 
+ 
+Jennifer R. Cracchiolo, M.D.1 
+Shrujal S. Baxi, M.D., M.P.H.1,2 
+Luc G. Morris, M.D., M.Sc.1 
+Ian Ganly, M.D., M.Sc., PhD. 1 
+Snehal G. Patel, M.D.1 
+Marc A. Cohen, M.D., M.P.H. 1,2 
+Benjamin R. Roman, M.D., M.S.H.P.1 
+ 
+1Memorial Sloan Kettering Cancer Center 
+2Weill Cornell Medical College 
+ 
+Corresponding Author: 
+Benjamin R. Roman, MD, MSHP 
+Memorial Sloan Kettering Cancer Center 
+Head & Neck Service, Department of Surgery 
+1275 York Avenue, Rm Cv1075 
+New York, NY 10065 
+romanb@mskcc.org  
+t: 212v639v7799 | f: 917v432v2311 
+ 
+Running Head: Increase in Primary Surgery  for T1vT2 OPSCC  
+ 
+Discipline: Head and Neck Cancer 
+ 
+Condensed Abstract: This article describes increasi ng primary surgical treatment of T1vT2 stage 
+oropharyngeal squamous cell carcinoma in the United  States from 2004v2013 using the National 
+Cancer Database. The rates of adverse clinical and pathologic features are explored, highlighting 
+areas where better prevtreatment selection of prima ry therapy may be needed to avoid escalation 
+of therapy to multiple modalities.  
+ 
+Keywords: HPVvrelated oropharyngeal squamous cell c arcinoma (OPSCC); transvoral robotic 
+surgery (TORS); positive margins; extracapsular spr ead (ECS); treatment selection 
+ 
+This research was funded in part through the NIH/NC I Cancer Center Support Grant P30 
+CA008748. 
+Conflict of interest: None (all authors) 
+ 
+Author Contributions: 
+Jennifer R. Cracchiolo:  Conceptualization, methodology,  writing – original draft, writing – 
+review and editing, visualization, and project admi nistration. Shrujal S. Baxi:  
+Conceptualization, methodology,  formal analysis,  and writing – review and editing. Luc G. Page 1 of 26 Cancer 
+This is the author manuscript accepted for publication and has undergone full peer review but has not been
+through the copyediting, typesetting, pagination and proofreading process, which may lead to differences
+between this version and the Version record. Please cite this article as doi:10.1002/cncr.29938.
+This article is protected by copyright. All rights reserved. Accepted Article
+ 2 Morris:  Conceptualization,  formal analysis, investigation,  data curation, writing – original draft, 
+writing – review and editing, and supervision. Ian Ganly:  Writing – original draft, writing – 
+review and editing, and visualization. Snehal G. Patel:  Conceptualization and writing – review 
+and editing. Marc A. Cohen: Conceptualization, methodology,  formal analysis, investigation, 
+resources, writing – original draft, writing – revi ew and editing, visualization, supervision, and 
+project administration. Benjamin R. Roman:  Conceptualization, methodology, software, 
+validation, formal analysis, investigation, resourc es, data curation, writing – original draft, 
+writing – review and editing, visualization, superv ision, project administration, and funding 
+acquisition. 
+ 
+ 
+Total numbers: 1) text pages 18; 2) tables 2; 3) fi gures 4 
+ 
+  Page 2 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article
+ 3 ABSTRACT 
+ 
+Background:   
+There has been increasing interest in primary surgi cal treatment of patients with early T 
+classification (T1vT2) oropharyngeal squamous cell carcinoma (OPSCC), with the stated goal of 
+devescalating or avoiding adjuvant treatment.   We sought to determine the degree to which this 
+interest has translated into changes in practice pa tterns, and the rates of adverse postvoperative 
+pathologic features. 
+ 
+Methods:   
+Patients with T1vT2 OPSCC in the National Cancer Da tabase (NCDB) treated from 2004v2013 
+were categorized as receiving primary surgical or p rimary radiationvbased treatment.  Trends in 
+treatment selection and factors related to selectio n of primary surgery were examined. The rates 
+of adverse pathologic features including positive m argins, extracapsular spread (ECS), and 
+advanced T and N stage following surgery were analy zed.  
+ 
+Results:   
+Of 8,768 patients with T1vT2 OPSCC, 68% received pr imary surgical treatment, increasing from 
+56% in 2004 to 82% in 2013 (p<0.0001). The highest versus lowest volume hospitals treated 
+78% versus 59% of patients with primary surgery (O. R. 2.23 C.I. 1.55v3.22, p<0.0001). Higher 
+nodal stage predicted lower rates of primary surger y, but the majority of patients with clinical 
+N2/N3 disease underwent primary surgery. Among surg ical patients, positive margins were 
+present in 24% and ECS in 25%. Positive margins dec reased over time (p<0.0001) and were seen 
+less often at high volume centers (p<0.0001). Among  candidates for single modality therapy 
+(clinical T1vT2/N0vN1), 33% had positive margins an d/or ECS, and 47% had at least one 
+adverse feature (T3vT4, N2vN3, positive margins, an d/or ECS). 
+ 
+Conclusion: 
+Primary surgical treatment for early Tvstage OPSCC has become more widespread. 
+  Page 3 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article
+ 4 INTRODUCTION 
+The incidence of oropharyngeal squamous cell carcin oma (OPSCC) in the United States (US) is 
+rising, and is projected to double by 2030, to more  than 15,000 diagnoses per year.1  In addition 
+to the classic risk factors of chronic tobacco and alcohol exposure, the human papillomavirus 
+(HPV) has emerged as the leading causative agent fo r OPSCC in the US and other countries.2, 3 
+Compared to patients with tobaccovassociated OPSCC,  patients with HPVvassociated OPSCC 
+are, on average, younger at diagnosis, have fewer c omorbid illnesses, and have a superior 
+prognosis. 4v6   At presentation, HPVvassociated OPSCC tumors com monly present with low T 
+classification (T1vT2), but advanced stage (Stage I IIvIV), owing to nodal metastases.7, 8  
+ 
+Uncertainty persists about the most appropriate tre atment strategies for patients with OPSCC. 
+Prior to the 1990s, primary surgery and primary rad iotherapy were the most commonly 
+employed strategies. In the late 1990s, organ prese rvation trials demonstrated survival benefits of 
+chemoradiotherapy (CRT) over radiotherapy (RT) alon e,9 leading to increased use of CRT in the 
+early 2000s. 10, 11  However, there has recently been renewed enthusias m for primary surgical 
+approaches for the treatment of OPSCC 12v14 . This has been driven by technologic advances such  
+as transoral robotic surgery (TORS) that enhance th e feasibility of surgery for low T 
+classification OPSCC and offer the potential of avo iding or devescalating adjuvant treatments. 
+TORS was approved by the Food and Drug Administrati on (FDA) in 2009. 
+ 
+In order to achieve the goal of minimizing the exte nt of postoperative therapy for patients with 
+early Tvstage OPSCC, it is important to select pati ents appropriately for one of two current 
+standard initial treatment strategies: primary surg ery or primary radiation with or without Page 4 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article
+ 5 chemotherapy. Specifically, surgical patients shoul d ideally be those in whom the likelihood of 
+adverse pathologic risk factors is low. According t o National Comprehensive Cancer Center 
+(NCCN) guidelines, the adverse risk factors that pr ompt escalation of adjuvant therapy include 
+N2vN3 nodal status, advanced pathologic T classific ation, positive margins, the presence of 
+lymph nodes with extracapular spread (ECS), and tum or perineural invasion or lymphovascular 
+invasion.15  Conversely if patients have none of these adverse features they may be treated with 
+surgery alone. 
+ 
+While recent work has examined variables associated  with patients treated with TORS since 
+FDA approval 16 , there is limited knowledge of national trends in the primary treatment strategy 
+for patients with early Tvstage OPSCC before and du ring the TORS era, particularly the factors 
+associated with a decision to triage patients to pr imary surgical therapy, and the success of 
+physicians in selecting patients for surgery in who m adverse pathologic features are not present.  
+The goal of this study was to use a large, high qua lity US cancer registry to examine these 
+questions at a national level.  
+ 
+MATERIALS AND METHODS 
+Data Source 
+The data source for this study was the National Can cer Database (NCDB), a joint program of the 
+Commission on Cancer (CoC) and the American College  of Surgeons (ACS) that collects 
+hospitalvbased registry data on over 80% of U.S. or al cavity and pharynx cases. 17  The source 
+files were used in accordance with the NCDB Partici pant User Files (PUF) data use agreement. 
+This study was given IRB waiver by Memorial Sloan K ettering Cancer Center. Page 5 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article
+ 6  
+Study Cohort  
+We identified all patients with clinically staged T 1 and T2 OPSCC diagnosed between 2004v
+2013 who were ≥ 18 years old. We included ICDO code s for the “oropharynx” (ICDO C019, 
+C090, C091, C098, C099, C100, C101, C102, C103, C10 4, C108, C109, C142). We included 
+only patients with histologically proven squamous c ell carcinoma tissue examined by 
+microscope rather than cytology alone; the tissue c ould be examined from biopsy or surgical 
+pathology specimens. We excluded patients who had r eceived part or all of their treatment 
+outside of the NCDB reporting facility in order to be certain whether or not the various possible 
+primary treatments were in fact delivered, and in w hat order. Patients were also excluded if 
+treatment information was missing or for whom the s equence of treatments was not clear, and 
+whose staging information was inconsistent with tre atment information or could not be assessed 
+(Figure 1). The total cohort with complete data was  8,768 patients. 
+ 
+Outcomes 
+The main outcome was the choice of primary treatmen t modality. Patients were categorized as 
+receiving “primary radiation” or “primary surgical”  treatment.  The primary treatment modality 
+was determined to be radiation if they did not rece ive primary surgery but had undergone 
+radiation. The primary modality was surgery if they  received surgery before any radiation or 
+chemotherapy.  A “local tumor excision” such as exc isional biopsy was not considered primary 
+surgery. For tonsil and other oropharynx all catego ries of “pharyngectomy” were used; 91% 
+were “Limited/partial pharyngectomy” which includes  tonsillectomy, 4% were “Pharyngectomy 
+NOS,” 2% were “total pharyngectomy,” 1% were “radic al pharyngectomy,” and the rest were Page 6 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article
+ 7 other subclassifications of pharyngectomy. Base of tongue tumors (ICD C019) are listed with 
+other tongue tumors; primary surgical patients were  those who underwent at least “glossectomy” 
+and not “local tumor excision.” 
+ 
+A secondary outcome was the presence of adverse pat hologic features among those who 
+underwent primary surgical treatment.  For this ana lysis, we included only those patients 
+undergoing primary surgery who had complete informa tion on margin status and ECS (Figure 1). 
+ 
+Tumor characteristics 
+Clinical T and N classification were used for the a nalysis of predictors of primary treatment 
+modality since patients who did not have surgery di d not have pathologic information. For the 
+secondary analysis of pathologic factors among thos e undergoing primary surgery, T and N 
+classification were each described according to bot h clinical and pathologic staging. ECS is 
+defined in the NCDB as either negative, microscopic , macroscopic, or unknown; for this analysis 
+ECS was determined to be positive if micro or macro scopically positive. Margins were defined 
+as positive if there was microscopic or macroscopic  “residual tumor.” Close margins are not 
+recorded in the NCDB and would be considered negati ve by coding rules. 
+ 
+Covariates 
+Patient sociodemographic factors included age, sex,  race, insurance status (grouped as private, 
+uninsured, or government insurance including Medica re and Medicaid), and comorbidities 
+(CharlsonvDeyo Comorbidity index 18 ). Hospital volume was defined as the total new OPS CC 
+cases seen over all years from 2004v2013, with hosp itals divided into quartiles by volume for Page 7 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article
+ 8 analysis. Hospital type was defined as either  “aca demic,” which included Academic/Research 
+programs as well as National Cancer Institute (NCI) vdesignated Comprehensive Cancer Centers, 
+or “community,” which included Community Cancer Pro grams, Comprehensive Community 
+Cancer Programs, Integrated Network Cancer Programs , and other specified types of programs. 
+ 
+Analysis 
+We used descriptive and chivsquared statistics to c ompare tumor, patient sociodemographic, and 
+hospital factors among patients who underwent prima ry surgery versus primary radiation 
+treatment. The CochranvArmitage trend test was used  to determine whether the proportion of 
+patients treated with a primary surgical approach ( versus primary radiation approach) changed 
+over time. For multivariable analysis we used hiera rchical generalized linear models with a logit 
+link to account for clustering of patients within h ospitals while evaluating the influence of tumor, 
+patient sociodemographic, and hospital factors on t he binary choice of primary treatment 
+modality. The large sample size allowed us to inclu de all variables of interest in the multivariable 
+model and no model selection was necessary. For the  secondary analysis of pathologic factors 
+among those undergoing primary surgery, we used des criptive statistics as well as the Cochranv
+Armitage trend test to examine how these pathologic  features changed over time. As a sensitivity 
+analysis for one of these pathologic features (marg in positivity), we also performed logistic 
+regression of year on margin positivity to ensure t hat the trend over time was in a downward 
+direction. Pvvalues <0.05 were considered significa nt. Analyses were conducted using Stata 
+Statistical Software (Release 12.1; Stata Inc., Col lege Station, TX).  
+ 
+RESULTS Page 8 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article
+ 9 Characteristics of the cohort 
+We identified 8,768 patients who presented with T1 and T2 OPSCC between 2004v2013 (Table 
+1).  The majority were male (79%), age 50v64 (55%),  and were white (92%).  The majority had 
+private insurance (68%) and zero comorbidities (82% ). Slightly less than half (49%) were treated 
+at community cancer programs. While 26% were treate d at higher volume hospitals that saw >50 
+patients with OPSCC, another 34% were treated at lo w volume hospitals where only 10 or fewer 
+patients with OPSCC were treated between 2004v2013.  Regarding tumor factors, 47% of patients 
+presented with clinically classified T1 tumors, and  53% with T2 tumors, while 26% had 
+clinically or radiographically classified N0 diseas e, 23% had N1 disease, 47% had N2 disease, 
+and 3% had N3 disease at presentation. 
+ 
+Primary treatment selection 
+Overall 68% (5967) of patients underwent primary su rgical treatment. From 2004v2013 the use 
+of the primary surgical approach increased over tim e from 56% of patients in 2004 to 82% in 
+2013 (p< 0.0001; Figure 2). Patients selected for p rimary surgical treatment tended to have lower 
+nodal disease status at presentation (81% of N0, 67 % of N1, 63% of N2, and 54% of N3 selected 
+for surgery, p<0.0001, Table 1 Column 2).  Patients  undergoing primary surgery tended to have 
+private insurance compared to no insurance or gover nment insurance (69% vs 62% and 67% 
+respectively, p=0.007). Patients treated at academi c hospitals received a primary surgical 
+approach more often than those treated at community  hospitals (74% vs. 62%, p<0.0001), and 
+patients treated at the highest volume hospitals re ceived a primary surgical approach more often 
+than those treated at the lowest (78% vs. 59%, p<0. 0001; Table 1 Column 2). 
+ Page 9 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article
+ 10 Factors associated with primary surgery 
+On multivariable analysis, in addition to the year of diagnosis, several tumor and nonvtumor 
+factors were associated with the use of a primary s urgical approach (Table 1 Column 3). Clinical 
+N0 stage was associated with a higher likelihood of  a primary surgical approach (N1 vs N0: O.R. 
+0.44, C.I. 0.37v0.51, p<0.0001; N2 vs N0: O.R. 0.33 , C.I. 0.28v0.38, p< 0.0001; N3 vs N0: O.R. 
+0.26, C.I. 0.20v0.35, p<0.0001).   Younger patients  were more likely to undergo a primary 
+surgical approach (age 50v64 vs. <50: O.R. 0.78 C.I . 0.68v0.89, p<0.0001; age 65v79 vs. <50: 
+O.R. 0.68 C.I. 0.55v0.83, p<0.0001). Higher volume hospitals were significantly more likely to 
+use a primary surgical approach compared to the low est volume hospitals (>50 patients vs 1v10 
+pts: O.R. 2.23, C.I. 1.55v3.22, p<0.0001).   In the  multivariable analysis hospital type was not 
+associated with primary treatment approach. 
+ 
+Pathologic factors in patients receiving a primary surgical approach 
+Of the 5,967 primary surgical patients, 4,833 had c omplete pathologic information regarding T 
+stage, N stage, margins, and ECS. In this group, 24 % had positive margins, 25% had ECS, and  
+43% had either positive margins and/or ECS. There w as a significant decrease over time in 
+positive margin rate (p<0.0001, Figure 3a). Margin positivity was highest in 2007 at 34% and 
+dropped to 18% in 2013. Community and low volume ho spitals were more likely to have 
+positive margins on final pathology (community 33% positive margin vs. academic 17%, 
+p<0.0001; lowest volume 33% vs. highest volume 17%,  p<0.0001, Figure 4). There was no 
+change in rates of ECS over time (p=0.271, Figure 3 b). Higher pathologic nodal classification 
+was associated with increased rates of ECS (17% of N1, 38% of N2, 51% of N3; p<0.0001, data 
+not shown). Page 10 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article
+ 11  
+Overall, 56% of patients undergoing a primary surgi cal approach had pathologic N2 or N3 nodal 
+classification. Pathologic Nvupstaging occurred in 24% of cN0, 39% of cN1 and 3% of 
+cN2a/N2b patients (Table 2a). Pathologic Tvupstagin g occurred in 17% of cT1 and 11% of cT2 
+patients. (Table 2b).  
+ 
+Adverse pathologic factors in candidates for single  modality therapy 
+Among primary surgical patients with complete patho logic information, 2,570 (53%) were 
+clinically T1vT2/N0vN1 and therefore candidates for  single modality therapy with surgery. Of 
+these, 723 (28%) were pathologically upstaged out o f single modality therapy, to T3vT4 and/or 
+N2vN3. In addition 842 (33%) had positive margins a nd/or ECS. In total, 1,200 (47%) of patients 
+originally T1vT2/N0vN1 had at least one adverse fea ture (T3vT4, N2vN3, positive margins, or 
+ECS).  
+ 
+DISCUSSION 
+The incidence of OPSCC is rapidly increasing in the  United States, due to HPVvassociated 
+disease. Many of these patients have low T classifi cation (T1vT2) tumors amenable to primary 
+surgical treatment. The potential advantage of this  approach is the possibility of avoiding or dev
+escalating postvoperative therapies. To date there has been limited information on trends in the 
+primary treatment for patients with early Tvstage O PSCC, or rates of adverse pathologic features 
+in surgically treated patients. 
+ Page 11 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article
+ 12 We observed a significant increase in the use of pr imary surgery and a decrease in primary 
+radiation approach to treating patients with T1vT2 OPSCC between 2004v2013. Although lower 
+clinical nodal stage was associated with a primary surgical approach, primary surgery was 
+nonetheless chosen for nearly two thirds of patient s with clinically N2/N3 disease. Nonvtumor 
+factors including receiving treatment at a high vol ume hospital were also associated with 
+selection of a primary surgical approach. 
+ 
+Among the subgroup of patients who had primary surg ery, one in four patients had a positive 
+margin. This rate improved over time and there was a lower rate at high volume and academic 
+institutions. One in four primary surgical patients  also had ECS. Nearly half (47%) of patients 
+treated with primary surgery who by clinical stagin g might have been candidates for surgical 
+treatment alone (T1vT2/N0vN1) had at least one adve rse feature requiring adjuvant radiation or 
+chemoradiation. 
+ 
+The findings herein have to be considered in the co ntext of important limitations.  First, there 
+were a significant number of exclusions due to inco mplete staging information, a basic oncologic 
+reporting requirement that should in theory be bett er represented. The strength of the NCDB for 
+inquiry into practice patterns in head and neck onc ology might be examined in separate 
+dedicated analyses given this large amount of missi ng data. Second, in determining the cohort 
+who had primary surgical therapy, we included patie nts coded as having a “tonsillectomy” who 
+were listed as a subcategory of “pharyngectomy NOS. ” While we cannot be certain that such 
+patients received an oncologic resection, we did ex clude from our primary surgical cohort any 
+patient who had a “local tumor excision” or “excisi onal biopsy,” which would help exclude the Page 12 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article
+ 13 simple tonsillectomies done explicitly for biopsy p urposes. We also note that all patients in this 
+study classified as having primary surgical therapy  had both pathologic T and pathologic N 
+classification recorded, implying primary tumor res ection and neck dissection; pathologic N 
+classification especially would not likely be seen in patients having primary radiation therapy. 
+The issue of classification of tonsillectomy as pri mary surgery or not is important since simple 
+tonsillectomy confers no benefit to these patients and may lead to overtreatment if there are 
+resulting positive margins. Third, HPV status was only routinely recorded in th e NCDB after 
+2010 and so was not accounted for in this analysis.  This is important because the relevance of 
+ECS and its relationship to Nvupstaging may be diff erent between HPVvrelated and nonvHPVv
+related disease. Nonetheless, decisions about prima ry treatment selection over much of the study 
+were probably made without information about HPV st atus since it was not routinely tested in 
+clinical practice during many of these years. In ad dition, the NCBD does not record information 
+on prev or postvoperative radiologic workvup and re voperations for positive margin status, factors 
+that may influence treatment decisionvmaking. Final ly, information on pathologic features of 
+perineural invasion and lymphovascular invasion are  not available in the NCDB, so there may be 
+underestimation of the rates of adverse features am ong surgically treated patients.  
+ 
+The steepest rise in primary surgical therapy has b een observed toward the end of the study 
+period, correlating with 2009 FDA approval of TORS as well as increasing interest in other 
+methods of transoral endoscopic head and neck surge ry including transoral laser microsurgery 
+(TLM). 19  Hospital volume was also predictive of a primary s urgical approach. High volume 
+hospitals were the innovators and early adopters of  transoral approaches resulting in a surgical Page 13 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article
+ 14 bias. This was probably necessary, since the diffus ion of any technology requires innovators who 
+push it forward. 20  
+ 
+An important goal in primary treatment selection, e specially for HPVvrelated OPSCC, is to avoid 
+the increased toxicity associated with multimodal a djuvant therapy that would obviate the 
+desired goal (devescalation) of surgical therapy.4 In NCCN guidelines over the study period, 
+indications for postvoperative adjuvant therapy (ra diation alone or chemoradiation) include 
+adverse features of advanced pathologic T stage (T3 /T4), advanced N stage (N2/N3), positive 
+margins, ECS, perineural invasion, and lymphovascul ar invasion.15  It should be noted that some 
+data suggest that ECS may not be as important in HP Vvrelated OPSCC, 21  and a future 
+prospective trial may negate this as a recommendati on for adjuvant chemoradiation. 22  
+Nevertheless during the years of this study and as of this publication, positive margins and ECS 
+are considered indications for adjuvant chemoradiat ion (triple modality therapy) as a Category 1 
+recommendation based on RTOG and EORTC data showing  benefit in these patients.23v25  In 
+some patients, primary surgical treatment results i n none of these features, and the patient is 
+therefore able to avoid any adjuvant treatment with  radiation or chemoradiation. To the degree 
+that any of these pathologic factors might be antic ipated before treatment selection, there may be 
+opportunities to improve the treatment selection pr ocess in an attempt to avoid escalated 
+modalities of adjuvant therapy. 
+ 
+Positive margin status is a factor that should be a nticipated before choosing primary surgery.  
+Although there is some debate about the meaning of close or positive margins in HPVvrelated 
+OPSCC, most surgeons nonetheless strive to minimize  this adverse factor. 26  Reported positive Page 14 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article
+ 15 margin rates in the literature for TORS are as high  as 33%. 27   The decrease in positive margin 
+status observed over time may be related to improve ment in patient selection combined with 
+advancement in surgical skill as experience increas ed. Consistent with this observation is that 
+positive margins were more commonly observed in low  volume hospitals. While continued 
+overall progress in technique might be expected, a ceiling effect of technical improvement may 
+exist where a rate of positive margins persists. 
+ 
+ECS is another pathologic risk factor that should b e better anticipated before treatment selection. 
+In this cohort, one in four patients undergoing pri mary surgery had ECS. One recent study found 
+that greater than half of HPVvrelated regional meta stases were found to have ECS and that CT 
+was not a reliable method for determining the prese nce of ECS in patients with HPVvrelated 
+OPSCC. 24   In the future, ECS may be considered less importa nt for HPVvassociated disease. 21, 22  
+Until that time, better ways to predict ECS will le ad to fewer patients selected for primary 
+surgical treatment who end up having escalated post voperative therapy.   
+ 
+More than two out of three patients with clinically  advanced nodal disease underwent surgery. 
+These patients are more likely to receive escalated  adjuvant therapy secondary to advanced nodal 
+disease and the increased probability of having ECS . Importantly however, primary surgical 
+patients have pathologically staged nodal informati on, whereas in primary radiation patients, 
+only clinical staging is used to determine need for  adjuvant therapy. Pathologic staging may 
+sometimes reveal a lack of nodal metastases seen on  prevoperative imaging, leading to less 
+unnecessary adjuvant treatment in this group than i f they were treated with primary radiation 
+based on imaging staging alone. Conversely, patholo gic staging may lead to important upstaging, Page 15 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article
+ 16 identifying patients who might otherwise be undertr eated with adjuvant therapies. Specifically, 
+patients with advanced nodal disease (e.g. HPV nega tive oropharyngeal cancer) may have 
+improved outcomes with primary surgery followed by chemoradiation, but one prospective trial 
+attempting to answer this question was recently clo sed due to insufficient accrual.28  
+Alternatively, functional outcomes may be superior in patients with advanced nodal stage 
+undergoing primary surgery followed by a lower dose  of radiation as compared to standard 
+concurrent chemoradiation without compromising onco logic outcomes, a question which is 
+currently being examined in an ongoing trial 29 .  Until such data has matured, and with higher 
+rates of HPV positive disease, the high volume of p rimary surgery in this cohort theoretically 
+requiring escalated adjuvant therapy should be exam ined.  
+ 
+Patients with cT1vT2 and cN0vN1 tumors are potentia l candidates for single modality therapy 
+with surgery alone. In this cohort, more than one i n four such patients were T or Nvupstaged 
+enough to require adjuvant therapy, one in three ha d positive margins and/or ECS theoretically 
+requiring adjuvant chemoradiation, while slightly m ore than half had no adverse features 
+requiring adjuvant therapy.  While a full clinical assessment of the submucosal extent of tumors 
+involving the base of tongue and tonsil may be diff icult, Tvupstaging in general would suggest 
+radiographic evaluation undervrepresented the exten t of tumor at the time of pretreatment 
+evaluation. Nvupstaging also suggests nodal disease  that was more advanced than seen on 
+pretreatment radiologic imaging.  Improvements in p retreatment radiologic staging could help 
+better select patients for primary surgery who do n ot need adjuvant therapy. 
+ Page 16 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article
+ 17 Although there is great enthusiasm for the primary surgical approach to treating T1vT2 OPSCC 
+because of the possibility of limiting treatment re lated morbidity, we have demonstrated 
+elements of suboptimal treatment selection that may  ultimately be leading to escalation of 
+adjuvant therapy. The findings shed light on areas where improvement is needed in treatment 
+selection and treatment provision.  
+ 
+ 
+ 
+ 
+Figure Legends  
+Figure 1. Flow diagram of patient inclusion/exclusion  
+Figure 2. Primary treatment approach for patients with T1vT2 OPSCC. N=8,768 including 2,801 
+(31.9%) receiving primary radiation approach and 5, 967 (68.1%) receiving primary surgical 
+approach. There were 568 total patients in 2004, in creasing to 1,021 total patients in 2013. 
+P<0.0001 for difference in primary treatment approa ch over time. 
+ 
+Figure 3. Change in pathologic factors over time . A. Positive margin (24% overall) B. ECS 
+(25% overall) Pvvalues are via CochranvArmitage tes t. *For margin status, pvvalue was the same 
+when using logistic regression to ensure the trend was in a downward direction. 
+ 
+ 
+Figure 4. Margin positivity by hospital characteris tics. A. Positive margins by hospital type. 
+B. Positive margins by hospital volume. The line re presents overall positive margin percentage. 
+Pvvalues are via chivsquare statistic. 
+ 
+ 
+ 
+ 
+ 
+  Page 17 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article
+ 18 References 
+ 
+1. Chaturvedi AK, Engels EA, Pfeiffer RM, et al. Hu man papillomavirus and rising oropharyngeal cancer 
+incidence in the United States. J Clin Oncol 2011;2 9(32): 4294-301. 
+2. D'Souza G, Kreimer AR, Viscidi R, et al. Case-co ntrol study of human papillomavirus and oropharynge al 
+cancer. N Engl J Med 2007;356(19): 1944-56. 
+3. Chaturvedi AK, Engels EA, Anderson WF, Gillison ML. Incidence trends for human papillomavirus-
+related and -unrelated oral squamous cell carcinoma s in the United States. J Clin Oncol 2008;26(4): 61 2-
+9. 
+4. Ang KK, Harris J, Wheeler R, et al. Human papill omavirus and survival of patients with oropharyngea l 
+cancer. N Engl J Med 2010;363(1): 24-35. 
+5. Sedaghat AR, Zhang Z, Begum S, et al. Prognostic s ignificance of human papillomavirus in 
+oropharyngeal squamous cell carcinomas. Laryngoscop e 2009;119(8): 1542-9. 
+6. Fakhry C, Westra WH, Li S, et al. Improved survi val of patients with human papillomavirus-positive 
+head and neck squamous cell carcinoma in a prospect ive clinical trial. J Natl Cancer Inst 2008;100(4):  
+261-9. 
+7. Huang SH, Perez-Ordonez B, Liu FF, et al. Atypic al clinical behavior of p16-confirmed HPV-related 
+oropharyngeal squamous cell carcinoma treated with radical radiotherapy. Int J Radiat Oncol Biol Phys 
+2012;82(1): 276-83. 
+8. Goldenberg D, Begum S, Westra WH, et al. Cystic lymph node metastasis in patients with head and 
+neck cancer: An HPV-associated phenomenon. Head Nec k 2008;30(7): 898-903. 
+9. Calais G, Alfonsi M, Bardet E, et al. Randomized  trial of radiation therapy versus concomitant 
+chemotherapy and radiation therapy for advanced-sta ge oropharynx carcinoma. J Natl Cancer Inst 
+1999;91(24): 2081-6. 
+10. Chen AY, Zhu J, Fedewa S. Temporal trends in oro pharyngeal cancer treatment and survival: 1998-
+2009. Laryngoscope 2014;124(1): 131-8. 
+11. Liederbach E, Lewis CM, Yao K, et al. A Contemp orary Analysis of Surgical Trends in the Treatment of 
+Squamous Cell Carcinoma of the Oropharynx from 1998  to 2012: A Report from the National Cancer 
+Database. Ann Surg Oncol 2015. 
+12. Lorincz BB, Jowett N, Knecht R. Decision manage ment in transoral robotic surgery: Indications, 
+individual patient selection, and role in the multi disciplinary treatment for head and neck cancer fro m a 
+European perspective. Head Neck 2015. 
+13. Mydlarz WK, Chan JY, Richmon JD. The role of su rgery for HPV-associated head and neck cancer. Oral  
+Oncol 2015;51(4): 305-13. 
+14. Chen AY. A shifting paradigm for patients with head and neck cancer: transoral robotic surgery 
+(TORS). Oncology (Williston Park) 2010;24(11): 1030 , 32. 
+15. National Comprehensive Cancer Network. Head and  Neck Cancers NCCN Guidelines Version 1.2015. 
+http://www.nccn.org/professionals/physician_gls/pdf /head-and-neck.pdf . 
+16. Chen MM, Roman SA, Kraus DH, Sosa JA, Judson BL . Transoral Robotic Surgery: A Population-Level 
+Analysis. Otolaryngol Head Neck Surg 2014;150(6): 9 68-75. 
+17. Bilimoria KY, Stewart AK, Winchester DP, Ko CY.  The National Cancer Data Base: a powerful initiati ve 
+to improve cancer care in the United States. Ann Su rg Oncol 2008;15(3): 683-90. 
+18. Deyo RA, Cherkin DC, Ciol MA. Adapting a clinic al comorbidity index for use with ICD-9-CM 
+administrative databases. J Clin Epidemiol 1992;45( 6): 613-9. 
+19. Holsinger FC. New Approaches: Robotics and Endo scopic Head and Neck Surgery. In: Harrison LB, 
+Sessions RB, Kies M, editors. Head and Neck Cancer:  A Multidisciplinary Approach, 4th edition, 2013. 
+20. Rogers EM.  Diffusion of innovations (5th ed.). New York, NY: F ree Press, 2003. Page 18 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article
+ 19 21. Sinha P, Lewis JS, Jr., Piccirillo JF, Kallogje ri D, Haughey BH. Extracapsular spread and adjuvant  
+therapy in human papillomavirus-related, p16-positi ve oropharyngeal carcinoma. Cancer 2012;118(14): 
+3519-30. 
+22. Haughey BH. Post Operative Adjuvant Therapy De- intensification Trial for Human Papillomavirus-
+related, p16+ Oropharynx Cancer (ADEPT). Available from URL: ClinicalTrials.gov: NCT01687413 
+[accessed 8-25-15, 2015]. 
+23. Bernier J, Domenge C, Ozsahin M, et al. Postope rative irradiation with or without concomitant 
+chemotherapy for locally advanced head and neck can cer. N Engl J Med 2004;350(19): 1945-52. 
+24. Cooper JS, Pajak TF, Forastiere AA, et al. Post operative concurrent radiotherapy and chemotherapy 
+for high-risk squamous-cell carcinoma of the head a nd neck. N Engl J Med 2004;350(19): 1937-44. 
+25. Bernier J, Cooper JS, Pajak TF, et al. Defining  risk levels in locally advanced head and neck canc ers: a 
+comparative analysis of concurrent postoperative ra diation plus chemotherapy trials of the EORTC 
+(#22931) and RTOG (# 9501). Head Neck 2005;27(10): 843-50. 
+26. Weinstein GS, O'Malley BW, Jr., Rinaldo A, Silv er CE, Werner JA, Ferlito A. Understanding 
+contraindications for transoral robotic surgery (TO RS) for oropharyngeal cancer. Eur Arch 
+Otorhinolaryngol 2015;272(7): 1551-2. 
+27. Genden EM, Kotz T, Tong CC, et al. Transoral ro botic resection and reconstruction for head and nec k 
+cancer. Laryngoscope 2011;121(8): 1668-74. 
+28. Radiation Therapy Oncology Group. RTOG 1221 Pro tocol Information. Available from URL: 
+http://www.rtog.org/ClinicalTrials/ProtocolTable/St udyDetails.aspx?study=1221  [accessed May 26th, 
+2015. 
+29. Ferris RECOG. Transoral Surgery Followed By Low -Dose or Standard-Dose Radiation Therapy With or 
+Without Chemotherapy in Treating Patients With HPV Positive Stage III-IVA Oropharyngeal Cancer: 
+NCT01898494. Available from URL: https://clinicaltr ials.gov/ct2/show/NCT01898494 [accessed January 
+12th, 2016]. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                          Page 19 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted ArticleTable 1. Primary Treatment Modality in Patients wit h T1=T2 OPSCC  
+Characteristic Overall  
+ Primary Surgical 
+Treatment (vs. Primary 
+XRT) 
+ Multivariable Analysis of 
+Primary Surgical Treatment 
+ 
+ No.  
+(Column %) No.  
+(Row % 
+compared to 
+Primary XRT, 
+not shown) p-value Adjusted Odds 
+Ratio (95% C.I.) 
+ p-value 
+Patients 8768 5967 (68.1%)    
+Age at Diagnosis   p=0.265   
+ <50 1732 (19.8%) 1210 (69.9%)  1 [Reference]  
+ 50=64 4843 (55.2%) 3287 (67.9%)  0.78 (0.68 = 0.89 ) p<0.0001 
+ 65=79 1940 (22.1%) 1297 (66.9%)  0.68 (0.55 – 0.83 ) p<0.0001 
+ ≥80 253 (2.9%) 173 (68.4%)  0.70 (0.49 – 0.99) p=0.046 
+Sex   p=0.001   
+ Male 6911 (78.8%) 4644 (67.2%)  0.93 (0.81 = 1.06)  p=0.251 
+ Female 1857 (21.2%) 1323 (71.2%)  1 [Reference]  
+Race   p=0.688   
+ White 8032 (91.6%) 5463 (68%)  1 [Reference]  
+ Black 492 (5.6%) 332 (67.5%)  0.85 (0.67 = 1.06) p =0.152 
+ Other 244 (2.8%) 172 (70.5%)  1.10 (0.80 = 1.51) p =0.556 
+Clinical N Stage*   p<0.0001   
+ N0 2304 (26.3%) 1856 (80.6%)  1 [Reference]  
+ N1 2030 (23.2%) 1357 (66.8%)  0.44 (0.37 = 0.51) p<0.0001 
+ N2 4151 (47.3%) 2602 (62.7%)  0.33 (0.28 = 0.38) p<0.0001 
+ N3 283 (3.2%) 152 (53.7%)  0.26 (0.20 = 0.35) p<0.0001 
+Clinical T=Stage*   p=0.245   
+ T1 4155 (47.4%) 2853 (68.7%)  1 [Reference]  
+ T2 4613 (52.6%) 3114 (67.5%)  0.93 (0.84 – 1.03) p =0.142 
+Insurance Status   p=0.007   
+ Private 5942 (67.8%) 4091 (68.8%)  1.19 (1.01 = 1. 39) p=0.036 
+ Uninsured 358 (4.1%) 220 (61.5%)  0.93 (0.70 = 1.2 5) p=0.639 
+ Government** 2468 (28.1%) 1656 (67.1%)  1 [Referen ce]  Page 20 of 26 Cancer 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article
+ Table 1. Continued      
+Characteristic Overall  
+ Primary Surgical 
+Treatment (vs. Primary 
+XRT) 
+ Multivariable Analysis of 
+Primary Surgical Treatment 
+ 
+ No.  
+(Column %) No.  
+(Row % 
+compared to 
+Primary XRT, 
+not shown) p-value  No.  
+(Column 
+%) 
+Charlson=Deyo Comorbidity 
+Count   p=0.029   
+ 0 7194 (82%) 4854 (67.5%)  1 [Reference]  
+ 1 1279 (14.6%) 911 (71.2%)  1.13 (0.97 = 1.30) p=0 .122 
+ ≥2 295 (3.4%) 202 (68.5%)  0.95 (0.71 = 1.26) p=0. 705 
+Year Diagnosed   p<0.0001   
+ 2004 568 (6.5%) 319 (56.2%)  1 [Reference]  
+ 2005 644 (7.3%) 354 (55%)  0.98 (0.76 = 1.27) p=0. 913 
+ 2006 674 (7.7%) 400 (59.3%)  1.09 (0.84 – 1.41) p= 0.484 
+ 2007 747 (8.5%) 431 (57.7%)  1.14 (0.89 = 1.46) p= 0.294 
+ 2008 1052 (12%) 674 (64.1%)  1.50 (1.18 – 1.89) p=0.001 
+ 2009 1174 (13.4%) 792 (67.5%)  1.78 (1.41 = 2.25) p<0.0001 
+ 2010 939 (10.7%) 651 (69.3%)  1.86 (1.46 – 2.39) p<0.0001 
+ 2011 979 (11.2%) 724 (74%)  2.28 (1.78 – 2.92) p<0.0001 
+ 2012 970 (11.1%) 784 (80.8%)  3.37 (2.60 – 4.37) p<0.0001 
+ 2013 1021 (11.6%) 838 (82.1%)  3.82 (2.95 – 4.96) p<0.0001 
+Facility Type    p<0.0001   
+ Academic/ NCI CCC 4496 (51.3%) 3306 (73.5%)  1 [Re ference]  
+ Community 4272 (48.7%) 2661 (62.3%)  0.91 (0.75 = 1.10) p=0.334 
+Hospital Volume   p<0.0001   
+ 1=10 pts 3018 (34.4%) 1791 (59.3%)  1 [Reference]  
+ 11=20 pts 1576 (18%) 1057 (67.1%)  1.41 (1.13 = 1. 75) p=0.002 
+ 21=50 pts 1883 (21.5%) 1336 (71%)  1.52 (1.17 = 1. 97) p=0.002 
+ >50 pts 2291 (26.1%) 1783 (77.8%)  2.23 (1.55 – 3. 22) p<0.0001 
+Abbreviations: OPSCC, oropharyngeal squamous cell c arcinoma; XRT, external radiation therapy, NCI 
+CCC, national cancer institute comprehensive cancer  center; N, nodal; T, tumor.  
+Bold  p=values are <0.05 
+*Both nodal and T stage defined as clinical staging , since this was the only information available bef ore 
+selection of primary treatment modality. 
+**Medicare and Medicaid Page 21 of 26 Cancer 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted ArticleTable 2a: Clinical Nodal Stage Compared to Patholog ic Stage Among Primary Surgical  
+  Pathologic N Stage, N (Row %)    
+Patients 4833  N0 N1 N2a/N2b N2c/N3  
+   1230 (25.5) 921 (19.1) 2380 (49.2)  302(6.3)  
+Clinical N Stage, N  
+(Column %)        
+ N0 1427 (29.5)   1085 (76.0) 172 (12.1) 158 (11.1) 12 (0.8) /barb2right24% upstaged 
+ N1 1143 (23.7)   77 (6.74) 625 (54.7) 415 (36.3) 26 (2.3) /barb2right39% upstaged 
+ N2a/N2b  2000 (41.4)   54 (2.7) 115 (5.8) 1763 (88.2)  68 (3.4) /barb2right3% upstaged 
+            N2c/N3 263(5.4)  14(5.32) 9(3.4) 44 (16.7) 196(74.5)  
+Abbreviation: N, nodal.  
+*Clinical stage row totals do not match Table 1 Col umn 2 because of exclusion 
+of surgical patients with incomplete pathologic inf ormation   
+ 
+ 
+Table 2b: Clinical Tumor Stage Compared to Patholog ic Stage Among Primary Surgical Patients 
+ 
+  Pathologic T Stage, N (Row %)    
+Patients 4833  T1 T2 T3 T4  
+    2287 (47.3) 2227 (46.1) 208 (4.3) 111 (2.3)  
+Clinical T Stage, N 
+(Column %)        
+ T1 2345 (48.5)   1948 (83.1) 358 (15.3) 24(1.0) 15(0.6) /barb2right17% upstaged 
+ T2 2488 (51.5)   339 (13.6) 1869 (75.1) 184 (7.4) 96(3.9) /barb2right11% upstaged 
+Abbreviation: T, tumor.  
+*Clinical stage row totals do not match Table 1 Col umn 2 because of exclusion of 
+surgical patients with incomplete pathologic inform ation  
+ 
+ Page 22 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article  
+ 
+ 
+Figure 1. Flow diagram of patient inclusion/exclusi on  
+78x75mm (600 x 600 DPI)  
+Page 23 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article  
+ 
+ 
+Figure 2. Primary treatment approach for patients w ith T1-T2 OPSCC. N=8,768 including 2,801 (31.9%) 
+receiving primary radiation approach and 5,967 (68. 1%) receiving primary surgical approach. There were  
+568 total patients in 2004, increasing to 1,021 tot al patients in 2013. P<0.0001 for difference in pri mary 
+treatment approach over time.  
+60x43mm (600 x 600 DPI)  
+Page 24 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article  
+ 
+ 
+Figure 3. Change in pathologic factors over time. A . Positive margin (24% overall) B. ECS (25% overall ) P-
+values are via Cochran-Armitage test. *For margin s tatus, p-value was the same when using logistic 
+regression to ensure the trend was in a downward di rection.  
+62x22mm (600 x 600 DPI)  
+Page 25 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+ Accepted Article  
+ 
+ 
+Figure 4. Margin positivity by hospital characteris tics. A. Positive margins by hospital type. B. Posi tive 
+margins by hospital volume. The line represents ove rall positive margin percentage. P-values are via c hi-
+square statistic.  
+64x24mm (600 x 600 DPI)  
+Page 26 of 26 Cancer 
+This article is protected by copyright. All rights reserved.
+ 10970142, 2016, 10, Downloaded from https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.29938, Wiley Online Library on [27/10/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

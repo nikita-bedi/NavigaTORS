@@ -1,0 +1,304 @@
+1 3Eur Arch Otorhinolaryngol (2015) 272:463–471
+DOI 10.1007/s00405-014-2985-7
+HEAD AND NECK 
+Functional outcomes after TORS for oropharyngeal cancer: a 
+systematic review
+Katherine A. Hutcheson · F. Christopher Holsinger · 
+Michael E. Kupferman · Jan S. Lewin 
+Received: 3 November 2013 / Accepted: 24 February 2014 / Published online: 19 March 2014 
+© Springer-Verlag Berlin Heidelberg 2014
+reported. Incidence of postoperative pneumonia was 
+0–7 %. Predictors of swallowing function included baseline function, T-stage, N-stage, tongue base primary tumors, and adjuvant chemoradiation. Rates of transient hyperna-sality were 4–9 %. A single study suggested dose-depend-
+ent effects of adjuvant therapy (none, radiation alone, chemoradiation) on diet scores at 6 and 12 months. Crude end points of functional recovery after TORS ± adjuvant therapy suggest promising swallowing outcomes, depend-ing on the functional measure reported.
+Keywords Transoral robotic surgery · Oropharyngeal 
+cancer · Functional outcome · SwallowingAbbreviations
+TORS  Transoral robotic surgery
+IMRT  Intensity-modulated radiotherapy
+Introduction
+The incidence of oropharyngeal cancer (OPC) is rising 
+precipitously, and the annual number of cases in the USA is projected to almost double by the year 2030 [1]. Con-temporary OPC survivors, who predominantly present with HPV-associated disease, are younger, commonly diagnosed in the 5th decade, and have favorable prognosis for long-term survival. Treatment paradigms for OPC have shifted in recent decades, coincident with changes in the epidemi-ology of the disease. The use of “open” transmandibular surgery has declined as organ preservation regimens using radiotherapy and chemoradiotherapy have become the core modalities of treatment for OPC. Pooled data from obser -
+vational studies over 40 years (1970–2000) support this practice, citing equivalent locoregional control and survival Abstract  Summarize functional outcomes after transoral 
+robotic surgery (TORS) ± adjuvant therapy for oropharyn-geal cancer (OPC). A systematic review was conducted. The MEDLINE database was searched (MeSH terms: TORS, pharyngeal neoplasms, oropharyngeal neoplasms). Peer-reviewed human subject papers published through December 2013 were included. Exclusion criteria were as follows: (1) case report design (n < 10), (2) review arti-cle, or (3) technical, animal, or cadaver studies. Functional outcomes extracted included feeding tube dependence, swallow examination findings, speech ratings, velopharyn-geal insufficiency, pneumonia, and oral intake measures. Twelve papers comprising 441 patients with OPC treated with TORS ± adjuvant therapy were included. Feeding 
+tube rates were the most commonly reported functional outcome. Excluding prophylactic placement, 18–39 % of patients required gastrostomy placement, typically during adjuvant therapy. Chronic gastrostomy dependence ranged from 0 to 7 % (mean follow-up 11–26 months), regard-less of disease stage. Composite MD Anderson Dyspha-gia Inventory (MDADI) scores ranged from 65.2 to 78 (89 patients, 3 series, mean follow-up 12–13 months). Vide-ofluoroscopic swallowing studies were not systematically 
+This paper was presented as a poster at the American Head and 
+Neck Society 2013 Meeting at the Combined Otolaryngology Spring Meeting, April 10–11, 2013, Orlando, Florida.
+K. A. Hutcheson (*) · M. E. Kupferman · J. S. Lewin 
+Department of Head and Neck Surgery, The University of Texas 
+MD Anderson Cancer Center, 1515 Holcombe Blvd., Unit 1445, 
+Houston, TX 77030, USAe-mail: karnold@mdanderson.org
+F. C. Holsinger 
+Department of Otolaryngology-Head and Neck Surgery, Stanford School of Medicine, Stanford, CA, USA 464 Eur Arch Otorhinolaryngol (2015) 272:463–471
+1 3
+with lower rates of severe (including gastrostomy and tra-
+cheostomy) or fatal complications after nonsurgical therapy compared with definitive open surgery [2]. Meta-analyses also demonstrate survival benefits of chemoradiation over radiotherapy alone, and so concurrent chemoradiation regi-mens are now the mainstay of current treatment for OPC [3].
+Swallowing is the primary functional priority of OPC 
+survivors [4], with claims of superior swallowing func-tion after nonsurgical therapy compared with open surgery and postoperative radiation. For instance, a cross-sectional comparison of chemoradiation versus open surgery with adjuvant radiotherapy reported roughly 20–30 % better swallowing-related quality-of-life scores in long-term sur -
+vivors after nonsurgical therapy despite more advanced-stage tumors in the chemoradiation group [5]. Nonetheless, chemoradiation can be associated with significant toxic-ity and adverse functional effects. Dysphagia is among the most commonly cited functional impairments in OPC survivors [4]. Gastrostomy placement is required in up to 62 % of OPC patients during definitive radiotherapy due to the acute toxicities of treatment, and as many as 23 % are 
+still dependent on feeding tubes 6 months after treatment 
+[6].
+Dysphagia is also an important late complication. Severe 
+(grade 3–4) late laryngopharyngeal toxicity was reported in 35 % of 101 OPC survivors who had adequate baseline function in a pooled analysis of 3 RTOG trials of concomi-tant chemoradiotherapy [7], and the 3-year prevalence of dysphagia approached 50 % in a population-level analysis 
+of OPC survivors in the SEER-Medicare database [8]. In addition, late onset of radiation-associated dysphagia (late-RAD) is a rare but particularly devastating delayed toxicity of nonsurgical organ preservation among OPC survivors, associated with progressive functional deterioration even decades after treatment [9]. Thus, current data strongly sug-gest that both early and long-term swallowing outcomes are a key metric of successful organ preservation after OPC.
+Transoral robotic surgery (TORS) has emerged as a 
+minimally invasive approach of endoscopic head and neck surgery (eHNS) as an alternative to nonsurgical organ preservation regimens in OPC. The proposed functional advantages of TORS are many. TORS allows access for oropharyngeal resection without pharyngotomy or man-dibulotomy, maintaining the critical muscular framework of the laryngopharynx necessary to preserve swallow-ing function. Tracheostomy, typically required for airway management after open resection, is also avoided in most (70–100 %) TORS cases, regardless of adjuvant therapy [10, 11]. Finally, proponents of a primary surgical approach 
+with TORS cite the potential to de-escalate radiotherapy to postoperative doses or to avoid concomitant chemotherapy or radiotherapy altogether as a major functional advantage of TORS. Collectively, published series suggest that 9–27 % of patients treated with frontline TORS avoid post-
+operative radiotherapy and 34–45 % avoid chemoradiother -
+apy [10–14]. These advantages are proposed to preserve swallowing function in properly selected patients treated with TORS. A number of authors have reported functional outcomes of TORS for OPC, but these data have not been comprehensively summarized. The purpose of this system-atic review was to summarize functional outcomes after TORS (±adjuvant therapy) for OPC in published literature, with particular emphasis on swallowing-related outcomes.
+Methods
+Search methodsThe primary search for this systematic review was con-
+ducted using the electronic MEDLINE database (data source: OVID). The search was limited to human sub-ject research in peer-reviewed journal articles published through December 2013. Medical subject heading (MeSH) terms were used to identify papers for 2 groups of terms: (1) TORS (MeSH term: TORS; 159 papers retrieved) and (2) pharyngeal neoplasms or oropharyngeal neoplasms (MeSH terms: pharyngeal neoplasms, oropharyngeal neo-plasms; 25,329 papers retrieved). The final MEDLINE search identified 55 papers by cross-referencing the two groups of terms for common papers. The bibliographies of relevant articles were then hand-searched to identify addi-tional manuscripts. Hand-searching identified 5 additional papers.
+Selection criteria and data collectionThe abstracts of 60 peer-reviewed journal articles identi-
+fied by electronic and hand searches were screened. Arti-cles were excluded during the screening process accord-ing to the following exclusion criteria: 1) case report study design (n < 10), 2) review article, or 3) technical, animal, or cadaver studies. The full text of 27 articles was reviewed for the following data points: sample size, study methods, patient demographics, site and stage of disease, HPV or p16 status, prior treatment, adjuvant treatment, follow-up time, methods of functional assessment and rehabilitation, and functional outcomes. Functional outcomes extracted included measures of feeding tube dependence, instrumen-tal and clinical swallow evaluations, patient-reported out-come (PRO) measures, speech outcomes, velopharyngeal insufficiency, pneumonia, and diet. After full-text review, articles that reported any speech and/or swallowing-related outcomes among OPC patients treated with primary TORS (regardless of adjuvant treatment[s]) were included. Series  465 Eur Arch Otorhinolaryngol (2015) 272:463–471 
+1 3
+comprised of ≥20 % of salvage cases were excluded to 
+focus on functional outcomes after TORS as a primary therapeutic modality. Ten articles that met inclusion criteria after full-text review were summarized in this systematic review. Data from two overlapping cohorts were included because they reported complementary functional data and had varied inclusion criteria [11, 14–16]. Search results are 
+illustrated in Fig. 1. Results were summarized in descrip-tive format. Statistical analyses were conducted using the STATA data analysis statistical software, version 10.0 (StataCorp LP, www.stata.com, College Station, TX).
+Results
+Population characteristicsA total of 441 patients in 12 papers were systematically 
+reviewed. Sample sizes ranged from 12 to 66 OPC patients among individual studies. All were single-institution case series (level 4 evidence). Three studies reported on TORS for advanced (III–IV) [11, 14, 17], and one study reported 
+outcomes for early (T1–T2) OPC tumors [10]. The remain-ing 8 studies reported outcomes after TORS for all stages of disease (AJCC I–IV). Adjuvant radiotherapy was delivered in 63–100 % of cases, with chemoradiation in 18–63 %. Neck dissections were performed in 41–100 % of TORS cases. Only 2 of 12 papers reported HPV status of patients, both of which reported that the majority of TORS cases were HPV + (72–80 %). None stratified functional outcomes by HPV status.
+Feeding tubesFeeding tube rates were reported in all 12 studies. Table 1 
+outlines rates of perioperative feeding tube placement, PEG placement, and chronic PEG dependence. Rates of perio-perative feeding tube placement varied widely by disease stage and institutional practices (3–100 %), and the average duration of perioperative nasogastric tubes was 2–13 days [11, 13, 17, 18]. Excluding prophylactic placement [15], 
+18–39 % of patients required gastrostomy placement, typically during adjuvant therapy. A single study of radi-cal tonsillectomy reported the placement of gastrostomy tubes intraoperatively in all patients [15]. PEG placement 
+did not differ significantly when stratified by AJCC stage [12], but one series reported PEG placement exclusively in patients with T3 or T4 tumors and mostly in patients with tongue base primaries [11]. Chronic gastrostomy depend-ence was reported in 11 of 12 studies and ranged from 0 to 7 % (mean follow-up 11–32 months), regardless of disease stage. Postoperative chemotherapy was found to indepen-dently predict for prolonged gastrostomy (>3 months) after TORS [10].
+PEG utilization was compared as a marker of acute 
+swallowing morbidity among primary TORS (± adjuvant therapy) series and definitive intensity-modulated radio-therapy (IMRT ± systemic therapy) series. Excluding stud-
+ies that restricted inclusion to early-stage disease and those that routinely prophylactically placed PEG tubes, 18–39 % of patients required PEG tubes in TORS series [11–13, 16, 
+18, 19] compared with 29–60 % of patients in definitive 
+IMRT series [6, 20–25] (Fig. 2).
+Oral intakeMeasures of oral intake or dietary outcomes were reported 
+in 8 studies. Time to oral intake varied by T-stage (Table 2). 
+Oral intake was earlier among 3 series that excluded T4 tumors [12, 13]; 96 % of patients began oral intake on POD 
+#1 after TORS for T1–T2 tumors [12], and mean time to 
+oral intake was 2 days after TORS for T1–T3 OPC tumors [13]. In contrast, only 51 % of patients began oral intake on POD #1 after TORS when data were reported for patients of all T-stages (T1–T4) [11]. Among series including all T-stages, 69–73 % began oral intake by discharge [18, 26], 
+83 % by week 2 [26], and 89 % by week 4 [11].
+Two studies longitudinally assessed dietary outcomes 
+per the standardized Performance Status Scale Head and 
+Fig. 1  Search strategy. n number of papers 466 Eur Arch Otorhinolaryngol (2015) 272:463–471
+1 3
+Neck (PSS-HN) [13, 19]. Leonhardt et al. reported a sta-
+tistically significant drop in Normalcy of Diet scale scores 
+from baseline (96.1 ± 17.0) to 6 months (74.4 ± 34.0); diet scores improved thereafter and were no longer significantly depressed at 12 months (84.2 ± 26.3) [19]. These diet scores reflect, on average, a change from unrestricted sol-ids preoperatively to restricted solids (e.g., avoiding certain meats or dry foods) at post-TORS intervals. Similarly, Gen-den et al. reported that mean PSS-HN diet scores reached a nadir near 25 points (equivalent to a liquid/blended diet) 2 months after TORS and rose precipitously to near-normal levels (approximately 90 points) by 12 months [13]. Sig-nificant drops in dietary scores 2–6 months after TORS in these series were likely in part attributed to acute toxicities of adjuvant therapy.
+Swallowing outcomesBeyond feeding tube data, measures of swallowing-related 
+outcomes varied widely among the 12 studies included in this review (Table 3). Outcomes of instrumental swal-
+lowing studies were rarely reported. Fiber-optic endo-scopic evaluations of swallowing (FEES) were performed longitudinally from baseline through 1 year after TORS (postoperatively at 2 weeks, 2, 6, 9, and 12 months) in a single study [13]. Discrete data were not reported, but the authors reported that no patients developed aspiration or velopharyngeal reflux per FEES. Videofluoroscopic swal-lowing assessments were not systematically performed among the 12 studies. Thus, MBS outcomes could not be analyzed in this systematic review (Table 3). 
+Swallowing outcomes were summarized according to 
+the clinician-rated Functional Outcome Swallowing Score (FOSS) [27] pre- and post-TORS (4 weeks) in one series [11]; median FOSS scores were 1 indicative of “compen-sated abnormal swallow function” at both intervals. In addition, FOSS scores returned to normal (FOSS = 0) by the 4-week assessment interval in all patients who had nor -
+mal baseline swallows (FOSS = 0) and avoided adjuvant radiotherapy [11].
+Swallowing-related quality of life was measured in 
+three studies using the validated MD Anderson Dysphagia Inventory (MDADI); 19-item composite summary scores were calculated per Chen et al. [28]. Composite MDADI scores reported among 89 patients in 3 studies at a mean follow-up of 12–13 months ranged from 65.2 to 78 [10, 17, 
+26]. Finally, the incidence of postoperative pneumonia was reported in 3 studies and ranged from 0 to 7 % [14, 15, 18].Table 1  Rates of feeding tube placement and dependence after TORS for OPC
+OPC oropharyngeal cancer, TORS transoral robotic surgery, PEG percutaneous gastrostomy, ¯x mean
+* Percent of patients receiving adjuvant radiotherapy (±chemotherapy)
+** Perioperative tubes included nasogastric or gastrostomy tubes placed intraoperatively or in postsurgical recovery
+*** includes tubes placed prophylactically in all patients receiving adjuvant chemoradiation
+– Not reportedCohort
+(n, follow-up time)RT (%)* Perioperative feeding tube** Percutaneous gastrostomy (PEG)
+Ever PEG Final PEG
+Rate (%) Reason tube Rate (%) Reason PEG Rate (%)
+Early (I–II) OPC
+Sinclair et al. (n = 42, ¯x 17 mos) [10] 76 3 Dysphagia 21 Adjuvant therapy 0
+Advanced (III–IV) OPC
+Weinstein et al. (n = 47, ¯x 26 mos) [14] 85 – – – – 2
+Moore et al. (n = 45, ¯x 12 mos) [11] 73 29 Risk of dysphagia 18 TORS or adjuvant 0
+Weinstein et al. (n = 27, min 6 mos) [15] 89 100 Risk of dysphagia 100 Intraop (radical tonsil) 4
+More et al. (n = 19, median 14 mos) [17] 100 80 Not specified 60 Adjuvant therapy*** 0
+All stage (I–IV) OPC
+Hurtuk et al. (n = 54, ¯x 11 mos) [12] 91 4 Fistula 20 Adjuvant therapy 7
+Genden et al. (n = 31, ¯x 18 mos) [13] 68 11 Flap 23 Adjuvant therapy 0
+Iseli et al. (n = 33, ¯x 13 mos) [26] 41 – – – – 6
+Leonhardt et al. (n = 38, ¯x 15 mos) [19] 76 – – 39 – 3
+Van abel et al. (n = 15, not reported) [18] – 53 Risk of dysphagia – – –
+Moore (n = 66, ¯x 36 mos) [16] 83 47 Risk of dysphagia 27 TORS or adjuvant 5
+Weinstein (n = 30, ¯x 32 mos) [29] 0 – – – – 0 467 Eur Arch Otorhinolaryngol (2015) 272:463–471 
+1 3
+Predictors of swallowing function
+Predictors of swallowing function included baseline func-
+tion, T-stage, nodal status, base of tongue primary tumors, and adjuvant chemoradiation. T3 or T4 primary tumors were found to differentiate FOSS scores and PEG utiliza-tion in one study [11], whereas N-stage independently predicted persistently poor long-term swallowing-related quality of life per MDADI scores in another study [10]. Similarly, resections of >50 % of the base of tongue pre-dicted poorly compensated dysphagia (per FOSS > 2) and prolonged PEG dependence [11].
+A single study stratified functional outcomes by adju-
+vant treatment (none, RT alone, chemo-RT), reporting near-normal speech, diet, and eating ≥6 months after TORS alone per the Performance Status Scale Head and Neck (PSS-HN). Dose-dependent effects of adjuvant therapy were apparent in diet scores at 6 and 12 months. Relative to TORS alone, diet scores were 23 and 16 % lower in patients who received adjuvant RT and 53 and 36 % lower in patients who received adjuvant chemo-RT at 6 and 12 months, respectively [19].
+TracheostomyRates of tracheostomy were reported in 11 of 12 stud-
+ies (Table 4), ranging from 0 to 31 %. Two institutions reported tracheostomy rates in excess of 20 %, presum-ably in cases with advanced-stage tumors, but this strati-fication was not specified [11, 13, 16]. Among all papers 
+(pooled n = 411 cases reporting tracheostomy rates), only 
+two patients were permanently tracheostomy dependent [14, 16]. When reported, mean tracheostomy dependence 
+ranged from 7 to 8 days [11, 14].
+SpeechSpeech-related outcomes were described in 5 series [11, 13, 
+15, 19, 29]. Summary speech ratings were taken longitudi-
+nally in 3 studies, according to the clinician-rated PSS-HN 
+Understandability of Speech scale [30] in 2 series [13, 19] 
+and using an ordinal, nonvalidated speech grade (normal, minor, gross) in the remaining [11]. The former reported PSS-HN speech scores above 75 (indicating “understand-able most of the time” or better) at all post-TORS intervals, and speech received “normal” ratings on the initial post-TORS rating in the latter series. Transient hypernasality was reported in 3–9 % of patients in 3 studies [11, 15, 29].
+Long-term function after TORS
+Long-term gastrostomy tube rates were reported in 426 
+patients from 11 studies and ranged from 0 to 7 %, with mean follow-up in most studies between 1 and 2 years (Table 1 ). 
+Long-term outcomes data from instrumental swallowing stud-ies were not quantified in any of the 12 studies. Longitudinal studies only quantified functional outcomes with standard-ized metrics to 1 year after TORS and reported near-baseline 
+Fig. 2  Crude rates of gastrostomy utilization after primary TORS 
+(±adjuvant therapy) compared with definitive IMRT (±systemic ther -
+apy). Excluding studies that restricted inclusion to early-stage disease 
+and those that prophylactically placed PEG tubes in all patients, 18–39 % (median 23 %) required gastrostomy tubes in TORS series com-pared with 29–60 % (median 46 %) of patients in definitive IMRT series
+Table 2  Time to oral intake after TORS for OPC
+* No. of studies reporting time to oral intake by T-stageT-stage No. of
+studies*Time to oral intake after TORS
+Time interval % patients oral
+T1-T2 1 POD1 96 [12]
+T1-T3 2 By discharge 100  [17]
+By week 1 100  [13]
+T1-T4 3 POD1 51  [11]
+By discharge 69  [26]
+73  [18]
+By week 2 83  [26]
+By week 4 89  [11] 468 Eur Arch Otorhinolaryngol (2015) 272:463–471
+1 3
+diet levels per the PSS-HN (mean diet scores >80, reflecting 
+solid diet with few restrictions) at 1 year [13, 19]. Similarly 
+favorable outcomes were reported with regard to long-term airway and speech functioning. Only two patients among the total 411 pooled (reporting tracheostomy rates) from all stud-ies were permanently tracheostomy dependent, and both were in series that included advanced-stage tumors.
+Discussion
+HPV-associated cancers now account for roughly 70 % of 
+new OPC cases [1]. HPV-associated OPCs are clinically distinct from tobacco-related cancers, diagnosed at a younger age with favorable prognosis for long-term sur -
+vival. Thus, function-sparing treatment is a chief goal for this population. Unfortunately, dysphagia remains a signifi-cant toxicity of current organ preservation strategies that have intensified over time by the addition of concurrent chemotherapy and accelerated fractionation schedules of radiotherapy [31, 32]. Cooperative group trials and popu-
+lation-based data suggest an excess burden of dysphagia in HNC patients treated with chemoradiotherapy compared with other treatment modalities [7, 8]. Herein, we report 
+promising early functional results of a frontline surgical organ preservation strategy with TORS for OPC, with par -
+ticular emphasis on swallowing outcomes. Early data are limited, however, by lack of systematic functional assess-ment using instrumental examinations and by short follow-up time.
+Published end points of functional recovery after TORS 
+suggest encouraging early outcomes. Rates of feeding tube placement and dependence after TORS were lower than published benchmarks in IMRT series of patients with OPC. However, scores from PRO questionnaires reported in TORS series in this review had significant overlap with scores previously published in chemoradiation cohorts. Specifically, summary MDADI scores (based on 19-item composite scores) from TORS series ranged from 65.2 to 78 [10, 17, 26] compared with 73.6 to 74.1 in published 
+series of OPC patients treated with nonsurgical chemora-diation approach [5, 33]. Selection bias is a clear limita-
+tion when comparing outcomes of relatively small, single-institution TORS series to published benchmarks in larger, more inclusive IMRT series. Controlled comparisons are needed.Table 3  Measures of swallowing-related outcomes
+Feeding tube rates Instrumental 
+swallow studiesStandardized functional scales Pneumonia
+T Peri-operativePEGeverPEGchronicFEES MBS PSS-HN [30] FOIS [38] FOSS [27] MDADI [28]
+Hurtuk [12] 1–2 √ √ √
+Sinclair [10] 1–2 √ √ √ √
+Weinstein [15] 1–3 √ √ √ √
+Genden [13] 1–3 √ √ √ √ √ √
+Weinstein [14] 1–4 √ √
+Van Abel [18] 1–4 √ √
+Iseli [26] 1–4 √ √ √
+Leonhardt [19] 1–4 √ √ √
+Moore [11] 1–4 √ √ √ √
+Moore [16] 1–4 √ √ √
+Weinstein [29] 1–4 √
+More [17] 1–3 √ √ √ √
+Table 4  Tracheostomy rates after TORS for OPC
+Cohort(n, follow-up time) Tracheostomy
+Ever (%) Final (%)
+Early (I–II) OPC
+Sinclair (n = 42, ¯x 17 M) [10]0 0
+Advanced (III–IV) OPC
+Weinstein (n = 47, ¯x 26 M) [14] 11 2
+Moore (n = 45, ¯x 12 M) [11] 31 0
+Weinstein (n = 27, >6 M) [15] 7 –
+All stage (I–IV) OPCHurtuk (n = 54, 
+¯x 11 M) [12] 0 0
+Genden (n = 31, ¯x 18 M) [13] 23 –
+Iseli (n = 33, ¯x 13 M) [26] 9 0
+Leonhardt (n = 38, ¯x 15 M) [19] 3 –
+Van Abel (n = 15, NR) [18] 0 0
+Moore (n = 66, ¯x 36 M) [16] 26 2
+Weinstein (n = 30, ¯x 32 M) [29] 3 0 469 Eur Arch Otorhinolaryngol (2015) 272:463–471 
+1 3
+Direct comparisons of surgical with nonsurgical 
+approaches are limited in published literature, particularly 
+with regard to functional outcomes. Two case–control stud-ies support a swallowing-specific functional advantage of primary transoral surgery over primary chemoradia-tion for OPC. An unmatched case–control study included this review reported better MDADI scores in the primary TORS cases compared to controls treated with chemo-radiation. The authors found time-dependent significant differences in MDADI scores between treatment groups in favor of a primary TORS approach. No significant dif-ferences were observed in MDADI scores at 3 months, but patients treated with TORS have significantly better scores at 6 and 12 months, suggesting better long-term recovery after primary TORS compared with chemoradia-tion. Trends of better swallowing-related QOL in the TORS group were maintained when stratified by T-stage or oro-pharyngeal tumor subsite. Likewise, gastrostomy duration was shorter in the TORS (+adjuvant therapy) group com-pared with the primary chemoradiation group (mean dura-tion gastrostomy: 3 months versus 6 months, respectively) [17]. Similarly, a retrospective matched-pairs comparison of primary transoral surgery (robotic or laser) with primary chemoradiation reported no difference in overall quality of life at 1 year between groups, but significantly better self-
+reported swallowing on the University of Washington Qual-ity of Life Scale. Notably, 74 % of patients treated with primary transoral surgery reported swallowing “as well as ever” at 1 year compared with only 32 % of patients in the chemoradiation group [35]. Findings from both of these case–control studies favor better long-term swallowing recovery with upfront transoral surgery (robotic or laser) and adjuvant radiation at postoperative doses. Nevertheless, retrospective and historical comparisons do not adequately account for confounding factors that influence functional outcomes. Regardless of treatment modality, swallowing outcomes are highly dependent on baseline function and T-stage [11, 34], and thus, historical comparisons between 
+TORS and radiation series should be interpreted with cau-tion. Randomized, baseline-adjusted comparisons, as are currently planned in cooperative group trials, are needed to draw definitive conclusions.
+Published data also suggest that swallowing physiol-
+ogy might be preserved for many patients after frontline TORS, as aspiration is rarely cited after this approach [13]. This compares well with published estimates that suggest that up to 31 % of patients develop chronic aspiration after 
+chemo-IMRT for OPC [25]. This notion, however, is quite preliminary because a major limitation of functional data in the TORS series is that findings of instrumental swallowing assessments (e.g., modified barium swallow [MBS] stud-ies, fiber-optic endoscopic evaluations [FEES]) are rarely reported. Future trials should include instrumental studies of swallowing function as a key component of multidimen-sional swallowing assessment, along with PRO measures. More specifically, physiologic impairment quantified from the MBS study has been shown to predict quality of life, and MBS end points of aspiration and pharyngeal resi-due significantly predict post-treatment pneumonia after treatment for OPC (p = 0.017, Se 80 %, Sp 60 %) [36, 
+37]. These data offer compelling support for inclusion of instrumental assessment, particularly the MBS, in TORS trials, as the data obtained from MBS cannot be reliably inferred from subjective, self-report of swallowing function obtained from PRO measures.
+Functional outcomes are most consistently studied in the 
+first year after TORS. It is arguable, however, that the most salient functional advantage of TORS may be the potential to avoid late toxicities associated with definitive radiother -
+apy and chemoradiotherapy. Growing evidence suggests a risk of new onset or progressive dysphagia (“late-RAD”) as a late effect of primary radiation-based organ preser -
+vation regimens in 5- and 10-year survivors. Late-RAD is associated with profound functional impairment, often accompanied by cranial neuropathies and a constellation of functional problems. Although rare, late-RAD is a dev-astating delayed complication of therapy and refractory to exhaustive therapies and should motivate investigation into alternative treatment paradigms in high-risk patients [9]. A comprehensive assessment of long-term functional out-comes after a frontline TORS approach is not yet available in published literature. Various transoral surgical methods (robotic or laser resection) are expected to have fairly com-parable functional effects, although direct comparisons have not been reported. Five-year data after transoral laser microsurgery suggest favorable swallowing outcomes (per FOSS) in patients with T1–T3 oropharyngeal disease, but suboptimal swallowing recovery in patients with T4 tumors [34]. Comparable long-term follow-up in TORS series is needed. Furthermore, current literature lacks consensus regarding the optimal assessment of functional outcomes in patients treated with TORS, and comparisons among pub-lished reports are challenging. Long-term functional data that clearly define physiology along with PROs are critical to fully understand the potential advantages of this modal-ity. Most importantly, detailed functional analyses will ultimately help to define the salient group of patients most likely to benefit from a TORS approach.
+Conclusions
+Early studies of functional recovery after TORS ±  adjuvant 
+therapy suggest promising swallowing outcomes, depending 
+on the end point measured. Gastrostomy utilization is lower in primary TORS series relative to published benchmarks  470 Eur Arch Otorhinolaryngol (2015) 272:463–471
+1 3
+in definitive IMRT cohorts. PRO data are less commonly 
+studied, and trends are less consistent using these out-come measures, but direct comparisons with nonsurgical therapy suggest favorable long-term PRO outcomes after upfront transoral surgery. Findings of instrumental swallow-ing assessments (MBS or FEES) and long-term outcomes have also not been widely used and reported. Functional outcomes after TORS are highly dependent on baseline function, T-stage, and adjuvant treatment. Randomized, baseline-adjusted outcomes are needed to discern the func-tional differences between primary TORS and nonsurgical approaches to organ preservation for OPC.
+Acknowledgments The support was provided by the UT Health 
+Innovation for Cancer Prevention Research Fellowship, The Uni-
+versity of Texas School of Public Health—Cancer Prevention and Research Institute of Texas (CPRIT) grant #RP101503 (K.A.H). The authors thank Ms. Janet Hampton for help in preparation of the manuscript.
+References
+ 1. Chaturvedi AK, Engels EA, Pfeiffer RM et al (2011) Human papillomavirus and rising oropharyngeal cancer incidence in the United States. J Clin Oncol 29(32):4294–4301
+ 2. Parsons JT, Mendenhall WM, Stringer SP et al (2002) Squamous cell carcinoma of the oropharynx: surgery, radiation therapy, or both. Cancer 94(11):2967–2980
+ 3. Pignon JP, le Maitre A, Maillard E, Bourhis J (2009) Meta-anal-ysis of chemotherapy in head and neck cancer (MACH-NC): an update on 93 randomised trials and 17,346 patients. Radiother 
+Oncol 92(1):4–14
+ 4. Wilson JA, Carding PN, Patterson JM (2011) Dysphagia after 
+nonsurgical head and neck cancer treatment: patients’ perspec-tives. Otolaryngol Head Neck Surg 145(5):767–771
+ 5. Gillespie MB, Brodsky MB, Day TA, Lee FS, Martin-Harris B (2004) Swallowing-related quality of life after head and neck cancer treatment. Laryngoscope. 114(8):1362–1367
+ 6. Bhayani MK, Hutcheson KA, Barringer DA, et al. Gastrostomy tube placement in patients with oropharyngeal carcinoma treated with radiotherapy or chemoradiotherapy: Factors affecting place-ment and dependence [published online ahead of print January 16, 2013]. Head Neck. doi:10.1002/hed.23200
+ 7. Machtay M, Moughan J, Trotti A et al (2008) Factors associ-ated with severe late toxicity after concurrent chemoradiation for locally advanced head and neck cancer: an RTOG analysis. J Clin Oncol 26(21):3582–3589
+ 8. Francis DO, Weymuller EA Jr, Parvathaneni U, Merati AL, Yueh 
+B (2010) Dysphagia, stricture, and pneumonia in head and neck 
+cancer patients: does treatment modality matter? Ann Otol Rhinol Laryngol. 119(6):391–397
+ 9. Hutcheson KA, Lewin JS, Barringer DA et al (2012) Late dys-phagia after radiotherapy-based treatment of head and neck can-cer. Cancer 118(23):5793–5799
+ 10. Sinclair CF, McColloch NL, Carroll WR, Rosenthal EL, Des-
+mond RA, Magnuson JS (2011) Patient-perceived and objective functional outcomes following transoral robotic surgery for early oropharyngeal carcinoma. Arch Otolaryngol Head Neck Surg 137(11):1112–1116
+ 11. Moore EJ, Olsen KD, Kasperbauer JL (2009) Transoral 
+robotic surgery for oropharyngeal squamous cell carcinoma: a prospective study of feasibility and functional outcomes. Laryn-goscope. 119(11):2156–2164
+ 12. Hurtuk A, Agrawal A, Old M, Teknos TN, Ozer E (2011) Out-
+comes of transoral robotic surgery: a preliminary clinical experi-
+ence. Otolaryngol Head Neck Surg 145(2):248–253
+ 13. Genden EM, Park R, Smith C, Kotz T (2011) The role of recon-
+struction for transoral robotic pharyngectomy and concomitant neck dissection. Arch Otolaryngol Head Neck Surg 137(2):151–156
+ 14. Weinstein GS, O’Malley BW Jr, Cohen MA, Quon H (2010) 
+Transoral robotic surgery for advanced oropharyngeal carcinoma. Arch Otolaryngol Head Neck Surg 136(11):1079–1085
+ 15. Weinstein GS, O’Malley BW Jr, Snyder W, Sherman E, Quon 
+H (2007) Transoral robotic surgery: radical tonsillectomy. Arch Otolaryngol Head Neck Surg 133(12):1220–1226
+ 16. Moore EJ, Olsen SM, Laborde RR et al (2012) Long-term 
+functional and oncologic results of transoral robotic surgery 
+for oropharyngeal squamous cell carcinoma. Mayo Clin Proc 87(3):219–225
+ 17. More YI, Tsue TT, Girod DA et al (2013) Functional outcomes 
+following transoral robotic surgery vs primary chemoradiother -
+apy in patients with advanced-stage oropharynx and supraglottis 
+cancers. JAMA Otolaryngol Head Neck Surg. 139(1):43–48
+ 18. Van Abel KM, Moore EJ, Carlson ML et al (2012) Transoral 
+robotic surgery using the thulium:YAG laser: a prospective study. Arch Otolaryngol Head Neck Surg 138(2):158–166
+ 19. Leonhardt FD, Quon H, Abrahao M, O’Malley BW Jr, Weinstein 
+GS (2012) Transoral robotic surgery for oropharyngeal carci-noma and its impact on patient-reported quality of life and func-tion. Head Neck 34(2):146–154
+ 20. Mendenhall WM, Amdur RJ, Morris CG, Kirwan JM, Li JG 
+(2010) Intensity-modulated radiotherapy for oropharyngeal squa-mous cell carcinoma. Laryngoscope. 120(11):2218–2222
+ 21. May JT, Rao N, Sabater RD et al (2013) Intensity-modulated 
+radiation therapy as primary treatment for oropharyngeal squa-mous cell carcinoma {published online ahead of print March 6, 2013). Head Neck. doi:10.1002/hed.23245
+ 22. Hodge CW, Bentzen SM, Wong G et al (2007) Are we influenc-
+ing outcome in oropharynx cancer with intensity-modulated radi-
+otherapy? An inter-era comparison. Int J Radiat Oncol Biol Phys 
+69(4):1032–1041
+ 23. Al-Mamgani A, van Rooij P, Verduijn GM, Mehilal R, Kerrebijn JD, 
+Levendag PC (2013) The impact of treatment modality and radia-tion technique on outcomes and toxicity of patients with locally advanced oropharyngeal cancer. Laryngoscope. 123(2):386–393
+ 24. Sanguineti G, Sormani MP, Marur S et al (2012) Effect of radio-
+therapy and chemotherapy on the risk of mucositis during inten-sity-modulated radiation therapy for oropharyngeal cancer. Int J Radiat Oncol Biol Phys 83(1):235–242
+ 25. Feng FY , Kim HM, Lyden TH et al (2010) Intensity-modulated 
+chemoradiotherapy aiming to reduce dysphagia in patients with oropharyngeal cancer: clinical and functional results. J Clin Oncol 28(16):2732–2738
+ 26. Iseli TA, Kulbersh BD, Iseli CE, Carroll WR, Rosenthal EL, 
+Magnuson JS (2009) Functional outcomes after transoral robotic surgery for head and neck cancer. Otolaryngol Head Neck Surg 
+141(2):166–171
+ 27. Salassa JR (1999) A functional outcome swallowing scale for 
+staging oropharyngeal dysphagia. Dig Dis 17(4):230–234
+ 28. Chen AY , Frankowski R, Bishop-Leone J et al (2001) The devel-
+opment and validation of a dysphagia-specific quality-of-life questionnaire for patients with head and neck cancer: the M. D. Anderson dysphagia inventory. Arch Otolaryngol Head Neck Surg 127(7):870–876
+ 29. Weinstein GS, Quon H, Newman HJ et al (2012) Transoral 
+robotic surgery alone for oropharynx cancer. Arch Otolaryngol Head Neck Surg 138(7):628–634 471 Eur Arch Otorhinolaryngol (2015) 272:463–471 
+1 3
+ 30. List MA, Ritter-Sterr C, Lansky SB (1990) A performance status 
+scale for head and neck cancer patients. Cancer 66(3):564–569
+ 31. Trotti A, Pajak TF, Gwede CK et al (2007) TAME: development 
+of a new method for summarising adverse events of cancer treat-ment by the Radiation Therapy Oncology Group. Lancet Oncol. 8(7):613–624
+ 32. Ang KK, Harris J, Garden AS et al (2005) Concomitant boost 
+radiation plus concurrent cisplatin for advanced head and neck 
+carcinomas: radiation therapy oncology group phase II trial 
+99-14. J Clin Oncol 23(13):3008–3015
+ 33. Schwartz DL, Garden AS, Thomas J et al (2012) Adaptive radio-
+therapy for head-and-neck cancer: initial clinical outcomes from a prospective trial. Int J Radiat Oncol Biol Phys 83(3):986–993
+ 34. Rich JT, Liu J, Haughey BH (2011) Swallowing function 
+after transoral laser microsurgery (TLM) ± adjuvant ther -
+apy for advanced-stage oropharyngeal cancer. Laryngoscope. 121(11):2381–2390
+ 35. Chen AM, Daly ME, Luu Q et al (2014) Comparison of func-
+tional outcomes and quality of life between transoral surgery versus definitive chemoradiotherapy for oropharyngeal cancer (published online ahead of print January 15, 2014). Head Neck. doi:10.1002/hed.23610
+ 36. Hunter KU, Feng FY , Schipper M, et al. What is the clinical 
+relevance of objective studies in head and neck cancer patients 
+receiving chemoirradiation? Analysis of aspiration in Swallow Studies Vs. Risk of Aspiration Pneumonia. Presented at: Ameri-can Society for Radiation Oncology (ASTRO); October 2-6, 2011; Miami, Florida
+ 37. Hunter KU, Schipper M, Feng FY et al (2013) Toxicities affect-
+ing quality of life after chemo-IMRT of oropharyngeal cancer: prospective study of patient-reported, observer-rated, and objec-tive outcomes. Int J Radiat Oncol Biol Phys 85(4):935–940
+ 38. Crary MA, Mann GD, Groher ME (2005) Initial psychomet-
+ric assessment of a functional oral intake scale for dysphagia in stroke patients. Arch Phys Med Rehabil 86(8):1516–1520
