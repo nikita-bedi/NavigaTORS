@@ -17,8 +17,8 @@ from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 
 DATA_FOLDER = 'data' 
 MODEL_NAME = "togethercomputer/m2-bert-80M-8k-retrieval"
-openai_api_key = st.secrets["OPENAI_API_KEY"]
-together_api_key = st.secrets["TOGETHER_API_KEY"]
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
+TOGETHER_API_KEY = st.secrets["TOGETHER_API_KEY"]
 #HUGGINGFACE_API_KEY = os.getenv("HUGGINGFACE_API_KEY")
 
 
